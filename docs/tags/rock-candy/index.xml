@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+
+    <title>@tobyblog’s Tobyblog - Rock Candy</title>
+    <link>http://localhost:1313/tags/rock-candy/index.xml</link>
+    <description>All entries in Rock Candy on Tobyblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    
+    <atom:link href="/tags/rock-candy/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+        <title>Kryptonite Kandy</title>
+        <link>http://localhost:1313/posts/kryptonite-kandy/</link>
+        <pubDate>Fri, 18 Apr 2014 21:36:00 +0000</pubDate>
+         (Toby Marks)</author>
+        <guid>http://localhost:1313/posts/kryptonite-kandy/</guid>
+        <description>&lt;p&gt;&lt;span style=&#34;font-family: inherit;&#34;&gt;Another bonus retro review! TheVCubeSolver hits up Popcorn Papa and takes a look at some very green rock candy.  &lt;/span&gt;&lt;br /&gt;&lt;span style=&#34;font-family: inherit;&#34;&gt;&lt;iframe allowfullscreen=&#34;&#34; frameborder=&#34;0&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/4YHAsIPh7PU&#34; width=&#34;420&#34;&gt;&lt;/iframe&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+      </item>
+      
+    
+  </channel>
+</rss>
