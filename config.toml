@@ -1,0 +1,43 @@
+languageCode                = "en-us"
+title                       = "Tobyblog"
+baseurl                     = "http://localhost:1313/"
+theme                       = "internet-weblog"
+Paginate                    = 10
+SectionPagesMenu            = "Main"
+
+[author]
+	Handle = "tobyblog"
+	FirstName = "Toby"
+	LastName = "Marks"
+#	AboutPage = "/about"
+	Location = "Dallas, TX"
+	FlickrID = "75738497@N00"
+
+[params]
+	Description = "The place where I share things I'm interested in."
+	ShowCopyright = true
+	RSSEnabled = true
+	RSSSections = [ "Posts", "Microposts", "Photos" ]
+
+[taxonomies]
+	tag = "tags"
+	category = "categories"
+	series = "series"
+
+[[menu.main]]
+	name = "Posts"
+	weight = 1
+	identifier = "posts"
+	url = "/posts/"
+
+[[menu.main]]
+	name = "Microposts"
+	weight = 2
+	identifier = "microposts"
+	url = "/microposts/"
+
+[[menu.main]]
+	name = "Photos"
+	weight = 3
+	identifier = "photos"
+	url = "/photos/"
