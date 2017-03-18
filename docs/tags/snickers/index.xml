@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+
+    <title>@tobyblog’s Tobyblog - Snickers</title>
+    <link>http://localhost:1313/tags/snickers/index.xml</link>
+    <description>All entries in Snickers on Tobyblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    
+    <atom:link href="/tags/snickers/index.xml" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+        <title>Snickers Varieties and Lays Cappuccino Chips</title>
+        <link>http://localhost:1313/posts/snickers-varieties-and-lays-cappuccino-chips/</link>
+        <pubDate>Sat, 09 Aug 2014 21:38:00 +0000</pubDate>
+         (Toby Marks)</author>
+        <guid>http://localhost:1313/posts/snickers-varieties-and-lays-cappuccino-chips/</guid>
+        <description>&lt;p&gt;To celebrate the recent one year anniversary of our &lt;a href=&#34;http://buddyteam.tumblr.com/&#34;&gt;father/son Tumblr site&lt;/a&gt;, TheVCubeSolver and I teamed up to review an assortment of Snickers bars we found at CVS. And as a special bonus, we take a look at the trendy new Lays Cappuccino potato chips. Enjoy.&lt;br /&gt;&lt;br /&gt;&amp;nbsp; &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/iUlBK_MChZw&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+      </item>
+      
+    
+  </channel>
+</rss>
