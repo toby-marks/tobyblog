@@ -86,9 +86,8 @@ nav {
 }
 
 nav .banner {
-  background-color: rgba(255,153,0,0.3);
   max-height: 270px;
-  margin-bottom: 0 0 10px 0;
+  margin: 40px 0 10px 0;
 } 
 
 nav ul {
@@ -98,6 +97,7 @@ nav ul {
   margin: 0 auto;
   width: 820px;
   padding: 10px 0;
+  background-color: black;
 }
 
 nav ul > li a[href] {
