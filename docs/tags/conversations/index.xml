@@ -3,7 +3,7 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Conversations</title>
-    <link>http://localhost:1313/tags/conversations/index.xml</link>
+    <link>http://tobyblog.com/tags/conversations/index.xml</link>
     <description>All entries in Conversations on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -14,10 +14,10 @@
       
       <item>
         <title>Conversations Series: The Nintendo NX</title>
-        <link>http://localhost:1313/posts/conversations-series-the-nintendo-nx/</link>
+        <link>http://tobyblog.com/posts/conversations-series-the-nintendo-nx/</link>
         <pubDate>Tue, 21 Apr 2015 10:12:00 +0000</pubDate>
          (Toby Marks)</author>
-        <guid>http://localhost:1313/posts/conversations-series-the-nintendo-nx/</guid>
+        <guid>http://tobyblog.com/posts/conversations-series-the-nintendo-nx/</guid>
         <description>&lt;p&gt;Join TheVCubeSolver and I as we discuss the recently announced NX project from Nintendo, a new and novel system that could be the successor to the beleaguered Wii U. But what exactly is it? For the moment, all we can do is guess. But I think we have some good ideas.&lt;br /&gt;&lt;br /&gt;&lt;iframe allowfullscreen=&#34;&#34; frameborder=&#34;0&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/ZqTn1Yq6xXE&#34; width=&#34;560&#34;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
       </item>
