@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://tobyblog.com/posts/america-skittles-review/</loc>
+    <lastmod>2017-08-13T23:07:25-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/top-10-review-the-world-episodes-of-2015-2016/</loc>
     <lastmod>2017-01-01T23:24:00+00:00</lastmod>
   </url>
@@ -460,7 +465,7 @@
   
   <url>
     <loc>http://tobyblog.com/tags/candy/</loc>
-    <lastmod>2017-01-01T23:24:00+00:00</lastmod>
+    <lastmod>2017-08-13T23:07:25-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -808,7 +813,7 @@
   
   <url>
     <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2017-01-01T23:24:00+00:00</lastmod>
+    <lastmod>2017-08-13T23:07:25-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -868,13 +873,13 @@
   
   <url>
     <loc>http://tobyblog.com/tags/review-the-world/</loc>
-    <lastmod>2017-01-01T23:24:00+00:00</lastmod>
+    <lastmod>2017-08-13T23:07:25-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://tobyblog.com/tags/reviews/</loc>
-    <lastmod>2017-01-01T23:24:00+00:00</lastmod>
+    <lastmod>2017-08-13T23:07:25-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -899,6 +904,12 @@
   <url>
     <loc>http://tobyblog.com/tags/skeletons/</loc>
     <lastmod>2014-09-30T22:42:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/skittles/</loc>
+    <lastmod>2017-08-13T23:07:25-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1011,7 +1022,7 @@
   
   <url>
     <loc>http://tobyblog.com/</loc>
-    <lastmod>2017-01-01T23:24:00+00:00</lastmod>
+    <lastmod>2017-08-13T23:07:25-05:00</lastmod>
     <priority>0</priority>
   </url>
   
