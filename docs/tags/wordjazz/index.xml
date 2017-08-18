@@ -3,7 +3,7 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Wordjazz</title>
-    <link>http://192.168.0.9/tags/wordjazz/index.xml</link>
+    <link>http://tobyblog.com/tags/wordjazz/index.xml</link>
     <description>All entries in Wordjazz on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -14,10 +14,10 @@
       
       <item>
         <title>You&#39;re Getting Better - Ken Nordine</title>
-        <link>http://192.168.0.9/posts/youre-getting-better---ken-nordine/</link>
+        <link>http://tobyblog.com/posts/youre-getting-better---ken-nordine/</link>
         <pubDate>Tue, 25 Feb 2014 15:07:00 +0000</pubDate>
          (Toby Marks)</author>
-        <guid>http://192.168.0.9/posts/youre-getting-better---ken-nordine/</guid>
+        <guid>http://tobyblog.com/posts/youre-getting-better---ken-nordine/</guid>
         <description>&lt;p&gt;&lt;span style=&#34;font-family: inherit;&#34;&gt;My most popular Youtube upload.  &lt;iframe allowfullscreen=&#34;&#34; frameborder=&#34;0&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/zwRFbbX5rz0&#34; width=&#34;560&#34;&gt;&lt;/iframe&gt;&lt;/span&gt;&lt;/p&gt;
 </description>
       </item>
