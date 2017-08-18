@@ -1,6 +1,6 @@
 languageCode                = "en-us"
 title                       = "Tobyblog"
-baseurl                     = "http://tobyblog.com/"
+baseurl                     = "http://192.168.0.9/"
 theme                       = "internet-weblog"
 Paginate                    = 10
 publishDir                  = "docs"
