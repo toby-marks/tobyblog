@@ -3,7 +3,7 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Randy Marks</title>
-    <link>http://tobyblog.com/tags/randy-marks/index.xml</link>
+    <link>http://192.168.0.9/tags/randy-marks/index.xml</link>
     <description>All entries in Randy Marks on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -14,10 +14,10 @@
       
       <item>
         <title>Frozard Man</title>
-        <link>http://tobyblog.com/posts/frozard-man/</link>
+        <link>http://192.168.0.9/posts/frozard-man/</link>
         <pubDate>Mon, 11 Jul 2016 10:35:00 +0000</pubDate>
          (Toby Marks)</author>
-        <guid>http://tobyblog.com/posts/frozard-man/</guid>
+        <guid>http://192.168.0.9/posts/frozard-man/</guid>
         <description>&lt;p&gt;&lt;p&gt;This is a tribute video to my brother. You can think of it as the pilot episode of a fictional reality show series. It includes some backyard wrestling, a special cooking segment also featured in the &lt;a href=&#34;http://www.tobyblog.com/2015/11/the-tobyblog-thanksgiving-special.html&#34;&gt;2015 Thanksgiving Special&lt;/a&gt;, and a frog tossing competition using actual Louisiana bull frogs. It is wild, and like the man himself, not quite safe for work!&lt;/p&gt; &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/7xtj-sTj26g&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
       </item>
