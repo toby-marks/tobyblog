@@ -3,7 +3,7 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Thanksgiving</title>
-    <link>http://tobyblog.com/tags/thanksgiving/index.xml</link>
+    <link>http://192.168.0.9/tags/thanksgiving/index.xml</link>
     <description>All entries in Thanksgiving on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -14,10 +14,10 @@
       
       <item>
         <title>August into December at the Holiday Warehouse</title>
-        <link>http://tobyblog.com/posts/august-into-december-at-the-holiday-warehouse/</link>
+        <link>http://192.168.0.9/posts/august-into-december-at-the-holiday-warehouse/</link>
         <pubDate>Sun, 11 Sep 2016 13:36:00 +0000</pubDate>
          (Toby Marks)</author>
-        <guid>http://tobyblog.com/posts/august-into-december-at-the-holiday-warehouse/</guid>
+        <guid>http://192.168.0.9/posts/august-into-december-at-the-holiday-warehouse/</guid>
         <description>&lt;p&gt;&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
 &lt;a data-flickr-embed=&#34;true&#34; data-header=&#34;false&#34; data-footer=&#34;false&#34;
   data-context=&#34;false&#34;
@@ -28,7 +28,7 @@
   &lt;figcaption class=&#34;wp-caption-text&#34;&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-The &lt;a href=&#34;http://www.holidaywarehouse.com/&#34;&gt;Holiday Warehouse&lt;/a&gt; is a largish, and rather outstanding, independent holiday decor shop located in Plano, Texas. Like its well known cousin The &lt;a href=&#34;http://tobyblog.com/posts/the-decorators-warehouse/&#34;&gt;Decorator&amp;rsquo;s Warehouse&lt;/a&gt; in Arlington, the concentration is mainly on Christmas, but not as exclusively.&lt;/p&gt;
+The &lt;a href=&#34;http://www.holidaywarehouse.com/&#34;&gt;Holiday Warehouse&lt;/a&gt; is a largish, and rather outstanding, independent holiday decor shop located in Plano, Texas. Like its well known cousin The &lt;a href=&#34;http://192.168.0.9/posts/the-decorators-warehouse/&#34;&gt;Decorator&amp;rsquo;s Warehouse&lt;/a&gt; in Arlington, the concentration is mainly on Christmas, but not as exclusively.&lt;/p&gt;
 
 &lt;p&gt;&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
 &lt;a data-flickr-embed=&#34;true&#34; data-header=&#34;false&#34; data-footer=&#34;false&#34;
@@ -384,10 +384,10 @@ Goodbye for now! Hope reading through all this has given you a little taste of h
       
       <item>
         <title>The Tobyblog Thanksgiving Special</title>
-        <link>http://tobyblog.com/posts/the-tobyblog-thanksgiving-special/</link>
+        <link>http://192.168.0.9/posts/the-tobyblog-thanksgiving-special/</link>
         <pubDate>Sun, 29 Nov 2015 14:03:00 +0000</pubDate>
          (Toby Marks)</author>
-        <guid>http://tobyblog.com/posts/the-tobyblog-thanksgiving-special/</guid>
+        <guid>http://192.168.0.9/posts/the-tobyblog-thanksgiving-special/</guid>
         <description>&lt;p&gt;After taking some time off to contemplate the overwhelming success of my Burger King poop tweet*, we now return to our regularly scheduled programming.&lt;br /&gt;&lt;br /&gt;In truth October is always a busy month for us and I don&amp;rsquo;t have much spare time for blogging. This past Halloween was without a doubt the best yet, but I&amp;rsquo;ll save that retrospective for another day. For today we find ourselves at the end of November, as grand a month as any. November is when fall really kicks in North Texas, and although it wasn&amp;rsquo;t much compared to the gorgeous fall of 2013, we still managed to get some decent color in a few spots. November to me means the start of prime geocaching season, the arrival of a certain coffee chain&amp;rsquo;s special Thanksgiving blend, (something I genuinely anticipate all year), and most of all our sumptuous Thanksgiving feast, lovingly prepared by my very talented wife. Thanksgiving is a fine holiday, too often neglected these days.&lt;br /&gt;&lt;br /&gt;It is a real American holiday, in the truest and best sense.&lt;br /&gt;&lt;br /&gt;I hadn&amp;rsquo;t intended at the start of my little vacation to do a Thanksgiving special. That was TheVCubeSolver&amp;rsquo;s idea. But I thought it was a good one. And next year we may do a Christmas Special — who knows? I hope you like it. It&amp;rsquo;s got some outdoors, some indoors, some geocaching, some product reviews, and a very special guest cooking segment by my brother Randy as he cooks up a mess of deer balls.&lt;br /&gt;&lt;br /&gt;Enjoy.&lt;br /&gt;&lt;br /&gt;And Happy Thanksgiving!&lt;br /&gt;&lt;br /&gt;&lt;iframe allowfullscreen=&#34;&#34; frameborder=&#34;0&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/Bbt8Bt_3K-Y&#34; width=&#34;560&#34;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;br /&gt;  * See Twitter&lt;/p&gt;
 </description>
       </item>
