@@ -3,7 +3,7 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Recommendations</title>
-    <link>http://tobyblog.com/tags/recommendations/index.xml</link>
+    <link>http://172.20.10.2/tags/recommendations/index.xml</link>
     <description>All entries in Recommendations on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -14,10 +14,10 @@
       
       <item>
         <title>Top 10 Review the World Episodes of 2013</title>
-        <link>http://tobyblog.com/posts/top-10-review-the-world-episodes-of-2013/</link>
+        <link>http://172.20.10.2/posts/top-10-review-the-world-episodes-of-2013/</link>
         <pubDate>Sun, 02 Feb 2014 22:30:00 +0000</pubDate>
          (Toby Marks)</author>
-        <guid>http://tobyblog.com/posts/top-10-review-the-world-episodes-of-2013/</guid>
+        <guid>http://172.20.10.2/posts/top-10-review-the-world-episodes-of-2013/</guid>
         <description>
 
 &lt;p&gt;Since Brian and Review the World were my main inspirations in starting my own blog, I figured it would be fitting to begin by introducing some of my favorite episodes from the past year. According to Brian, 2013 was one of the busiest years he&amp;rsquo;s ever had on the site, and it shows. He had a ton of great content.&lt;/p&gt;

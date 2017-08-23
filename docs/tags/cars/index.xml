@@ -3,7 +3,7 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Cars</title>
-    <link>http://tobyblog.com/tags/cars/index.xml</link>
+    <link>http://172.20.10.2/tags/cars/index.xml</link>
     <description>All entries in Cars on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -14,10 +14,10 @@
       
       <item>
         <title>The Real Star of Phantasm</title>
-        <link>http://tobyblog.com/posts/the-real-star-of-phantasm/</link>
+        <link>http://172.20.10.2/posts/the-real-star-of-phantasm/</link>
         <pubDate>Fri, 19 Sep 2014 22:43:00 +0000</pubDate>
          (Toby Marks)</author>
-        <guid>http://tobyblog.com/posts/the-real-star-of-phantasm/</guid>
+        <guid>http://172.20.10.2/posts/the-real-star-of-phantasm/</guid>
         <description>&lt;p&gt;Here you go, folks, the real star of Phantasm — &lt;em&gt;that bad-ass muscle car&lt;/em&gt;! A real thing of beauty, and I&amp;rsquo;m not even that much of a car guy.&lt;br /&gt;&lt;br /&gt;&lt;iframe width=&#34;640&#34; height=&#34;360&#34; src=&#34;//www.youtube.com/embed/W9JXLz9AaOo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </description>
       </item>
