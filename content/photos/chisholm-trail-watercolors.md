@@ -4,16 +4,17 @@ title = "Chisholm Trail in Watercolor"
 location = "Dallas, TX"
 camera = "Sony DSC-RX100"
 +++
-
 {{% flickr "Chisholm tree"
            "Chisholm tree"
            "https://www.flickr.com/photos/tobyjmarks/36260804100/"
            "https://farm5.staticflickr.com/4347/36260804100_b4b471bd0e_z.jpg" %}}
+           
 <!--more-->
+
 A while back I intended to start a series [where I'd review local parks]({{< relref "suncreek-park---more-than-meets-the-eye.md" >}}). Although that never quite got off the ground, I'd like to return to it soon. These are a few photos I took one morning during a walk along the Chisholm Trail in Plano, TX. They're mostly showing off the watercolor filter on my Sony, which I think makes for some amazing shots, particularly in soft morning or evening light. 
 
 These were actually taken back in March 2016. The blog is post-dated so that it shows up in the feed.
-           
+
 {{% flickr "Morning repast"
            "Morning repast"
            "https://www.flickr.com/photos/tobyjmarks/36260830800/"
