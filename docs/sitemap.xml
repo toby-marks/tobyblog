@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://tobyblog.com/photos/2017-09-02-solar-eclipse/</loc>
+    <lastmod>2017-09-02T16:45:55-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/photos/2017-09-02-skull-eggs/</loc>
     <lastmod>2017-09-02T12:42:20-05:00</lastmod>
   </url>
@@ -823,7 +828,7 @@
   
   <url>
     <loc>http://tobyblog.com/photos/</loc>
-    <lastmod>2017-09-02T12:42:20-05:00</lastmod>
+    <lastmod>2017-09-02T16:45:55-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1038,7 +1043,7 @@
   
   <url>
     <loc>http://tobyblog.com/</loc>
-    <lastmod>2017-09-02T12:42:20-05:00</lastmod>
+    <lastmod>2017-09-02T16:45:55-05:00</lastmod>
     <priority>0</priority>
   </url>
   

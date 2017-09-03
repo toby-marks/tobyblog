@@ -233,6 +233,7 @@ article.photo img {
   -webkit-transform: scale3d(1, 1, 1);
   transform: scale3d(1, 1, 1);
   width: 100%;
+  margin-top: -150px;
 }
 
 article.photo img.flickr-embed-frame,
