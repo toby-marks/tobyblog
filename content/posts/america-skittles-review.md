@@ -4,14 +4,14 @@ date = "2017-08-13T23:07:25-05:00"
 updated = "2017-08-13T23:07:25-05:00"
 description = "AugieRFC and I review America Skittles with our old buddy Brian of ReviewTheWorld.com"
 tags = ["reviews", "review the world", "skittles", "candy"]
-[author]
-	name = "Toby Marks"
-	uri = "https://www.blogger.com/profile/09367177211408746652"
+categories = ["Reviews"]
 +++
+{{< youtube fLk7N04OQ5E >}}
 
 Hello again, folks.
 
 It has been a while now since I've been active on this site, but life has not held still for me and the family. Since the last time I posted anything of significance, quite a great deal has happened, actually, much of which was originally destined for publication here. Well, as it does, life got in the way, priorities shifted, my free time diminished, etc. etc. — and the gist of it all is that you folks were left unattended for many months. 
+<!--more-->
 
 Well, my hope is to change that situation, especially as we draw nearer to that weird season both blessed and profane, which has become so dear to my heart over the last several years. 
 
@@ -28,5 +28,3 @@ And what better way to commemorate that occasion than by [revisiting one of my f
 Enjoy. 
 
 And, it's good to be back.
-
-{{< youtube fLk7N04OQ5E >}}
