@@ -2,7 +2,7 @@
 date = "2017-09-02T12:42:20-05:00"
 title = "Skull Eggs for Breakfast"
 location = "World Market and my kitchen"
-camera = "iPhone 7+"
+camera = "iPhone 7 Plus"
 +++
 {{% flickr "A balanced breakfast"
            "A balanced breakfast"

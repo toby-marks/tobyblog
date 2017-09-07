@@ -2,7 +2,7 @@ languageCode                = "en-us"
 title                       = "Tobyblog"
 baseurl                     = "http://tobyblog.com/"
 theme                       = "internet-weblog"
-Paginate                    = 10
+Paginate                    = 7
 publishDir                  = "docs"
 SectionPagesMenu            = "Main"
 
