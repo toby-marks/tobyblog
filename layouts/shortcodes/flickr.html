@@ -1,5 +1,6 @@
 <figure class="wp-caption alignnone">
-    <a href="{{ index .Params 2 }}" title="{{ index .Params 0 }}"><img src="{{ index .Params 3 }}" alt="{{ index .Params 0 }}"></a>
-    <figcaption class="wp-caption-text">{{ index .Params 1 }}, by <a href="https://www.flickr.com/photos/tobyjmarks/">Toby Marks</a> on Flickr</figcaption>
+<!--    <a href="{{ index .Params 2 }}" title="{{ index .Params 0 }}"><img src="{{ index .Params 3 }}" alt="{{ index .Params 0 }}"></a> -->
+    <img src="{{ index .Params 3 }}" alt="{{ index .Params 0 }}">
+    <figcaption class="wp-caption-text">{{ index .Params 1 }}, by <a href="https://www.flickr.com/photos/tobyjmarks/">Toby Marks</a> on <a href="{{ index .Params 2 }}" title="{{ index .Params 0 }}">Flickr</a></figcaption>
 </figure>
 
