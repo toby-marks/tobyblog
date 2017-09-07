@@ -680,13 +680,13 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/halloween/</loc>
+    <loc>http://tobyblog.com/categories/halloween/</loc>
     <lastmod>2017-09-04T09:41:11-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/halloween/</loc>
+    <loc>http://tobyblog.com/tags/halloween/</loc>
     <lastmod>2017-09-04T09:41:11-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -920,13 +920,13 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/reviews/</loc>
+    <loc>http://tobyblog.com/categories/reviews/</loc>
     <lastmod>2017-08-13T23:07:25-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/reviews/</loc>
+    <loc>http://tobyblog.com/tags/reviews/</loc>
     <lastmod>2017-08-13T23:07:25-05:00</lastmod>
     <priority>0</priority>
   </url>
