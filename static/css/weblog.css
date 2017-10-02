@@ -143,9 +143,9 @@ nav ul > li {
 }
 
 .micropost {
-  background-color: #F0F2F5;
-  margin: 40px auto;
-  padding: 10px;
+  background-color: rgba(0,0,0,.75); 
+  margin: auto auto;
+  padding: 20px;
   max-width: 780px;
 }
 
@@ -166,6 +166,10 @@ nav ul > li {
   line-height: 28px;
   margin: 0;
   text-align: justify;
+}
+
+.micropost > p {
+  color: rgba(255,255,255,.75);
 }
 
 .post > p {
