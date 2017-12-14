@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Skeletons</title>
-    <link>http://tobyblog.com/tags/skeletons/index.xml</link>
+    <link>http://tobyblog.com/tags/skeletons/</link>
     <description>All entries in Skeletons on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/skeletons/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Sep 2014 22:42:00 +0000</lastBuildDate>
+    <atom:link href="/tags/skeletons/" rel="self" type="application/rss+xml" />
     
       
       <item>

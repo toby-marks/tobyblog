@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Blogs</title>
-    <link>http://tobyblog.com/tags/blogs/index.xml</link>
+    <link>http://tobyblog.com/tags/blogs/</link>
     <description>All entries in Blogs on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Nov 2014 11:43:00 +0000</lastBuildDate>
+    <atom:link href="/tags/blogs/" rel="self" type="application/rss+xml" />
     
       
       <item>

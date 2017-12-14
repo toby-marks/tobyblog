@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Candles</title>
-    <link>http://tobyblog.com/tags/candles/index.xml</link>
+    <link>http://tobyblog.com/tags/candles/</link>
     <description>All entries in Candles on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/candles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Sep 2017 09:41:11 -0500</lastBuildDate>
+    <atom:link href="/tags/candles/" rel="self" type="application/rss+xml" />
     
       
       <item>

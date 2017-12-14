@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Fiction</title>
-    <link>http://tobyblog.com/tags/fiction/index.xml</link>
+    <link>http://tobyblog.com/tags/fiction/</link>
     <description>All entries in Fiction on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/fiction/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Oct 2014 06:56:00 +0000</lastBuildDate>
+    <atom:link href="/tags/fiction/" rel="self" type="application/rss+xml" />
     
       
       <item>

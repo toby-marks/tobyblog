@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Don Coscarelli</title>
-    <link>http://tobyblog.com/tags/don-coscarelli/index.xml</link>
+    <link>http://tobyblog.com/tags/don-coscarelli/</link>
     <description>All entries in Don Coscarelli on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/don-coscarelli/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Jun 2015 16:34:00 +0000</lastBuildDate>
+    <atom:link href="/tags/don-coscarelli/" rel="self" type="application/rss+xml" />
     
       
       <item>

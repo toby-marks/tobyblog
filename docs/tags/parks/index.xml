@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Parks</title>
-    <link>http://tobyblog.com/tags/parks/index.xml</link>
+    <link>http://tobyblog.com/tags/parks/</link>
     <description>All entries in Parks on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/parks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Nov 2014 11:43:00 +0000</lastBuildDate>
+    <atom:link href="/tags/parks/" rel="self" type="application/rss+xml" />
     
       
       <item>

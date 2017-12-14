@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Conventions</title>
-    <link>http://tobyblog.com/tags/conventions/index.xml</link>
+    <link>http://tobyblog.com/tags/conventions/</link>
     <description>All entries in Conventions on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/conventions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Jun 2015 21:09:00 +0000</lastBuildDate>
+    <atom:link href="/tags/conventions/" rel="self" type="application/rss+xml" />
     
       
       <item>

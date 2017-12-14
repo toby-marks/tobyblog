@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Halloween</title>
-    <link>http://tobyblog.com/categories/halloween/index.xml</link>
+    <link>http://tobyblog.com/categories/halloween/</link>
     <description>All entries in Halloween on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/categories/halloween/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Sep 2017 09:41:11 -0500</lastBuildDate>
+    <atom:link href="/categories/halloween/" rel="self" type="application/rss+xml" />
     
       
       <item>

@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Music</title>
-    <link>http://tobyblog.com/tags/music/index.xml</link>
+    <link>http://tobyblog.com/tags/music/</link>
     <description>All entries in Music on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Sep 2015 11:10:00 +0000</lastBuildDate>
+    <atom:link href="/tags/music/" rel="self" type="application/rss+xml" />
     
       
       <item>

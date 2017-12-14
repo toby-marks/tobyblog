@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Jolly Ranchers</title>
-    <link>http://tobyblog.com/tags/jolly-ranchers/index.xml</link>
+    <link>http://tobyblog.com/tags/jolly-ranchers/</link>
     <description>All entries in Jolly Ranchers on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/jolly-ranchers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Feb 2014 21:37:00 +0000</lastBuildDate>
+    <atom:link href="/tags/jolly-ranchers/" rel="self" type="application/rss+xml" />
     
       
       <item>

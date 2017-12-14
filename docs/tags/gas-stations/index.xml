@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Gas Stations</title>
-    <link>http://tobyblog.com/tags/gas-stations/index.xml</link>
+    <link>http://tobyblog.com/tags/gas-stations/</link>
     <description>All entries in Gas Stations on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/gas-stations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Aug 2016 15:30:00 +0000</lastBuildDate>
+    <atom:link href="/tags/gas-stations/" rel="self" type="application/rss+xml" />
     
       
       <item>

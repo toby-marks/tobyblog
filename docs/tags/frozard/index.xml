@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Frozard</title>
-    <link>http://tobyblog.com/tags/frozard/index.xml</link>
+    <link>http://tobyblog.com/tags/frozard/</link>
     <description>All entries in Frozard on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/frozard/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Jul 2016 10:35:00 +0000</lastBuildDate>
+    <atom:link href="/tags/frozard/" rel="self" type="application/rss+xml" />
     
       
       <item>

@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Mexican Food</title>
-    <link>http://tobyblog.com/tags/mexican-food/index.xml</link>
+    <link>http://tobyblog.com/tags/mexican-food/</link>
     <description>All entries in Mexican Food on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/mexican-food/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Aug 2016 16:07:00 +0000</lastBuildDate>
+    <atom:link href="/tags/mexican-food/" rel="self" type="application/rss+xml" />
     
       
       <item>

@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Ray Bradbury Theater</title>
-    <link>http://tobyblog.com/tags/ray-bradbury-theater/index.xml</link>
+    <link>http://tobyblog.com/tags/ray-bradbury-theater/</link>
     <description>All entries in Ray Bradbury Theater on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/ray-bradbury-theater/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Apr 2014 22:33:00 +0000</lastBuildDate>
+    <atom:link href="/tags/ray-bradbury-theater/" rel="self" type="application/rss+xml" />
     
       
       <item>

@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Chicken</title>
-    <link>http://tobyblog.com/tags/chicken/index.xml</link>
+    <link>http://tobyblog.com/tags/chicken/</link>
     <description>All entries in Chicken on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/chicken/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Dec 2014 22:28:00 +0000</lastBuildDate>
+    <atom:link href="/tags/chicken/" rel="self" type="application/rss+xml" />
     
       
       <item>

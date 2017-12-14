@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - T2t</title>
-    <link>http://tobyblog.com/tags/t2t/index.xml</link>
+    <link>http://tobyblog.com/tags/t2t/</link>
     <description>All entries in T2t on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/t2t/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 May 2014 14:35:00 +0000</lastBuildDate>
+    <atom:link href="/tags/t2t/" rel="self" type="application/rss+xml" />
     
       
       <item>

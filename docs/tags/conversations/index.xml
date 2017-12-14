@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Conversations</title>
-    <link>http://tobyblog.com/tags/conversations/index.xml</link>
+    <link>http://tobyblog.com/tags/conversations/</link>
     <description>All entries in Conversations on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/conversations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Apr 2015 10:12:00 +0000</lastBuildDate>
+    <atom:link href="/tags/conversations/" rel="self" type="application/rss+xml" />
     
       
       <item>

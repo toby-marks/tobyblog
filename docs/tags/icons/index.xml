@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Icons</title>
-    <link>http://tobyblog.com/tags/icons/index.xml</link>
+    <link>http://tobyblog.com/tags/icons/</link>
     <description>All entries in Icons on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/icons/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Sep 2014 22:42:00 +0000</lastBuildDate>
+    <atom:link href="/tags/icons/" rel="self" type="application/rss+xml" />
     
       
       <item>

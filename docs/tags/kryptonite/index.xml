@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Kryptonite</title>
-    <link>http://tobyblog.com/tags/kryptonite/index.xml</link>
+    <link>http://tobyblog.com/tags/kryptonite/</link>
     <description>All entries in Kryptonite on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/kryptonite/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Apr 2014 21:36:00 +0000</lastBuildDate>
+    <atom:link href="/tags/kryptonite/" rel="self" type="application/rss+xml" />
     
       
       <item>

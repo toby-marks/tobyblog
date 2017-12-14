@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Recommendations</title>
-    <link>http://tobyblog.com/tags/recommendations/index.xml</link>
+    <link>http://tobyblog.com/tags/recommendations/</link>
     <description>All entries in Recommendations on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/recommendations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Feb 2014 22:30:00 +0000</lastBuildDate>
+    <atom:link href="/tags/recommendations/" rel="self" type="application/rss+xml" />
     
       
       <item>

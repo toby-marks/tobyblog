@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Tacos</title>
-    <link>http://tobyblog.com/tags/tacos/index.xml</link>
+    <link>http://tobyblog.com/tags/tacos/</link>
     <description>All entries in Tacos on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/tacos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Mar 2015 08:04:00 +0000</lastBuildDate>
+    <atom:link href="/tags/tacos/" rel="self" type="application/rss+xml" />
     
       
       <item>

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 
-    <title>@tobyblog’s Tobyblog - Museum Of The Weird</title>
-    <link>http://tobyblog.com/tags/museum-of-the-weird/index.xml</link>
-    <description>All entries in Museum Of The Weird on Tobyblog</description>
+    <title>@tobyblog’s Tobyblog - Museum of the Weird</title>
+    <link>http://tobyblog.com/tags/museum-of-the-weird/</link>
+    <description>All entries in Museum of the Weird on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/museum-of-the-weird/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Apr 2016 16:12:00 +0000</lastBuildDate>
+    <atom:link href="/tags/museum-of-the-weird/" rel="self" type="application/rss+xml" />
     
       
       <item>

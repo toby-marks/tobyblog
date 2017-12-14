@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Pumpkins</title>
-    <link>http://tobyblog.com/tags/pumpkins/index.xml</link>
+    <link>http://tobyblog.com/tags/pumpkins/</link>
     <description>All entries in Pumpkins on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/pumpkins/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Sep 2015 09:36:00 +0000</lastBuildDate>
+    <atom:link href="/tags/pumpkins/" rel="self" type="application/rss+xml" />
     
       
       <item>
