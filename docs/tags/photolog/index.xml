@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Photolog</title>
-    <link>http://tobyblog.com/tags/photolog/index.xml</link>
+    <link>http://tobyblog.com/tags/photolog/</link>
     <description>All entries in Photolog on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/photolog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Sep 2017 09:41:11 -0500</lastBuildDate>
+    <atom:link href="/tags/photolog/" rel="self" type="application/rss+xml" />
     
       
       <item>

@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Gizzards</title>
-    <link>http://tobyblog.com/tags/gizzards/index.xml</link>
+    <link>http://tobyblog.com/tags/gizzards/</link>
     <description>All entries in Gizzards on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/gizzards/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Aug 2014 15:16:00 +0000</lastBuildDate>
+    <atom:link href="/tags/gizzards/" rel="self" type="application/rss+xml" />
     
       
       <item>

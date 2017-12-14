@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Christmas</title>
-    <link>http://tobyblog.com/tags/christmas/index.xml</link>
+    <link>http://tobyblog.com/tags/christmas/</link>
     <description>All entries in Christmas on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/christmas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Sep 2016 13:36:00 +0000</lastBuildDate>
+    <atom:link href="/tags/christmas/" rel="self" type="application/rss+xml" />
     
       
       <item>

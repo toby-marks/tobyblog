@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Horror</title>
-    <link>http://tobyblog.com/tags/horror/index.xml</link>
+    <link>http://tobyblog.com/tags/horror/</link>
     <description>All entries in Horror on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/horror/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Apr 2016 16:12:00 +0000</lastBuildDate>
+    <atom:link href="/tags/horror/" rel="self" type="application/rss+xml" />
     
       
       <item>
