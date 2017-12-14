@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Decorators Warehouse</title>
-    <link>http://tobyblog.com/tags/decorators-warehouse/index.xml</link>
+    <link>http://tobyblog.com/tags/decorators-warehouse/</link>
     <description>All entries in Decorators Warehouse on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/decorators-warehouse/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Sep 2016 13:36:00 +0000</lastBuildDate>
+    <atom:link href="/tags/decorators-warehouse/" rel="self" type="application/rss+xml" />
     
       
       <item>

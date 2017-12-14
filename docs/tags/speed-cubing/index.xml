@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Speed Cubing</title>
-    <link>http://tobyblog.com/tags/speed-cubing/index.xml</link>
+    <link>http://tobyblog.com/tags/speed-cubing/</link>
     <description>All entries in Speed Cubing on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/speed-cubing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Mar 2014 20:09:00 +0000</lastBuildDate>
+    <atom:link href="/tags/speed-cubing/" rel="self" type="application/rss+xml" />
     
       
       <item>

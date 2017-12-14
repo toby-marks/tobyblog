@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Ebola</title>
-    <link>http://tobyblog.com/tags/ebola/index.xml</link>
+    <link>http://tobyblog.com/tags/ebola/</link>
     <description>All entries in Ebola on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/ebola/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Oct 2014 06:56:00 +0000</lastBuildDate>
+    <atom:link href="/tags/ebola/" rel="self" type="application/rss+xml" />
     
       
       <item>

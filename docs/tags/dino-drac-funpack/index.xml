@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Dino Drac Funpack</title>
-    <link>http://tobyblog.com/tags/dino-drac-funpack/index.xml</link>
+    <link>http://tobyblog.com/tags/dino-drac-funpack/</link>
     <description>All entries in Dino Drac Funpack on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/dino-drac-funpack/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Aug 2015 19:09:00 +0000</lastBuildDate>
+    <atom:link href="/tags/dino-drac-funpack/" rel="self" type="application/rss+xml" />
     
       
       <item>

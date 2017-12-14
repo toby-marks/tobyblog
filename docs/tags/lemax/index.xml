@@ -3,13 +3,13 @@
   <channel>
 
     <title>@tobyblog’s Tobyblog - Lemax</title>
-    <link>http://tobyblog.com/tags/lemax/index.xml</link>
+    <link>http://tobyblog.com/tags/lemax/</link>
     <description>All entries in Lemax on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    
-    <atom:link href="/tags/lemax/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Oct 2014 15:50:00 +0000</lastBuildDate>
+    <atom:link href="/tags/lemax/" rel="self" type="application/rss+xml" />
     
       
       <item>
