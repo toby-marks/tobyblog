@@ -1,27 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-
-    <title>@tobyblog’s Tobyblog - Ken Nordine</title>
+    <title>Ken Nordine on Tobyblog</title>
     <link>http://tobyblog.com/tags/ken-nordine/</link>
-    <description>All entries in Ken Nordine on Tobyblog</description>
+    <description>Recent content in Ken Nordine on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
     <lastBuildDate>Tue, 25 Feb 2014 15:07:00 +0000</lastBuildDate>
-    <atom:link href="/tags/ken-nordine/" rel="self" type="application/rss+xml" />
     
+	<atom:link href="http://tobyblog.com/tags/ken-nordine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>You&#39;re Getting Better - Ken Nordine</title>
+      <link>http://tobyblog.com/posts/youre-getting-better---ken-nordine/</link>
+      <pubDate>Tue, 25 Feb 2014 15:07:00 +0000</pubDate>
       
-      <item>
-        <title>You&#39;re Getting Better - Ken Nordine</title>
-        <link>http://tobyblog.com/posts/youre-getting-better---ken-nordine/</link>
-        <pubDate>Tue, 25 Feb 2014 15:07:00 +0000</pubDate>
-         (Toby Marks)</author>
-        <guid>http://tobyblog.com/posts/youre-getting-better---ken-nordine/</guid>
-        <description>&lt;p&gt;&lt;span style=&#34;font-family: inherit;&#34;&gt;My most popular Youtube upload.  &lt;iframe allowfullscreen=&#34;&#34; frameborder=&#34;0&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/zwRFbbX5rz0&#34; width=&#34;560&#34;&gt;&lt;/iframe&gt;&lt;/span&gt;&lt;/p&gt;
-</description>
-      </item>
-      
+      <guid>http://tobyblog.com/posts/youre-getting-better---ken-nordine/</guid>
+      <description>My most popular Youtube upload.</description>
+    </item>
     
   </channel>
 </rss>

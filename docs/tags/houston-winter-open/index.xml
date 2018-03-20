@@ -1,39 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-
-    <title>@tobyblog’s Tobyblog - Houston Winter Open</title>
+    <title>Houston Winter Open on Tobyblog</title>
     <link>http://tobyblog.com/tags/houston-winter-open/</link>
-    <description>All entries in Houston Winter Open on Tobyblog</description>
+    <description>Recent content in Houston Winter Open on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
     <lastBuildDate>Fri, 14 Mar 2014 20:09:00 +0000</lastBuildDate>
-    <atom:link href="/tags/houston-winter-open/" rel="self" type="application/rss+xml" />
     
-      
-      <item>
-        <title>Houston Winter Open</title>
-        <link>http://tobyblog.com/posts/houston-winter-open/</link>
-        <pubDate>Fri, 14 Mar 2014 20:09:00 +0000</pubDate>
-         (Toby Marks)</author>
-        <guid>http://tobyblog.com/posts/houston-winter-open/</guid>
-        <description>&lt;p&gt;&lt;span style=&#34;font-family: inherit;&#34;&gt;Footage from the Houston Winter Open speedcubing competition.  &lt;iframe allowfullscreen=&#34;&#34; frameborder=&#34;0&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/cgmFwDc5kmI&#34; width=&#34;560&#34;&gt;&lt;/iframe&gt;&lt;/span&gt;&lt;/p&gt;
-</description>
-      </item>
-      
+	<atom:link href="http://tobyblog.com/tags/houston-winter-open/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Houston Winter Open</title>
+      <link>http://tobyblog.com/posts/houston-winter-open/</link>
+      <pubDate>Fri, 14 Mar 2014 20:09:00 +0000</pubDate>
       
-      <item>
-        <title>Coming Soon! Houston Winter Open</title>
-        <link>http://tobyblog.com/posts/coming-soon-houston-winter-open/</link>
-        <pubDate>Tue, 11 Feb 2014 21:37:00 +0000</pubDate>
-         (Toby Marks)</author>
-        <guid>http://tobyblog.com/posts/coming-soon-houston-winter-open/</guid>
-        <description>&lt;p&gt;&lt;span style=&#34;font-family: inherit;&#34;&gt;A teaser for my upcoming documentary on the Houston Winter Open 2014.  &lt;iframe allowfullscreen=&#34;&#34; frameborder=&#34;0&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/g07G_FbsbkU&#34; width=&#34;560&#34;&gt;&lt;/iframe&gt;&lt;/span&gt;&lt;/p&gt;
-</description>
-      </item>
+      <guid>http://tobyblog.com/posts/houston-winter-open/</guid>
+      <description>Footage from the Houston Winter Open speedcubing competition.</description>
+    </item>
+    
+    <item>
+      <title>Coming Soon! Houston Winter Open</title>
+      <link>http://tobyblog.com/posts/coming-soon-houston-winter-open/</link>
+      <pubDate>Tue, 11 Feb 2014 21:37:00 +0000</pubDate>
       
+      <guid>http://tobyblog.com/posts/coming-soon-houston-winter-open/</guid>
+      <description>A teaser for my upcoming documentary on the Houston Winter Open 2014.</description>
+    </item>
     
   </channel>
 </rss>
