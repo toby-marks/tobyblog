@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-
-    <title>@tobyblog’s Tobyblog - Sno Cones</title>
+    <title>Sno Cones on Tobyblog</title>
     <link>http://tobyblog.com/tags/sno-cones/</link>
-    <description>All entries in Sno Cones on Tobyblog</description>
+    <description>Recent content in Sno Cones on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
     <lastBuildDate>Wed, 17 Jun 2015 09:09:00 +0000</lastBuildDate>
-    <atom:link href="/tags/sno-cones/" rel="self" type="application/rss+xml" />
     
+	<atom:link href="http://tobyblog.com/tags/sno-cones/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bahama Bucks</title>
+      <link>http://tobyblog.com/posts/bahama-bucks/</link>
+      <pubDate>Wed, 17 Jun 2015 09:09:00 +0000</pubDate>
       
-      <item>
-        <title>Bahama Bucks</title>
-        <link>http://tobyblog.com/posts/bahama-bucks/</link>
-        <pubDate>Wed, 17 Jun 2015 09:09:00 +0000</pubDate>
-         (Toby Marks)</author>
-        <guid>http://tobyblog.com/posts/bahama-bucks/</guid>
-        <description>&lt;p&gt;Katie and the gang over at &lt;a href=&#34;http://www.facebook.com/teamsandnuttv&#34; target=&#34;_blank&#34;&gt;Cheap Thrills&lt;/a&gt; invited me and the kids to do a co-review highlighting some of our favorite summer treats. You can check out their submission, Culver&amp;rsquo;s Frozen Custard, right here.&lt;br /&gt;&lt;br /&gt;&lt;iframe allowfullscreen=&#34;&#34; frameborder=&#34;0&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/HdJp5gbp-8g&#34; width=&#34;560&#34;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;br /&gt;Naturally, I jumped at the chance to introduce you guys to one of the hidden treasures of our little neighborhood — &lt;a href=&#34;http://www.bahamabucks.com/&#34; target=&#34;_blank&#34;&gt;Bahama Bucks&lt;/a&gt;!&lt;br /&gt;&lt;a name=&#39;more&#39;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Bucks is sort of like Jimmy Buffett&amp;rsquo;s own sno-cone stand. It serves sno-cones and tropical smoothies, some coffee drinks, and you can even get mixed fruit cups there if you&amp;rsquo;d like. They specialize in all the fruity flavors of the Caribbean, and feature plenty of faux-rum, faux-daiquiri, and faux-colada treats. Take a look at &lt;a href=&#34;http://bahamabucks.com/taste-of-paradise&#34; target=&#34;_blank&#34;&gt;their menu&lt;/a&gt;. It&amp;rsquo;s huge. And there&amp;rsquo;s a pickle juice sno-cone. Cheeseburger in Paradise, anyone?&lt;br /&gt;&lt;br /&gt;And you can also buy snow balls there. Year round!&lt;br /&gt;&lt;br /&gt;Come experience some summer zest with Team Tobyblog and the Cheap Thrills crew!&lt;br /&gt;&lt;br /&gt;&lt;iframe allowfullscreen=&#34;&#34; frameborder=&#34;0&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/44-LJWFX0io&#34; width=&#34;560&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
-      </item>
-      
+      <guid>http://tobyblog.com/posts/bahama-bucks/</guid>
+      <description>Katie and the gang over at Cheap Thrills invited me and the kids to do a co-review highlighting some of our favorite summer treats. You can check out their submission, Culver&amp;rsquo;s Frozen Custard, right here.
+
+Naturally, I jumped at the chance to introduce you guys to one of the hidden treasures of our little neighborhood — Bahama Bucks!
+
+Bucks is sort of like Jimmy Buffett&amp;rsquo;s own sno-cone stand. It serves sno-cones and tropical smoothies, some coffee drinks, and you can even get mixed fruit cups there if you&amp;rsquo;d like.</description>
+    </item>
     
   </channel>
 </rss>

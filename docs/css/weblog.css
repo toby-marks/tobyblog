@@ -1,10 +1,14 @@
-@import url('https://fonts.googleapis.com/css?family=Goudy+Bookletter+1911|Patua+One');
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+English+SC|IM+Fell+English');
 
-/* Page */
+/* 
+----------------------------------------------------------------
+Universal rules
+----------------------------------------------------------------
+*/
 
 body {
-  font: 18px/28px "Goudy Bookletter 1911", serif;
-  background: black url(/img/cookies.jpg) no-repeat fixed left top;
+  font: 18px/20px "IM Fell English", Georgia, serif;
+  background: black url(/img/field.jpg) no-repeat fixed top left;
   background-size: cover;
   color: #cdc253;
 }
@@ -20,7 +24,7 @@ a:hover {
 
 h1, h2, h3, h4, article.photo .title {
   color: #ff9900;
-  font-size: 1.5em;
+  font-size: 1.25em;
   font-weight: bold;
 }
 
@@ -59,7 +63,11 @@ blockquote p:last-child {
   flex: 1;
 }
 
-/* Header */
+/* 
+----------------------------------------------------------------
+Header and Navigation
+----------------------------------------------------------------
+*/
 
 header {
   padding: 0;
@@ -79,8 +87,6 @@ header h1 {
   max-width: 720px;
   color: #5B636E;
 }
-
-/* Navigation */
 
 nav {
   margin-bottom: 20px;
@@ -103,6 +109,7 @@ nav ul {
   width: 820px;
   padding: 10px 0;
   background-color: black;
+  text-align: right;
 }
 
 nav ul > li a[href] {
@@ -131,15 +138,19 @@ nav ul > li {
   color: #dddddd;
 }
 
-/* Articles */
+/* 
+----------------------------------------------------------------
+Articles 
+----------------------------------------------------------------
+*/
 
 .post {   
-  background-color: rgba(0,0,0,0.5); 
+  background-color: rgba(0,0,0,1.0); 
   padding: 20px;
 }
 
 .photo {   
-  background-color: rgba(0,0,0,0.5); 
+  background-color: rgba(0,0,0,1.0); 
 }
 
 .micropost {
@@ -161,9 +172,7 @@ nav ul > li {
 
 .micropost > p, .post > p, .page > p {
   color: #cdc253;
-  font-family: "Goudy Bookletter 1911", "Cardo", serif;
-  font-size: 18px;
-  line-height: 28px;
+  font: 18px/20px "IM Fell English", Georgia, serif;
   margin: 0;
   text-align: justify;
 }
@@ -188,8 +197,7 @@ nav ul > li {
 
 .post h2, article.photo .title {
   margin: 0;
-  line-height: 32px;
-  font-family: "Trattatello", "Patua One", serif;
+  font: 32px/34px "IM Fell English SC", Georgia, serif;
 }
 
 article.photo {
@@ -218,7 +226,7 @@ article.photo p {
 
 figure {
     display: block;
-    margin: 40px 0;
+    margin: 20px 0;
 }
 
 figure img {
@@ -251,10 +259,15 @@ article.photo img:hover {
 }
 
 article .postmeta {
-	line-height: 22px;
 	color: #999999;
-  margin: 0 auto;
-	padding: 5px 0 0 0;
+}
+
+.wp-caption-text {
+	font: 14px/16px "IM Fell English SC", Georgia, serif;
+	color: #FFF167;
+	padding-top: 5px;
+	color: rgba(auto,auto,auto,.5);
+	text-align: center;
 }
 
 .post-group {
@@ -289,7 +302,11 @@ article .postmeta {
   padding: 0 0 0 6px;
 }
 
-/* Footer */
+/* 
+----------------------------------------------------------------
+Footer and Flickr board
+----------------------------------------------------------------
+*/
 
 footer {
   background-color: #545454;
@@ -352,7 +369,7 @@ footer {
 
 .footer_copyright {
   color: #999999;
-  font: 12px/20px "Avenir Next", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font: 14px/20px "IM Fell English SC", Georgia, serif;
   margin: auto;
   padding: 10px 0;
   text-align: center;
@@ -362,10 +379,21 @@ footer {
   color: #cccccc;
 }
 
+/*
+----------------------------------------------------------------
+Special rules for small screen devices
+----------------------------------------------------------------
+*/
+
 @media only screen 
   and (min-device-width: 414px) 
   and (max-device-width: 736px)  {
 
+  body, .micropost > p, .post > p, .page > p {
+    font: 20px/22px "IM Fell English SC", Georgia, serif;
+    text-align: left;
+  }
+  
   .footer_text {
     width: 100%;
   }
@@ -373,9 +401,13 @@ footer {
   .footer_text > div {
     flex: auto;
     width: 100%;
-    text-align: justify;
+    text-align: left;
   }
-
+  
+  .footer_copyright {
+    font: 18px/20px "IM Fell English SC", Georgia, serif;
+  }
+  
   #photos {
     justify-content: center;
   }
@@ -390,7 +422,9 @@ footer {
   }
   
   header {
-    padding: 0;
+    padding-bottom: 20px;
+    width: 100%;
+    background-image: url("/img/field.jpg");
   }
 
   header h1 {
@@ -400,14 +434,12 @@ footer {
   }
 
 nav {
-  margin-bottom: 20px;
-  padding: 25px 0 0 0;
-  width: 100%;
-  text-align: center;
+  width: 100%;  
 }
 
 nav .banner {
   max-height: 250px;
+  width: 100%;
   margin: 40px 0 10px 0;
 } 
 
@@ -420,6 +452,7 @@ nav ul {
   width: 100%;
   padding: 10px 0;
   background-color: black;
+  text-align: center;
 }
 
 nav ul > li a[href] {
@@ -430,8 +463,7 @@ nav ul > li {
   display: inline;
   padding: 10px;
   text-transform: uppercase;
-  font-size: 9pt;
-  font-weight: normal;
+    font: 16px/18px "IM Fell English SC", Georgia, serif;
 }
 
   .post-group-item {
