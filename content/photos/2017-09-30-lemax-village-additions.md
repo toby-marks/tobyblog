@@ -4,7 +4,6 @@ location = "Dallas, TX"
 title = "New Lemax Village Pieces for 2017"
 camera = "iPhone 7 Plus"
 +++
-
 {{% flickr "Lemax Camper, Illuminated"
            "Lemax Camper, Illuminated"
            "https://www.flickr.com/photos/tobyjmarks/36014831924/"
