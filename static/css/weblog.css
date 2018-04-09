@@ -78,7 +78,6 @@ header {
 }
 
 header h1 {
-  text-align: left;
   vertical-align: middle;
   font-size: 30px;
   line-height: 32px;
@@ -173,8 +172,6 @@ Articles
 .micropost > p, .post > p, .page > p {
   color: #cdc253;
   font: 18px/20px "IM Fell English", Georgia, serif;
-  margin: 0;
-  text-align: justify;
 }
 
 .micropost > p {
@@ -212,7 +209,6 @@ article.photo div {
   color: #ffffff;
   padding: 0;
   margin: 0;
-  text-align: left;
   overflow: hidden;
 }
 
@@ -391,7 +387,6 @@ Special rules for small screen devices
 
   body, .micropost > p, .post > p, .page > p {
     font: 20px/22px "IM Fell English", Georgia, serif;
-    text-align: left;
   }
   
   .footer_text {
@@ -401,7 +396,6 @@ Special rules for small screen devices
   .footer_text > div {
     flex: auto;
     width: 100%;
-    text-align: left;
   }
   
   .footer_copyright {
