@@ -18,5 +18,4 @@ camera = "iPhone 7 plus"
            "Oracle Headquarters"
            "https://www.flickr.com/photos/tobyjmarks/41260600642/"
            "https://farm1.staticflickr.com/806/41260600642_f8bb046c9f_z.jpg" %}}
-
 In town visiting the world headquarters of Oracle Corporation, better known as Northam Robotics to all you fans of the classic Robin Williams movie [Bicentennial Man](http://www.imdb.com/title/tt0182789/).
