@@ -1,6 +1,6 @@
 +++
 description = "This year I discovered Joanns Fabrics sells a lot of great Halloween stuff."
-date = "2017-09-30T11:27:20-05:00"
+date = "2018-04-06T11:27:20-05:00"
 title = "Halloween at Joanns Fabrics"
 categories = ["Halloween"]
 tags = ["Halloween", "photolog", "stores"]
