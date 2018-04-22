@@ -382,6 +382,45 @@ Special rules for small screen devices
 */
 
 @media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 413px)  {
+
+nav {
+  width: 100%;  
+}
+
+nav .banner {
+  max-height: 250px;
+  width: 100%;
+  margin: 40px 0 10px 0;
+} 
+
+nav ul {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  list-style-type: none;
+  margin: 0 auto;
+  width: 100%;
+  padding: 10px 0;
+  background-color: black;
+  text-align: center;
+}
+
+nav ul > li a[href] {
+  color: #cdc253;
+}
+
+nav ul > li {
+  display: inline;
+  padding: 10px;
+  text-transform: uppercase;
+    font: 10px/12px "IM Fell English", Georgia, serif;
+}
+
+}
+
+@media only screen 
   and (min-device-width: 414px) 
   and (max-device-width: 736px)  {
 
