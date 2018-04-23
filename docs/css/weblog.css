@@ -388,8 +388,7 @@ Special rules for small screen devices
   and (max-device-width: 413px)  {
 
 header {
-  visibility: visible;
-  background: rgba(255, 0, 0, 1.0);
+  background: black url("/img/field.jpg") no-repeat fixed top left;
 }
 
 nav {
@@ -462,7 +461,6 @@ Special rules for small screen devices
 
 header {
   background: black url("/img/field.jpg") no-repeat fixed top left;
-
 }
 
 nav {
