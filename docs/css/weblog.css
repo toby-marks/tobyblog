@@ -462,8 +462,7 @@ Special rules for small screen devices
 
 header {
   visibility: visible;
-  -khtml-opacity: 0.2;
-  opacity: 0.2;
+  background: rgba(0, 0, 0, 0);
 }
 
 nav {
