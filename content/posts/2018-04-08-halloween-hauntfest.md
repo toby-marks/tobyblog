@@ -10,7 +10,7 @@ draft = false
            "Halloween and Hauntfest 2017"
            "https://www.flickr.com/photos/tobyjmarks/36452811210/"
            "https://farm5.staticflickr.com/4339/36452811210_3a1f348349_z.jpg" %}}
-Normally scheduled in late August, the [Halloween & Hauntfest show][hh] is appropriately billed as "a gateway event to the Halloween season." To those of us who kick off our official celebrations with the start of [Dinosaur Dracula's Halloween Countdown][dd] on September 1, the timing hits that perfect sweet spot. The anticipation, that period of time I like to call "the run-up to the countdown", starts to build throughout August, so that by the time this event rolls around the kids and I are practically bursting with Halloween excitement.
+Normally scheduled in late August, the [Halloween & Hauntfest show][hh] is appropriately billed as "a gateway event to the Halloween season." To those of us who kick off our official celebrations with the start of [Dinosaur Dracula's Halloween Countdown][dd] on September 1, the timing hits that perfect sweet spot. The anticipation, that period of time I like to call "the run-up to the countdown", starts to build throughout August, so that by the time this event rolls around Kassi and the kids and I are practically bursting with Halloween excitement.
 <!--more-->
 
 The Hauntfest is a haunter's convention, intended for professionals as well as amateur Halloween enthusiasts. From Friday to Sunday the show features speakers, workshops, and a fair number of exhibitors selling or featuring their product and advertising local haunts. I always get a [kick out of the workshops][ws], because there are so many interesting and cool classes to attend, on everything from Dollar Store decorating to advanced lighting and motorized prop effects, to molding your own custom masks with latex, etc. The classes are $20 a pop, or you can pay $90 for a weekend-all access ticket that gets you in to everything — which in my opinion is a fantastic deal. It would be fairly easy to make a weekend of it. Most of this stuff is intended for the pros or at least serious home haunters, but what Halloween fan wouldn't want to learn how to make their own motorized animatronic monsters? Or fake blood? 
@@ -288,6 +288,8 @@ And that is why I think [Zombie Safari][zs] will survive, long after the zombie 
            
 *Brains!*
 
+The next attraction really caught the interest of Kassi and the family. She would have loved to have tried this last year, but unfortunately our schedules didn't allow for it. Maybe this year.
+
 At the back of the show was the actual zombie attack bus itself! The idea behind Zombie Safari is that you and your friends or family board a repurposed school bus outfitted with an arsenal of airsoft rifles, and drive around a park area where the bus is assaulted by a mad gang of zombies out to kill you. 
            
 {{% flickr "Inside the zombie attack bus"
@@ -296,7 +298,7 @@ At the back of the show was the actual zombie attack bus itself! The idea behind
            "https://farm5.staticflickr.com/4400/36710052781_37050f186b_z.jpg" %}}
            
 You basically have to defend the bus by shooting the zombies, which as any student of zombie lore knows usually involves blowing their brains out. It makes me wonder how that works in real life. Like, do the zombie actors where helmets? Makes me feel sorry for those guys, but I guess you'd have to be an extraordinary crack shot to get a clean head kill from a moving bus down some Texas back road. 
-           
+
 {{% flickr "Ornate skeleton panel"
            "Ornate skeleton panel"
            "https://www.flickr.com/photos/tobyjmarks/36811132782/"
