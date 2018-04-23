@@ -461,7 +461,7 @@ Special rules for small screen devices
   and (max-device-width: 1024px)  {
 
 header {
-  background: rgba(0, 255, 0, 1.0);
+  background: yellow;
 }
 
 nav {
