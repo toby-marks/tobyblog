@@ -8,7 +8,7 @@ Universal rules
 
 body {
   font: 18px/20px "IM Fell English", Georgia, serif;
-  background: black url(/img/field.jpg) no-repeat fixed top left;
+  background: black url("/img/field.jpg") no-repeat fixed top left;
   background-size: cover;
   color: #cdc253;
 }
@@ -387,12 +387,16 @@ Special rules for small screen devices
   and (min-device-width: 320px) 
   and (max-device-width: 413px)  {
 
+header {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
 nav {
   width: 100%;
 }
 
 nav .banner {
-  max-height: 170px;
+  max-height: 190px;
   margin: 40px 0 0 0;
 } 
 
@@ -454,6 +458,10 @@ Special rules for small screen devices
 @media only screen 
   and (min-device-width: 414px) 
   and (max-device-width: 1024px)  {
+
+header {
+  background-color: rgba(255, 255, 255, 0.2);
+}
 
 nav {
   width: 100%;
