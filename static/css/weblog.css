@@ -461,7 +461,8 @@ Special rules for small screen devices
   and (max-device-width: 1024px)  {
 
 header {
-  background: none;
+  background: black url("/img/field.jpg") no-repeat fixed top left;
+
 }
 
 nav {
