@@ -462,7 +462,7 @@ Special rules for small screen devices
 
 header {
   visibility: visible;
-  background: rgba(0, 0, 0, 0);
+  background: rgba(0, 255, 0, 1.0);
 }
 
 nav {
