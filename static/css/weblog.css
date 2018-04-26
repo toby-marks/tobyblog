@@ -169,6 +169,11 @@ Articles
   background-color: rgba(0,0,0,0.5);
 }
 
+.micropost h1 {
+  color: #cdc253;
+  font: 22px/22px "IM Fell English", Georgia, serif;
+}
+
 .micropost > p, .post > p, .page > p {
   color: #cdc253;
   font: 18px/20px "IM Fell English", Georgia, serif;
@@ -433,6 +438,10 @@ aside.dates {
   font: 14px/16px "IM Fell English", Georgia, serif;
 }
 
+.micropost h1 {
+  color: #cdc253;
+}
+
 .footer_text {
   width: 100%;
 }
@@ -503,6 +512,10 @@ article .postmeta {
 
 aside.dates {
   font: 14px/16px "IM Fell English", Georgia, serif;
+}
+
+.micropost h1 {
+  color: #ff9900;
 }
 
 .footer_text {
