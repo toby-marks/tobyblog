@@ -440,6 +440,7 @@ aside.dates {
 
 .micropost h1 {
   color: #cdc253;
+  font: 22px/22px "IM Fell English", Georgia, serif;
 }
 
 .footer_text {
@@ -515,7 +516,8 @@ aside.dates {
 }
 
 .micropost h1 {
-  color: #ff9900;
+  color: #cdc253;
+  font: 22px/22px "IM Fell English", Georgia, serif;
 }
 
 .footer_text {
