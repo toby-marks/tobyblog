@@ -10,10 +10,10 @@ draft = true
            "The Super Mega Nerd Fun Pack 2"
            "https://www.flickr.com/photos/tobyjmarks/41456059161/"
            "https://farm1.staticflickr.com/890/41456059161_5882dfb333_z.jpg" %}}
-In what has become a beloved annual tradition, I unbox the second giant care package sent to me for my birthday by my friend, cousin, and frequent collaborator, Carl.
+Could this be the start of a birthday tradition? Watch me unbox the second giant care package sent to me as a gift by my friend, cousin, and frequent collaborator, Carl.
 <!--more-->
 
-Yes, in an unexpected followup to last year's amazing [Super Meganerd Fun Pack]({{< relref  "posts/super-meganerd-fun-pack.md" >}}) Carl decided to pull out all the stops and top himself this year. 
+Yes, in an unexpected followup to 2016's amazing [Super Meganerd Fun Pack]({{< relref  "posts/super-meganerd-fun-pack.md" >}}), Carl completely outdid himself this year with a fantastic new collection of goodies for me and the kids. Once again I was completely humbled by his generosity and thoughtfulness — and yes, I'm including that as a personal message to him in thanks and the hope of more to come. After all, we have *many* more Super Mario Bros games to Photoshop.
 
 {{% flickr "My Little Pony Bag"
            "My Little Pony Bag"
