@@ -2,7 +2,7 @@
 title = "I just found this year's Halloween costume."
 date = "2018-04-25T17:25:39-05:00"
 +++
-I think I just found my Halloween costume for this year.
+# I think I just found my Halloween costume for this year.
 
 How did I ever miss this? It debuted just last year for the 40th anniversary celebration of Frank Zappa's [legendary Halloween concert series at The Palladium in New York](https://www.youtube.com/watch?v=UjL2sRX78DM&list=PLLxVHLcTJJQuzuA5VYgYxUQB3WnZen8sF). Zappa did Halloween concerts throughout the entirety of his career, but the one in 1977 is generally considered to be the apogee of that grand tradition. 
 

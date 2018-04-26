@@ -10,15 +10,23 @@ draft = true
            "The Super Mega Nerd Fun Pack 2"
            "https://www.flickr.com/photos/tobyjmarks/41456059161/"
            "https://farm1.staticflickr.com/890/41456059161_5882dfb333_z.jpg" %}}
-Could this be the start of a birthday tradition? Watch me unbox the second giant care package sent to me as a gift by my friend, cousin, and frequent collaborator, Carl.
+Could this be the start of a birthday tradition? Watch me unbox the second giant care package sent to me as a gift by my cousin, friend, and frequent collaborator, Carl.
 <!--more-->
 
-Yes, in an unexpected followup to 2016's amazing [Super Meganerd Fun Pack]({{< relref  "posts/super-meganerd-fun-pack.md" >}}), Carl completely outdid himself this year with a fantastic new collection of goodies for me and the kids. Once again I was completely humbled by his generosity and thoughtfulness — and yes, I'm including that as a personal message to him in thanks and the hope of more to come. After all, we have *many* more Super Mario Bros games to Photoshop.
+Yes, in an unexpected followup to 2016's amazing [Super Meganerd Fun Pack]({{< relref  "posts/super-meganerd-fun-pack.md" >}}), Carl completely outdid himself this year with a fantastic new collection of goodies for me and the kids. Once again I was completely humbled by his generosity and thoughtfulness — and yes, I'm including that as a personal message to you, Carl, in thanks and in the hope of more to come. After all, there are *a lot* more Super Mario Bros games you could Photoshop. Just saying.
 
+{{% flickr "So excited"
+           "So excited"
+           "https://www.flickr.com/photos/tobyjmarks/39647253050/"
+           "https://farm1.staticflickr.com/864/39647253050_f76450e735_z.jpg" %}}
 {{% flickr "My Little Pony Bag"
            "My Little Pony Bag"
            "https://www.flickr.com/photos/tobyjmarks/27584891308/"
            "https://farm1.staticflickr.com/813/27584891308_cfebdd1c35_z.jpg" %}}
+{{% flickr "The Fun Pack Manifest"
+           "The Fun Pack Manifest"
+           "https://www.flickr.com/photos/tobyjmarks/39647250370/"
+           "https://farm1.staticflickr.com/863/39647250370_9d21fac84b_k.jpg" %}}
 {{% flickr "Lone Wolf #1"
            "Lone Wolf #1"
            "https://www.flickr.com/photos/tobyjmarks/40562514975/"
@@ -75,10 +83,6 @@ Yes, in an unexpected followup to 2016's amazing [Super Meganerd Fun Pack]({{< r
            "Lee Van Cleef"
            "https://www.flickr.com/photos/tobyjmarks/40562515495/"
            "https://farm1.staticflickr.com/869/40562515495_120cd98b97_z.jpg" %}}
-{{% flickr "So excited"
-           "So excited"
-           "https://www.flickr.com/photos/tobyjmarks/39647253050/"
-           "https://farm1.staticflickr.com/864/39647253050_f76450e735_z.jpg" %}}
 {{% flickr "Skeleton Warriors"
            "Skeleton Warriors"
            "https://www.flickr.com/photos/tobyjmarks/27584890528/"
@@ -91,10 +95,6 @@ Yes, in an unexpected followup to 2016's amazing [Super Meganerd Fun Pack]({{< r
            "The Hobbit Vinyl #1"
            "https://www.flickr.com/photos/tobyjmarks/40741742764/"
            "https://farm1.staticflickr.com/807/40741742764_335262670f_z.jpg" %}}
-{{% flickr "The Fun Pack Manifest"
-           "The Fun Pack Manifest"
-           "https://www.flickr.com/photos/tobyjmarks/39647250370/"
-           "https://farm1.staticflickr.com/863/39647250370_c2b281c682_z.jpg" %}}
 {{% flickr "Grand Master Edition"
            "Grand Master Edition"
            "https://www.flickr.com/photos/tobyjmarks/27584893168/"
