@@ -1,6 +1,6 @@
 +++
 date = "2017-09-30T10:40:38-05:00"
-location = "Dallas, TX"
+location = "Dallas, Texas"
 title = "New Lemax Village Pieces for 2017"
 camera = "iPhone 7 Plus"
 +++

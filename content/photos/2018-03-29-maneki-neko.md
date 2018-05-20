@@ -1,7 +1,7 @@
 +++
 title = "Maneki Neko Exhibit at the San Francisco Airport"
 date = "2018-03-29T23:53:25-05:00"
-location = "San Francisco, CA"
+location = "San Francisco, California"
 camera = "iPhone 7 Plus"
 +++
 {{% flickr "Maneki Neko Signage"

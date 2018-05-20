@@ -1,7 +1,7 @@
 +++
 title = "Geocaching Maxwell Creek"
 date = "2017-09-07"
-location = "Dallas, TX"
+location = "Dallas, Texas"
 camera = "iPhone 7 Plus"
 +++
 {{% flickr "Walking the caching trail"

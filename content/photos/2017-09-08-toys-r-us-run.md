@@ -1,5 +1,5 @@
 +++
-location = "Dallas, TX"
+location = "Dallas, Texas"
 title = "A Halloween Run to Toys R Us"
 date = "2017-09-08"
 camera = "iPhone 7 Plus"
