@@ -1,7 +1,7 @@
 +++
 title = "Greetings from Redwood City"
 date = "2018-03-28T15:45:32-05:00"
-location = "Redwood Shores, CA"
+location = "Redwood Shores, California"
 camera = "iPhone 7 plus"
 +++
 {{% flickr "Oracle Headquarters"

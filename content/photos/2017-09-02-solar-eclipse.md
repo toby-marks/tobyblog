@@ -1,5 +1,5 @@
 +++
-location = "Dallas, TX"
+location = "Dallas, Texas"
 title = "The Total Solar Eclipse of 2017!"
 date = "2017-09-02T16:45:55-05:00"
 camera = "iPhone 7 Plus"

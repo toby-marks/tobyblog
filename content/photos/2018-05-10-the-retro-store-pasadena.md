@@ -1,7 +1,7 @@
 +++
-title = "The Retro Store in Pasadena, CA"
+title = "The Retro Store in Pasadena, California"
 date = "2018-05-11T16:42:12-05:00"
-location = "Pasadena, CA"
+location = "Pasadena, California"
 camera = "iPhone 7 Plus"
 +++
 {{% flickr "The Retro Store Storefront"
