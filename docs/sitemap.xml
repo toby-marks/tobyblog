@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/posts/2018-10-17-frank-sinatra-once-upon-a-time/</loc>
+    <lastmod>2018-10-17T16:17:27-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/photos/2018-05-20-pasadena-eats/</loc>
     <lastmod>2018-05-20T11:59:57-05:00</lastmod>
   </url>
@@ -203,7 +208,7 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/posts/a-pumpkin-for-st/</loc>
+    <loc>http://tobyblog.com/posts/a-pumpkin-for-st.-michael/</loc>
     <lastmod>2015-09-29T09:36:00+00:00</lastmod>
   </url>
   
@@ -528,7 +533,7 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/posts/the-beginning/</loc>
+    <loc>http://tobyblog.com/posts/the-beginning./</loc>
     <lastmod>2014-02-02T21:58:00+00:00</lastmod>
   </url>
   
@@ -724,6 +729,12 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/frank-sinatra/</loc>
+    <lastmod>2018-10-17T16:17:27-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/tags/fried-food/</loc>
     <lastmod>2014-08-31T15:16:00+00:00</lastmod>
     <priority>0</priority>
@@ -778,13 +789,13 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/halloween/</loc>
+    <loc>http://tobyblog.com/tags/halloween/</loc>
     <lastmod>2018-04-22T13:49:48-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/halloween/</loc>
+    <loc>http://tobyblog.com/categories/halloween/</loc>
     <lastmod>2018-04-22T13:49:48-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -923,7 +934,13 @@
   
   <url>
     <loc>http://tobyblog.com/tags/music/</loc>
-    <lastmod>2015-09-08T11:10:00+00:00</lastmod>
+    <lastmod>2018-10-17T16:17:27-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/music/</loc>
+    <lastmod>2018-10-17T16:17:27-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -965,7 +982,7 @@
   
   <url>
     <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-17T16:17:27-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1036,13 +1053,13 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/reviews/</loc>
+    <loc>http://tobyblog.com/tags/reviews/</loc>
     <lastmod>2017-11-24T10:49:02-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/reviews/</loc>
+    <loc>http://tobyblog.com/categories/reviews/</loc>
     <lastmod>2017-11-24T10:49:02-06:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1192,7 +1209,7 @@
   
   <url>
     <loc>http://tobyblog.com/</loc>
-    <lastmod>2018-05-20T11:59:57-05:00</lastmod>
+    <lastmod>2018-10-17T16:17:27-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1234,7 +1251,7 @@
   
   <url>
     <loc>http://tobyblog.com/tags/youtube/</loc>
-    <lastmod>2015-09-08T11:10:00+00:00</lastmod>
+    <lastmod>2018-10-17T16:17:27-05:00</lastmod>
     <priority>0</priority>
   </url>
   
