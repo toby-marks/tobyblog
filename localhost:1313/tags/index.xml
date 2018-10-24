@@ -642,6 +642,15 @@
     </item>
     
     <item>
+      <title>Prophecy</title>
+      <link>http://localhost:1313/tags/prophecy/</link>
+      <pubDate>Wed, 24 Oct 2018 01:26:49 -0500</pubDate>
+      
+      <guid>http://localhost:1313/tags/prophecy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Psa</title>
       <link>http://localhost:1313/tags/psa/</link>
       <pubDate>Thu, 24 Jul 2014 22:15:00 +0000</pubDate>
@@ -719,6 +728,15 @@
       <pubDate>Sun, 21 Sep 2014 15:46:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/retropalooza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revelations</title>
+      <link>http://localhost:1313/tags/revelations/</link>
+      <pubDate>Wed, 24 Oct 2018 01:26:49 -0500</pubDate>
+      
+      <guid>http://localhost:1313/tags/revelations/</guid>
       <description></description>
     </item>
     
@@ -912,11 +930,29 @@
     </item>
     
     <item>
+      <title>The Bible</title>
+      <link>http://localhost:1313/tags/the-bible/</link>
+      <pubDate>Wed, 24 Oct 2018 01:26:49 -0500</pubDate>
+      
+      <guid>http://localhost:1313/tags/the-bible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Tall Man</title>
       <link>http://localhost:1313/tags/the-tall-man/</link>
       <pubDate>Wed, 10 Jun 2015 16:34:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/the-tall-man/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Whore of Babylon</title>
+      <link>http://localhost:1313/tags/the-whore-of-babylon/</link>
+      <pubDate>Wed, 24 Oct 2018 01:26:49 -0500</pubDate>
+      
+      <guid>http://localhost:1313/tags/the-whore-of-babylon/</guid>
       <description></description>
     </item>
     
