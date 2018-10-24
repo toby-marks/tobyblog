@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/microposts/2018-10-24-the-death-of-ivan-ilyich/</loc>
+    <lastmod>2018-10-24T09:11:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/microposts/2018-10-24-fresh-air/</loc>
+    <lastmod>2018-10-24T09:03:42-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/posts/2018-10-24-the-whore-of-babylon/</loc>
     <lastmod>2018-10-24T01:26:49-05:00</lastmod>
   </url>
@@ -805,13 +815,13 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/halloween/</loc>
+    <loc>http://localhost:1313/tags/halloween/</loc>
     <lastmod>2018-04-22T13:49:48-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/halloween/</loc>
+    <loc>http://localhost:1313/categories/halloween/</loc>
     <lastmod>2018-04-22T13:49:48-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -932,7 +942,7 @@
   
   <url>
     <loc>http://localhost:1313/microposts/</loc>
-    <lastmod>2018-10-23T01:02:44-05:00</lastmod>
+    <lastmod>2018-10-24T09:11:48-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -949,13 +959,13 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/music/</loc>
+    <loc>http://localhost:1313/tags/music/</loc>
     <lastmod>2018-10-17T16:17:27-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/music/</loc>
+    <loc>http://localhost:1313/categories/music/</loc>
     <lastmod>2018-10-17T16:17:27-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1081,13 +1091,13 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/reviews/</loc>
+    <loc>http://localhost:1313/tags/reviews/</loc>
     <lastmod>2017-11-24T10:49:02-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/reviews/</loc>
+    <loc>http://localhost:1313/categories/reviews/</loc>
     <lastmod>2017-11-24T10:49:02-06:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1249,7 +1259,7 @@
   
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2018-10-24T01:26:49-05:00</lastmod>
+    <lastmod>2018-10-24T09:11:48-05:00</lastmod>
     <priority>0</priority>
   </url>
   
