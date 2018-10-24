@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/microposts/2018-10-24-the-death-of-ivan-ilyich/</loc>
+    <lastmod>2018-10-24T09:11:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/microposts/2018-10-24-fresh-air/</loc>
+    <lastmod>2018-10-24T09:03:42-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/2018-10-24-the-whore-of-babylon/</loc>
     <lastmod>2018-10-24T01:26:49-05:00</lastmod>
   </url>
@@ -932,7 +942,7 @@
   
   <url>
     <loc>http://tobyblog.com/microposts/</loc>
-    <lastmod>2018-10-23T01:02:44-05:00</lastmod>
+    <lastmod>2018-10-24T09:11:48-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1249,7 +1259,7 @@
   
   <url>
     <loc>http://tobyblog.com/</loc>
-    <lastmod>2018-10-24T01:26:49-05:00</lastmod>
+    <lastmod>2018-10-24T09:11:48-05:00</lastmod>
     <priority>0</priority>
   </url>
   
