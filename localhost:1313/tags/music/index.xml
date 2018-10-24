@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on Tobyblog</title>
+    <link>http://localhost:1313/tags/music/</link>
+    <description>Recent content in Music on Tobyblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Oct 2018 16:17:27 -0500</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Once Upon a Time, Frank Sinatra</title>
+      <link>http://localhost:1313/posts/2018-10-17-frank-sinatra-once-upon-a-time/</link>
+      <pubDate>Wed, 17 Oct 2018 16:17:27 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-10-17-frank-sinatra-once-upon-a-time/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Cover Battle — The Great Pumpkin Waltz</title>
+      <link>http://localhost:1313/posts/cover-battle--the-great-pumpkin-waltz/</link>
+      <pubDate>Tue, 08 Sep 2015 11:10:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/cover-battle--the-great-pumpkin-waltz/</guid>
+      <description>We are officially in the &amp;ldquo;-BER months&amp;rdquo; now, a time of year that for my generation is indelibly stamped by the melancholy Peanuts cartoon soundtracks of Vince Guiraldi and his trio. Though the nostalgic quality of these tracks reaches fever pitch around Christmastime, we begin our seasonal contemplation with this wistful little tune, quickly supplanted in the Guiraldi lineup, but never quite forgotten. It remains one of my favorites, but I&amp;rsquo;ll only listen to it from the start of September through Halloween.</description>
+    </item>
+    
+    <item>
+      <title>Announcing the Very First Tobyblog Giveaway!</title>
+      <link>http://localhost:1313/posts/announcing-the-very-first-tobyblog-giveaway/</link>
+      <pubDate>Wed, 03 Dec 2014 15:42:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/announcing-the-very-first-tobyblog-giveaway/</guid>
+      <description>Would you like to win this original 8 x 10 photograph that hung in our house this past Halloween? It&amp;rsquo;s a portrait inspired by my all-time favorite Halloween blog, The Skull and Pumpkin of Mike Cathcart&amp;rsquo;s. The updates have been spotty over these past few years, but the back content is well worth discovering for yourself. If you do take a look, be sure to leave a comment in appreciation.</description>
+    </item>
+    
+    <item>
+      <title>Cover Battle — Love Songs</title>
+      <link>http://localhost:1313/posts/cover-battle-love-songs/</link>
+      <pubDate>Thu, 14 Aug 2014 21:48:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/cover-battle-love-songs/</guid>
+      <description>It&amp;rsquo;s time once again for one of my patented YouTube cover battles, and in typical fashion you pick the winner. Tonight&amp;rsquo;s theme is one of my favorite for YouTube covers — LOVE SONGS. I have my personal favorite, of course, but I won&amp;rsquo;t spoil it for you. Enjoy, and leave a comment to vote for the winner. The first track is by Goga, a local (Dallas) wedding singer and one-man-band act.</description>
+    </item>
+    
+    <item>
+      <title>Cover Battle — Red Rubber Ball</title>
+      <link>http://localhost:1313/posts/cover-battle--red-rubber-ball/</link>
+      <pubDate>Thu, 24 Jul 2014 21:58:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/cover-battle--red-rubber-ball/</guid>
+      <description>I woke up this morning with this song stuck in my head, thinking about my dad and the good progress he&amp;rsquo;s making recovering from a triple bypass operation.
+I probably thought of it because I noticed it was in the repertoire of local musician Bruce Wilder, who graced us at the coffee shop one evening with his guitar.
+ Here are my three favorite YouTube covers of this 1966 song by Paul Simon and Bruce Woodley.</description>
+    </item>
+    
+    <item>
+      <title>Baker Street</title>
+      <link>http://localhost:1313/posts/baker-street/</link>
+      <pubDate>Mon, 21 Jul 2014 14:05:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/baker-street/</guid>
+      <description>Love this song. Local musician Bruce Wilder was recently performing it solo at Firewheel Coffee, my office away from the office. Makes me want to sneak up behind him with a giant saxophone and start blaring away at the appropriate moments.</description>
+    </item>
+    
+    <item>
+      <title>A Musical Interlude</title>
+      <link>http://localhost:1313/posts/a-musical-interlude/</link>
+      <pubDate>Thu, 19 Jun 2014 22:34:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/a-musical-interlude/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>

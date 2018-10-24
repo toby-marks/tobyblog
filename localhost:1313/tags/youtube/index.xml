@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Youtube on Tobyblog</title>
+    <link>http://localhost:1313/tags/youtube/</link>
+    <description>Recent content in Youtube on Tobyblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Oct 2018 16:17:27 -0500</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Once Upon a Time, Frank Sinatra</title>
+      <link>http://localhost:1313/posts/2018-10-17-frank-sinatra-once-upon-a-time/</link>
+      <pubDate>Wed, 17 Oct 2018 16:17:27 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/2018-10-17-frank-sinatra-once-upon-a-time/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Cover Battle — The Great Pumpkin Waltz</title>
+      <link>http://localhost:1313/posts/cover-battle--the-great-pumpkin-waltz/</link>
+      <pubDate>Tue, 08 Sep 2015 11:10:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/cover-battle--the-great-pumpkin-waltz/</guid>
+      <description>We are officially in the &amp;ldquo;-BER months&amp;rdquo; now, a time of year that for my generation is indelibly stamped by the melancholy Peanuts cartoon soundtracks of Vince Guiraldi and his trio. Though the nostalgic quality of these tracks reaches fever pitch around Christmastime, we begin our seasonal contemplation with this wistful little tune, quickly supplanted in the Guiraldi lineup, but never quite forgotten. It remains one of my favorites, but I&amp;rsquo;ll only listen to it from the start of September through Halloween.</description>
+    </item>
+    
+    <item>
+      <title>Free Spooks on YouTube: Apparitions</title>
+      <link>http://localhost:1313/posts/free-spooks-on-youtube-apparitions/</link>
+      <pubDate>Mon, 31 Aug 2015 22:06:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/free-spooks-on-youtube-apparitions/</guid>
+      <description>Are you looking for something spooky to watch as we wind our way down to Halloween, but find yourself bored by the usual fare of cheesy monster movies or gross slasher flicks? Maybe you&amp;rsquo;re in the mood for something a little more thoughtful; a little more substantial, perhaps? Let me show you something interesting.
+ Apparitions&amp;nbsp;is a BBC miniseries about a Catholic exorcist who finds himself at the center of a satanic intrigue that reaches to the Vatican and threatens the world itself.</description>
+    </item>
+    
+  </channel>
+</rss>
