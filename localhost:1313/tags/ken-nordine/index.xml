@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ken Nordine on Tobyblog</title>
+    <link>http://localhost:1313/tags/ken-nordine/</link>
+    <description>Recent content in Ken Nordine on Tobyblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Feb 2014 15:07:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/ken-nordine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>You&#39;re Getting Better - Ken Nordine</title>
+      <link>http://localhost:1313/posts/youre-getting-better---ken-nordine/</link>
+      <pubDate>Tue, 25 Feb 2014 15:07:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/youre-getting-better---ken-nordine/</guid>
+      <description>My most popular Youtube upload.</description>
+    </item>
+    
+  </channel>
+</rss>

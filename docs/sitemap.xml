@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/posts/2018-10-24-the-whore-of-babylon/</loc>
+    <lastmod>2018-10-24T01:26:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/microposts/2018-10-23-halloween-thoughts/</loc>
+    <lastmod>2018-10-23T01:02:44-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/2018-10-17-frank-sinatra-once-upon-a-time/</loc>
     <lastmod>2018-10-17T16:17:27-05:00</lastmod>
   </url>
@@ -705,6 +715,12 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/categories/end-times/</loc>
+    <lastmod>2018-10-24T01:26:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/tags/fall/</loc>
     <lastmod>2016-09-11T13:36:00+00:00</lastmod>
     <priority>0</priority>
@@ -916,7 +932,7 @@
   
   <url>
     <loc>http://tobyblog.com/microposts/</loc>
-    <lastmod>2018-04-25T17:25:39-05:00</lastmod>
+    <lastmod>2018-10-23T01:02:44-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -982,13 +998,19 @@
   
   <url>
     <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2018-10-17T16:17:27-05:00</lastmod>
+    <lastmod>2018-10-24T01:26:49-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://tobyblog.com/tags/potato-chips/</loc>
     <lastmod>2017-01-01T23:24:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/prophecy/</loc>
+    <lastmod>2018-10-24T01:26:49-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1043,6 +1065,12 @@
   <url>
     <loc>http://tobyblog.com/tags/retropalooza/</loc>
     <lastmod>2014-09-21T15:46:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/revelations/</loc>
+    <lastmod>2018-10-24T01:26:49-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1190,8 +1218,20 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/the-bible/</loc>
+    <lastmod>2018-10-24T01:26:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/tags/the-tall-man/</loc>
     <lastmod>2015-06-10T16:34:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/the-whore-of-babylon/</loc>
+    <lastmod>2018-10-24T01:26:49-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1209,7 +1249,7 @@
   
   <url>
     <loc>http://tobyblog.com/</loc>
-    <lastmod>2018-10-17T16:17:27-05:00</lastmod>
+    <lastmod>2018-10-24T01:26:49-05:00</lastmod>
     <priority>0</priority>
   </url>
   

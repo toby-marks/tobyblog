@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>World Market on Tobyblog</title>
+    <link>http://localhost:1313/tags/world-market/</link>
+    <description>Recent content in World Market on Tobyblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Sep 2014 07:52:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/world-market/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Los Dias De Los Muertos at World Market</title>
+      <link>http://localhost:1313/posts/los-dias-de-los-muertos-at-world-market/</link>
+      <pubDate>Sat, 27 Sep 2014 07:52:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/los-dias-de-los-muertos-at-world-market/</guid>
+      <description>Already a great place to find exotic candies, foreign soda pop, and specialty food items at any time of the year (Brian Hammons, you know what I&amp;rsquo;m talking about), World Market really comes alive for Halloween. If you&amp;rsquo;ve got one in your area, get down there right now and check their selection. The stuff they carry is definitely outside of the Target/Big Lots/Dollar Store Halloween mold, but that&amp;rsquo;s not to say it&amp;rsquo;s super expensive.</description>
+    </item>
+    
+  </channel>
+</rss>
