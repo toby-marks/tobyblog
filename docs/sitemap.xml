@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/posts/2018-10-26-from-vermeule-to-newman/</loc>
+    <lastmod>2018-10-26T00:38:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/2018-10-26-so-long-san-francisco/</loc>
+    <lastmod>2018-10-26T00:24:11-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/microposts/2018-10-24-the-death-of-ivan-ilyich/</loc>
     <lastmod>2018-10-24T02:11:48-05:00</lastmod>
   </url>
@@ -629,6 +639,12 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/catholic/</loc>
+    <lastmod>2018-10-26T00:38:10-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/tags/chicken/</loc>
     <lastmod>2014-12-03T22:28:00+00:00</lastmod>
     <priority>0</priority>
@@ -726,7 +742,7 @@
   
   <url>
     <loc>http://tobyblog.com/categories/end-times/</loc>
-    <lastmod>2018-10-24T01:26:49-05:00</lastmod>
+    <lastmod>2018-10-26T00:38:10-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -805,6 +821,12 @@
   <url>
     <loc>http://tobyblog.com/tags/gizzards/</loc>
     <lastmod>2014-08-31T15:16:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/glenn-yarbrough/</loc>
+    <lastmod>2018-10-26T00:24:11-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -960,13 +982,13 @@
   
   <url>
     <loc>http://tobyblog.com/tags/music/</loc>
-    <lastmod>2018-10-17T16:17:27-05:00</lastmod>
+    <lastmod>2018-10-26T00:24:11-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://tobyblog.com/categories/music/</loc>
-    <lastmod>2018-10-17T16:17:27-05:00</lastmod>
+    <lastmod>2018-10-26T00:24:11-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1008,7 +1030,7 @@
   
   <url>
     <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2018-10-24T01:26:49-05:00</lastmod>
+    <lastmod>2018-10-26T00:38:10-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1063,6 +1085,12 @@
   <url>
     <loc>http://tobyblog.com/tags/recommendations/</loc>
     <lastmod>2014-02-02T22:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/religion/</loc>
+    <lastmod>2018-10-26T00:38:10-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1259,7 +1287,7 @@
   
   <url>
     <loc>http://tobyblog.com/</loc>
-    <lastmod>2018-10-24T02:11:48-05:00</lastmod>
+    <lastmod>2018-10-26T00:38:10-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1301,7 +1329,7 @@
   
   <url>
     <loc>http://tobyblog.com/tags/youtube/</loc>
-    <lastmod>2018-10-17T16:17:27-05:00</lastmod>
+    <lastmod>2018-10-26T00:24:11-05:00</lastmod>
     <priority>0</priority>
   </url>
   
