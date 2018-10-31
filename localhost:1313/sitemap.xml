@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/posts/2018-10-31-halloween-postponed/</loc>
+    <lastmod>2018-10-31T09:34:28-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/posts/2018-10-26-from-vermeule-to-newman/</loc>
     <lastmod>2018-10-26T00:38:10-05:00</lastmod>
   </url>
@@ -837,14 +842,14 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/halloween/</loc>
+    <loc>http://localhost:1313/categories/halloween/</loc>
     <lastmod>2018-04-22T13:49:48-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/halloween/</loc>
-    <lastmod>2018-04-22T13:49:48-05:00</lastmod>
+    <loc>http://localhost:1313/tags/halloween/</loc>
+    <lastmod>2018-10-31T09:34:28-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -981,14 +986,14 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/music/</loc>
-    <lastmod>2018-10-26T00:24:11-05:00</lastmod>
+    <loc>http://localhost:1313/categories/music/</loc>
+    <lastmod>2018-10-31T09:34:28-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/music/</loc>
-    <lastmod>2018-10-26T00:24:11-05:00</lastmod>
+    <loc>http://localhost:1313/tags/music/</loc>
+    <lastmod>2018-10-31T09:34:28-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1030,7 +1035,7 @@
   
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2018-10-26T00:38:10-05:00</lastmod>
+    <lastmod>2018-10-31T09:34:28-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1119,13 +1124,13 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/reviews/</loc>
+    <loc>http://localhost:1313/categories/reviews/</loc>
     <lastmod>2017-11-24T10:49:02-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/reviews/</loc>
+    <loc>http://localhost:1313/tags/reviews/</loc>
     <lastmod>2017-11-24T10:49:02-06:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1133,6 +1138,12 @@
   <url>
     <loc>http://localhost:1313/tags/rock-candy/</loc>
     <lastmod>2014-04-18T21:36:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/rod-mckuen/</loc>
+    <lastmod>2018-10-31T09:34:28-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1287,7 +1298,7 @@
   
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2018-10-26T00:38:10-05:00</lastmod>
+    <lastmod>2018-10-31T09:34:28-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1329,7 +1340,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/youtube/</loc>
-    <lastmod>2018-10-26T00:24:11-05:00</lastmod>
+    <lastmod>2018-10-31T09:34:28-05:00</lastmod>
     <priority>0</priority>
   </url>
   
