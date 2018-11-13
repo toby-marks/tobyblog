@@ -401,7 +401,7 @@
     <item>
       <title>Halloween</title>
       <link>http://localhost:1313/tags/halloween/</link>
-      <pubDate>Sun, 22 Apr 2018 13:49:48 -0500</pubDate>
+      <pubDate>Wed, 31 Oct 2018 09:34:28 -0500</pubDate>
       
       <guid>http://localhost:1313/tags/halloween/</guid>
       <description></description>
@@ -599,7 +599,7 @@
     <item>
       <title>Music</title>
       <link>http://localhost:1313/tags/music/</link>
-      <pubDate>Fri, 26 Oct 2018 00:24:11 -0500</pubDate>
+      <pubDate>Wed, 31 Oct 2018 09:34:28 -0500</pubDate>
       
       <guid>http://localhost:1313/tags/music/</guid>
       <description></description>
@@ -791,6 +791,15 @@
       <pubDate>Fri, 18 Apr 2014 21:36:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/rock-candy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rod Mckuen</title>
+      <link>http://localhost:1313/tags/rod-mckuen/</link>
+      <pubDate>Wed, 31 Oct 2018 09:34:28 -0500</pubDate>
+      
+      <guid>http://localhost:1313/tags/rod-mckuen/</guid>
       <description></description>
     </item>
     
@@ -1049,7 +1058,7 @@
     <item>
       <title>Youtube</title>
       <link>http://localhost:1313/tags/youtube/</link>
-      <pubDate>Fri, 26 Oct 2018 00:24:11 -0500</pubDate>
+      <pubDate>Wed, 31 Oct 2018 09:34:28 -0500</pubDate>
       
       <guid>http://localhost:1313/tags/youtube/</guid>
       <description></description>
