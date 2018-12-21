@@ -17,23 +17,19 @@
       <pubDate>Sun, 11 Sep 2016 13:36:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/posts/august-into-december-at-the-holiday-warehouse/</guid>
-      <description>&lt;p&gt;&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-    &lt;img src=&#34;https://farm9.staticflickr.com/8449/28674407714_ef688b56a7_z.jpg&#34; alt=&#34;Mr. Pumpkin&#34;&gt;
-    &lt;figcaption class=&#34;wp-caption-text&#34;&gt;, by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Toby Marks&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/28674407714/&#34; title=&#34;Mr. Pumpkin&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-The &lt;a href=&#34;http://www.holidaywarehouse.com/&#34;&gt;Holiday Warehouse&lt;/a&gt; is a largish, and rather outstanding, independent holiday decor shop located in Plano, Texas. Like its well known cousin The &lt;a href=&#34;http://tobyblog.com/posts/the-decorators-warehouse/&#34;&gt;Decorator&amp;rsquo;s Warehouse&lt;/a&gt; in Arlington, the concentration is mainly on Christmas, but not as exclusively.
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;{{% flickr &amp;ldquo;Mr. Pumpkin&amp;rdquo;
+           &amp;ldquo;&amp;rdquo;
+           &amp;ldquo;&lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/28674407714/&amp;quot;&#34;&gt;https://www.flickr.com/photos/tobyjmarks/28674407714/&amp;quot;&lt;/a&gt;
+           &amp;ldquo;&lt;a href=&#34;https://farm9.staticflickr.com/8449/28674407714_ef688b56a7_z.jpg&amp;quot;&#34;&gt;https://farm9.staticflickr.com/8449/28674407714_ef688b56a7_z.jpg&amp;quot;&lt;/a&gt; %}}
+The &lt;a href=&#34;http://www.holidaywarehouse.com/&#34;&gt;Holiday Warehouse&lt;/a&gt; is a largish, and rather outstanding, independent holiday decor shop located in Plano, Texas. Like its well known cousin The &lt;a href=&#34;{{&amp;lt; relref &amp;quot;posts/the-decorators-warehouse.md&amp;quot; &amp;gt;}}&#34;&gt;Decorator&amp;rsquo;s Warehouse&lt;/a&gt; in Arlington, the concentration is mainly on Christmas, but not as exclusively.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Cover Battle — The Great Pumpkin Waltz</title>
-      <link>http://tobyblog.com/posts/cover-battle--the-great-pumpkin-waltz/</link>
+      <link>http://tobyblog.com/posts/cover-battle-the-great-pumpkin-waltz/</link>
       <pubDate>Tue, 08 Sep 2015 11:10:00 +0000</pubDate>
       
-      <guid>http://tobyblog.com/posts/cover-battle--the-great-pumpkin-waltz/</guid>
+      <guid>http://tobyblog.com/posts/cover-battle-the-great-pumpkin-waltz/</guid>
       <description>We are officially in the &amp;ldquo;-BER months&amp;rdquo; now, a time of year that for my generation is indelibly stamped by the melancholy Peanuts cartoon soundtracks of Vince Guiraldi and his trio. Though the nostalgic quality of these tracks reaches fever pitch around Christmastime, we begin our seasonal contemplation with this wistful little tune, quickly supplanted in the Guiraldi lineup, but never quite forgotten. It remains one of my favorites, but I&amp;rsquo;ll only listen to it from the start of September through Halloween.</description>
     </item>
     
@@ -49,10 +45,10 @@ As soon as you walk in the door you&amp;rsquo;re assaulted with holiday cheer; t
     
     <item>
       <title>Aisles &amp; Aisles of Halloween at At Home </title>
-      <link>http://tobyblog.com/posts/aisles--aisles-of-halloween-at-at-home/</link>
+      <link>http://tobyblog.com/posts/aisles-aisles-of-halloween-at-at-home/</link>
       <pubDate>Mon, 27 Jul 2015 23:05:00 +0000</pubDate>
       
-      <guid>http://tobyblog.com/posts/aisles--aisles-of-halloween-at-at-home/</guid>
+      <guid>http://tobyblog.com/posts/aisles-aisles-of-halloween-at-at-home/</guid>
       <description>We&amp;rsquo;re just under 100 days to Halloween now, but there are certain places you can always depend on to roll out the spooky stock a little early. I covered At Home last year and this year&amp;rsquo;s selection looks bigger and better than ever. For 2015 our local store has literally doubled the floor space devoted to Halloween goods. And, well, just take a look for yourself.</description>
     </item>
     
