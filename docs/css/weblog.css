@@ -475,6 +475,7 @@ header {
 
 nav {
   width: 100%;
+  padding: 0;
 }
 
 nav .banner {
@@ -487,6 +488,7 @@ nav .banner {
 nav .banner img {
   width: 75%;
   height: 75%;
+  margin: 0;
 } 
 
 nav ul {
