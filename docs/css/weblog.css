@@ -481,14 +481,13 @@ nav {
 nav .banner {
   max-height: 220px;
   margin: 40px 0 0 0;
-  padding: 0;
+  padding: 25px 0;
   background-color: rgba(0,0,0,0.75);
 } 
 
 nav .banner img {
   width: 75%;
   height: 75%;
-  margin: 0;
 } 
 
 nav ul {
