@@ -480,6 +480,7 @@ nav {
 nav .banner {
   max-height: 220px;
   margin: 40px 0 0 0;
+  background-color: rgba(0,0,0,0.5);
 } 
 
 nav .banner img {
