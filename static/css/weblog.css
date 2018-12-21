@@ -466,8 +466,8 @@ Special rules for small screen devices
 ----------------------------------------------------------------
 */
 @media only screen 
-  and (min-device-width: 414px) 
-  and (max-device-width: 1024px)  {
+  and (min-device-width: 375px) 
+  and (max-device-width: 896px)  {
 
 header {
   background: black url("/img/field.jpg") no-repeat fixed top left;
