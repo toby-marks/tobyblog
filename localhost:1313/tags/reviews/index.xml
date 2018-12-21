@@ -17,15 +17,11 @@
       <pubDate>Fri, 24 Nov 2017 10:49:02 -0600</pubDate>
       
       <guid>http://localhost:1313/posts/2017-11-24-pumpkin-latte-ace-pumpkin-cider/</guid>
-      <description>&lt;p&gt;&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-    &lt;img src=&#34;https://farm5.staticflickr.com/4580/38604886832_7bc4b06488_z.jpg&#34; alt=&#34;Coffee, Pumpkin Pie, and Pumpkin Latte Beer&#34;&gt;
-    &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Coffee, Pumpkin Pie, and Pumpkin Latte Beer, by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Toby Marks&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/38604886832/&#34; title=&#34;Coffee, Pumpkin Pie, and Pumpkin Latte Beer&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-This year while out shopping for turkey and wine, I discovered a couple of very fallish, and very Thanksgiving-appropriate beverages I thought I&amp;rsquo;d share with you all. One is a new seasonal coffee brew from my favorite DFW brewery &lt;a href=&#34;http://martinhousebrewing.com/&#34;&gt;Martin House&lt;/a&gt;, and the other is a special cider I haven&amp;rsquo;t seen in three years — &lt;a href=&#34;http://localhost:1313/posts/ace-pineapple-cider--shannon-irish-red/&#34;&gt;Ace&amp;rsquo;s&lt;/a&gt; own extraordinary Pumpkin Cider. Read on!
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;{{% flickr &amp;ldquo;Coffee, Pumpkin Pie, and Pumpkin Latte Beer&amp;rdquo;
+           &amp;ldquo;Coffee, Pumpkin Pie, and Pumpkin Latte Beer&amp;rdquo;
+           &amp;ldquo;&lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/38604886832/&amp;quot;&#34;&gt;https://www.flickr.com/photos/tobyjmarks/38604886832/&amp;quot;&lt;/a&gt;
+           &amp;ldquo;&lt;a href=&#34;https://farm5.staticflickr.com/4580/38604886832_7bc4b06488_z.jpg&amp;quot;&#34;&gt;https://farm5.staticflickr.com/4580/38604886832_7bc4b06488_z.jpg&amp;quot;&lt;/a&gt; %}}
+This year while out shopping for turkey and wine, I discovered a couple of very fallish, and very Thanksgiving-appropriate beverages I thought I&amp;rsquo;d share with you all. One is a new seasonal coffee brew from my favorite DFW brewery &lt;a href=&#34;http://martinhousebrewing.com/&#34;&gt;Martin House&lt;/a&gt;, and the other is a special cider I haven&amp;rsquo;t seen in three years — &lt;a href=&#34;{{&amp;lt; relref &amp;quot;posts/ace-pineapple-cider--shannon-irish-red.md&amp;quot; &amp;gt;}}&#34;&gt;Ace&amp;rsquo;s&lt;/a&gt; own extraordinary Pumpkin Cider. Read on!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -34,13 +30,9 @@ This year while out shopping for turkey and wine, I discovered a couple of very 
       <pubDate>Sun, 29 Oct 2017 19:53:27 -0500</pubDate>
       
       <guid>http://localhost:1313/posts/2017-10-29-cauldron-skittles-review/</guid>
-      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/-C1Po_r1At4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      <description>&lt;p&gt;{{&amp;lt; youtube -C1Po_r1At4 &amp;gt;}}&lt;/p&gt;
 
-
-&lt;p&gt;Joined once again by nostalgia blogger and good friend Brian Hammons of &lt;a href=&#34;http://www.reviewtheworld.com/&#34;&gt;reviewtheworld.com&lt;/a&gt;, Augie and I team up to complete our trilogy of Skittles reviews, this time looking at the legendary and rarely sighted Cauldron Skittles variety, now in its second year on store shelves. Does the candy itself live up to the promise of its bright orange bag? We find out, and the answer may just &lt;em&gt;shock&lt;/em&gt; you. (It probably won&amp;rsquo;t.)
-&lt;/p&gt;</description>
+&lt;p&gt;Joined once again by nostalgia blogger and good friend Brian Hammons of &lt;a href=&#34;http://www.reviewtheworld.com/&#34;&gt;reviewtheworld.com&lt;/a&gt;, Augie and I team up to complete our trilogy of Skittles reviews, this time looking at the legendary and rarely sighted Cauldron Skittles variety, now in its second year on store shelves. Does the candy itself live up to the promise of its bright orange bag? We find out, and the answer may just &lt;em&gt;shock&lt;/em&gt; you. (It probably won&amp;rsquo;t.)&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -49,13 +41,9 @@ This year while out shopping for turkey and wine, I discovered a couple of very 
       <pubDate>Sat, 09 Sep 2017 15:21:05 -0500</pubDate>
       
       <guid>http://localhost:1313/posts/2017-09-09-brightside-skittles/</guid>
-      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/JSvZpo_YGVk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+      <description>&lt;p&gt;{{&amp;lt; youtube JSvZpo_YGVk &amp;gt;}}&lt;/p&gt;
 
-
-&lt;p&gt;Join me, Augie, and superpal Brian of &lt;a href=&#34;http://www.reviewtheworld.com/&#34;&gt;Review the World&lt;/a&gt; for installment number two in this soon to be &lt;em&gt;classic&lt;/em&gt; trilogy of Skittles candy reviews. This time we look at Brightside Skittles, the very flipside of the Darkside &lt;a href=&#34;http://www.reviewtheworld.com/2015/04/skittles-four-ways.html&#34;&gt;reviewed a couple of years back&lt;/a&gt; with Brian on his last visit to Dallas. A great theme for summer and sunny days, will Brightside warm your tummy as we slip into fall and all things pumpkin spice? Find out for yourself, as we find out for ourselves.
-&lt;/p&gt;</description>
+&lt;p&gt;Join me, Augie, and superpal Brian of &lt;a href=&#34;http://www.reviewtheworld.com/&#34;&gt;Review the World&lt;/a&gt; for installment number two in this soon to be &lt;em&gt;classic&lt;/em&gt; trilogy of Skittles candy reviews. This time we look at Brightside Skittles, the very flipside of the Darkside &lt;a href=&#34;http://www.reviewtheworld.com/2015/04/skittles-four-ways.html&#34;&gt;reviewed a couple of years back&lt;/a&gt; with Brian on his last visit to Dallas. A great theme for summer and sunny days, will Brightside warm your tummy as we slip into fall and all things pumpkin spice? Find out for yourself, as we find out for ourselves.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -64,15 +52,11 @@ This year while out shopping for turkey and wine, I discovered a couple of very 
       <pubDate>Sun, 13 Aug 2017 23:07:25 -0500</pubDate>
       
       <guid>http://localhost:1313/posts/america-skittles-review/</guid>
-      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/fLk7N04OQ5E&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
+      <description>&lt;p&gt;{{&amp;lt; youtube fLk7N04OQ5E &amp;gt;}}&lt;/p&gt;
 
 &lt;p&gt;Hello again, folks.&lt;/p&gt;
 
-&lt;p&gt;It has been a while now since I&amp;rsquo;ve been active on this site, but life has not held still for me and the family. Since the last time I posted anything of significance, quite a great deal has happened, actually, much of which was originally destined for publication here. Well, as it does, life got in the way, priorities shifted, my free time diminished, etc. etc. — and the gist of it all is that you folks were left unattended for many months.
-&lt;/p&gt;</description>
+&lt;p&gt;It has been a while now since I&amp;rsquo;ve been active on this site, but life has not held still for me and the family. Since the last time I posted anything of significance, quite a great deal has happened, actually, much of which was originally destined for publication here. Well, as it does, life got in the way, priorities shifted, my free time diminished, etc. etc. — and the gist of it all is that you folks were left unattended for many months.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -93,8 +77,7 @@ You can catch up on previous years&amp;rsquo; content by taking a look at my oth
       <guid>http://localhost:1313/posts/the-bollywood-burrito/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://1.bp.blogspot.com/-Sq3xak90kZg/V6zwoaw0I7I/AAAAAAAAC40/evK2MCidSAEDtEYEMePNyQVFAWYgzkF1QCLcB/s640/IMG_5441.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Remember Taco Naan, the Mexican-Indian hybrid restaurant &lt;a href=&#34;http://localhost:1313/posts/taco-naan-review/&#34;&gt;I wrote about&lt;/a&gt; a long time back? I&amp;rsquo;m talking about the very same one my buddy &lt;a href=&#34;http://www.reviewtheworld.com/2015/03/texas-taco-challenge-taco-naan-vs-fuel.html&#34;&gt;Brian featured&lt;/a&gt; on his second trip to the Big D, where he stacked up its offerings against the nationally renowned taco dive Fuel City. Well, they&amp;rsquo;re still around and busier and better than ever! The place is expanding like mad, doubling its interior floor space and hopefully renovating those dismal restrooms. I wouldn&amp;rsquo;t know because I&amp;rsquo;ve never had the courage to try them again. But you don&amp;rsquo;t go to Taco Naan to use the bathroom, man, so no worries.
-&lt;/p&gt;</description>
+&lt;p&gt;Remember Taco Naan, the Mexican-Indian hybrid restaurant &lt;a href=&#34;http://localhost:1313/posts/taco-naan-review/&#34;&gt;I wrote about&lt;/a&gt; a long time back? I&amp;rsquo;m talking about the very same one my buddy &lt;a href=&#34;http://www.reviewtheworld.com/2015/03/texas-taco-challenge-taco-naan-vs-fuel.html&#34;&gt;Brian featured&lt;/a&gt; on his second trip to the Big D, where he stacked up its offerings against the nationally renowned taco dive Fuel City. Well, they&amp;rsquo;re still around and busier and better than ever! The place is expanding like mad, doubling its interior floor space and hopefully renovating those dismal restrooms. I wouldn&amp;rsquo;t know because I&amp;rsquo;ve never had the courage to try them again. But you don&amp;rsquo;t go to Taco Naan to use the bathroom, man, so no worries.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -108,10 +91,10 @@ You can catch up on previous years&amp;rsquo; content by taking a look at my oth
     
     <item>
       <title>Ace Pineapple Cider &amp; Shannon Irish Red</title>
-      <link>http://localhost:1313/posts/ace-pineapple-cider--shannon-irish-red/</link>
+      <link>http://localhost:1313/posts/ace-pineapple-cider-shannon-irish-red/</link>
       <pubDate>Tue, 02 Aug 2016 21:40:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/ace-pineapple-cider--shannon-irish-red/</guid>
+      <guid>http://localhost:1313/posts/ace-pineapple-cider-shannon-irish-red/</guid>
       <description>Beer is great year-round, but summer brings its own varieties. I noticed recently that hard ciders are becoming more popular. I had a chance to sample a new one from Ace, makers of an outstanding pumpkin cider that I am very much looking forward to having again this fall. Their pear cider, available in all seasons, merits a future review. But this one I had not seen before.
 Indeed, it called out to me from the shelf with unabashed summery fruitiness.</description>
     </item>
@@ -258,10 +241,10 @@ If you&amp;rsquo;re from Texas or anywhere in the Southwest you would immediatel
     
     <item>
       <title>Suncreek Park - More Than Meets The Eye</title>
-      <link>http://localhost:1313/posts/suncreek-park---more-than-meets-the-eye/</link>
+      <link>http://localhost:1313/posts/suncreek-park-more-than-meets-the-eye/</link>
       <pubDate>Wed, 19 Feb 2014 20:48:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/suncreek-park---more-than-meets-the-eye/</guid>
+      <guid>http://localhost:1313/posts/suncreek-park-more-than-meets-the-eye/</guid>
       <description>Two weeks ago my wife told me about a new park she had discovered while killing time between a couple of the kids&amp;rsquo; classes. 
 While climbing an overpass she caught site of some paved trails just off the road that interested her enough to want to Google it later. The trails turned out to be part of Suncreek Park in Allen, Texas. The website claims Suncreek sports only four tenths of a mile of paved trails, so it&amp;rsquo;s not much for walking, hiking, or biking.</description>
     </item>
