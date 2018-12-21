@@ -479,14 +479,14 @@ nav {
 
 nav .banner {
   max-height: 220px;
-  margin: 0 0 0 0;
-  padding: 40px 0 40px 0;
+  margin: 40px 0 0 0;
+  padding: 25px 0;
   background-color: rgba(0,0,0,0.75);
 } 
 
 nav .banner img {
-  width: 50%;
-  height: 50%;
+  width: 75%;
+  height: 75%;
 } 
 
 nav ul {
