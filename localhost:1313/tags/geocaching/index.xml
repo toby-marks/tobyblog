@@ -26,18 +26,14 @@
       <pubDate>Mon, 02 May 2016 21:21:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/super-meganerd-fun-pack/</guid>
-      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-    &lt;img src=&#34;https://farm2.staticflickr.com/1507/26490173342_5105efd276_z.jpg&#34; alt=&#34;The Super Meganerd Fun Pack&#34;&gt;
-    &lt;figcaption class=&#34;wp-caption-text&#34;&gt;The Super Meganerd Fun Pack, by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Toby Marks&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/26490173342/&#34; title=&#34;The Super Meganerd Fun Pack&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
+      <description>&lt;p&gt;{{% flickr &amp;ldquo;The Super Meganerd Fun Pack&amp;rdquo;
+           &amp;ldquo;The Super Meganerd Fun Pack&amp;rdquo;
+           &amp;ldquo;&lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/26490173342/&amp;quot;&#34;&gt;https://www.flickr.com/photos/tobyjmarks/26490173342/&amp;quot;&lt;/a&gt;
+           &amp;ldquo;&lt;a href=&#34;https://farm2.staticflickr.com/1507/26490173342_5105efd276_z.jpg&amp;quot;&#34;&gt;https://farm2.staticflickr.com/1507/26490173342_5105efd276_z.jpg&amp;quot;&lt;/a&gt; %}}&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;What the pack?!&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;My cousin Carl, &lt;a href=&#34;http://localhost:1313/posts/sfanthor-house-of-wax/&#34;&gt;as previously featured on Tobyblog&lt;/a&gt;, sent this to me for my birthday. Get a load. It&amp;rsquo;s almost like he knows me.
-&lt;/p&gt;</description>
+&lt;p&gt;My cousin Carl, &lt;a href=&#34;{{&amp;lt; relref &amp;quot;posts/sfanthor-house-of-wax.md&amp;quot; &amp;gt;}}&#34;&gt;as previously featured on Tobyblog&lt;/a&gt;, sent this to me for my birthday. Get a load. It&amp;rsquo;s almost like he knows me.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -138,10 +134,10 @@ I found it in an ammo can in a small copse of woods near the office, nestled amo
     
     <item>
       <title>Suncreek Park - More Than Meets The Eye</title>
-      <link>http://localhost:1313/posts/suncreek-park---more-than-meets-the-eye/</link>
+      <link>http://localhost:1313/posts/suncreek-park-more-than-meets-the-eye/</link>
       <pubDate>Wed, 19 Feb 2014 20:48:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/suncreek-park---more-than-meets-the-eye/</guid>
+      <guid>http://localhost:1313/posts/suncreek-park-more-than-meets-the-eye/</guid>
       <description>Two weeks ago my wife told me about a new park she had discovered while killing time between a couple of the kids&amp;rsquo; classes. 
 While climbing an overpass she caught site of some paved trails just off the road that interested her enough to want to Google it later. The trails turned out to be part of Suncreek Park in Allen, Texas. The website claims Suncreek sports only four tenths of a mile of paved trails, so it&amp;rsquo;s not much for walking, hiking, or biking.</description>
     </item>
