@@ -6,7 +6,7 @@ categories = ["Music"]
 tags = ["music", "YouTube", "Christmas"]
 +++
 
-{{< youtube uc_ycgzYd0c >}}
+{{< youtube S6wDzvibd_Q >}}
 
 Hands down my favorite Christmas song of 2018. I passed up this album in favor of Jackie Gleason's *Tis The Season*, a purchase I do not regret, but this song is definitely worth the price of the vinyl. I love it when Frank sings melancholy, and this one has that quality in spades. Nostalgia, regret, and loneliness are all wrapped up in that golden bow of his amazing voice, a voice that forces your ears to attention when you hear it, never aging, never dulling, calling your life before your eyes, and all but materializing that glass of whiskey or scotch in your left hand, as your right hand reaches to pull the brim of your fedora down a little more to cover the tears in your eyes. Merry Christmas!
 <!--more-->
