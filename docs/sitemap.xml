@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/posts/2019-01-02-jazz-noir/</loc>
+    <lastmod>2019-01-02T15:33:03-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/microposts/2018-12-23-ghostbusters/</loc>
     <lastmod>2018-12-23T09:38:23-06:00</lastmod>
   </url>
@@ -912,6 +917,12 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/jazz-noir/</loc>
+    <lastmod>2019-01-02T15:33:03-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/tags/jolly-ranchers/</loc>
     <lastmod>2014-02-11T21:37:00+00:00</lastmod>
     <priority>0</priority>
@@ -997,13 +1008,13 @@
   
   <url>
     <loc>http://tobyblog.com/tags/music/</loc>
-    <lastmod>2018-12-21T16:44:08-06:00</lastmod>
+    <lastmod>2019-01-02T15:33:03-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://tobyblog.com/categories/music/</loc>
-    <lastmod>2018-12-21T16:44:08-06:00</lastmod>
+    <lastmod>2019-01-02T15:33:03-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1045,7 +1056,7 @@
   
   <url>
     <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2018-12-21T16:44:08-06:00</lastmod>
+    <lastmod>2019-01-02T15:33:03-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1308,7 +1319,7 @@
   
   <url>
     <loc>http://tobyblog.com/</loc>
-    <lastmod>2018-12-23T09:38:23-06:00</lastmod>
+    <lastmod>2019-01-02T15:33:03-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1350,7 +1361,7 @@
   
   <url>
     <loc>http://tobyblog.com/tags/youtube/</loc>
-    <lastmod>2018-12-21T16:44:08-06:00</lastmod>
+    <lastmod>2019-01-02T15:33:03-06:00</lastmod>
     <priority>0</priority>
   </url>
   
