@@ -480,6 +480,15 @@
     </item>
     
     <item>
+      <title>Jazz Noir</title>
+      <link>http://localhost:1313/tags/jazz-noir/</link>
+      <pubDate>Wed, 02 Jan 2019 15:33:03 -0600</pubDate>
+      
+      <guid>http://localhost:1313/tags/jazz-noir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jolly Ranchers</title>
       <link>http://localhost:1313/tags/jolly-ranchers/</link>
       <pubDate>Tue, 11 Feb 2014 21:37:00 +0000</pubDate>
@@ -599,7 +608,7 @@
     <item>
       <title>Music</title>
       <link>http://localhost:1313/tags/music/</link>
-      <pubDate>Fri, 21 Dec 2018 16:44:08 -0600</pubDate>
+      <pubDate>Wed, 02 Jan 2019 15:33:03 -0600</pubDate>
       
       <guid>http://localhost:1313/tags/music/</guid>
       <description></description>
@@ -1058,7 +1067,7 @@
     <item>
       <title>Youtube</title>
       <link>http://localhost:1313/tags/youtube/</link>
-      <pubDate>Fri, 21 Dec 2018 16:44:08 -0600</pubDate>
+      <pubDate>Wed, 02 Jan 2019 15:33:03 -0600</pubDate>
       
       <guid>http://localhost:1313/tags/youtube/</guid>
       <description></description>

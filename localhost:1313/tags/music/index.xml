@@ -6,10 +6,19 @@
     <description>Recent content in Music on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Dec 2018 16:44:08 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jan 2019 15:33:03 -0600</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/tags/music/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Welcome to 2019</title>
+      <link>http://localhost:1313/posts/2019-01-02-jazz-noir/</link>
+      <pubDate>Wed, 02 Jan 2019 15:33:03 -0600</pubDate>
+      
+      <guid>http://localhost:1313/posts/2019-01-02-jazz-noir/</guid>
+      <description>Some sounds for dark days, and nights.</description>
+    </item>
     
     <item>
       <title>A Few of My Favorite Christmas Songs</title>
