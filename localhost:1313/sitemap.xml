@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/posts/2019-01-03-you-have-been-loved/</loc>
+    <lastmod>2019-02-08T11:11:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/microposts/2019-02-07-1138-flickr-links-down/</loc>
     <lastmod>2019-02-07T11:38:56-06:00</lastmod>
   </url>
@@ -923,7 +928,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/jazz-noir/</loc>
-    <lastmod>2019-01-02T15:33:03-06:00</lastmod>
+    <lastmod>2019-02-08T11:11:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1013,13 +1018,13 @@
   
   <url>
     <loc>http://localhost:1313/tags/music/</loc>
-    <lastmod>2019-01-02T15:33:03-06:00</lastmod>
+    <lastmod>2019-02-08T11:11:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://localhost:1313/categories/music/</loc>
-    <lastmod>2019-01-02T15:33:03-06:00</lastmod>
+    <lastmod>2019-02-08T11:11:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1061,7 +1066,7 @@
   
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2019-01-02T15:33:03-06:00</lastmod>
+    <lastmod>2019-02-08T11:11:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1324,7 +1329,7 @@
   
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2019-02-07T11:38:56-06:00</lastmod>
+    <lastmod>2019-02-08T11:11:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1366,7 +1371,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/youtube/</loc>
-    <lastmod>2019-01-02T15:33:03-06:00</lastmod>
+    <lastmod>2019-02-08T11:11:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
