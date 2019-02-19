@@ -300,6 +300,15 @@
     </item>
     
     <item>
+      <title>Fr. Seraphim Rose</title>
+      <link>http://localhost:1313/tags/fr.-seraphim-rose/</link>
+      <pubDate>Mon, 18 Feb 2019 23:11:34 -0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/fr.-seraphim-rose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Frank Sinatra</title>
       <link>http://localhost:1313/tags/frank-sinatra/</link>
       <pubDate>Wed, 17 Oct 2018 16:17:27 -0500</pubDate>
@@ -482,7 +491,7 @@
     <item>
       <title>Jazz Noir</title>
       <link>http://localhost:1313/tags/jazz-noir/</link>
-      <pubDate>Mon, 18 Feb 2019 23:11:34 -0800</pubDate>
+      <pubDate>Fri, 08 Feb 2019 11:11:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/jazz-noir/</guid>
       <description></description>
@@ -570,6 +579,15 @@
     </item>
     
     <item>
+      <title>Memes</title>
+      <link>http://localhost:1313/tags/memes/</link>
+      <pubDate>Mon, 18 Feb 2019 23:11:34 -0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/memes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mexican Food</title>
       <link>http://localhost:1313/tags/mexican-food/</link>
       <pubDate>Thu, 11 Aug 2016 16:07:00 +0000</pubDate>
@@ -608,7 +626,7 @@
     <item>
       <title>Music</title>
       <link>http://localhost:1313/tags/music/</link>
-      <pubDate>Mon, 18 Feb 2019 23:11:34 -0800</pubDate>
+      <pubDate>Fri, 08 Feb 2019 11:11:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/music/</guid>
       <description></description>
@@ -629,6 +647,15 @@
       <pubDate>Fri, 15 Apr 2016 16:10:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/nintendo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orthodox</title>
+      <link>http://localhost:1313/tags/orthodox/</link>
+      <pubDate>Mon, 18 Feb 2019 23:11:34 -0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/orthodox/</guid>
       <description></description>
     </item>
     
@@ -1067,7 +1094,7 @@
     <item>
       <title>Youtube</title>
       <link>http://localhost:1313/tags/youtube/</link>
-      <pubDate>Mon, 18 Feb 2019 23:11:34 -0800</pubDate>
+      <pubDate>Fri, 08 Feb 2019 11:11:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/youtube/</guid>
       <description></description>
