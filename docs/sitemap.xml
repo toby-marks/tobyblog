@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/posts/2019-02-18-everything-ends/</loc>
+    <lastmod>2019-02-18T23:11:34-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/2019-01-03-you-have-been-loved/</loc>
     <lastmod>2019-02-08T11:11:00+00:00</lastmod>
   </url>
@@ -772,7 +777,7 @@
   
   <url>
     <loc>http://tobyblog.com/categories/end-times/</loc>
-    <lastmod>2018-10-26T00:38:10-05:00</lastmod>
+    <lastmod>2019-02-18T23:11:34-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -797,6 +802,12 @@
   <url>
     <loc>http://tobyblog.com/tags/found-items/</loc>
     <lastmod>2014-03-09T19:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/fr.-seraphim-rose/</loc>
+    <lastmod>2019-02-18T23:11:34-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -987,6 +998,12 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/memes/</loc>
+    <lastmod>2019-02-18T23:11:34-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/tags/mexican-food/</loc>
     <lastmod>2016-08-11T16:07:00+00:00</lastmod>
     <priority>0</priority>
@@ -1041,6 +1058,12 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/orthodox/</loc>
+    <lastmod>2019-02-18T23:11:34-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/tags/parks/</loc>
     <lastmod>2014-11-15T11:43:00+00:00</lastmod>
     <priority>0</priority>
@@ -1066,7 +1089,7 @@
   
   <url>
     <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2019-02-08T11:11:00+00:00</lastmod>
+    <lastmod>2019-02-18T23:11:34-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1329,7 +1352,7 @@
   
   <url>
     <loc>http://tobyblog.com/</loc>
-    <lastmod>2019-02-08T11:11:00+00:00</lastmod>
+    <lastmod>2019-02-18T23:11:34-08:00</lastmod>
     <priority>0</priority>
   </url>
   
