@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:1313/posts/2019-02-19-working-in-pasadena/</loc>
+    <lastmod>2019-02-19T23:42:48-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/posts/2019-02-18-everything-ends/</loc>
     <lastmod>2019-02-18T23:11:34-08:00</lastmod>
   </url>
@@ -645,6 +650,12 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/tags/california/</loc>
+    <lastmod>2019-02-19T23:42:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/tags/candles/</loc>
     <lastmod>2017-09-04T09:41:11-05:00</lastmod>
     <priority>0</priority>
@@ -795,7 +806,7 @@
   
   <url>
     <loc>http://localhost:1313/tags/food/</loc>
-    <lastmod>2016-08-11T16:07:00+00:00</lastmod>
+    <lastmod>2019-02-19T23:42:48-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -878,14 +889,14 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/halloween/</loc>
-    <lastmod>2018-04-22T13:49:48-05:00</lastmod>
+    <loc>http://localhost:1313/tags/halloween/</loc>
+    <lastmod>2018-10-31T09:34:28-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/halloween/</loc>
-    <lastmod>2018-10-31T09:34:28-05:00</lastmod>
+    <loc>http://localhost:1313/categories/halloween/</loc>
+    <lastmod>2018-04-22T13:49:48-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -944,8 +955,20 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/tags/jobs/</loc>
+    <lastmod>2019-02-19T23:42:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/tags/jolly-ranchers/</loc>
     <lastmod>2014-02-11T21:37:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/journal/</loc>
+    <lastmod>2019-02-19T23:42:48-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1034,14 +1057,20 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/tags/music/</loc>
+    <lastmod>2019-02-08T11:11:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/categories/music/</loc>
     <lastmod>2019-02-08T11:11:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/music/</loc>
-    <lastmod>2019-02-08T11:11:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/musings/</loc>
+    <lastmod>2019-02-19T23:42:48-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1070,6 +1099,12 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/tags/pasadena/</loc>
+    <lastmod>2019-02-19T23:42:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/tags/phantasm/</loc>
     <lastmod>2015-06-10T16:34:00+00:00</lastmod>
     <priority>0</priority>
@@ -1089,7 +1124,7 @@
   
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2019-02-18T23:11:34-08:00</lastmod>
+    <lastmod>2019-02-19T23:42:48-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1120,6 +1155,12 @@
   <url>
     <loc>http://localhost:1313/tags/push-pops/</loc>
     <lastmod>2014-02-11T21:37:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/ramen/</loc>
+    <lastmod>2019-02-19T23:42:48-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1178,13 +1219,13 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/reviews/</loc>
+    <loc>http://localhost:1313/tags/reviews/</loc>
     <lastmod>2017-11-24T10:49:02-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/reviews/</loc>
+    <loc>http://localhost:1313/categories/reviews/</loc>
     <lastmod>2017-11-24T10:49:02-06:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1352,7 +1393,7 @@
   
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2019-02-18T23:11:34-08:00</lastmod>
+    <lastmod>2019-02-19T23:42:48-08:00</lastmod>
     <priority>0</priority>
   </url>
   
