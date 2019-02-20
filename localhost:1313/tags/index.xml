@@ -507,6 +507,15 @@
     </item>
     
     <item>
+      <title>Journal</title>
+      <link>http://localhost:1313/tags/journal/</link>
+      <pubDate>Tue, 19 Feb 2019 23:42:48 -0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ken Nordine</title>
       <link>http://localhost:1313/tags/ken-nordine/</link>
       <pubDate>Tue, 25 Feb 2014 15:07:00 +0000</pubDate>

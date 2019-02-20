@@ -19,6 +19,9 @@ SectionPagesMenu            = "Main"
 	ShowCopyright = true
 	RSSEnabled = true
 	RSSSections = [ "Posts", "Microposts", "Photos" ]
+	RSSMicropostTitles = false
+	YearlyMicroposts = true
+	SummarizeMicroposts = false
 
 [taxonomies]
 	tag = "tags"
