@@ -25,4 +25,4 @@ Although they stick rigidly to Hall and Oates's original musical interpretations
 
 {{< youtube GH4Fjw8CYzU >}}
 
-I hope you like this stuff as much as I do.
+Do you need a drink and a quick decision? Probably not. Anyway, I hope you like this stuff as much as I do.
