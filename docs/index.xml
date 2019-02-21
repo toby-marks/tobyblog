@@ -3987,9 +3987,7 @@ Goodbye for now! Hope reading through all this has given you a little taste of h
 &lt;/div&gt;
 
 
-&lt;p&gt;Let&amp;rsquo;s hear your opinions!&lt;/p&gt;
-
-&lt;p&gt;{{ partial &amp;ldquo;disqus.html&amp;rdquo; . }}&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s hear your thoughts!&lt;/p&gt;
 </description>
       </item>
       
