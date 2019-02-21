@@ -7,8 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <lastBuildDate>Thu, 07 Feb 2019 11:38:56 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 20 Feb 2019 22:51:10 -0800</lastBuildDate>
     <atom:link href="/microposts/" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+      	
+        <link>http://tobyblog.com/microposts/2019-02-20-leave-comments/</link>
+        <pubDate>Wed, 20 Feb 2019 22:51:10 -0800</pubDate>
+        <author>Toby Marks</author>
+        <guid>http://tobyblog.com/microposts/2019-02-20-leave-comments/</guid>
+        <description>&lt;p&gt;👨🏻‍💻🛠&lt;/p&gt;
+
+&lt;p&gt;Just a quick site update — you can now leave comments! I had that feature back in the old days of the blog, and am only now getting around to adding it back. Hopefully it doesn&amp;rsquo;t drag the page load time down too much. Since the internal URLs for all the articles changed after I migrated the site, I unfortunately lost all those old comments. So leave me some new ones if you feel it.&lt;/p&gt;
+
+&lt;p&gt;Also, I think all the Flickr embeds are fixed. At least I haven&amp;rsquo;t noticed any more issues.&lt;/p&gt;
+</description>
+      </item>
+      
     
       
       <item>
