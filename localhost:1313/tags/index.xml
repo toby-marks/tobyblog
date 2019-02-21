@@ -75,6 +75,15 @@
     </item>
     
     <item>
+      <title>California</title>
+      <link>http://localhost:1313/tags/california/</link>
+      <pubDate>Tue, 19 Feb 2019 23:42:48 -0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/california/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Candles</title>
       <link>http://localhost:1313/tags/candles/</link>
       <pubDate>Mon, 04 Sep 2017 09:41:11 -0500</pubDate>
@@ -284,7 +293,7 @@
     <item>
       <title>Food</title>
       <link>http://localhost:1313/tags/food/</link>
-      <pubDate>Thu, 11 Aug 2016 16:07:00 +0000</pubDate>
+      <pubDate>Tue, 19 Feb 2019 23:42:48 -0800</pubDate>
       
       <guid>http://localhost:1313/tags/food/</guid>
       <description></description>
@@ -498,20 +507,20 @@
     </item>
     
     <item>
+      <title>Jobs</title>
+      <link>http://localhost:1313/tags/jobs/</link>
+      <pubDate>Tue, 19 Feb 2019 23:42:48 -0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/jobs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jolly Ranchers</title>
       <link>http://localhost:1313/tags/jolly-ranchers/</link>
       <pubDate>Tue, 11 Feb 2014 21:37:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/jolly-ranchers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Journal</title>
-      <link>http://localhost:1313/tags/journal/</link>
-      <pubDate>Tue, 19 Feb 2019 23:42:48 -0800</pubDate>
-      
-      <guid>http://localhost:1313/tags/journal/</guid>
       <description></description>
     </item>
     
@@ -642,6 +651,15 @@
     </item>
     
     <item>
+      <title>Musings</title>
+      <link>http://localhost:1313/tags/musings/</link>
+      <pubDate>Tue, 19 Feb 2019 23:42:48 -0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/musings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Neighborhood</title>
       <link>http://localhost:1313/tags/neighborhood/</link>
       <pubDate>Sun, 25 Jan 2015 16:40:00 +0000</pubDate>
@@ -674,6 +692,15 @@
       <pubDate>Sat, 15 Nov 2014 11:43:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/parks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pasadena</title>
+      <link>http://localhost:1313/tags/pasadena/</link>
+      <pubDate>Tue, 19 Feb 2019 23:42:48 -0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/pasadena/</guid>
       <description></description>
     </item>
     
@@ -737,6 +764,15 @@
       <pubDate>Tue, 11 Feb 2014 21:37:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/push-pops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ramen</title>
+      <link>http://localhost:1313/tags/ramen/</link>
+      <pubDate>Tue, 19 Feb 2019 23:42:48 -0800</pubDate>
+      
+      <guid>http://localhost:1313/tags/ramen/</guid>
       <description></description>
     </item>
     
