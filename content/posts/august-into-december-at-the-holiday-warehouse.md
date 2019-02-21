@@ -12,7 +12,7 @@ blogimport = true
            ""
            "https://www.flickr.com/photos/tobyjmarks/28674407714/"
            "https://farm9.staticflickr.com/8449/28674407714_ef688b56a7_z.jpg" %}}
-The [Holiday Warehouse](http://www.holidaywarehouse.com/) is a largish, and rather outstanding, independent holiday decor shop located in Plano, Texas. Like its well known cousin The [Decorator's Warehouse]({{< relref "posts/the-decorators-warehouse.md" >}}) in Arlington, the concentration is mainly on Christmas, but not as exclusively.
+The [Holiday Warehouse](http://www.holidaywarehouse.com/) is a largish, and rather outstanding, independent holiday decor shop located in Plano, Texas. Like its well known cousin The [Decorator's Warehouse]({{< ref "/posts/the-decorators-warehouse.md" >}}) in Arlington, the concentration is mainly on Christmas, but not as exclusively.
 <!--more-->
 
 {{% flickr "Veiled Doll"
