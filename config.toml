@@ -5,7 +5,7 @@ theme                       = "internet-weblog"
 Paginate                    = 7
 publishDir                  = "docs"
 SectionPagesMenu            = "Main"
-disqusShortname				= "tobyblog-com"
+DisqusShortname				= "tobyblog-com"
 
 [author]
 	Handle = "tobyblog"
