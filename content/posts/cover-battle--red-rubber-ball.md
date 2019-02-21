@@ -26,6 +26,4 @@ Here are my three favorite YouTube covers of this 1966 song by Paul Simon and Br
 
 {{< youtube V9tHaDkW-i8 >}}
 
-Let's hear your opinions!
-
-{{ partial "disqus.html" . }}
+Let's hear your thoughts!
