@@ -3951,7 +3951,45 @@ Goodbye for now! Hope reading through all this has given you a little taste of h
         <pubDate>Thu, 24 Jul 2014 21:58:00 +0000</pubDate>
         <author>Toby Marks</author>
         <guid>http://localhost:1313/posts/cover-battle-red-rubber-ball/</guid>
-        <description>&lt;p&gt;I woke up this morning with this song stuck in my head, thinking about my dad and the good progress he&amp;rsquo;s making recovering from a triple bypass operation.&lt;br /&gt;I probably thought of it because I noticed it was in the repertoire of local musician Bruce Wilder, who graced us at the coffee shop one evening with his guitar.&lt;br /&gt;&lt;iframe allowfullscreen=&#34;&#34; frameborder=&#34;0&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/k54FV_gl__c&#34; width=&#34;560&#34;&gt;&lt;/iframe&gt; &lt;br /&gt;&lt;br /&gt;&lt;a name=&#39;more&#39;&gt;&lt;/a&gt;Here are my three favorite YouTube covers of this 1966 song by Paul Simon and Bruce Woodley. Vote for your favorite!&lt;br /&gt;#1. The Snapsons (My vote for best ensemble act)&lt;br /&gt;&lt;iframe allowfullscreen=&#34;&#34; frameborder=&#34;0&#34; height=&#34;360&#34; src=&#34;//www.youtube.com/embed/0Mo01_OHNj0&#34; width=&#34;480&#34;&gt;&lt;/iframe&gt; &lt;br /&gt;#2. hopeonatenspeed (My vote for best ukelele)&lt;br /&gt;&lt;iframe allowfullscreen=&#34;&#34; frameborder=&#34;0&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/lHGrNj6rLY0&#34; width=&#34;560&#34;&gt;&lt;/iframe&gt; &lt;br /&gt;#3. Bradlands (Another ukelele act, but best actual singing)&lt;br /&gt;&lt;iframe allowfullscreen=&#34;&#34; frameborder=&#34;0&#34; height=&#34;360&#34; src=&#34;//www.youtube.com/embed/V9tHaDkW-i8&#34; width=&#34;480&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+        <description>&lt;p&gt;I woke up this morning with this song stuck in my head, thinking about my dad and the good progress he&amp;rsquo;s making recovering from a triple bypass operation.&lt;/p&gt;
+
+&lt;p&gt;I probably thought of it because I noticed it was in the repertoire of local musician Bruce Wilder, who graced us at the coffee shop one evening with his guitar.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/k54FV_gl__c&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Here are my three favorite YouTube covers of this 1966 song by Paul Simon and Bruce Woodley. Vote for your favorite!&lt;/p&gt;
+
+&lt;p&gt;#1. The Snapsons (My vote for best ensemble act)&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/0Mo01_OHNj0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;#2. hopeonatenspeed (My vote for best ukelele)&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/lHGrNj6rLY0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;#3. Bradlands (Another ukelele act, but best actual singing)&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/V9tHaDkW-i8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Let&amp;rsquo;s hear your opinions!&lt;/p&gt;
+
+&lt;p&gt;{{ partial &amp;ldquo;disqus.html&amp;rdquo; . }}&lt;/p&gt;
 </description>
       </item>
       
