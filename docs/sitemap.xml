@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/microposts/2019-02-22-sonic-movie/</loc>
+    <lastmod>2019-02-21T22:27:13-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/2019-02-20-bird-and-the-bee/</loc>
     <lastmod>2019-02-20T23:07:28-08:00</lastmod>
   </url>
@@ -1050,7 +1055,7 @@
   
   <url>
     <loc>http://tobyblog.com/microposts/</loc>
-    <lastmod>2019-02-20T22:51:10-08:00</lastmod>
+    <lastmod>2019-02-21T22:27:13-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1403,7 +1408,7 @@
   
   <url>
     <loc>http://tobyblog.com/</loc>
-    <lastmod>2019-02-20T23:07:28-08:00</lastmod>
+    <lastmod>2019-02-21T22:27:13-08:00</lastmod>
     <priority>0</priority>
   </url>
   
