@@ -249,6 +249,10 @@ article.photo img {
   margin-top: -150px;
 }
 
+article.photo img[alt="Lovebirds"] {
+  margin-top: -300px;
+}
+
 article.photo img.flickr-embed-frame,
 div.flickr-embed-photo {
   width: 820px !important;
