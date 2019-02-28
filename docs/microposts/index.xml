@@ -7,8 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <lastBuildDate>Thu, 21 Feb 2019 22:27:13 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 28 Feb 2019 01:27:47 -0600</lastBuildDate>
     <atom:link href="/microposts/" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+      	
+        <link>http://tobyblog.com/microposts/2019-02-28-site-updates/</link>
+        <pubDate>Thu, 28 Feb 2019 01:27:47 -0600</pubDate>
+        <author>Toby Marks</author>
+        <guid>http://tobyblog.com/microposts/2019-02-28-site-updates/</guid>
+        <description>&lt;p&gt;I made a couple of site updates yesterday I wanted to mention.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Now, if you click on the logo image, you&amp;rsquo;ll be taken back to the home page.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I fixed the stylesheets for mobile devices so that the photoblog image previews work a little better and appear more consistent between small screen and large screen devices.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Remember to click on the title of a photoblog (like the recent &lt;a href=&#34;http://tobyblog.com/photos/2019-02-26-lax-international-terminal/&#34;&gt;Scenes from the LAX International Terminal&lt;/a&gt;) to see the full set of photos. You can click on the &lt;a href=&#34;http://tobyblog.com/photos/&#34;&gt;Photos&lt;/a&gt; link at the top of the site to see all my photoblogs.&lt;/p&gt;
+
+&lt;p&gt;The site actually looks great on mobile. I think I prefer it that way. Enjoy!&lt;/p&gt;
+</description>
+      </item>
+      
     
       
       <item>
