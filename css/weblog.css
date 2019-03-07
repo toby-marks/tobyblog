@@ -1,0 +1,574 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans+Caption:700|IM+Fell+English');
+
+/* 
+----------------------------------------------------------------
+Universal rules
+----------------------------------------------------------------
+*/
+
+body {
+  font: 18px/20px "IM Fell English", Georgia, serif;
+  background: black url("/img/field.jpg") no-repeat fixed top left;
+  background-size: cover;
+  color: #cdc253;
+}
+
+a[href] {
+	color: #ff9900;
+	text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1, h2, h3, h4, article.photo .title {
+  color: #ff9900;
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+p img {
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+blockquote {
+  background-color: #F0F2F5;
+  color: #999999;
+  padding: 5px;
+}
+
+blockquote p {
+  font-style: italic;
+  padding: 0 10px;
+}
+
+blockquote p:last-child {
+  font-style: normal;
+  padding-left: 30px;
+
+}
+
+.site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  margin: 0;
+}
+
+.content {
+  flex: 1;
+}
+
+/* 
+----------------------------------------------------------------
+Header and Navigation
+----------------------------------------------------------------
+*/
+
+header {
+  padding: 0;
+  max-width: 820px;
+  margin: 0px auto;
+  flex: 1;
+  background-color: rgba(0,0,0,0.5);
+}
+
+header h1 {
+  vertical-align: middle;
+  font-size: 30px;
+  line-height: 32px;
+  margin: 0 auto;
+  padding: 10px 10px 0 10px;
+  max-width: 720px;
+  color: #5B636E;
+}
+
+nav {
+  margin-bottom: 20px;
+  padding: 25px 0 0 0;
+  width: 820px;
+  text-align: center;
+}
+
+nav .banner {
+  max-height: 270px;
+  margin: 60px 0 30px 0;
+} 
+
+nav ul {
+  position: absolute;
+  top: 0px;
+  left: 50%;
+  list-style-type: none;
+  margin: 0 0 0 -410px;
+  width: 820px;
+  padding: 10px 0;
+  background-color: black;
+  text-align: right;
+}
+
+nav ul > li a[href] {
+  color: #cdc253;
+}
+
+nav ul > li {
+  display: inline;
+  padding: 10px;
+  text-transform: uppercase;
+  font-size: 9pt;
+  font-weight: normal;
+}
+
+.rss-icon {
+  height: 14px;
+  padding-left: 5px;
+}
+
+.pagination {
+  text-align: center;
+  margin: 30px auto;
+}
+
+.pagination span {
+  color: #dddddd;
+}
+
+/* 
+----------------------------------------------------------------
+Articles 
+----------------------------------------------------------------
+*/
+
+.post {   
+  background-color: rgba(0,0,0,1.0); 
+  padding: 20px;
+}
+
+.photo {   
+  background-color: rgba(0,0,0,1.0); 
+}
+
+.micropost {
+  background-color: rgba(0,0,0,.75); 
+  margin: auto auto;
+  padding: 20px;
+  max-width: 780px;
+}
+
+.post, .page, .post-groups {
+  margin: 0px auto;
+  max-width: 780px;
+}
+
+.post-groups {
+  max-width: 820px;
+  background-color: rgba(0,0,0,0.5);
+}
+
+.micropost h1 {
+  color: #cdc253;
+  font: 22px/22px "IM Fell English", Georgia, serif;
+}
+
+.micropost > p, .post > p, .page > p {
+  color: #cdc253;
+  font: 18px/20px "IM Fell English", Georgia, serif;
+}
+
+.micropost > p {
+  color: rgba(255,255,255,.75);
+}
+
+.post > p {
+  margin: 20px auto;
+}
+
+.micropost > a {
+  font-size: 12px;
+  color: #888888;
+  margin: 0;
+}
+
+.micropost p > a, .post p > a {
+  text-decoration: underline; 
+}
+
+.post h2, article.photo .title {
+  margin: 0;
+  font: 32px/34px "IM Fell English SC", Georgia, serif;
+}
+
+article.photo {
+  margin: auto auto;
+  max-width: 820px;
+  overflow: hidden;
+  height: 300px;
+  border-bottom: 40px solid rgba(0,0,0,0);
+}
+
+article.photo div {
+  color: #ffffff;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+
+article.photo .title {
+  padding: 20px;
+}
+
+article.photo p {
+  margin: 0;
+}
+
+figure {
+    display: block;
+    margin: 20px 0;
+}
+
+figure img {
+    width: 100%;
+}
+
+article.photo figure {
+    margin: 0;
+}
+
+article.photo img {
+  -webkit-transition: -webkit-transform 4s ease 0s;
+  -moz-transition: -moz-transform 4s ease 0s;
+  -o-transition: -o-transform 4s ease 0s;
+  transition: transform 4s ease 0s;
+  -webkit-transform: scale3d(1, 1, 1);
+  transform: scale3d(1, 1, 1);
+  width: 100%;
+  margin-top: -150px;
+}
+
+article.photo img[alt="Lovebirds"] {
+  margin-top: -300px;
+}
+article.photo img[alt="Futuristic Billboard Wall"] {
+  margin-top: -725px;
+}
+
+
+article.photo img.flickr-embed-frame,
+div.flickr-embed-photo {
+  width: 820px !important;
+}
+
+article.photo img:hover {
+  -webkit-transform: scale3d(1.1, 1.1, 1.1) rotate(-2deg);
+  transform: scale3d(1.1, 1.1, 1.1) rotate(-2deg);
+}
+
+article .postmeta {
+	color: #999999;
+}
+
+.wp-caption-text {
+	font: 12px/16px "PT Sans Caption", Georgia, serif;
+	color: #FFF167;
+	padding-top: 5px;
+	color: rgba(auto,auto,auto,.5);
+	text-align: center;
+}
+
+.post-group {
+  display: flex;
+  flex-flow: row wrap;
+  margin: auto;
+}
+
+.post-group-item {
+  flex: auto;
+  width: 40%;
+  margin: 5px;
+  font-size: 10pt;
+  color: #999999;
+}
+
+.post-group-item:hover {
+  background-color: rgba(255,255,255,0.1);
+}
+
+.post-group-item h3 {
+  color: #999999;
+  font-size: 16pt;
+  margin: 0;
+  padding: 6px 0 0 6px;
+  font-weight: normal;
+}
+
+.post-group-item ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0 0 0 6px;
+}
+
+/* 
+----------------------------------------------------------------
+Footer and Flickr board
+----------------------------------------------------------------
+*/
+
+footer {
+  background-color: #545454;
+  color: #ffffff;
+  margin: 0;
+}
+
+.footer_text {
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  width: 720px;
+}
+
+.footer_text h3 {
+  color: #cccccc;
+}
+
+.footer_text a {
+  color: #cccccc;
+}
+
+.footer_text > div {
+  flex: 1;
+  margin: 10px;
+}
+
+#photos {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.photo-item {
+  display: block;
+  height: 75px;
+  margin: 1px;
+  overflow: hidden;
+  padding: 0;
+  width: 75px;
+}
+
+.photo-item img {
+  flex: auto;
+  -webkit-transition: -webkit-transform 0.15s ease 0s;
+  -moz-transition: -moz-transform 0.15s ease 0s;
+  -o-transition: -o-transform 0.15s ease 0s;
+  transition: transform 0.15s ease 0s;
+  -webkit-transform: scale3d(1, 1, 1);
+  transform: scale3d(1, 1, 1);
+  height: 100%;
+  width: 100%;
+  opacity: 0.6;
+}
+
+.photo-item img:hover {
+  -webkit-transform: scale3d(1.05, 1.05, 1.05);
+  transform: scale3d(1.05, 1.05, 1.05);
+  opacity: 1.0;
+}
+
+.footer_copyright {
+  color: #999999;
+  font: 14px/20px "IM Fell English SC", Georgia, serif;
+  margin: auto;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.footer_copyright a {
+  color: #cccccc;
+}
+
+/*
+----------------------------------------------------------------
+Special rules for small screen devices
+
+	iPhone SE & 6s
+----------------------------------------------------------------
+*/
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 413px)  {
+
+header {
+  background: black url("/img/field.jpg") no-repeat fixed top left;
+}
+
+nav {
+  width: 100%;
+}
+
+nav .banner {
+  max-height: 190px;
+  margin: 40px 0 0 0;
+} 
+
+nav .banner img {
+  width: 50%;
+  height: 50%;
+} 
+
+nav ul {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  list-style-type: none;
+  margin: 0 auto;
+  width: 100%;
+  padding: 10px 0;
+  background-color: black;
+  text-align: center;
+}
+
+nav ul > li {
+  display: inline;
+  padding: 10px;
+  text-transform: uppercase;
+    font: 10px/12px "IM Fell English", Georgia, serif;
+}
+
+article .postmeta {
+  color: #999999;
+  font: 14px/16px "IM Fell English", Georgia, serif;
+}
+
+aside.dates {
+  font: 14px/16px "IM Fell English", Georgia, serif;
+}
+
+.micropost h1 {
+  color: #cdc253;
+  font: 22px/22px "IM Fell English", Georgia, serif;
+}
+
+.footer_text {
+  width: 100%;
+}
+
+.footer_text > div {
+  flex: auto;
+  width: 100%;
+}
+
+.footer_copyright {
+  font: 16px/18px "IM Fell English SC", Georgia, serif;
+}
+  
+}
+
+/*
+----------------------------------------------------------------
+Special rules for small screen devices
+
+	iPhone 6s Plus
+----------------------------------------------------------------
+*/
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 896px)  {
+
+header {
+  background: black url("/img/field.jpg") no-repeat fixed top left;
+}
+
+nav {
+  width: 100%;
+  margin: 0;
+}
+
+nav .banner {
+  margin: 0;
+  padding: 40px 0 25px 0;
+  border: 0;
+  background-color: rgba(0,0,0,0.75);
+} 
+
+nav .banner img {
+  width: 75%;
+  height: 75%;
+} 
+
+nav ul {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  list-style-type: none;
+  margin: 0 auto;
+  width: 100%;
+  padding: 10px 0;
+  background-color: black;
+  text-align: center;
+}
+
+nav ul > li {
+  display: inline;
+  padding: 10px;
+  text-transform: uppercase;
+  font: 12px/14px "IM Fell English", Georgia, serif;
+}
+
+article .postmeta {
+  color: #999999;
+  font: 14px/16px "IM Fell English", Georgia, serif;
+}
+
+aside.dates {
+  font: 14px/16px "IM Fell English", Georgia, serif;
+}
+
+article.photo {
+  margin: auto auto;
+  max-width: 820px;
+  overflow: hidden;
+  height: 300px;
+  border-bottom: 40px solid rgba(0,0,0,0);
+}
+
+article.photo img {
+  -webkit-transition: -webkit-transform 4s ease 0s;
+  -moz-transition: -moz-transform 4s ease 0s;
+  -o-transition: -o-transform 4s ease 0s;
+  transition: transform 4s ease 0s;
+  -webkit-transform: scale3d(1, 1, 1);
+  transform: scale3d(1, 1, 1);
+  width: 100%;
+  margin-top: -20px;
+}
+
+article.photo img[alt="Lovebirds"] {
+  margin-top: -100px;
+}
+article.photo img[alt="Futuristic Billboard Wall"] {
+  margin-top: -275px;
+}
+
+
+.micropost h1 {
+  color: #cdc253;
+  font: 22px/22px "IM Fell English", Georgia, serif;
+}
+
+.footer_text {
+  width: 100%;
+}
+
+.footer_text > div {
+  flex: auto;
+  width: 100%;
+}
+
+.footer_copyright {
+  font: 16px/18px "IM Fell English SC", Georgia, serif;
+}
+  
+}
