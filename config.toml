@@ -3,7 +3,7 @@ title                       = "Tobyblog"
 baseURL                     = "http://tobyblog.com/"
 theme                       = "internet-weblog"
 Paginate                    = 7
-publishDir                  = "docs"
+publishDir                  = "public"
 SectionPagesMenu            = "Main"
 DisqusShortname				= "tobyblog-com"
 
