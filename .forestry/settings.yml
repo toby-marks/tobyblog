@@ -24,7 +24,7 @@ sections:
   label: Pages
   create: all
   match: "*"
-upload_dir: img
+upload_dir: ''
 public_path: https://res.cloudinary.com/tobyblog/image/upload
 front_matter_path: ''
 use_front_matter_path: true
