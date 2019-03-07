@@ -1,6 +1,9 @@
 +++
-title = "2019 03 06 Ash Wednesday"
-date = "2019-03-07T08:28:11-06:00"
+title = "Ash Wednesday, Great Lent"
+description = "For Catholics, this is the beginning of Lent. For me, I'm already in it."
+date = "2019-03-06T23:28:11-06:00"
+categories = ["Journal"]
+tags = ["Orthodox", "Lent", "religion"]
 +++
 {{% flickr "Theotokos Icon"
            "Theotokos Icon"
