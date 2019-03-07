@@ -1035,7 +1035,7 @@
   
   <url>
     <loc>http://tobyblog.com/categories/journal/</loc>
-    <lastmod>2019-03-06T23:28:11-06:00</lastmod>
+    <lastmod>2019-03-07T06:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1425,6 +1425,12 @@
   <url>
     <loc>http://tobyblog.com/tags/takis/</loc>
     <lastmod>2014-04-18T21:20:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/test/</loc>
+    <lastmod>2019-03-07T06:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
