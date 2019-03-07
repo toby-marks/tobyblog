@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on Tobyblog</title>
+    <link>http://tobyblog.com/tags/test/</link>
+    <description>Recent content in Test on Tobyblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Mar 2019 06:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tobyblog.com/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>http://tobyblog.com/posts/test/</link>
+      <pubDate>Thu, 07 Mar 2019 06:00:00 +0000</pubDate>
+      
+      <guid>http://tobyblog.com/posts/test/</guid>
+      <description>Test post with image.</description>
+    </item>
+    
+  </channel>
+</rss>
