@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Takis on Tobyblog</title>
+    <link>http://tobyblog.com/tags/takis/</link>
+    <description>Recent content in Takis on Tobyblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Apr 2014 21:20:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tobyblog.com/tags/takis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Taki&#39;s, Cane Sugar Soda Pops</title>
+      <link>http://tobyblog.com/posts/takis-cane-sugar-soda-pops/</link>
+      <pubDate>Fri, 18 Apr 2014 21:20:00 +0000</pubDate>
+      
+      <guid>http://tobyblog.com/posts/takis-cane-sugar-soda-pops/</guid>
+      <description>This is an older review from TheVCubeSolver and I very much inspired by the hijinks of Brian Hammons and the gang over at Review the World. In it we take a look at a couple of different varieties of Taki&amp;rsquo;s chips and some cane sugar soda pops we picked up at the local coffee shop. 
+Oh, and you&amp;rsquo;ll notice I&amp;rsquo;m calling myself &amp;ldquo;Meeks, the Pedestrian&amp;rdquo;. Cause we were trying to have code names or something.</description>
+    </item>
+    
+  </channel>
+</rss>
