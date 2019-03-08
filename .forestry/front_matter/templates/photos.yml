@@ -19,3 +19,5 @@ fields:
 - type: tag_list
   name: camera
   label: Camera
+pages:
+- content/photos/forestwood-antique-mall-artifacts.md
