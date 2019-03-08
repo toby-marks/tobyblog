@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/posts/2019-03-08-brown-noise/</loc>
+    <lastmod>2019-03-08T12:31:10-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/microposts/happy-spring/</loc>
     <lastmod>2019-03-08T06:00:00+00:00</lastmod>
   </url>
@@ -1147,7 +1152,7 @@
   
   <url>
     <loc>http://tobyblog.com/categories/music/</loc>
-    <lastmod>2019-02-20T23:07:28-08:00</lastmod>
+    <lastmod>2019-03-08T12:31:10-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1213,7 +1218,7 @@
   
   <url>
     <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2019-03-06T23:28:11-06:00</lastmod>
+    <lastmod>2019-03-08T12:31:10-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1482,7 +1487,7 @@
   
   <url>
     <loc>http://tobyblog.com/</loc>
-    <lastmod>2019-03-08T06:00:00+00:00</lastmod>
+    <lastmod>2019-03-08T12:31:10-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1517,6 +1522,12 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/work/</loc>
+    <lastmod>2019-03-08T12:31:10-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/tags/world-market/</loc>
     <lastmod>2014-09-27T07:52:00+00:00</lastmod>
     <priority>0</priority>
@@ -1524,7 +1535,7 @@
   
   <url>
     <loc>http://tobyblog.com/tags/youtube/</loc>
-    <lastmod>2019-02-20T23:07:28-08:00</lastmod>
+    <lastmod>2019-03-08T12:31:10-06:00</lastmod>
     <priority>0</priority>
   </url>
   
