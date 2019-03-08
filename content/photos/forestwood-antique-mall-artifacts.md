@@ -2,7 +2,7 @@
 camera = ["iPhone XS"]
 date = "2019-03-07T06:00:00+00:00"
 location = "Dallas, TX"
-title = "Forestwood Antique Mall: Artifacts"
+title = "Forestwood Antique Mall"
 
 +++
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1552004266/img/CE8CD332-4542-497F-8C28-C4EA7C7216CD.jpg)
