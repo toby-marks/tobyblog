@@ -1,6 +1,5 @@
 +++
 date = "2019-03-09T06:00:00+00:00"
-draft = true
 title = "Rise and Shine"
 
 +++
