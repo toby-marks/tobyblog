@@ -18,4 +18,4 @@ title = "Plano Trade Days"
 
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1552180940/img/E4F04E85-1FD2-4D48-BC48-6D21B0D2BE63.jpg)
 
-![](https://res.cloudinary.com/tobyblog/image/upload/v1552180979/img/656D245C-02E6-4DCB-86E4-43AEFD30C3AF.jpg)
+![](https://res.cloudinary.com/tobyblog/image/upload/a_0/v1552180979/img/656D245C-02E6-4DCB-86E4-43AEFD30C3AF.jpg)
