@@ -5,7 +5,7 @@ location = "Plano, TX"
 title = "Plano Trade Days"
 
 +++
-![](https://res.cloudinary.com/tobyblog/image/upload/v1552180710/img/3092C5EB-BFB7-4C74-9522-63A923D64E83.jpg)
+![](https://res.cloudinary.com/tobyblog/image/upload/a_0/v1552180710/img/3092C5EB-BFB7-4C74-9522-63A923D64E83.jpg)
 <!--more-->
 
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1552180745/img/CAD11DE1-FC7A-430F-B197-D27E386705FB.jpg)
