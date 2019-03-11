@@ -1,7 +1,6 @@
 +++
 camera = ["iPhone XS"]
 date = "2019-03-10T08:00:00+00:00"
-draft = true
 location = "Los Angeles, CA"
 title = "Back in L.A."
 
