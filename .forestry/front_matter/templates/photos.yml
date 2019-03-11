@@ -20,5 +20,6 @@ fields:
   name: camera
   label: Camera
 pages:
+- content/photos/back-in-l-a.md
 - content/photos/plano-trade-days.md
 - content/photos/forestwood-antique-mall-artifacts.md
