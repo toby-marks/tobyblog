@@ -14,6 +14,7 @@ fields:
     date_format: YYYY-MM-DD
     required: true
 pages:
+- content/microposts/positive-feedback.md
 - content/microposts/old-methodist-church.md
 - content/microposts/let-s-play-poison.md
 - content/microposts/for-the-lightly-bosomed-woman.md
