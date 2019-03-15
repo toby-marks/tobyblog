@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/photos/pasadena-streets/</loc>
+    <lastmod>2019-03-15T11:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/taco-libre/</loc>
     <lastmod>2019-03-14T22:57:00+00:00</lastmod>
   </url>
@@ -1317,7 +1322,7 @@
   
   <url>
     <loc>http://tobyblog.com/photos/</loc>
-    <lastmod>2019-03-14T21:00:00+00:00</lastmod>
+    <lastmod>2019-03-15T11:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1604,7 +1609,7 @@
   
   <url>
     <loc>http://tobyblog.com/</loc>
-    <lastmod>2019-03-14T22:57:00+00:00</lastmod>
+    <lastmod>2019-03-15T11:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
