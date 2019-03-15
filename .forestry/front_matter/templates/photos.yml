@@ -20,10 +20,10 @@ fields:
   name: camera
   label: Camera
 pages:
-- content/photos/pasadena-street-musician.md
 - content/photos/antiques-part-2.md
-- content/photos/antiques.md
 - content/photos/pokémon-go-in-pasadena.md
+- content/photos/antiques.md
+- content/photos/pasadena-street-musician.md
 - content/photos/back-in-l-a.md
 - content/photos/plano-trade-days.md
 - content/photos/forestwood-antique-mall-artifacts.md
