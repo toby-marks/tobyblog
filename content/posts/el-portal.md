@@ -1,16 +1,34 @@
 +++
 categories = ["Reviews"]
-date = "2019-03-14T03:00:00+00:00"
+date = "2019-03-14T23:13:00+00:00"
 description = "A review of El Portal Yucatán Mexican Restaurant in Pasadena, CA"
-draft = true
+draft = false
 tags = ["Reviews", "food"]
-title = "El Portal "
+title = "Good Times at the El Portal"
 
 +++
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1552625591/img/761E75E1-8A2E-4D98-9348-5951E7436215.jpg)
 
+I took a detour that night after my trip to the antique store. I passed along back streets, out of the way plazas, anywhere that looked like it might afford me new scenery. I stumbled across El Portal behind the headquarters of the Planetary Society, its aromas drawing my attention before I'd even rounded the corner to lay site on the place. 
+<!--more-->
+I didn't go that night, as I had other matters to attend to.
+
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1552625617/img/E7D932A2-2721-431E-B77B-B53BD4D555B4.jpg)
+
+I returned a couple of days later to see what I'd missed. I am trying to keep the Orthodox fast for Great Lent, and after a few days of vegan eating I was feeling the need for protein. I noticed it featured Yucatán cuisine. Thankfully shrimp and other shellfish are allowed on the fast, so I figured I'd pop in for some shrimp enchiladas or something equivalent.
+
+The place had a cozy and dim ambiance, suitable for a date or upscale family dining. The restaurant is neatly tucked away from busy Colorado boulevard by an enclosed brick-lined space that while walking through it gave me the sense of being underground. However, the back opens up on the parking lot and there is plenty of outside seating for when the weather's nice. I chose a table inside as it was a little chill that evening.
 
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1552625745/img/00386CF6-C7CD-473C-90DE-2393F6B5F840.jpg)
 
+I was pleased they brought out chips and salsa, as Kassi and I have discovered that not all Mexican restaurants across the country provide those for free. However I found the salsa very disappointing. It was cold, bland, and sweet. The only thing that tasted fresh about it were the chopped onions. I liked the chips, though. They were crispy and lightly salted, and held up well for dipping in the watery salsa. Overall it was not the best start to the meal.
+
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1552625766/img/C4F82234-7135-4A44-98FC-07A6B3DE7383.jpg)
+
+I ordered the seafood fajita plate and substituted additional shrimp for the fish, which is normally off limits for Great Lent. It also came with small salad scallops, which were barely noticeable amid the tasty grilled vegetables and the deliciously thick, savory sauce they everything slathered in.
+
+When they brought the meal to table it still had a nice aggressive sizzle. Smelled wonderful, too. It came with the standard plate of rice and refried beans, which I substituted for black beans. I expected whole beans, but they served them refried, a nice treat. The whole thing was absolutely delicious. I loved the sauce and there was plenty of it. It only came with three tortillas. I ordered corn but they served me flour instead. Not a big enough problem to complain about. They were tasty regardless. At any rate I only ate two. The guac was nicely seasoned, and the rice and beans were acceptable. I favored the beans a little more, perhaps. 
+
+The shrimp were perfectly cooked and served tail-on, off course. I eat the tails; they give an added crunch. The scallops were tasty, but so small as to be almost insubstantial on their own. There was a sufficient amount scattered about the plate. The grilled vegetables and onions, though, were outstanding in that lovely sauce. I devoured the whole thing, no apologies.
+
+*Rating:* Recommended. I plan to return.
