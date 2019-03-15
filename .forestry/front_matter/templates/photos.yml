@@ -20,6 +20,7 @@ fields:
   name: camera
   label: Camera
 pages:
+- content/photos/pasadena-streets.md
 - content/photos/antiques-part-2.md
 - content/photos/pokémon-go-in-pasadena.md
 - content/photos/antiques.md
