@@ -23,5 +23,6 @@ fields:
   name: tags
   label: Tags
 pages:
+- content/posts/taco-libre.md
 - content/posts/el-portal.md
 - content/posts/a-simple-but-powerful-prayer.md
