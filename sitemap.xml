@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/microposts/selfie-from-cali/</loc>
+    <lastmod>2019-03-15T15:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/photos/pasadena-streets/</loc>
     <lastmod>2019-03-15T11:00:00+00:00</lastmod>
   </url>
@@ -1249,7 +1254,7 @@
   
   <url>
     <loc>http://tobyblog.com/microposts/</loc>
-    <lastmod>2019-03-14T22:55:00+00:00</lastmod>
+    <lastmod>2019-03-15T15:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1614,7 +1619,7 @@
   
   <url>
     <loc>http://tobyblog.com/</loc>
-    <lastmod>2019-03-15T11:00:00+00:00</lastmod>
+    <lastmod>2019-03-15T15:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
