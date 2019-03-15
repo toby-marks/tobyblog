@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/posts/el-portal/</loc>
+    <lastmod>2019-03-14T23:13:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/photos/pasadena-street-musician/</loc>
     <lastmod>2019-03-14T21:00:00+00:00</lastmod>
   </url>
@@ -978,7 +983,7 @@
   
   <url>
     <loc>http://tobyblog.com/tags/food/</loc>
-    <lastmod>2019-02-19T23:42:48-08:00</lastmod>
+    <lastmod>2019-03-14T23:13:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1067,14 +1072,14 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/halloween/</loc>
-    <lastmod>2018-04-22T13:49:48-05:00</lastmod>
+    <loc>http://tobyblog.com/tags/halloween/</loc>
+    <lastmod>2018-10-31T09:34:28-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/halloween/</loc>
-    <lastmod>2018-10-31T09:34:28-05:00</lastmod>
+    <loc>http://tobyblog.com/categories/halloween/</loc>
+    <lastmod>2018-04-22T13:49:48-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1241,14 +1246,14 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/music/</loc>
-    <lastmod>2019-03-08T12:31:10-06:00</lastmod>
+    <loc>http://tobyblog.com/tags/music/</loc>
+    <lastmod>2019-02-20T23:07:28-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/music/</loc>
-    <lastmod>2019-02-20T23:07:28-08:00</lastmod>
+    <loc>http://tobyblog.com/categories/music/</loc>
+    <lastmod>2019-03-08T12:31:10-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1314,7 +1319,7 @@
   
   <url>
     <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2019-03-12T07:00:00+00:00</lastmod>
+    <lastmod>2019-03-14T23:13:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1379,13 +1384,13 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/religion/</loc>
+    <loc>http://tobyblog.com/tags/religion/</loc>
     <lastmod>2019-03-12T07:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/religion/</loc>
+    <loc>http://tobyblog.com/categories/religion/</loc>
     <lastmod>2019-03-12T07:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1415,14 +1420,14 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/reviews/</loc>
-    <lastmod>2017-11-24T10:49:02-06:00</lastmod>
+    <loc>http://tobyblog.com/tags/reviews/</loc>
+    <lastmod>2019-03-14T23:13:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/reviews/</loc>
-    <lastmod>2017-11-24T10:49:02-06:00</lastmod>
+    <loc>http://tobyblog.com/categories/reviews/</loc>
+    <lastmod>2019-03-14T23:13:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1589,7 +1594,7 @@
   
   <url>
     <loc>http://tobyblog.com/</loc>
-    <lastmod>2019-03-14T21:00:00+00:00</lastmod>
+    <lastmod>2019-03-14T23:13:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
