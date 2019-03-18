@@ -20,6 +20,7 @@ fields:
   name: camera
   label: Camera
 pages:
+- "content/photos/bee-\U0001F41D.md"
 - content/photos/contrail-rainbow.md
 - content/photos/a-half-price-books.md
 - content/photos/pasadena-streets.md
