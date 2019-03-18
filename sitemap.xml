@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/photos/bee-/</loc>
+    <lastmod>2019-03-18T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/microposts/st-patrick-s-favorite-drink/</loc>
     <lastmod>2019-03-16T17:00:00+00:00</lastmod>
   </url>
@@ -1347,7 +1352,7 @@
   
   <url>
     <loc>http://tobyblog.com/photos/</loc>
-    <lastmod>2019-03-16T11:00:00+00:00</lastmod>
+    <lastmod>2019-03-18T08:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1634,7 +1639,7 @@
   
   <url>
     <loc>http://tobyblog.com/</loc>
-    <lastmod>2019-03-16T17:00:00+00:00</lastmod>
+    <lastmod>2019-03-18T08:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
