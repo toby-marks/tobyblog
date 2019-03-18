@@ -20,10 +20,10 @@ fields:
   name: camera
   label: Camera
 pages:
+- content/photos/pasadena-streets.md
+- content/photos/a-half-price-books.md
 - "content/photos/bee-\U0001F41D.md"
 - content/photos/contrail-rainbow.md
-- content/photos/a-half-price-books.md
-- content/photos/pasadena-streets.md
 - content/photos/antiques-part-2.md
 - content/photos/pokémon-go-in-pasadena.md
 - content/photos/antiques.md
