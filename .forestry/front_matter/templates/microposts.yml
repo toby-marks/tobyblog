@@ -14,6 +14,7 @@ fields:
     date_format: YYYY-MM-DD
     required: true
 pages:
+- content/microposts/vodka-stinger.md
 - content/microposts/st-patrick-s-favorite-drink.md
 - content/microposts/the-smell-of-rotten-pumpkins.md
 - content/microposts/selfie-from-cali.md
