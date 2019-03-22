@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=PT+Sans+Caption:700|IM+Fell+English');
+@import url('https://fonts.googleapis.com/css?family=Goudy+Bookletter+1911|Sorts+Mill+Goudy|Special+Elite');
 
 /* 
 ----------------------------------------------------------------
@@ -7,14 +7,14 @@ Universal rules
 */
 
 body {
-  font: 18px/20px "IM Fell English", Georgia, serif;
+  font: 16px/24px "Sorts Mill Goudy", serif;
   background: black url("/img/field.jpg") no-repeat fixed top left;
   background-size: cover;
-  color: #cdc253;
+  color: #cccccc;
 }
 
 a[href] {
-	color: #ff9900;
+	color: #ebe084;
 	text-decoration: none;
 }
 
@@ -23,9 +23,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, article.photo .title {
-  color: #ff9900;
-  font-size: 1.25em;
-  font-weight: bold;
+  font: 1.7em "Goudy Bookletter 1911", serif;
 }
 
 p img {
@@ -36,20 +34,14 @@ p img {
 }
 
 blockquote {
-  background-color: #F0F2F5;
+  background-color: #333333;
   color: #999999;
   padding: 5px;
 }
 
 blockquote p {
   font-style: italic;
-  padding: 0 10px;
-}
-
-blockquote p:last-child {
-  font-style: normal;
-  padding-left: 30px;
-
+  padding: 0 20px 0 20px;
 }
 
 .site {
@@ -79,12 +71,11 @@ header {
 
 header h1 {
   vertical-align: middle;
-  font-size: 30px;
   line-height: 32px;
   margin: 0 auto;
   padding: 10px 10px 0 10px;
   max-width: 720px;
-  color: #5B636E;
+  color: #ffffff;
 }
 
 nav {
@@ -107,20 +98,19 @@ nav ul {
   margin: 0 0 0 -410px;
   width: 820px;
   padding: 10px 0;
-  background-color: black;
+  background-color: #000000;
   text-align: right;
 }
 
 nav ul > li a[href] {
-  color: #cdc253;
+  color: #ebe084;
 }
 
 nav ul > li {
   display: inline;
   padding: 10px;
-  text-transform: uppercase;
-  font-size: 9pt;
-  font-weight: normal;
+  text-transform: UPPERCASE;
+  font: .7em "Goudy Bookletter 1911", serif;
 }
 
 .rss-icon {
@@ -134,7 +124,7 @@ nav ul > li {
 }
 
 .pagination span {
-  color: #dddddd;
+  color: #ebe084;
 }
 
 /* 
@@ -153,7 +143,7 @@ Articles
 }
 
 .micropost {
-  background-color: rgba(0,0,0,.75); 
+  background-color: rgba(0, 0, 0, 0.75); 
   margin: auto auto;
   padding: 20px;
   max-width: 780px;
@@ -170,36 +160,34 @@ Articles
 }
 
 .micropost h1 {
-  color: #cdc253;
-  font: 22px/22px "IM Fell English", Georgia, serif;
+  color: #cccccc;
+  font: "Sorts Mill Goudy", serif;
 }
 
 .micropost > p, .post > p, .page > p {
-  color: #cdc253;
-  font: 18px/20px "IM Fell English", Georgia, serif;
+  color: #cccccc;
 }
 
-.micropost > p {
-  color: rgba(255,255,255,.75);
+.post p {
+	color: #c2ba6e;  /*darker version of #ebe084*/
+}
+
+.micropost a {
+  color: #eeeeee;
+}
+
+aside.dates {
+  color: #999999;
+  font: .7em "Special Elite", cursive;
 }
 
 .post > p {
   margin: 20px auto;
 }
 
-.micropost > a {
-  font-size: 12px;
-  color: #888888;
-  margin: 0;
-}
-
-.micropost p > a, .post p > a {
-  text-decoration: underline; 
-}
-
 .post h2, article.photo .title {
   margin: 0;
-  font: 32px/34px "IM Fell English SC", Georgia, serif;
+  font: "Sorts Mill Goudy", serif;
 }
 
 article.photo {
@@ -211,7 +199,6 @@ article.photo {
 }
 
 article.photo div {
-  color: #ffffff;
   padding: 0;
   margin: 0;
   overflow: hidden;
@@ -268,12 +255,17 @@ article.photo img:hover {
 }
 
 article .postmeta {
-	color: #999999;
+  color: #999999;
+  font: .7em "Special Elite", cursive;
+}
+
+article .postmeta a {
+	color: #eeeeee;
 }
 
 .wp-caption-text {
-	font: 12px/16px "PT Sans Caption", Georgia, serif;
-	color: #FFF167;
+	font: .7em "Special Elite", cursive;
+	color: #eeeeee;
 	padding-top: 5px;
 	color: rgba(auto,auto,auto,.5);
 	text-align: center;
@@ -289,7 +281,7 @@ article .postmeta {
   flex: auto;
   width: 40%;
   margin: 5px;
-  font-size: 10pt;
+  font-size: .7em;
   color: #999999;
 }
 
@@ -299,10 +291,9 @@ article .postmeta {
 
 .post-group-item h3 {
   color: #999999;
-  font-size: 16pt;
+  font-size: 2.1em;
   margin: 0;
   padding: 6px 0 0 6px;
-  font-weight: normal;
 }
 
 .post-group-item ul {
@@ -378,7 +369,7 @@ footer {
 
 .footer_copyright {
   color: #999999;
-  font: 14px/20px "IM Fell English SC", Georgia, serif;
+  font: .7em "Sorts Mill Goudy", serif;
   margin: auto;
   padding: 10px 0;
   text-align: center;
@@ -426,7 +417,7 @@ nav ul {
   margin: 0 auto;
   width: 100%;
   padding: 10px 0;
-  background-color: black;
+  background-color: #000000;
   text-align: center;
 }
 
@@ -434,21 +425,17 @@ nav ul > li {
   display: inline;
   padding: 10px;
   text-transform: uppercase;
-    font: 10px/12px "IM Fell English", Georgia, serif;
+  font: .7em "Sorts Mill Goudy", serif;
 }
 
 article .postmeta {
   color: #999999;
-  font: 14px/16px "IM Fell English", Georgia, serif;
-}
-
-aside.dates {
-  font: 14px/16px "IM Fell English", Georgia, serif;
+  font: "Sorts Mill Goudy", serif;
 }
 
 .micropost h1 {
-  color: #cdc253;
-  font: 22px/22px "IM Fell English", Georgia, serif;
+  color: #cccccc;
+  font: "Sorts Mill Goudy", serif;
 }
 
 .footer_text {
@@ -461,7 +448,7 @@ aside.dates {
 }
 
 .footer_copyright {
-  font: 16px/18px "IM Fell English SC", Georgia, serif;
+  font: .7em "Sorts Mill Goudy", serif;
 }
   
 }
@@ -506,7 +493,7 @@ nav ul {
   margin: 0 auto;
   width: 100%;
   padding: 10px 0;
-  background-color: black;
+  background-color: #000000;
   text-align: center;
 }
 
@@ -514,16 +501,12 @@ nav ul > li {
   display: inline;
   padding: 10px;
   text-transform: uppercase;
-  font: 12px/14px "IM Fell English", Georgia, serif;
+  font: "Sorts Mill Goudy", serif;
 }
 
 article .postmeta {
   color: #999999;
-  font: 14px/16px "IM Fell English", Georgia, serif;
-}
-
-aside.dates {
-  font: 14px/16px "IM Fell English", Georgia, serif;
+  font: "Sorts Mill Goudy", serif;
 }
 
 article.photo {
@@ -554,8 +537,8 @@ article.photo img[alt="Futuristic Billboard Wall"] {
 
 
 .micropost h1 {
-  color: #cdc253;
-  font: 22px/22px "IM Fell English", Georgia, serif;
+  color: #cccccc;
+  font: "Sorts Mill Goudy", serif;
 }
 
 .footer_text {
@@ -568,7 +551,7 @@ article.photo img[alt="Futuristic Billboard Wall"] {
 }
 
 .footer_copyright {
-  font: 16px/18px "IM Fell English SC", Georgia, serif;
+  font: .7em "Sorts Mill Goudy", serif;
 }
   
 }

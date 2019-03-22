@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microposts on Tobyblog</title>
+    <link>http://tobyblog.com/micropost/</link>
+    <description>Recent content in Microposts on Tobyblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Mar 2019 15:09:30 -0500</lastBuildDate>
+    
+	<atom:link href="http://tobyblog.com/micropost/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>http://tobyblog.com/micropost/test/</link>
+      <pubDate>Fri, 22 Mar 2019 15:09:30 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/micropost/test/</guid>
+      <description>Here is a test blockquote.
+ here is my blockquoted text.
+ Now here is a link to something.</description>
+    </item>
+    
+  </channel>
+</rss>
