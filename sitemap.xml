@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/micropost/test/</loc>
+    <lastmod>2019-03-22T15:09:30-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/elder-joseph/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
@@ -1278,6 +1283,12 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/micropost/</loc>
+    <lastmod>2019-03-22T15:09:30-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/microposts/</loc>
     <lastmod>2019-03-16T17:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1650,7 +1661,7 @@
   
   <url>
     <loc>http://tobyblog.com/</loc>
-    <lastmod>2019-03-18T12:02:52-05:00</lastmod>
+    <lastmod>2019-03-22T15:09:30-05:00</lastmod>
     <priority>0</priority>
   </url>
   
