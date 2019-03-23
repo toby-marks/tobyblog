@@ -242,6 +242,9 @@ article.photo img[alt="Lovebirds"] {
 article.photo img[alt="Futuristic Billboard Wall"] {
   margin-top: -725px;
 }
+article.photo img[alt="Backlit Flower"] {
+  margin-top: -325px;
+}
 
 
 article.photo img.flickr-embed-frame,
@@ -533,6 +536,9 @@ article.photo img[alt="Lovebirds"] {
 }
 article.photo img[alt="Futuristic Billboard Wall"] {
   margin-top: -275px;
+}
+article.photo img[alt="Backlit Flower"] {
+  margin-top: -65px;
 }
 
 
