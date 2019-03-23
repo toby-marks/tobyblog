@@ -1,5 +1,5 @@
 +++
-title = "Flowers and Graffiti on a Morning Walk"
+title = "Flowers and Graffiti"
 date = "2019-03-23T17:17:50-05:00"
 location = "McKinney, TX"
 camera = "iPhone XS"
