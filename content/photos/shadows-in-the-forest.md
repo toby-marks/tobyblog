@@ -4,11 +4,16 @@ date = "2019-03-24T11:57:33-05:00"
 location = "Dallas, TX"
 camera = "iPhone XS"
 +++
+{{% flickr "The Game is Afoot"
+           "                               "
+           "https://www.flickr.com/photos/tobyjmarks/33581029088/"
+           "https://farm8.staticflickr.com/7834/33581029088_ca22827b68_k.jpg" %}}
+<!--more-->
+
 {{% flickr "Hide and Seek"
            "                               "
            "https://www.flickr.com/photos/tobyjmarks/47404401602/"
            "https://farm8.staticflickr.com/7845/47404401602_3eafceba8f_k.jpg" %}}
-<!--more-->
 
 {{% flickr "Owl and Shadow"
            "                               "
@@ -29,11 +34,6 @@ camera = "iPhone XS"
            "                               "
            "https://www.flickr.com/photos/tobyjmarks/33581027048/"
            "https://farm8.staticflickr.com/7850/33581027048_f53487e6a4_k.jpg" %}}
-
-{{% flickr "The Game is Afoot"
-           "                               "
-           "https://www.flickr.com/photos/tobyjmarks/33581029088/"
-           "https://farm8.staticflickr.com/7834/33581029088_ca22827b68_k.jpg" %}}
 
 {{% flickr "Giving the Game Away"
            "                               "
