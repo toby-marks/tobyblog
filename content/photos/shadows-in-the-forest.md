@@ -4,16 +4,16 @@ date = "2019-03-24T11:57:33-05:00"
 location = "Dallas, TX"
 camera = "iPhone XS"
 +++
-{{% flickr "Owl and Shadow"
-           "                               "
-           "https://www.flickr.com/photos/tobyjmarks/47404402992/"
-           "https://farm8.staticflickr.com/7910/47404402992_1bb2d60466_k.jpg" %}}
-<!--more-->
-
 {{% flickr "Hide and Seek"
            "                               "
            "https://www.flickr.com/photos/tobyjmarks/47404401602/"
            "https://farm8.staticflickr.com/7845/47404401602_3eafceba8f_k.jpg" %}}
+<!--more-->
+
+{{% flickr "Owl and Shadow"
+           "                               "
+           "https://www.flickr.com/photos/tobyjmarks/47404402992/"
+           "https://farm8.staticflickr.com/7910/47404402992_1bb2d60466_k.jpg" %}}
 
 {{% flickr "Game Over"
            "                               "
