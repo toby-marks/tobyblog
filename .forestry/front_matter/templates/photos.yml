@@ -20,6 +20,7 @@ fields:
   name: camera
   label: Camera
 pages:
+- content/photos/old-woman-lost-in-thought.md
 - content/photos/pasadena-streets.md
 - content/photos/a-half-price-books.md
 - "content/photos/bee-\U0001F41D.md"
