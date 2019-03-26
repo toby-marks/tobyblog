@@ -245,6 +245,9 @@ article.photo img[alt="Futuristic Billboard Wall"] {
 article.photo img[alt="Backlit Flower"] {
   margin-top: -325px;
 }
+article.photo img[alt="Old Woman"] {
+  margin-top: -400px;
+}
 
 
 article.photo img.flickr-embed-frame,
@@ -539,6 +542,9 @@ article.photo img[alt="Futuristic Billboard Wall"] {
 }
 article.photo img[alt="Backlit Flower"] {
   margin-top: -65px;
+}
+article.photo img[alt="Old Woman"] {
+  margin-top: -100px;
 }
 
 
