@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/microposts/cappuccino-in-the-morning/</loc>
+    <lastmod>2019-04-03T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/microposts/a-lenten-meditation/</loc>
     <lastmod>2019-03-28T08:00:00+00:00</lastmod>
   </url>
@@ -1142,14 +1147,14 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/halloween/</loc>
-    <lastmod>2018-10-31T09:34:28-05:00</lastmod>
+    <loc>http://tobyblog.com/categories/halloween/</loc>
+    <lastmod>2018-04-22T13:49:48-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/halloween/</loc>
-    <lastmod>2018-04-22T13:49:48-05:00</lastmod>
+    <loc>http://tobyblog.com/tags/halloween/</loc>
+    <lastmod>2018-10-31T09:34:28-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1299,7 +1304,7 @@
   
   <url>
     <loc>http://tobyblog.com/microposts/</loc>
-    <lastmod>2019-03-28T08:00:00+00:00</lastmod>
+    <lastmod>2019-04-03T09:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1316,14 +1321,14 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/music/</loc>
-    <lastmod>2019-02-20T23:07:28-08:00</lastmod>
+    <loc>http://tobyblog.com/categories/music/</loc>
+    <lastmod>2019-03-08T12:31:10-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/music/</loc>
-    <lastmod>2019-03-08T12:31:10-06:00</lastmod>
+    <loc>http://tobyblog.com/tags/music/</loc>
+    <lastmod>2019-02-20T23:07:28-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1460,13 +1465,13 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/religion/</loc>
+    <loc>http://tobyblog.com/categories/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/religion/</loc>
+    <loc>http://tobyblog.com/tags/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1496,13 +1501,13 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/reviews/</loc>
+    <loc>http://tobyblog.com/categories/reviews/</loc>
     <lastmod>2019-03-14T22:57:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/reviews/</loc>
+    <loc>http://tobyblog.com/tags/reviews/</loc>
     <lastmod>2019-03-14T22:57:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1670,7 +1675,7 @@
   
   <url>
     <loc>http://tobyblog.com/</loc>
-    <lastmod>2019-03-28T08:00:00+00:00</lastmod>
+    <lastmod>2019-04-03T09:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
