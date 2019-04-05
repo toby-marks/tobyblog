@@ -22,6 +22,9 @@ fields:
 - type: tag_list
   name: tags
   label: Tags
+- type: text
+  name: externalurl
+  label: External URL
 pages:
 - content/posts/taco-libre.md
 - content/posts/el-portal.md
