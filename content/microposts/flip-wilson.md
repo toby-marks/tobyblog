@@ -1,6 +1,5 @@
 +++
 date = "2019-04-06T20:00:00+00:00"
-draft = true
 title = "Flip Wilson"
 
 +++
