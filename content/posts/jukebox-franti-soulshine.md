@@ -6,6 +6,6 @@ externalurl = "https://www.youtube.com/watch?v=gHXkJ6dr5xI"
 categories = ["Music"]
 tags = ["music", "Michael Franti", "jukebox"]
 +++
-{{< youtube gHXkJ6dr5xI >}}
-
 Don't you need it?
+
+{{< youtube gHXkJ6dr5xI >}}
