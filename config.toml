@@ -2,7 +2,7 @@ languageCode                = "en-us"
 title                       = "Tobyblog"
 baseURL                     = "http://tobyblog.com/"
 theme                       = "internet-weblog"
-Paginate                    = 3 
+Paginate                    = 5
 publishDir                  = "public"
 SectionPagesMenu            = "Main"
 DisqusShortname				= "tobyblog-com"
@@ -19,7 +19,7 @@ DisqusShortname				= "tobyblog-com"
 	Description = "The place where I share things I'm interested in."
 	ShowCopyright = true
 	RSSEnabled = true
-	RSSSections = [ "Posts", "Microposts", "Photos" ]
+	RSSSections = [ "Posts", "Microposts", "Photos", "Videos" ]
 	RSSMicropostTitles = false
 	YearlyMicroposts = true
 	SummarizeMicroposts = false
@@ -46,3 +46,9 @@ DisqusShortname				= "tobyblog-com"
 	weight = 3
 	identifier = "photos"
 	url = "/photos/"
+
+[[menu.main]]
+	name = "Videos"
+	weight = 4
+	identifier = "videos"
+	url = "/videos/"

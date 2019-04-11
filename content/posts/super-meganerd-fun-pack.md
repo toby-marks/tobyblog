@@ -20,7 +20,7 @@ My cousin Carl, [as previously featured on Tobyblog]({{< ref "/posts/sfanthor-ho
            "https://www.flickr.com/photos/tobyjmarks/26490173862/"
            "https://farm2.staticflickr.com/1479/26490173862_e6f0f1e251_z.jpg" %}}
 
-I suppose he'd heard me mention the excellent [Dino Drac Fun Packs](http://dinosaurdracula.com/blog/funpack-subscriptions/) before, about which I wrote a couple of unboxing blogs. He might also have heard me talk about my own geocaching tribute to same, the [Super Mega Fun Pack]({{< ref "/posts/super-mega-fun-pack.md" >}}).
+I suppose he'd heard me mention the excellent [Dino Drac Fun Packs](http://dinosaurdracula.com/blog/funpack-subscriptions/) before, about which I wrote a couple of unboxing blogs. He might also have heard me talk about my own geocaching tribute to same, the [Super Mega Fun Pack]({{< ref "/videos/super-mega-fun-pack.md" >}}).
 
 You can see how large the box is. Couldn't wait to rip this baby open and revel in all the goodies! Did I mention I was eight years old? At heart, baby, at heart.
 

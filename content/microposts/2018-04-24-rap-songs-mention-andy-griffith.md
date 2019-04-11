@@ -1,10 +1,8 @@
 +++
-title = "The street appeal of Andy Griffith"
+title = "The Andy Griffith Show and the evolution of TV sitcoms"
 date = "2018-04-24T20:37:11-05:00"
 +++
-# The Andy Griffith Show is one of those rare cultural phenomena
-
-…that have spanned generations and left an indelible mark on American pop culture. Deputy Barney Fife consistently ranks among the top tier of American television characters on all polls, placing at number five in The [Chicago Tribune's list of the top 25](http://articles.chicagotribune.com/1995-12-06/features/9512060169_1_lucy-ricardo-ted-baxter-tv-characters) of all time. (I would enthusiastically dispute that either Eddie Haskell or Ed Norton belong on that list above him.) Not only are the characters still beloved and recognizable more than fifty years on from their debut on the small screen, but the whole fictional world of Mayberry has transcended that medium to become a part of the national mythology — a kind of idyllic (and idealized) portrait of the last days of small town life in post-war America.
+The Andy Griffith Show is one of those rare cultural phenomena that have spanned generations and left an indelible mark on American pop culture. Deputy Barney Fife consistently ranks among the top tier of American television characters on all polls, placing at number five in The [Chicago Tribune's list of the top 25](http://articles.chicagotribune.com/1995-12-06/features/9512060169_1_lucy-ricardo-ted-baxter-tv-characters) of all time. (I would enthusiastically dispute that either Eddie Haskell or Ed Norton belong on that list above him.) Not only are the characters still beloved and recognizable more than fifty years on from their debut on the small screen, but the whole fictional world of Mayberry has transcended that medium to become a part of the national mythology — a kind of idyllic (and idealized) portrait of the last days of small town life in post-war America.
 
 In the history of sitcoms, there have been three great formative epochs, possibly four, defined by shows that broke new ground comedically and developed formulas that inspired and informed not only other TV shows of their time, but also the national consciousness. 
 
