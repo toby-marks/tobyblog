@@ -133,7 +133,7 @@ Articles
 ----------------------------------------------------------------
 */
 
-.post {   
+.post, .video {   
   background-color: rgba(0,0,0,1.0); 
   padding: 20px;
 }
@@ -143,13 +143,13 @@ Articles
 }
 
 .micropost {
-  background-color: rgba(0, 0, 0, 0.75); 
+  background-color: rgba(51, 30, 0, 0.75); 
   margin: auto auto;
   padding: 20px;
   max-width: 780px;
 }
 
-.post, .page, .post-groups {
+.post, .video, .page, .post-groups {
   margin: 0px auto;
   max-width: 780px;
 }
@@ -164,11 +164,11 @@ Articles
   font: "Sorts Mill Goudy", serif;
 }
 
-.micropost > p, .post > p, .page > p {
-  color: #cccccc;
+.page > p {
+  color: #aaaaaa;
 }
 
-.post p {
+.post p, .video p {
 	color: #afa763;  /*darker version of #ebe084*/
 }
 
@@ -181,11 +181,11 @@ aside.dates {
   font: .7em "Special Elite", cursive;
 }
 
-.post > p {
+.post > p, .video > p {
   margin: 20px auto;
 }
 
-.post h2, article.photo .title {
+.post h2, article.photo .title, .video h2 {
   margin: 0;
   font: "Sorts Mill Goudy", serif;
 }
