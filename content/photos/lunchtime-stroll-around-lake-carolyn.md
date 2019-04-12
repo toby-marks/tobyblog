@@ -1,13 +1,17 @@
 +++
 camera = ["iPhone XS"]
 date = "2019-04-12T14:00:00+00:00"
-location = "Dallas, TX"
+location = "Irving, TX"
 title = "Stroll Around Lake Carolyn"
 
 +++
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1555098325/img/09A7CF26-16EB-4E1A-B1F5-1A0789E874E0.jpg)
 <!--more-->
+It's good to get out and stretch your legs midway through the day. I've walked this avenue many times. I had a game I used to play where I'd pick a direction, set out and see how far I could get in the time allotted for my lunch break. Then I'd try to beat that mark the next day. 
+
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1555098346/img/B508BA7B-B3D7-4662-916F-B29204F198FC.jpg)
+
+Walking along the lake I sometimes spontaneously remember the things I was thinking about on days I'd visited that spot before.
 
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1555098365/img/1E8D6D8A-955C-426E-83FF-7313C7F8CAE1.jpg)
 
