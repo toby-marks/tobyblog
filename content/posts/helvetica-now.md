@@ -8,3 +8,4 @@ tags = []
 title = "Helvetica Now"
 
 +++
+> "Helvetica Now is the tummy-tuck, facelift and lip filler we’ve been wanting, but were too afraid to ask for,” said Abbott Miller
