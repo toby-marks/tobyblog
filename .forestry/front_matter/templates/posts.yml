@@ -26,6 +26,7 @@ fields:
   name: externalurl
   label: External URL
 pages:
+- content/posts/helvetica-now.md
 - content/posts/300-million-butterflies-coming-to-texas.md
 - content/posts/taco-libre.md
 - content/posts/el-portal.md
