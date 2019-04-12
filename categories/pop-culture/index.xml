@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pop Culture on Tobyblog</title>
+    <link>http://tobyblog.com/categories/pop-culture/</link>
+    <description>Recent content in Pop Culture on Tobyblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Apr 2019 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tobyblog.com/categories/pop-culture/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Helvetica Now</title>
+      <link>http://tobyblog.com/posts/helvetica-now/</link>
+      <pubDate>Fri, 12 Apr 2019 12:00:00 +0000</pubDate>
+      
+      <guid>http://tobyblog.com/posts/helvetica-now/</guid>
+      <description> &amp;ldquo;Helvetica Now is the tummy-tuck, facelift and lip filler we’ve been wanting, but were too afraid to ask for,” said Abbott Miller
+ </description>
+    </item>
+    
+  </channel>
+</rss>
