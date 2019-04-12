@@ -31,4 +31,6 @@ Walking along the lake I sometimes spontaneously remember the things I was think
 
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1555098635/img/4AA68AA3-98A0-4779-805D-C2EA99BFA371.jpg)
 
+It's a special place. Changed a bit now, but with many new spots to explore one day.
+
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1555098653/img/A61D6F2E-2606-4C37-B9F6-3AD29CD02724.jpg)
