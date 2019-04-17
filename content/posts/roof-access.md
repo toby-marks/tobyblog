@@ -2,7 +2,6 @@
 categories = []
 date = "2019-04-15T00:00:00+00:00"
 description = ""
-draft = true
 externalurl = ""
 minipost = true
 tags = []
