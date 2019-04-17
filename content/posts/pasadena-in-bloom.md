@@ -2,7 +2,6 @@
 categories = []
 date = "2019-04-15T10:00:00+00:00"
 description = ""
-externalurl = ""
 minipost = true
 tags = []
 title = "Pasadena in Bloom"
