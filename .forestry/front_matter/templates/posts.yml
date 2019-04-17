@@ -30,6 +30,7 @@ fields:
   label: Minipost
   hidden: false
 pages:
+- content/posts/pasadena-in-bloom.md
 - content/posts/roof-access.md
 - content/posts/helvetica-now.md
 - content/posts/300-million-butterflies-coming-to-texas.md
