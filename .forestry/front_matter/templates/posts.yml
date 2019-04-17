@@ -25,6 +25,10 @@ fields:
 - type: text
   name: externalurl
   label: External URL
+- type: boolean
+  name: minipost
+  label: Minipost
+  hidden: false
 pages:
 - content/posts/helvetica-now.md
 - content/posts/300-million-butterflies-coming-to-texas.md
