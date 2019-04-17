@@ -30,6 +30,7 @@ fields:
   label: Minipost
   hidden: false
 pages:
+- content/posts/roof-access.md
 - content/posts/helvetica-now.md
 - content/posts/300-million-butterflies-coming-to-texas.md
 - content/posts/taco-libre.md
