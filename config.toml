@@ -16,13 +16,14 @@ DisqusShortname				= "tobyblog-com"
 	FlickrID = "75738497@N00"
 
 [params]
-	Description = "The place where I share things I'm interested in."
+	Description = "The personal blog and home page of one of the web's many Tobys. What distinguishes me is that I own the domain. To you I say welcome(!) in the grand old tradition of proto-websites of the nineties. The place where I deposit the overflow of my time, mind, and labors, Tobyblog is my refuge from the coming social media apocalypse."
 	ShowCopyright = true
 	RSSEnabled = true
 	RSSSections = [ "Posts", "Microposts", "Photos", "Videos" ]
 	RSSMicropostTitles = false
 	YearlyMicroposts = true
 	SummarizeMicroposts = false
+	images = ["img/tobyblog-site-cover.jpg"]
 
 [taxonomies]
 	tag = "tags"
