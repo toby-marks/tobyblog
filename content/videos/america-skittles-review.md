@@ -4,6 +4,8 @@ date = "2017-08-13T23:07:25-05:00"
 description = "AugieRFC and I review America Skittles with our old buddy Brian of ReviewTheWorld.com"
 tags = ["reviews", "review the world", "skittles", "candy"]
 categories = ["Reviews"]
+externalurl = "https://www.youtube.com/watch?v=fLk7N04OQ5E"
+minipost = "true"
 +++
 Hello again, folks.
 
