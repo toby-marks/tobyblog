@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Nov 2017 10:49:02 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2014 23:05:38 -0700</lastBuildDate>
     
 	<atom:link href="http://tobyblog.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>http://tobyblog.com/tags/</link>
+      <pubDate>Wed, 12 Mar 2014 23:05:38 -0700</pubDate>
+      
+      <guid>http://tobyblog.com/tags/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ace</title>
@@ -71,6 +80,15 @@
       <pubDate>Fri, 24 Nov 2017 10:49:02 -0600</pubDate>
       
       <guid>http://tobyblog.com/tags/beer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Best Stop</title>
+      <link>http://tobyblog.com/tags/best-stop/</link>
+      <pubDate>Wed, 17 Apr 2019 21:58:19 -0700</pubDate>
+      
+      <guid>http://tobyblog.com/tags/best-stop/</guid>
       <description></description>
     </item>
     
@@ -878,7 +896,7 @@
     <item>
       <title>Potato Chips</title>
       <link>http://tobyblog.com/tags/potato-chips/</link>
-      <pubDate>Sun, 01 Jan 2017 23:24:00 +0000</pubDate>
+      <pubDate>Wed, 17 Apr 2019 21:58:19 -0700</pubDate>
       
       <guid>http://tobyblog.com/tags/potato-chips/</guid>
       <description></description>
@@ -917,6 +935,15 @@
       <pubDate>Tue, 11 Feb 2014 21:37:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/tags/push-pops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quail Eggs</title>
+      <link>http://tobyblog.com/tags/quail-eggs/</link>
+      <pubDate>Wed, 17 Apr 2019 21:58:19 -0700</pubDate>
+      
+      <guid>http://tobyblog.com/tags/quail-eggs/</guid>
       <description></description>
     </item>
     
@@ -1013,7 +1040,7 @@
     <item>
       <title>Reviews</title>
       <link>http://tobyblog.com/tags/reviews/</link>
-      <pubDate>Thu, 14 Mar 2019 22:57:00 +0000</pubDate>
+      <pubDate>Wed, 17 Apr 2019 21:58:19 -0700</pubDate>
       
       <guid>http://tobyblog.com/tags/reviews/</guid>
       <description></description>
@@ -1092,6 +1119,15 @@
     </item>
     
     <item>
+      <title>Soda</title>
+      <link>http://tobyblog.com/tags/soda/</link>
+      <pubDate>Wed, 17 Apr 2019 21:58:19 -0700</pubDate>
+      
+      <guid>http://tobyblog.com/tags/soda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Soda Pop</title>
       <link>http://tobyblog.com/tags/soda-pop/</link>
       <pubDate>Sun, 01 Jan 2017 23:24:00 +0000</pubDate>
@@ -1160,6 +1196,15 @@
       <pubDate>Sat, 15 Nov 2014 11:43:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/tags/sushi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swamp Pop</title>
+      <link>http://tobyblog.com/tags/swamp-pop/</link>
+      <pubDate>Wed, 17 Apr 2019 21:58:19 -0700</pubDate>
+      
+      <guid>http://tobyblog.com/tags/swamp-pop/</guid>
       <description></description>
     </item>
     
@@ -1340,6 +1385,15 @@
       <pubDate>Sun, 10 Mar 2019 23:31:51 -0700</pubDate>
       
       <guid>http://tobyblog.com/tags/youtube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zapps</title>
+      <link>http://tobyblog.com/tags/zapps/</link>
+      <pubDate>Wed, 17 Apr 2019 21:58:19 -0700</pubDate>
+      
+      <guid>http://tobyblog.com/tags/zapps/</guid>
       <description></description>
     </item>
     
