@@ -17,7 +17,7 @@
   </div>
 
   <p>
-	{{ if or (isset .Params "externalurl") (isset .Params "minipost") }}
+	{{ if (or (isset .Params "externalurl") (isset .Params "minipost")) }}
 	  {{ .Content }}
 	{{ else }}
 	  {{ .Summary }}
@@ -25,7 +25,7 @@
   </p>
 
   {{ if .Truncated }}
-    {{ if (not (isset .Params "externalurl")) }}
+    {{ if (and (not (isset .Params "externalurl")) (not (isset .Params "minipost")) )}}
       <a class="continue" rel="full-article" href="{{ .Permalink }}">Continue Reading »</a>
     {{ end }}
   {{ end }}
