@@ -1,6 +1,5 @@
 +++
 date = "2019-04-19T10:00:00+00:00"
-draft = true
 title = "The diagonal crosswalks of Pasadena"
 
 +++
