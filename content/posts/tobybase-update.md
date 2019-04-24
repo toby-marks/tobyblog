@@ -6,4 +6,4 @@ categories = ["Updates"]
 tags = [""]
 externalurl = "http://tobybase.com"
 +++
-I've been working on a site overhaul for my pro blog, Tobybase.com. Go check it out and tell me what you think! 
+I've been working on a site overhaul for my pro blog, Tobybase.com. Go check it out and tell me what you think! Now just need some new content…
