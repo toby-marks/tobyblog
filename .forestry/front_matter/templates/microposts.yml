@@ -14,6 +14,7 @@ fields:
     date_format: YYYY-MM-DD
     required: true
 pages:
+- content/microposts/baptized.md
 - content/microposts/the-diagonal-crosswalks-of-pasadena.md
 - content/microposts/avocado-toast.md
 - content/microposts/a-lenten-meditation.md
