@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/posts/uncle-albert/</loc>
+    <lastmod>2019-05-04T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/kassiblog-too/</loc>
     <lastmod>2019-05-01T17:46:58-05:00</lastmod>
   </url>
@@ -1594,7 +1599,7 @@
   
   <url>
     <loc>http://tobyblog.com/categories/music/</loc>
-    <lastmod>2019-04-10T11:11:56-05:00</lastmod>
+    <lastmod>2019-05-04T05:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1684,7 +1689,7 @@
   
   <url>
     <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2019-05-01T17:46:58-05:00</lastmod>
+    <lastmod>2019-05-04T05:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
