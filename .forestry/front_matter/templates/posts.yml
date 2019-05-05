@@ -30,6 +30,7 @@ fields:
   label: Minipost
   hidden: false
 pages:
+- content/posts/uncle-albert.md
 - content/posts/three-new-pasadena-restaurants.md
 - content/posts/45.md
 - content/posts/pasadena-in-bloom.md
