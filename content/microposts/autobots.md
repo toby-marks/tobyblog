@@ -1,6 +1,5 @@
 +++
 date = "2019-05-07T05:00:00+00:00"
-draft = true
 title = "Autobots"
 
 +++
