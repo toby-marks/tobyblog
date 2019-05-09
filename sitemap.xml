@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/microposts/coming-soon-cottonwood-art-festival/</loc>
+    <lastmod>2019-05-09T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/microposts/taro-liquid-lunch/</loc>
     <lastmod>2019-05-09T12:00:00+00:00</lastmod>
   </url>
@@ -1599,7 +1604,7 @@
   
   <url>
     <loc>http://tobyblog.com/microposts/</loc>
-    <lastmod>2019-05-09T12:00:00+00:00</lastmod>
+    <lastmod>2019-05-09T17:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2036,7 +2041,7 @@
   
   <url>
     <loc>http://tobyblog.com/</loc>
-    <lastmod>2019-05-09T12:00:00+00:00</lastmod>
+    <lastmod>2019-05-09T17:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
