@@ -1,6 +1,5 @@
 +++
 date = "2019-05-09T09:00:00+00:00"
-draft = true
 title = "Working Out"
 
 +++
