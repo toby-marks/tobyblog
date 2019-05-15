@@ -15,6 +15,7 @@ fields:
     required: true
     time_format: h:mm A ZZ
 pages:
+- content/microposts/leaving-on-a-jetplane.md
 - content/microposts/coming-soon-cottonwood-art-festival.md
 - content/microposts/taro-liquid-lunch.md
 - content/microposts/working-out.md
