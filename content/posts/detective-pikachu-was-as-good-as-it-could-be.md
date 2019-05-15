@@ -1,7 +1,7 @@
 +++
-categories = []
+categories = ["Movies"]
 date = "2019-05-14T20:02:00+00:00"
-description = ""
+description = "Go see Detective Pikachu!"
 externalurl = ""
 minipost = false
 tags = ["Pokemon", "Pikachu"]
