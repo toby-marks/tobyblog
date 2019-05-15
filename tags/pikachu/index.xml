@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pokemon on Tobyblog</title>
-    <link>http://tobyblog.com/tags/pokemon/</link>
-    <description>Recent content in Pokemon on Tobyblog</description>
+    <title>Pikachu on Tobyblog</title>
+    <link>http://tobyblog.com/tags/pikachu/</link>
+    <description>Recent content in Pikachu on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 May 2019 20:02:00 +0000</lastBuildDate>
     
-	<atom:link href="http://tobyblog.com/tags/pokemon/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://tobyblog.com/tags/pikachu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>http://tobyblog.com/posts/detective-pikachu-was-as-good-as-it-could-be/</guid>
       <description>In other news, I saw Detective Pikachu with the family a few days ago, and I think we all left impressed. Some strong acting and genuinely funny moments. Pikachu singing the Pokémon cartoon theme song was a highlight for me. But does Ryan Reynolds have to be in literally every movie now? That being said, he did a great job. Go see it. With your kids, of course.</description>
-    </item>
-    
-    <item>
-      <title>Happy Spring!</title>
-      <link>http://tobyblog.com/posts/happy-spring/</link>
-      <pubDate>Fri, 08 Mar 2019 06:00:00 +0000</pubDate>
-      
-      <guid>http://tobyblog.com/posts/happy-spring/</guid>
-      <description>Happy springtime to all you players out there. The weather’s warming up here in Texas. We’re coming out of winter. I think we’re through the worst of it. Are you looking for signs of new growth? Look to the trees! They’re always the first to show.</description>
     </item>
     
   </channel>
