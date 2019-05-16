@@ -1,8 +1,10 @@
 +++
-title = "Antiques, Part 3"
-date = "2019-05-15T1:48:23-05:00"
-location = "Pasadena, CA"
 camera = "iPhone XS"
+date = "2019-05-15T1:48:23-05:00"
+draft = true
+location = "Pasadena, CA"
+title = "Antiques, Part 3"
+
 +++
 {{% flickr "A Striking Bust 01"
            "Photo from an antique mall in Pasadena, California."
