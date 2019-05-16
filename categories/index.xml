@@ -6,82 +6,10 @@
     <description>Recent content in Categories on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Feb 2019 01:41:02 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2019 20:02:00 +0000</lastBuildDate>
     
 	<atom:link href="http://tobyblog.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Books</title>
-      <link>http://tobyblog.com/categories/books/</link>
-      <pubDate>Thu, 28 Feb 2019 01:41:02 -0600</pubDate>
-      
-      <guid>http://tobyblog.com/categories/books/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dad Bods</title>
-      <link>http://tobyblog.com/categories/dad-bods/</link>
-      <pubDate>Sun, 21 Apr 2019 15:50:15 -0500</pubDate>
-      
-      <guid>http://tobyblog.com/categories/dad-bods/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>End Times</title>
-      <link>http://tobyblog.com/categories/end-times/</link>
-      <pubDate>Mon, 18 Feb 2019 23:11:34 -0800</pubDate>
-      
-      <guid>http://tobyblog.com/categories/end-times/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gaming</title>
-      <link>http://tobyblog.com/categories/gaming/</link>
-      <pubDate>Fri, 15 Apr 2016 16:10:00 +0000</pubDate>
-      
-      <guid>http://tobyblog.com/categories/gaming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Geocaching</title>
-      <link>http://tobyblog.com/categories/geocaching/</link>
-      <pubDate>Fri, 05 Apr 2019 14:00:00 +0000</pubDate>
-      
-      <guid>http://tobyblog.com/categories/geocaching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Halloween</title>
-      <link>http://tobyblog.com/categories/halloween/</link>
-      <pubDate>Sun, 22 Apr 2018 13:49:48 -0500</pubDate>
-      
-      <guid>http://tobyblog.com/categories/halloween/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Journal</title>
-      <link>http://tobyblog.com/categories/journal/</link>
-      <pubDate>Wed, 01 May 2019 17:46:58 -0500</pubDate>
-      
-      <guid>http://tobyblog.com/categories/journal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Life</title>
-      <link>http://tobyblog.com/categories/life/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://tobyblog.com/categories/life/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Movies</title>
@@ -89,6 +17,15 @@
       <pubDate>Tue, 14 May 2019 20:02:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/categories/movies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Journal</title>
+      <link>http://tobyblog.com/categories/journal/</link>
+      <pubDate>Mon, 13 May 2019 15:52:38 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/categories/journal/</guid>
       <description></description>
     </item>
     
@@ -102,29 +39,29 @@
     </item>
     
     <item>
+      <title>Updates</title>
+      <link>http://tobyblog.com/categories/updates/</link>
+      <pubDate>Wed, 24 Apr 2019 16:18:33 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/categories/updates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dad Bods</title>
+      <link>http://tobyblog.com/categories/dad-bods/</link>
+      <pubDate>Sun, 21 Apr 2019 15:50:15 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/categories/dad-bods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pop Culture</title>
       <link>http://tobyblog.com/categories/pop-culture/</link>
       <pubDate>Sun, 21 Apr 2019 09:01:32 -0500</pubDate>
       
       <guid>http://tobyblog.com/categories/pop-culture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Religion</title>
-      <link>http://tobyblog.com/categories/religion/</link>
-      <pubDate>Mon, 18 Mar 2019 12:02:52 -0500</pubDate>
-      
-      <guid>http://tobyblog.com/categories/religion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Review the World</title>
-      <link>http://tobyblog.com/categories/review-the-world/</link>
-      <pubDate>Wed, 12 Mar 2014 23:05:38 -0700</pubDate>
-      
-      <guid>http://tobyblog.com/categories/review-the-world/</guid>
       <description></description>
     </item>
     
@@ -138,11 +75,47 @@
     </item>
     
     <item>
-      <title>Specials</title>
-      <link>http://tobyblog.com/categories/specials/</link>
-      <pubDate>Mon, 11 Jul 2016 10:35:00 +0000</pubDate>
+      <title>Life</title>
+      <link>http://tobyblog.com/categories/life/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://tobyblog.com/categories/specials/</guid>
+      <guid>http://tobyblog.com/categories/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geocaching</title>
+      <link>http://tobyblog.com/categories/geocaching/</link>
+      <pubDate>Fri, 05 Apr 2019 14:00:00 +0000</pubDate>
+      
+      <guid>http://tobyblog.com/categories/geocaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Religion</title>
+      <link>http://tobyblog.com/categories/religion/</link>
+      <pubDate>Mon, 18 Mar 2019 12:02:52 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/categories/religion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>http://tobyblog.com/categories/books/</link>
+      <pubDate>Thu, 28 Feb 2019 01:41:02 -0600</pubDate>
+      
+      <guid>http://tobyblog.com/categories/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End Times</title>
+      <link>http://tobyblog.com/categories/end-times/</link>
+      <pubDate>Mon, 18 Feb 2019 23:11:34 -0800</pubDate>
+      
+      <guid>http://tobyblog.com/categories/end-times/</guid>
       <description></description>
     </item>
     
@@ -156,11 +129,38 @@
     </item>
     
     <item>
-      <title>Updates</title>
-      <link>http://tobyblog.com/categories/updates/</link>
-      <pubDate>Wed, 24 Apr 2019 16:18:33 -0500</pubDate>
+      <title>Halloween</title>
+      <link>http://tobyblog.com/categories/halloween/</link>
+      <pubDate>Sun, 22 Apr 2018 13:49:48 -0500</pubDate>
       
-      <guid>http://tobyblog.com/categories/updates/</guid>
+      <guid>http://tobyblog.com/categories/halloween/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specials</title>
+      <link>http://tobyblog.com/categories/specials/</link>
+      <pubDate>Mon, 11 Jul 2016 10:35:00 +0000</pubDate>
+      
+      <guid>http://tobyblog.com/categories/specials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaming</title>
+      <link>http://tobyblog.com/categories/gaming/</link>
+      <pubDate>Fri, 15 Apr 2016 16:10:00 +0000</pubDate>
+      
+      <guid>http://tobyblog.com/categories/gaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Review the World</title>
+      <link>http://tobyblog.com/categories/review-the-world/</link>
+      <pubDate>Wed, 12 Mar 2014 23:05:38 -0700</pubDate>
+      
+      <guid>http://tobyblog.com/categories/review-the-world/</guid>
       <description></description>
     </item>
     
