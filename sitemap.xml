@@ -229,13 +229,13 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/reviews/</loc>
+    <loc>http://tobyblog.com/tags/reviews/</loc>
     <lastmod>2019-04-19T19:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/reviews/</loc>
+    <loc>http://tobyblog.com/categories/reviews/</loc>
     <lastmod>2019-04-19T19:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
