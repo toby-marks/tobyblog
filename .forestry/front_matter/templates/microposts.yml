@@ -15,6 +15,7 @@ fields:
     required: true
     time_format: h:mm A ZZ
 pages:
+- content/microposts/autobots.md
 - content/microposts/your-excuse-to-dress-up-like-harry-and-hermione.md
 - content/microposts/golden-girls-really.md
 - content/microposts/leaving-on-a-jetplane.md
@@ -25,7 +26,6 @@ pages:
 - content/microposts/taco-naan-lunch.md
 - content/microposts/avocado-toast.md
 - content/microposts/vodka-stinger.md
-- content/microposts/autobots.md
 - content/microposts/the-smell-of-rotten-pumpkins.md
 - content/microposts/morning-prayers.md
 - content/microposts/forgiveness-sunday.md
