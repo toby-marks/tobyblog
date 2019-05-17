@@ -21,6 +21,7 @@ fields:
   name: camera
   label: Camera
 pages:
+- content/photos/more-pasadena-eats.md
 - content/photos/sweet-times-with-kassiblog.md
 - content/photos/pasadena-streets.md
 - "content/photos/bee-\U0001F41D.md"
