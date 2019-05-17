@@ -118,11 +118,12 @@
 
 
 
-&lt;p&gt;&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
 
     &lt;img src=&#34;https://live.staticflickr.com/65535/33982928248_71c12e8fe1_k.jpg&#34; alt=&#34;Happy Life Day&#34;&gt;
     &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Happy Life Day — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/33982928248/&#34; title=&#34;Happy Life Day&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
+
 
 
 &lt;!--
@@ -134,30 +135,34 @@
 
 
 --&gt;
+
 &lt;figure class=&#34;wp-caption alignnone&#34;&gt;
 
     &lt;img src=&#34;https://live.staticflickr.com/65535/40893652403_e0cae67745_k.jpg&#34; alt=&#34;Fakor&#34;&gt;
     &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Fakor — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/40893652403/&#34; title=&#34;Fakor&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;/p&gt;
 
-&lt;p&gt;&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
 
     &lt;img src=&#34;https://live.staticflickr.com/65535/33982928478_1b6e7bc70c_k.jpg&#34; alt=&#34;Action David Hasselhoff&#34;&gt;
     &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Action David Hasselhoff — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/33982928478/&#34; title=&#34;Action David Hasselhoff&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 
-&amp;lt;!&amp;ndash;
+
+&lt;!--
 &lt;figure class=&#34;wp-caption alignnone&#34;&gt;
 
     &lt;img src=&#34;https://live.staticflickr.com/65535/46943981255_e2aa132819_k.jpg&#34; alt=&#34;Crystal Ball 04&#34;&gt;
     &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Crystal Ball 04 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/46943981255/&#34; title=&#34;Crystal Ball 04&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;/p&gt;
 
+--&gt;
+
+&lt;!--
 &lt;figure class=&#34;wp-caption alignnone&#34;&gt;
 
     &lt;img src=&#34;https://live.staticflickr.com/65535/47807936132_4eed5f6344_k.jpg&#34; alt=&#34;Crystal Ball 02&#34;&gt;
@@ -165,7 +170,9 @@
 &lt;/figure&gt;
 
 
+--&gt;
 
+&lt;!--
 &lt;figure class=&#34;wp-caption alignnone&#34;&gt;
 
     &lt;img src=&#34;https://live.staticflickr.com/65535/47860283281_81edd94280_k.jpg&#34; alt=&#34;Crystal Ball 01&#34;&gt;
@@ -173,16 +180,19 @@
 &lt;/figure&gt;
 
 
+--&gt;
 
-&lt;p&gt;&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+&lt;!--
+&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
 
     &lt;img src=&#34;https://live.staticflickr.com/65535/47807935782_44d020aa99_k.jpg&#34; alt=&#34;Crystal Ball 03&#34;&gt;
     &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Crystal Ball 03 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/47807935782/&#34; title=&#34;Crystal Ball 03&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 
-&amp;ndash;&amp;gt;
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+--&gt;
+
+&lt;p&gt;&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
 
     &lt;img src=&#34;https://live.staticflickr.com/65535/47860278951_d9a86ea5e9_k.jpg&#34; alt=&#34;Monk Glass&#34;&gt;
     &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Monk Glass — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/47860278951/&#34; title=&#34;Monk Glass&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
