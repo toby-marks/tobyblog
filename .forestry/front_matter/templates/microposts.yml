@@ -15,6 +15,7 @@ fields:
     required: true
     time_format: h:mm A ZZ
 pages:
+- content/microposts/abiri-sushi-and-ramen.md
 - content/microposts/autobots.md
 - content/microposts/your-excuse-to-dress-up-like-harry-and-hermione.md
 - content/microposts/golden-girls-really.md
