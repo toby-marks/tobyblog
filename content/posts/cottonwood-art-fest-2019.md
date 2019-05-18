@@ -1,9 +1,11 @@
 +++
-title = "Richardson's Cottonwood Art Festival"
-description = "We make our first visit to Richardson, Texas' famous art festival."
-date = "2019-05-15T23:00:00-05:00"
 categories = ["Journal"]
+date = "2019-05-15T23:00:00-05:00"
+description = "We make our first visit to Richardson, Texas' famous art festival."
+draft = true
 tags = ["art"]
+title = "Richardson's Cottonwood Art Festival"
+
 +++
 {{% flickr "The Extraordinary Paintings of Alla Tsank"
            "Photo from the 2019 Cottonwood Art Festival in Richardson, TX."
