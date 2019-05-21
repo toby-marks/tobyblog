@@ -1,9 +1,17 @@
 +++
+<<<<<<< HEAD
 title = "Richardson's Cottonwood Art Festival"
 description = "We make our first visit to Richardson, Texas' famous art festival."
 date = "2019-05-21T15:00:00-05:00"
+=======
+>>>>>>> 828792ae59f5b1e4432b670d1d6d9c450c245d4b
 categories = ["Journal"]
+date = "2019-05-15T23:00:00-05:00"
+description = "We make our first visit to Richardson, Texas' famous art festival."
+draft = true
 tags = ["art"]
+title = "Richardson's Cottonwood Art Festival"
+
 +++
 {{% flickr "The Extraordinary Paintings of Alla Tsank"
            "Photo from the 2019 Cottonwood Art Festival in Richardson, TX."
@@ -143,4 +151,8 @@ Tsank does with the feminine — with *earth* and *water* and *seasons* and *flo
 
 ❧ ❧ ❧
 
+<<<<<<< HEAD
 We had to leave shortly after that, but we'll be back again later this year, and I'm already looking forward to it. Perhaps I'll have enough saved up by then to walk away with a Tsank original in my trunk. Or maybe something from Mr. Liang for Kassi? There was certainly a lot of talent on display. 
+=======
+![](https://res.cloudinary.com/tobyblog/image/upload/v1557783900/img/IMG_3036.jpg)
+>>>>>>> 828792ae59f5b1e4432b670d1d6d9c450c245d4b
