@@ -1,7 +1,7 @@
 +++
 title = "Richardson's Cottonwood Art Festival"
 description = "We make our first visit to Richardson, Texas' famous art festival."
-date = "2019-05-15T23:00:00-05:00"
+date = "2019-05-21T15:00:00-05:00"
 categories = ["Journal"]
 tags = ["art"]
 +++
@@ -21,82 +21,126 @@ For anyone in the area who's actually thinking of attending one of these shows, 
            "Photo from the 2019 Cottonwood Art Festival in Richardson, TX."
            "https://www.flickr.com/photos/tobyjmarks/32899732757/"
            "https://live.staticflickr.com/65535/32899732757_9275b2cd96_k.jpg" %}}
+           
+Thankfully there were plenty of food stalls, ranging from typical carnival fare all the way to top-end food trucks. There was of course plenty of Texas BBQ, and even a Cajun truck. But a little snow cone goodness was enough to placate the kids, so with that taken care of we were off to explore the grounds.
 
-The heavy rain in days prior added some mugginess to the spring heat, and the ground was fairly wet. To compensate for that the festival organizers had laid down a thick layer of hay, which soaked up the mud and kept your shoes clean. In addition to artists and craftsmen of all types, there was a wide assortment of food and drink available, and even live music.
+The heavy rain in days prior had added some mugginess to the spring heat, and the ground was fairly wet. To compensate for that, the festival organizers had laid down a thick layer of hay that soaked up the mud, keeping your shoes relatively clean. In addition to artists and craftsmen of all types, there was the aforementioned food and drink available, and even live music.
 
 {{% flickr "Crowd"
            "Photo from the 2019 Cottonwood Art Festival in Richardson, TX."
            "https://www.flickr.com/photos/tobyjmarks/47791617782/"
            "https://live.staticflickr.com/65535/47791617782_b624b7c98e_k.jpg" %}}
 
-We made our way around the 
+We made our way around the tents, navigating the crowds as best we could. The show was pretty packed, but not unreasonably so. We never had to wait in line to get in a tent, and no one was shoving us out. We were able to talk briefly with several of the artists, and they were all interesting and kind people who seemed to be genuinely enjoying themselves. I had naively entertained the idea that I might be able to display there myself, but I clearly didn't understand the caliber of the professionals they invite. It would be nothing to walk out of there with ten grand worth of merchandise from just one or two stalls, and still regret that you'd had to pass on so much good stuff. Still, though, it's something I have in mind to do someday, maybe in a more humble venue. 
            
 {{% flickr "The Booth of Mary DiStefano-Jarowitz"
            "Photo from the 2019 Cottonwood Art Festival in Richardson, TX."
            "https://www.flickr.com/photos/tobyjmarks/32899732467/"
            "https://live.staticflickr.com/65535/32899732467_d23a8d058e_k.jpg" %}}
-
-{{% flickr "Beautiful Rustic Framing"
-           "Photo from the 2019 Cottonwood Art Festival in Richardson, TX."
-           "https://www.flickr.com/photos/tobyjmarks/47843754231/"
-           "https://live.staticflickr.com/65535/47843754231_f7adb5b84e_k.jpg" %}}
+           
+One of the first booths that called to us belonged to [Mary DiStefano-Jarowitz](https://www.cottonwoodartfestival.com/project/mary-distefano-jarowitz/), an artist whose muted colors and folk-art inspired paintings I thought Kassi in particular would like. However it was our Anthony who begged for a little something from her stall, a box print of a tiny red bird for his bedroom. He's a funny kid. A real patron of the arts, that one. He was only four the first time he asked for a painting to hang in his bunk. It was of a yellow school bus, bought from At Home. Not sure what attracted him to the bird, but we picked it up and moved on. 
 
 {{% flickr "The Booth of Artist Kevin Liang"
            "Photo from the 2019 Cottonwood Art Festival in Richardson, TX."
            "https://www.flickr.com/photos/tobyjmarks/47791617142/"
            "https://live.staticflickr.com/65535/47791617142_695c29b5e6_k.jpg" %}}
 
-{{% flickr "The Women of Alla Tsank"
-           "Photo from the 2019 Cottonwood Art Festival in Richardson, TX."
-           "https://www.flickr.com/photos/tobyjmarks/47054119014/"
-           "https://live.staticflickr.com/65535/47054119014_a0d5d7f1db_k.jpg" %}}
+A little way further on, past a custom knife maker from Kentucky and couple of young female artists with more contemporary paintings and drawings, we rounded the corner and came upon the stunning work of [Kevin Liang](https://www.cottonwoodartfestival.com/project/kevin-liang/). Kevin is a Chinese artist from Brooklyn who paints these really vivid nature scenes, and his impressionistic rendering of trees in autumn are pretty breathtaking. He writes his own poetry, too; a kind of haiku that he combines with smaller paintings on paper he makes himself. I spoke with him a bit, as he seemed very interested in my camera, which was amusing to me. I asked if I could take this picture of him at his stall, to which he agreed. I was grateful, since photography at the stalls is generally prohibited. I like people who show pride in their work. Mr. Liang had a lot to be proud of.
 
-{{% flickr "Colorful Mugs"
+{{% flickr "Beautiful Rustic Framing"
            "Photo from the 2019 Cottonwood Art Festival in Richardson, TX."
-           "https://www.flickr.com/photos/tobyjmarks/47791617272/"
-           "https://live.staticflickr.com/65535/47791617272_9a3a2f4d2d_k.jpg" %}}
+           "https://www.flickr.com/photos/tobyjmarks/47843754231/"
+           "https://live.staticflickr.com/65535/47843754231_f7adb5b84e_k.jpg" %}}
 
-{{% flickr "That Accosting Stare"
-           "Photo from the 2019 Cottonwood Art Festival in Richardson, TX."
-           "https://www.flickr.com/photos/tobyjmarks/47791616092/"
-           "https://live.staticflickr.com/65535/47791616092_ec5c0d25d5_k.jpg" %}}
-
-{{% flickr "The Booth of Gregory Arth"
-           "Photo from the 2019 Cottonwood Art Festival in Richardson, TX."
-           "https://www.flickr.com/photos/tobyjmarks/47054118534/"
-           "https://live.staticflickr.com/65535/47054118534_122cbcc8fc_k.jpg" %}}
-
-{{% flickr "The Booth of Alla Tsank"
-           "Photo from the 2019 Cottonwood Art Festival in Richardson, TX."
-           "https://www.flickr.com/photos/tobyjmarks/47791616362/"
-           "https://live.staticflickr.com/65535/47791616362_ab22a15a8d_k.jpg" %}}
-
-{{% flickr "Three Women"
-           "Photo from the 2019 Cottonwood Art Festival in Richardson, TX."
-           "https://www.flickr.com/photos/tobyjmarks/40876956443/"
-           "https://live.staticflickr.com/65535/40876956443_1b935a275d_k.jpg" %}}
+This photo, for example, I had to sneak in, because I wanted to capture the cool rustic framing idea. I'd like to duplicate that for some of my own.
 
 {{% flickr "Bronze Flower Girl"
            "Photo from the 2019 Cottonwood Art Festival in Richardson, TX."
            "https://www.flickr.com/photos/tobyjmarks/47791616702/"
            "https://live.staticflickr.com/65535/47791616702_a0cfa82e13_k.jpg" %}}
 
-{{% flickr "Flower Vase"
+There were a number of sculpture artists at the show, like this one (I believe it was [Lori Betz](https://www.cottonwoodartfestival.com/project/lori-betz/)), and sadly we we weren't able to get to the majority of those. Next year Kassi and I may make a second trip on our own, and earlier, so we can take everything in. Honestly I love the photo opportunities with sculpture and statuary, though I'm sure it's not kosher with the show rules. You gotta be sneaky and quick.
+
+{{% flickr "Colorful Mugs"
            "Photo from the 2019 Cottonwood Art Festival in Richardson, TX."
-           "https://www.flickr.com/photos/tobyjmarks/32899733427/"
-           "https://live.staticflickr.com/65535/32899733427_dff2738634_k.jpg" %}}
+           "https://www.flickr.com/photos/tobyjmarks/47791617272/"
+           "https://live.staticflickr.com/65535/47791617272_9a3a2f4d2d_k.jpg" %}}
+
+The craft stands were fairly cool to look at. Lots of surprises like these colorful mugs. There was one guy that did custom kaleidoscopes, which Anthony got a real kick out of. 
 
 {{% flickr "Rockets and Rayguns"
            "Photo from the 2019 Cottonwood Art Festival in Richardson, TX."
            "https://www.flickr.com/photos/tobyjmarks/47791617592/"
            "https://live.staticflickr.com/65535/47791617592_4b15ea37fb_k.jpg" %}}
 
+{{% flickr "The Booth of Gregory Arth"
+           "Photo from the 2019 Cottonwood Art Festival in Richardson, TX."
+           "https://www.flickr.com/photos/tobyjmarks/47054118534/"
+           "https://live.staticflickr.com/65535/47054118534_122cbcc8fc_k.jpg" %}}
+           
+My favorite part about this booth was standing there for a bit and listening to all the different words people used to describe the media he used to make the image — integrated circuits and pieces of circuit board. 
+
+"Computer chips"<br>
+"Electronics"<br>
+"CPUs"<br>
+"Computer boards"<br>
+"Computer parts"
+
+I had my own way of describing it, so no two ways were exactly alike. Maybe that was part of the artistic experience? 
+
+At any rate, the robot cowgirl must have been a hot seller cause he had several versions of that one. 
+
+(But I guess Robbie the Robot, too? There are two Robbie's in this photo. If you recognize Robbie the Robot from your childhood, or if you know where he's from, please leave a comment to let me know that you, like me, are really old!)
+
+*After a short bite of some obligatory fair food, we stumbled across a most remarkable tent.*
+
+{{% flickr "The Booth of Alla Tsank"
+           "Photo from the 2019 Cottonwood Art Festival in Richardson, TX."
+           "https://www.flickr.com/photos/tobyjmarks/47791616362/"
+           "https://live.staticflickr.com/65535/47791616362_ab22a15a8d_k.jpg" %}}
+
+{{% flickr "That Accosting Stare"
+           "Photo from the 2019 Cottonwood Art Festival in Richardson, TX."
+           "https://www.flickr.com/photos/tobyjmarks/47791616092/"
+           "https://live.staticflickr.com/65535/47791616092_ec5c0d25d5_k.jpg" %}}
+
+[Alla Tsank](https://www.cottonwoodartfestival.com/project/alla-tsank/) is a Russian artist working in California. She paints images of women and nature, and what you might call the feminine aspect of creation — seasonality and cyclicality. 
+
+I've read she took inspiration early in her career from Renaissance art, and you can see that in the palettes and composition of some of the portraiture. But honestly something about those faces reminded me of the kind of art I'd first seen in Choose Your Own Adventure books when I was a kid. 
+
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1557783898/img/IMG_3034.jpg)
-
-![](https://res.cloudinary.com/tobyblog/image/upload/v1557783824/img/IMG_3040.jpg)
-
-![](https://res.cloudinary.com/tobyblog/image/upload/v1557783877/img/IMG_3039.jpg)
 
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1557783897/img/IMG_3038.jpg)
 
-![](https://res.cloudinary.com/tobyblog/image/upload/v1557783900/img/IMG_3036.jpg)
+The dead-on stares and flat features. I had a hard time finding a really good example, so maybe it was a misplaced association. 
+
+It felt eerily familiar, though.  
+
+{{% flickr "The Women of Alla Tsank"
+           "Photo from the 2019 Cottonwood Art Festival in Richardson, TX."
+           "https://www.flickr.com/photos/tobyjmarks/47054119014/"
+           "https://live.staticflickr.com/65535/47054119014_a0d5d7f1db_k.jpg" %}}
+
+The eyes are the type that seem to follow you around. I overheard the dealer talking about it. It's a technique artists use, where one eye is just off center, to give that effect. 
+
+{{% flickr "Three Women"
+           "Photo from the 2019 Cottonwood Art Festival in Richardson, TX."
+           "https://www.flickr.com/photos/tobyjmarks/40876956443/"
+           "https://live.staticflickr.com/65535/40876956443_1b935a275d_k.jpg" %}}
+           
+There is a kind of quiet intensity about those expressions. As if they invite attention and consideration. Not the kind of paintings you devour in 5 seconds before moving on to the next. The compositions are simple, but subtly psychedelic. Quiet, but arresting. 
+
+{{% flickr "Flower Vase"
+           "Photo from the 2019 Cottonwood Art Festival in Richardson, TX."
+           "https://www.flickr.com/photos/tobyjmarks/32899733427/"
+           "https://live.staticflickr.com/65535/32899733427_dff2738634_k.jpg" %}}
+
+Even the flowers, which in her paintings are often symbolic or tell a story of their own, seem to come alive after a little while, moving and gnashing and writhing and twisting like some tentacled alien under their own visual energy. 
+
+All in all, I was impressed. 
+
+Tsank does with the feminine — with *earth* and *water* and *seasons* and *flower* and female forms — what [Nicholas Roerich](https://www.google.com/search?q=Nicholas+Roerich&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjw6orO1a3iAhVQXq0KHYL_Bf0Q_AUIDigB&biw=1280&bih=714) does with the masculine — with *stone* and *air* and *fire* and *light* and male forms. Roerich, perhaps not coincidentally also a Russian, is my other favorite artist, and the body of work of these two might be said to form a complement; the one having to do with the spirit, and the other the body and imagination. 
+
+❧ ❧ ❧
+
+We had to leave shortly after that, but we'll be back again later this year, and I'm already looking forward to it. Perhaps I'll have enough saved up by then to walk away with a Tsank original in my trunk. Or maybe something from Mr. Liang for Kassi? There was certainly a lot of talent on display. 
