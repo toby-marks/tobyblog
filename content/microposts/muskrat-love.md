@@ -4,3 +4,6 @@ draft = true
 title = "Muskrat Love"
 
 +++
+Just walked up on two skunks fornicating. 
+
+{{< youtube FgF3FIrJc6Q >}}
