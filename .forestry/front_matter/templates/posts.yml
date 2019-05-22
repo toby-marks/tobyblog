@@ -31,6 +31,7 @@ fields:
   label: Minipost
   hidden: false
 pages:
+- content/microposts/alyssa-stank.md
 - content/posts/hypnotic-donuts.md
 - content/posts/uncle-albert.md
 - content/posts/detective-pikachu-was-as-good-as-it-could-be.md
