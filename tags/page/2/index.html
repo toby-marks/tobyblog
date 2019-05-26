@@ -204,3 +204,39 @@
   </body>
 </html>
 
+     <div>
+          <h3><a href="https://www.flickr.com/photos/75738497@N00/">→ My Flickr ∞</a></h3>
+          <div id="photos"></div>
+      </div>
+      
+
+
+  
+    <div class="footer_copyright">
+      &copy; 2019 <a href="">Toby Marks</a>
+       - Made in Dallas, TX
+    </div>
+  
+</footer>
+
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery/2.2.0/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.2.14/js/lightgallery-all.min.js" charset="utf-8"></script>
+    <script src="/js/weblog.js" charset="utf-8"></script>
+    
+
+    <script type="text/javascript">
+
+  
+  $(function() {
+    
+    $.getJSON("https://api.flickr.com/services/feeds/photos_public.gne?id=75738497@N00&format=json&jsoncallback=?", function(data) {
+      iweblog.application.displayImages(data, 8);
+    });
+  });
+
+</script>
+
+    
+  </body>
+</html>
+
