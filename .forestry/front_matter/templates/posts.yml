@@ -31,16 +31,16 @@ fields:
   label: Minipost
   hidden: false
 pages:
-- content/microposts/alyssa-stank.md
-- content/posts/hypnotic-donuts.md
-- content/posts/uncle-albert.md
 - content/posts/detective-pikachu-was-as-good-as-it-could-be.md
-- content/posts/three-new-pasadena-restaurants.md
-- content/posts/45.md
-- content/posts/roof-access.md
-- content/posts/pasadena-in-bloom.md
-- content/posts/a-simple-but-powerful-prayer.md
-- content/posts/taco-libre.md
-- content/posts/helvetica-now.md
-- content/posts/300-million-butterflies-coming-to-texas.md
+- content/microposts/alyssa-stank.md
+- content/posts/uncle-albert.md
+- content/posts/hypnotic-donuts.md
 - content/posts/el-portal.md
+- content/posts/pasadena-in-bloom.md
+- content/posts/roof-access.md
+- content/posts/300-million-butterflies-coming-to-texas.md
+- content/posts/helvetica-now.md
+- content/posts/taco-libre.md
+- content/posts/a-simple-but-powerful-prayer.md
+- content/posts/45.md
+- content/posts/three-new-pasadena-restaurants.md
