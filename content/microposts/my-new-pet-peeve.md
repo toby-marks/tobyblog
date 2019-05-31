@@ -1,6 +1,5 @@
 +++
 date = "2019-05-31T12:00:00-05:00"
-draft = true
 title = "My New Pet Peeve"
 
 +++
