@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 May 2019 09:55:43 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2019 09:28:36 -0500</lastBuildDate>
     
 	<atom:link href="http://tobyblog.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title></title>
       <link>http://tobyblog.com/tags/</link>
-      <pubDate>Fri, 31 May 2019 09:55:43 -0500</pubDate>
+      <pubDate>Mon, 03 Jun 2019 09:28:36 -0500</pubDate>
       
       <guid>http://tobyblog.com/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Louisiana</title>
+      <link>http://tobyblog.com/tags/louisiana/</link>
+      <pubDate>Mon, 03 Jun 2019 09:28:36 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/tags/louisiana/</guid>
       <description></description>
     </item>
     
@@ -129,7 +138,7 @@
     </item>
     
     <item>
-      <title>reviews</title>
+      <title>Reviews</title>
       <link>http://tobyblog.com/tags/reviews/</link>
       <pubDate>Fri, 19 Apr 2019 19:00:00 +0000</pubDate>
       
@@ -791,15 +800,6 @@
       <pubDate>Mon, 11 Jul 2016 10:35:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/tags/frozard/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Louisiana</title>
-      <link>http://tobyblog.com/tags/louisiana/</link>
-      <pubDate>Mon, 11 Jul 2016 10:35:00 +0000</pubDate>
-      
-      <guid>http://tobyblog.com/tags/louisiana/</guid>
       <description></description>
     </item>
     
