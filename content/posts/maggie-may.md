@@ -1,5 +1,5 @@
 +++
-title = "Listening: Maggie May"
+title = "Maggie May "
 description = ""
 date = "2019-06-12T22:50:09-07:00"
 categories = ["Music"]
