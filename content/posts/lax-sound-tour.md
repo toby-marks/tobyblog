@@ -2,7 +2,7 @@
 categories = ["Sounds"]
 date = "2019-06-14T16:54:34-07:00"
 description = "Join me on a soundseeing tour of LAX airport"
-draft = true
+draft = false
 minipost = "true"
 tags = ["LAX", "travel"]
 title = "A New Thing?"
