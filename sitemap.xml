@@ -3,8 +3,73 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/tags/</loc>
+    <lastmod>2019-06-14T16:54:34-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/lax-sound-tour/</loc>
+    <lastmod>2019-06-14T16:54:34-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/</loc>
+    <lastmod>2019-06-14T16:54:34-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/lax/</loc>
+    <lastmod>2019-06-14T16:54:34-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/</loc>
+    <lastmod>2019-06-14T16:54:34-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/sounds/</loc>
+    <lastmod>2019-06-14T16:54:34-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/</loc>
+    <lastmod>2019-06-14T16:54:34-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2019-06-14T16:54:34-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/travel/</loc>
+    <lastmod>2019-06-14T16:54:34-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/photos/firewheels-at-arbor-hills/</loc>
     <lastmod>2019-06-12T23:36:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/photos/</loc>
+    <lastmod>2019-06-12T23:36:21-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/maggie/</loc>
+    <lastmod>2019-06-12T22:50:09-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -13,8 +78,26 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/categories/music/</loc>
+    <lastmod>2019-06-12T22:50:09-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/rod-stewart/</loc>
+    <lastmod>2019-06-12T22:50:09-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/microposts/gor/</loc>
     <lastmod>2019-06-11T15:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/microposts/</loc>
+    <lastmod>2019-06-11T15:00:00-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -23,8 +106,20 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/categories/food/</loc>
+    <lastmod>2019-06-03T09:28:36-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/hogs-head-cheese/</loc>
     <lastmod>2019-06-03T09:28:36-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/louisiana/</loc>
+    <lastmod>2019-06-03T09:28:36-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -35,6 +130,24 @@
   <url>
     <loc>http://tobyblog.com/posts/ants-harvest-coffee/</loc>
     <lastmod>2019-05-31T09:55:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/news/</loc>
+    <lastmod>2019-05-31T09:55:43-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/ants/</loc>
+    <lastmod>2019-05-31T09:55:43-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/coffee/</loc>
+    <lastmod>2019-05-31T09:55:43-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -73,8 +186,20 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/categories/journal/</loc>
+    <lastmod>2019-05-21T15:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/cottonwood-art-fest-2019/</loc>
     <lastmod>2019-05-21T15:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/art/</loc>
+    <lastmod>2019-05-21T15:00:00-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -100,6 +225,24 @@
   <url>
     <loc>http://tobyblog.com/posts/detective-pikachu-was-as-good-as-it-could-be/</loc>
     <lastmod>2019-05-14T20:02:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/movies/</loc>
+    <lastmod>2019-05-14T20:02:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/pikachu/</loc>
+    <lastmod>2019-05-14T20:02:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/pokemon/</loc>
+    <lastmod>2019-05-14T20:02:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -163,13 +306,37 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/kassi/</loc>
+    <lastmod>2019-05-01T17:46:58-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/dreamlog-a-new-house/</loc>
     <lastmod>2019-05-01T17:14:42-05:00</lastmod>
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/dreams/</loc>
+    <lastmod>2019-05-01T17:14:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/hypnotic-donuts/</loc>
     <lastmod>2019-05-01T18:01:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/reviews/</loc>
+    <lastmod>2019-05-01T18:01:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/food/</loc>
+    <lastmod>2019-05-01T18:01:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -183,13 +350,61 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/categories/updates/</loc>
+    <lastmod>2019-04-24T16:18:33-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/dad-bods/</loc>
+    <lastmod>2019-04-21T15:50:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/when-ai-throws-shade/</loc>
     <lastmod>2019-04-21T15:50:15-05:00</lastmod>
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/norman-lear/</loc>
+    <lastmod>2019-04-21T09:01:32-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/pop-culture/</loc>
+    <lastmod>2019-04-21T09:01:32-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/tv/</loc>
+    <lastmod>2019-04-21T09:01:32-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/all-in-the-family-live-event/</loc>
     <lastmod>2019-04-21T09:01:32-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/california/</loc>
+    <lastmod>2019-04-19T19:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/pasadena/</loc>
+    <lastmod>2019-04-19T19:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/reviews/</loc>
+    <lastmod>2019-04-19T19:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -208,8 +423,50 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/best-stop/</loc>
+    <lastmod>2019-04-17T21:58:19-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/videos/cajun-treats/</loc>
     <lastmod>2019-04-17T21:58:19-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/swamp-pop/</loc>
+    <lastmod>2019-04-17T21:58:19-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/videos/</loc>
+    <lastmod>2019-04-17T21:58:19-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/zapps/</loc>
+    <lastmod>2019-04-17T21:58:19-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/potato-chips/</loc>
+    <lastmod>2019-04-17T21:58:19-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/quail-eggs/</loc>
+    <lastmod>2019-04-17T21:58:19-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/soda/</loc>
+    <lastmod>2019-04-17T21:58:19-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -243,6 +500,24 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/michael-franti/</loc>
+    <lastmod>2019-04-10T11:11:56-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/jukebox/</loc>
+    <lastmod>2019-04-10T11:11:56-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/music/</loc>
+    <lastmod>2019-04-10T11:11:56-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/jukebox-franti-soulshine/</loc>
     <lastmod>2019-04-10T11:11:56-05:00</lastmod>
   </url>
@@ -253,13 +528,37 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/categories/life/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/spring-buds/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/flowers/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/spring/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/flip-wilson/</loc>
     <lastmod>2019-04-06T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/geocaching/</loc>
+    <lastmod>2019-04-05T14:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -303,8 +602,26 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/orthodoxy/</loc>
+    <lastmod>2019-03-18T12:02:52-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/religion/</loc>
+    <lastmod>2019-03-18T12:02:52-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/elder-joseph/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/religion/</loc>
+    <lastmod>2019-03-18T12:02:52-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -315,6 +632,24 @@
   <url>
     <loc>http://tobyblog.com/posts/st-patrick-s-favorite-drink/</loc>
     <lastmod>2019-03-16T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/vodka-stingers/</loc>
+    <lastmod>2019-03-16T17:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/alcohol/</loc>
+    <lastmod>2019-03-16T17:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/drinks/</loc>
+    <lastmod>2019-03-16T17:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -393,6 +728,12 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/fr.-lazarus/</loc>
+    <lastmod>2019-03-12T07:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/photos/pok%C3%A9mon-go-in-pasadena/</loc>
     <lastmod>2019-03-12T05:50:00+00:00</lastmod>
   </url>
@@ -418,6 +759,12 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/death/</loc>
+    <lastmod>2019-03-11T08:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/microposts/morning-prayers/</loc>
     <lastmod>2019-03-11T07:00:00+00:00</lastmod>
   </url>
@@ -425,6 +772,18 @@
   <url>
     <loc>http://tobyblog.com/posts/2019-03-10-jean/</loc>
     <lastmod>2019-03-10T23:31:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/rod-mckuen/</loc>
+    <lastmod>2019-03-10T23:31:51-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/youtube/</loc>
+    <lastmod>2019-03-10T23:31:51-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -453,6 +812,12 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/work/</loc>
+    <lastmod>2019-03-08T12:31:10-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/happy-spring/</loc>
     <lastmod>2019-03-08T06:00:00+00:00</lastmod>
   </url>
@@ -473,8 +838,38 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/lent/</loc>
+    <lastmod>2019-03-06T23:28:11-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/orthodox/</loc>
+    <lastmod>2019-03-06T23:28:11-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/2019-03-05-the-jerk/</loc>
     <lastmod>2019-03-05T23:39:44-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/movies/</loc>
+    <lastmod>2019-03-05T23:39:44-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/ataxx/</loc>
+    <lastmod>2019-03-04T23:29:44-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/infexxion/</loc>
+    <lastmod>2019-03-04T23:29:44-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -483,8 +878,32 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/gaming/</loc>
+    <lastmod>2019-03-04T23:29:44-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/books/</loc>
+    <lastmod>2019-02-28T01:41:02-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/2019-09-28-robot-mice/</loc>
     <lastmod>2019-02-28T01:41:02-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/ray-bradbury/</loc>
+    <lastmod>2019-02-28T01:41:02-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/poems/</loc>
+    <lastmod>2019-02-28T01:41:02-06:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -508,6 +927,12 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/sonic-the-hedgehog/</loc>
+    <lastmod>2019-02-21T22:27:13-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/2019-02-22-sonic-movie/</loc>
     <lastmod>2019-02-21T22:27:13-08:00</lastmod>
   </url>
@@ -515,6 +940,12 @@
   <url>
     <loc>http://tobyblog.com/posts/2019-02-20-bird-and-the-bee/</loc>
     <lastmod>2019-02-20T23:07:28-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/covers/</loc>
+    <lastmod>2019-02-20T23:07:28-08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -528,13 +959,55 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/jobs/</loc>
+    <lastmod>2019-02-19T23:42:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/musings/</loc>
+    <lastmod>2019-02-19T23:42:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/ramen/</loc>
+    <lastmod>2019-02-19T23:42:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/end-times/</loc>
+    <lastmod>2019-02-18T23:11:34-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/fr.-seraphim-rose/</loc>
+    <lastmod>2019-02-18T23:11:34-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/2019-02-18-everything-ends/</loc>
     <lastmod>2019-02-18T23:11:34-08:00</lastmod>
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/memes/</loc>
+    <lastmod>2019-02-18T23:11:34-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/2019-01-03-you-have-been-loved/</loc>
     <lastmod>2019-02-08T11:11:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/jazz-noir/</loc>
+    <lastmod>2019-02-08T11:11:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -558,13 +1031,37 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/christmas/</loc>
+    <lastmod>2018-12-21T16:44:08-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/halloween/</loc>
+    <lastmod>2018-10-31T09:34:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/2018-10-31-halloween-postponed/</loc>
     <lastmod>2018-10-31T09:34:28-05:00</lastmod>
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/catholic/</loc>
+    <lastmod>2018-10-26T00:38:10-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/2018-10-26-from-vermeule-to-newman/</loc>
     <lastmod>2018-10-26T00:38:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/glenn-yarbrough/</loc>
+    <lastmod>2018-10-26T00:24:11-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -588,8 +1085,38 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/revelations/</loc>
+    <lastmod>2018-10-24T01:26:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/prophecy/</loc>
+    <lastmod>2018-10-24T01:26:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/the-bible/</loc>
+    <lastmod>2018-10-24T01:26:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/the-whore-of-babylon/</loc>
+    <lastmod>2018-10-24T01:26:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/microposts/2018-10-23-halloween-thoughts/</loc>
     <lastmod>2018-10-23T01:02:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/frank-sinatra/</loc>
+    <lastmod>2018-10-17T16:17:27-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -608,8 +1135,32 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/carl/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/2018-04-27-super-meganerd-fun-pack-2/</loc>
     <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/unboxings/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/theponyowner/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/toys/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -618,13 +1169,31 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/frank-zappa/</loc>
+    <lastmod>2018-04-25T17:25:39-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/microposts/2018-04-24-rap-songs-mention-andy-griffith/</loc>
     <lastmod>2018-04-24T20:37:11-05:00</lastmod>
   </url>
   
   <url>
+    <loc>http://tobyblog.com/categories/halloween/</loc>
+    <lastmod>2018-04-22T13:49:48-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/2018-04-08-halloween-hauntfest/</loc>
     <lastmod>2018-04-22T13:49:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/photolog/</loc>
+    <lastmod>2018-04-22T13:49:48-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -643,8 +1212,20 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/beyond-the-gates/</loc>
+    <lastmod>2018-03-28T22:46:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/2018-03-28-so-sick/</loc>
     <lastmod>2018-03-28T22:46:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/horror/</loc>
+    <lastmod>2018-03-28T22:46:49-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -658,13 +1239,61 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/ace/</loc>
+    <lastmod>2017-11-24T10:49:02-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/martin-house/</loc>
+    <lastmod>2017-11-24T10:49:02-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/2017-11-24-pumpkin-latte-ace-pumpkin-cider/</loc>
     <lastmod>2017-11-24T10:49:02-06:00</lastmod>
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/thanksgiving/</loc>
+    <lastmod>2017-11-24T10:49:02-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/beer/</loc>
+    <lastmod>2017-11-24T10:49:02-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/cider/</loc>
+    <lastmod>2017-11-24T10:49:02-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/videos/2017-10-29-cauldron-skittles-review/</loc>
     <lastmod>2017-10-29T19:53:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/candy/</loc>
+    <lastmod>2017-10-29T19:53:27-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/review-the-world/</loc>
+    <lastmod>2017-10-29T19:53:27-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/skittles/</loc>
+    <lastmod>2017-10-29T19:53:27-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -693,6 +1322,12 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/candles/</loc>
+    <lastmod>2017-09-04T09:41:11-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/photos/2017-09-02-solar-eclipse/</loc>
     <lastmod>2017-09-02T16:45:55-05:00</lastmod>
   </url>
@@ -718,8 +1353,38 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/soda-pop/</loc>
+    <lastmod>2017-01-01T23:24:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/august-into-december-at-the-holiday-warehouse/</loc>
     <lastmod>2016-09-11T13:36:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/decorators-warehouse/</loc>
+    <lastmod>2016-09-11T13:36:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/holiday-warehouse/</loc>
+    <lastmod>2016-09-11T13:36:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/fall/</loc>
+    <lastmod>2016-09-11T13:36:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/winter/</loc>
+    <lastmod>2016-09-11T13:36:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -728,8 +1393,32 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/indian-food/</loc>
+    <lastmod>2016-08-11T16:07:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/mexican-food/</loc>
+    <lastmod>2016-08-11T16:07:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/taco-naan/</loc>
+    <lastmod>2016-08-11T16:07:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/videos/the-czech-stop-and-slovaceks/</loc>
     <lastmod>2016-08-08T15:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/gas-stations/</loc>
+    <lastmod>2016-08-08T15:30:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -738,8 +1427,32 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/frozard/</loc>
+    <lastmod>2016-07-11T10:35:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/videos/frozard-man/</loc>
     <lastmod>2016-07-11T10:35:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/randy-marks/</loc>
+    <lastmod>2016-07-11T10:35:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/specials/</loc>
+    <lastmod>2016-07-11T10:35:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/deer-balls/</loc>
+    <lastmod>2016-07-11T10:35:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -753,8 +1466,38 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/geocaching/</loc>
+    <lastmod>2016-05-30T11:26:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/thevcubesolver/</loc>
+    <lastmod>2016-05-30T11:26:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/super-meganerd-fun-pack/</loc>
     <lastmod>2016-05-02T21:21:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/austin/</loc>
+    <lastmod>2016-04-15T16:12:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/museum-of-the-weird/</loc>
+    <lastmod>2016-04-15T16:12:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/sfanthor/</loc>
+    <lastmod>2016-04-15T16:12:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -763,8 +1506,26 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/categories/gaming/</loc>
+    <lastmod>2016-04-15T16:10:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/videos/we-play-mario-party-10/</loc>
     <lastmod>2016-04-15T16:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/nintendo/</loc>
+    <lastmod>2016-04-15T16:10:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/video-games/</loc>
+    <lastmod>2016-04-15T16:10:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -783,8 +1544,32 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/collectors-crypt/</loc>
+    <lastmod>2016-01-21T14:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/lights-out-for-collectors-crypt/</loc>
     <lastmod>2016-01-21T14:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/texas-frightmare-weekend/</loc>
+    <lastmod>2016-01-21T14:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/dallas/</loc>
+    <lastmod>2016-01-21T14:30:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/dark-hour-haunted-house/</loc>
+    <lastmod>2016-01-01T17:10:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -793,13 +1578,37 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/krampus/</loc>
+    <lastmod>2016-01-01T17:10:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/videos/the-tobyblog-thanksgiving-special/</loc>
     <lastmod>2015-11-29T14:03:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/home/</loc>
+    <lastmod>2015-11-29T14:03:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/a-pumpkin-for-st.-michael/</loc>
     <lastmod>2015-09-29T09:36:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/st.-michael/</loc>
+    <lastmod>2015-09-29T09:36:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/pumpkins/</loc>
+    <lastmod>2015-09-29T09:36:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -828,13 +1637,31 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/seasons/</loc>
+    <lastmod>2015-08-26T15:54:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/videos/super-mega-fun-pack/</loc>
     <lastmod>2015-08-18T19:09:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/dino-drac-funpack/</loc>
+    <lastmod>2015-08-18T19:09:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/aisles-aisles-of-halloween-at-at-home/</loc>
     <lastmod>2015-07-27T23:05:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/diana-levin/</loc>
+    <lastmod>2015-06-19T21:27:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -848,13 +1675,61 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/conventions/</loc>
+    <lastmod>2015-06-19T21:09:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/bahama-bucks/</loc>
+    <lastmod>2015-06-17T09:09:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/videos/bahama-bucks/</loc>
     <lastmod>2015-06-17T09:09:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/sno-cones/</loc>
+    <lastmod>2015-06-17T09:09:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/summer/</loc>
+    <lastmod>2015-06-17T09:09:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/alamo-drafthouse/</loc>
+    <lastmod>2015-06-10T16:34:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/don-coscarelli/</loc>
+    <lastmod>2015-06-10T16:34:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/phantasm/</loc>
+    <lastmod>2015-06-10T16:34:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/screening-phantasm-with-the-tall-man/</loc>
     <lastmod>2015-06-10T16:34:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/the-tall-man/</loc>
+    <lastmod>2015-06-10T16:34:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -865,6 +1740,12 @@
   <url>
     <loc>http://tobyblog.com/videos/conversations-series-the-nintendo-nx/</loc>
     <lastmod>2015-04-21T10:12:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/conversations/</loc>
+    <lastmod>2015-04-21T10:12:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -883,8 +1764,26 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/fuel-city/</loc>
+    <lastmod>2015-03-22T08:04:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/tacos/</loc>
+    <lastmod>2015-03-22T08:04:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/videos/my-first-night-cache/</loc>
     <lastmod>2015-01-25T16:40:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/neighborhood/</loc>
+    <lastmod>2015-01-25T16:40:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -898,8 +1797,20 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/super-chix/</loc>
+    <lastmod>2014-12-03T22:28:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/super-chix-review/</loc>
     <lastmod>2014-12-03T22:28:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/chicken/</loc>
+    <lastmod>2014-12-03T22:28:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -908,13 +1819,61 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/giveaways/</loc>
+    <lastmod>2014-12-03T15:42:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/review-the-world-comes-to-dallas/</loc>
     <lastmod>2014-11-15T11:43:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/blogs/</loc>
+    <lastmod>2014-11-15T11:43:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/parks/</loc>
+    <lastmod>2014-11-15T11:43:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/restaurants/</loc>
+    <lastmod>2014-11-15T11:43:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/sushi/</loc>
+    <lastmod>2014-11-15T11:43:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/the-mask-of-the-red-death/</loc>
     <lastmod>2014-10-18T06:56:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/ebola/</loc>
+    <lastmod>2014-10-18T06:56:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/fiction/</loc>
+    <lastmod>2014-10-18T06:56:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/lemax/</loc>
+    <lastmod>2014-10-01T15:50:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -928,8 +1887,26 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/icons/</loc>
+    <lastmod>2014-09-30T22:42:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/skeletons/</loc>
+    <lastmod>2014-09-30T22:42:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/los-dias-de-los-muertos-at-world-market/</loc>
     <lastmod>2014-09-27T07:52:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/world-market/</loc>
+    <lastmod>2014-09-27T07:52:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -938,8 +1915,20 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/retropalooza/</loc>
+    <lastmod>2014-09-21T15:46:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/the-real-star-of-phantasm/</loc>
     <lastmod>2014-09-19T22:43:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/cars/</loc>
+    <lastmod>2014-09-19T22:43:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -958,8 +1947,38 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/fried-food/</loc>
+    <lastmod>2014-08-31T15:16:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/gizzards/</loc>
+    <lastmod>2014-08-31T15:16:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/in-my-car/</loc>
+    <lastmod>2014-08-31T15:16:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/liver/</loc>
+    <lastmod>2014-08-31T15:16:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/incredible-halloween-village-at-michaels/</loc>
     <lastmod>2014-08-23T23:55:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/michaels/</loc>
+    <lastmod>2014-08-23T23:55:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -968,8 +1987,26 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/lays/</loc>
+    <lastmod>2014-08-09T21:38:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/snickers/</loc>
+    <lastmod>2014-08-09T21:38:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/videos/snickers-varieties-and-lays-cappuccino-chips/</loc>
     <lastmod>2014-08-09T21:38:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/buddy-team/</loc>
+    <lastmod>2014-08-09T21:38:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1003,8 +2040,26 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/games/</loc>
+    <lastmod>2014-07-25T22:56:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/psa/</loc>
+    <lastmod>2014-07-24T22:15:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/restroom-tissue-dispensers/</loc>
     <lastmod>2014-07-24T22:15:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/gripes/</loc>
+    <lastmod>2014-07-24T22:15:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1058,8 +2113,38 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/t2t/</loc>
+    <lastmod>2014-05-18T14:35:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/chili-cheese-fries/</loc>
+    <lastmod>2014-05-18T14:35:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/videos/kryptonite-kandy/</loc>
     <lastmod>2014-04-18T21:36:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/kryptonite/</loc>
+    <lastmod>2014-04-18T21:36:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/rock-candy/</loc>
+    <lastmod>2014-04-18T21:36:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/takis/</loc>
+    <lastmod>2014-04-18T21:20:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1073,8 +2158,32 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/ray-bradbury-theater/</loc>
+    <lastmod>2014-04-17T22:33:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/videos/houston-winter-open/</loc>
     <lastmod>2014-03-14T20:09:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/houston-winter-open/</loc>
+    <lastmod>2014-03-14T20:09:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/speed-cubing/</loc>
+    <lastmod>2014-03-14T20:09:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/review-the-world/</loc>
+    <lastmod>2014-03-12T23:05:38-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1088,6 +2197,12 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/found-items/</loc>
+    <lastmod>2014-03-09T19:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/taco-naan-review/</loc>
     <lastmod>2014-02-26T22:55:00+00:00</lastmod>
   </url>
@@ -1095,6 +2210,18 @@
   <url>
     <loc>http://tobyblog.com/posts/youre-getting-better-ken-nordine/</loc>
     <lastmod>2014-02-25T15:07:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/ken-nordine/</loc>
+    <lastmod>2014-02-25T15:07:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/wordjazz/</loc>
+    <lastmod>2014-02-25T15:07:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1118,6 +2245,24 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/ice-cream/</loc>
+    <lastmod>2014-02-11T21:37:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/jolly-ranchers/</loc>
+    <lastmod>2014-02-11T21:37:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/push-pops/</loc>
+    <lastmod>2014-02-11T21:37:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/videos/zapps-mega-review-part-2/</loc>
     <lastmod>2014-02-03T22:47:29-07:00</lastmod>
   </url>
@@ -1128,8 +2273,20 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/zyka/</loc>
+    <lastmod>2014-02-02T23:22:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/top-10-review-the-world-episodes-of-2013/</loc>
     <lastmod>2014-02-02T22:30:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/recommendations/</loc>
+    <lastmod>2014-02-02T22:30:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1148,1147 +2305,7 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/</loc>
-    <lastmod>2019-04-24T16:18:33-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/ace/</loc>
-    <lastmod>2017-11-24T10:49:02-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/alamo-drafthouse/</loc>
-    <lastmod>2015-06-10T16:34:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/alcohol/</loc>
-    <lastmod>2019-03-16T17:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/ants/</loc>
-    <lastmod>2019-05-31T09:55:43-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/art/</loc>
-    <lastmod>2019-05-21T15:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/ataxx/</loc>
-    <lastmod>2019-03-04T23:29:44-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/austin/</loc>
-    <lastmod>2016-04-15T16:12:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/bahama-bucks/</loc>
-    <lastmod>2015-06-17T09:09:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/beer/</loc>
-    <lastmod>2017-11-24T10:49:02-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/best-stop/</loc>
-    <lastmod>2019-04-17T21:58:19-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/beyond-the-gates/</loc>
-    <lastmod>2018-03-28T22:46:49-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/blogs/</loc>
-    <lastmod>2014-11-15T11:43:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/books/</loc>
-    <lastmod>2019-02-28T01:41:02-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/buddy-team/</loc>
-    <lastmod>2014-08-09T21:38:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/california/</loc>
-    <lastmod>2019-04-19T19:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/candles/</loc>
-    <lastmod>2017-09-04T09:41:11-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/candy/</loc>
-    <lastmod>2017-10-29T19:53:27-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/carl/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/cars/</loc>
-    <lastmod>2014-09-19T22:43:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/</loc>
-    <lastmod>2019-02-28T01:41:02-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/catholic/</loc>
-    <lastmod>2018-10-26T00:38:10-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/chicken/</loc>
-    <lastmod>2014-12-03T22:28:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/chili-cheese-fries/</loc>
-    <lastmod>2014-05-18T14:35:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/christmas/</loc>
-    <lastmod>2018-12-21T16:44:08-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/cider/</loc>
-    <lastmod>2017-11-24T10:49:02-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/coffee/</loc>
-    <lastmod>2019-05-31T09:55:43-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/collectors-crypt/</loc>
-    <lastmod>2016-01-21T14:30:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/conventions/</loc>
-    <lastmod>2015-06-19T21:09:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/conversations/</loc>
-    <lastmod>2015-04-21T10:12:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/covers/</loc>
-    <lastmod>2019-02-20T23:07:28-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/dad-bods/</loc>
-    <lastmod>2019-04-21T15:50:15-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/dallas/</loc>
-    <lastmod>2016-01-21T14:30:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/dark-hour-haunted-house/</loc>
-    <lastmod>2016-01-01T17:10:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/death/</loc>
-    <lastmod>2019-03-11T08:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/decorators-warehouse/</loc>
-    <lastmod>2016-09-11T13:36:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/deer-balls/</loc>
-    <lastmod>2016-07-11T10:35:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/diana-levin/</loc>
-    <lastmod>2015-06-19T21:27:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/dino-drac-funpack/</loc>
-    <lastmod>2015-08-18T19:09:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/don-coscarelli/</loc>
-    <lastmod>2015-06-10T16:34:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/dreams/</loc>
-    <lastmod>2019-05-01T17:14:42-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/drinks/</loc>
-    <lastmod>2019-03-16T17:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/ebola/</loc>
-    <lastmod>2014-10-18T06:56:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/end-times/</loc>
-    <lastmod>2019-02-18T23:11:34-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/fall/</loc>
-    <lastmod>2016-09-11T13:36:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/fiction/</loc>
-    <lastmod>2014-10-18T06:56:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/flowers/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/food/</loc>
-    <lastmod>2019-05-01T18:01:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/food/</loc>
-    <lastmod>2019-06-03T09:28:36-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/found-items/</loc>
-    <lastmod>2014-03-09T19:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/fr.-lazarus/</loc>
-    <lastmod>2019-03-12T07:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/fr.-seraphim-rose/</loc>
-    <lastmod>2019-02-18T23:11:34-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/frank-sinatra/</loc>
-    <lastmod>2018-10-17T16:17:27-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/frank-zappa/</loc>
-    <lastmod>2018-04-25T17:25:39-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/fried-food/</loc>
-    <lastmod>2014-08-31T15:16:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/frozard/</loc>
-    <lastmod>2016-07-11T10:35:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/fuel-city/</loc>
-    <lastmod>2015-03-22T08:04:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/games/</loc>
-    <lastmod>2014-07-25T22:56:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/gaming/</loc>
-    <lastmod>2019-03-04T23:29:44-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/gaming/</loc>
-    <lastmod>2016-04-15T16:10:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/gas-stations/</loc>
-    <lastmod>2016-08-08T15:30:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/geocaching/</loc>
-    <lastmod>2016-05-30T11:26:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/geocaching/</loc>
-    <lastmod>2019-04-05T14:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/giveaways/</loc>
-    <lastmod>2014-12-03T15:42:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/gizzards/</loc>
-    <lastmod>2014-08-31T15:16:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/glenn-yarbrough/</loc>
-    <lastmod>2018-10-26T00:24:11-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/gripes/</loc>
-    <lastmod>2014-07-24T22:15:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/halloween/</loc>
-    <lastmod>2018-10-31T09:34:28-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/halloween/</loc>
-    <lastmod>2018-04-22T13:49:48-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/holiday-warehouse/</loc>
-    <lastmod>2016-09-11T13:36:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/home/</loc>
-    <lastmod>2015-11-29T14:03:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/horror/</loc>
-    <lastmod>2018-03-28T22:46:49-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/houston-winter-open/</loc>
-    <lastmod>2014-03-14T20:09:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/ice-cream/</loc>
-    <lastmod>2014-02-11T21:37:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/icons/</loc>
-    <lastmod>2014-09-30T22:42:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/in-my-car/</loc>
-    <lastmod>2014-08-31T15:16:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/indian-food/</loc>
-    <lastmod>2016-08-11T16:07:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/infexxion/</loc>
-    <lastmod>2019-03-04T23:29:44-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/jazz-noir/</loc>
-    <lastmod>2019-02-08T11:11:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/jobs/</loc>
-    <lastmod>2019-02-19T23:42:48-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/jolly-ranchers/</loc>
-    <lastmod>2014-02-11T21:37:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/journal/</loc>
-    <lastmod>2019-05-21T15:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/jukebox/</loc>
-    <lastmod>2019-04-10T11:11:56-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/kassi/</loc>
-    <lastmod>2019-05-01T17:46:58-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/ken-nordine/</loc>
-    <lastmod>2014-02-25T15:07:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/krampus/</loc>
-    <lastmod>2016-01-01T17:10:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/kryptonite/</loc>
-    <lastmod>2014-04-18T21:36:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/lays/</loc>
-    <lastmod>2014-08-09T21:38:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/lemax/</loc>
-    <lastmod>2014-10-01T15:50:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/lent/</loc>
-    <lastmod>2019-03-06T23:28:11-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/life/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/liver/</loc>
-    <lastmod>2014-08-31T15:16:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/louisiana/</loc>
-    <lastmod>2019-06-03T09:28:36-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/maggie/</loc>
-    <lastmod>2019-06-12T22:50:09-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/martin-house/</loc>
-    <lastmod>2017-11-24T10:49:02-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/memes/</loc>
-    <lastmod>2019-02-18T23:11:34-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/mexican-food/</loc>
-    <lastmod>2016-08-11T16:07:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/michael-franti/</loc>
-    <lastmod>2019-04-10T11:11:56-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/michaels/</loc>
-    <lastmod>2014-08-23T23:55:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/microposts/</loc>
-    <lastmod>2019-06-11T15:00:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/movies/</loc>
-    <lastmod>2019-03-05T23:39:44-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/movies/</loc>
-    <lastmod>2019-05-14T20:02:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/museum-of-the-weird/</loc>
-    <lastmod>2016-04-15T16:12:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/music/</loc>
-    <lastmod>2019-04-10T11:11:56-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/music/</loc>
-    <lastmod>2019-06-12T22:50:09-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/musings/</loc>
-    <lastmod>2019-02-19T23:42:48-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/neighborhood/</loc>
-    <lastmod>2015-01-25T16:40:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/news/</loc>
-    <lastmod>2019-05-31T09:55:43-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/nintendo/</loc>
-    <lastmod>2016-04-15T16:10:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/norman-lear/</loc>
-    <lastmod>2019-04-21T09:01:32-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/orthodox/</loc>
-    <lastmod>2019-03-06T23:28:11-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/orthodoxy/</loc>
-    <lastmod>2019-03-18T12:02:52-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/parks/</loc>
-    <lastmod>2014-11-15T11:43:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/pasadena/</loc>
-    <lastmod>2019-04-19T19:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/phantasm/</loc>
-    <lastmod>2015-06-10T16:34:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/photolog/</loc>
-    <lastmod>2018-04-22T13:49:48-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/photos/</loc>
-    <lastmod>2019-06-12T23:36:21-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/pikachu/</loc>
-    <lastmod>2019-05-14T20:02:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/poems/</loc>
-    <lastmod>2019-02-28T01:41:02-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/pokemon/</loc>
-    <lastmod>2019-05-14T20:02:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/pop-culture/</loc>
-    <lastmod>2019-04-21T09:01:32-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2019-06-12T22:50:09-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/potato-chips/</loc>
-    <lastmod>2019-04-17T21:58:19-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/prophecy/</loc>
-    <lastmod>2018-10-24T01:26:49-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/psa/</loc>
-    <lastmod>2014-07-24T22:15:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/pumpkins/</loc>
-    <lastmod>2015-09-29T09:36:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/push-pops/</loc>
-    <lastmod>2014-02-11T21:37:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/quail-eggs/</loc>
-    <lastmod>2019-04-17T21:58:19-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/ramen/</loc>
-    <lastmod>2019-02-19T23:42:48-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/randy-marks/</loc>
-    <lastmod>2016-07-11T10:35:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/ray-bradbury/</loc>
-    <lastmod>2019-02-28T01:41:02-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/ray-bradbury-theater/</loc>
-    <lastmod>2014-04-17T22:33:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/recommendations/</loc>
-    <lastmod>2014-02-02T22:30:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/religion/</loc>
-    <lastmod>2019-03-18T12:02:52-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/religion/</loc>
-    <lastmod>2019-03-18T12:02:52-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/restaurants/</loc>
-    <lastmod>2014-11-15T11:43:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/retropalooza/</loc>
-    <lastmod>2014-09-21T15:46:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/revelations/</loc>
-    <lastmod>2018-10-24T01:26:49-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/review-the-world/</loc>
-    <lastmod>2017-10-29T19:53:27-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/review-the-world/</loc>
-    <lastmod>2014-03-12T23:05:38-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/reviews/</loc>
-    <lastmod>2019-04-19T19:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/reviews/</loc>
-    <lastmod>2019-05-01T18:01:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/rock-candy/</loc>
-    <lastmod>2014-04-18T21:36:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/rod-mckuen/</loc>
-    <lastmod>2019-03-10T23:31:51-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/rod-stewart/</loc>
-    <lastmod>2019-06-12T22:50:09-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/seasons/</loc>
-    <lastmod>2015-08-26T15:54:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/series/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/sfanthor/</loc>
-    <lastmod>2016-04-15T16:12:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/skeletons/</loc>
-    <lastmod>2014-09-30T22:42:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/skittles/</loc>
-    <lastmod>2017-10-29T19:53:27-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/snickers/</loc>
-    <lastmod>2014-08-09T21:38:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/sno-cones/</loc>
-    <lastmod>2015-06-17T09:09:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/soda/</loc>
-    <lastmod>2019-04-17T21:58:19-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/soda-pop/</loc>
-    <lastmod>2017-01-01T23:24:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/sonic-the-hedgehog/</loc>
-    <lastmod>2019-02-21T22:27:13-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/specials/</loc>
-    <lastmod>2016-07-11T10:35:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/speed-cubing/</loc>
-    <lastmod>2014-03-14T20:09:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/spring/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/st.-michael/</loc>
-    <lastmod>2015-09-29T09:36:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/summer/</loc>
-    <lastmod>2015-06-17T09:09:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/super-chix/</loc>
-    <lastmod>2014-12-03T22:28:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/sushi/</loc>
-    <lastmod>2014-11-15T11:43:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/swamp-pop/</loc>
-    <lastmod>2019-04-17T21:58:19-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/t2t/</loc>
-    <lastmod>2014-05-18T14:35:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/taco-naan/</loc>
-    <lastmod>2016-08-11T16:07:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/tacos/</loc>
-    <lastmod>2015-03-22T08:04:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/</loc>
-    <lastmod>2019-04-24T16:18:33-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/takis/</loc>
-    <lastmod>2014-04-18T21:20:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/texas-frightmare-weekend/</loc>
-    <lastmod>2016-01-21T14:30:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/thanksgiving/</loc>
-    <lastmod>2017-11-24T10:49:02-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/the-bible/</loc>
-    <lastmod>2018-10-24T01:26:49-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/the-tall-man/</loc>
-    <lastmod>2015-06-10T16:34:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/the-whore-of-babylon/</loc>
-    <lastmod>2018-10-24T01:26:49-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/theponyowner/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/thevcubesolver/</loc>
-    <lastmod>2016-05-30T11:26:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/</loc>
-    <lastmod>2019-06-12T23:36:21-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/toys/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/travel/</loc>
-    <lastmod>2018-03-28T22:46:49-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/tv/</loc>
-    <lastmod>2019-04-21T09:01:32-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/unboxings/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/updates/</loc>
-    <lastmod>2019-04-24T16:18:33-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/video-games/</loc>
-    <lastmod>2016-04-15T16:10:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/videos/</loc>
-    <lastmod>2019-04-17T21:58:19-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/vodka-stingers/</loc>
-    <lastmod>2019-03-16T17:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/winter/</loc>
-    <lastmod>2016-09-11T13:36:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/wordjazz/</loc>
-    <lastmod>2014-02-25T15:07:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/work/</loc>
-    <lastmod>2019-03-08T12:31:10-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/world-market/</loc>
-    <lastmod>2014-09-27T07:52:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/youtube/</loc>
-    <lastmod>2019-03-10T23:31:51-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/zapps/</loc>
-    <lastmod>2019-04-17T21:58:19-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/zyka/</loc>
-    <lastmod>2014-02-02T23:22:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
