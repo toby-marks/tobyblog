@@ -1,10 +1,12 @@
 +++
-title = "A New Thing?"
-description = "Join me on a soundseeing tour of LAX airport"
-date = "2019-06-14T16:54:34-07:00"
 categories = ["Sounds"]
-tags = ["LAX", "travel"]
+date = "2019-06-14T16:54:34-07:00"
+description = "Join me on a soundseeing tour of LAX airport"
+draft = true
 minipost = "true"
+tags = ["LAX", "travel"]
+title = "A New Thing?"
+
 +++
 I decided to do something today I've been wanting to do for quite a while. I'm bringing back what they used to call in the early days of podcasting "soundseeing tours", wherein people just recorded the ambient sounds of interesting places they visited or things they were doing. Not much time to do a writeup on this, as I'm about to board my flight, but here you can join me on my customary walk from Tom Bradley International terminal across the length and breadth of the airport. 
 
