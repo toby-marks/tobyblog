@@ -15,6 +15,7 @@ fields:
     required: true
     time_format: h:mm A ZZ
 pages:
+- content/microposts/yo-mama.md
 - content/microposts/backdoor-man.md
 - content/microposts/kodachrome.md
 - content/microposts/gor.md
