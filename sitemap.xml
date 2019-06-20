@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/microposts/kodachrome/</loc>
+    <lastmod>2019-06-20T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/photos/20190615-rcp-walk/</loc>
     <lastmod>2019-06-15T15:21:57-05:00</lastmod>
   </url>
@@ -1764,7 +1769,7 @@
   
   <url>
     <loc>http://tobyblog.com/microposts/</loc>
-    <lastmod>2019-06-11T15:00:00-05:00</lastmod>
+    <lastmod>2019-06-20T12:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2225,7 +2230,7 @@
   
   <url>
     <loc>http://tobyblog.com/</loc>
-    <lastmod>2019-06-15T15:21:57-05:00</lastmod>
+    <lastmod>2019-06-20T12:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
