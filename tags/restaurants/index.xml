@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Restaurants on Tobyblog</title>
+    <title>restaurants on Tobyblog</title>
     <link>http://tobyblog.com/tags/restaurants/</link>
-    <description>Recent content in Restaurants on Tobyblog</description>
+    <description>Recent content in restaurants on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Nov 2014 11:43:00 +0000</lastBuildDate>
