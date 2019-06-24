@@ -7,7 +7,7 @@ tags = [""]
 +++
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1561413959/img/kelsey.png)
 
-Let's just say today feels more like Kelsey Grammer than Jason Mamoa.
+Let's just say today feels more like Kelsey Grammer than Jason Momoa.
 <!--more-->
 Been a bit of a rough afternoon workwise, so I'm set to unwind by taking the little one out for a walk at a park I discovered yesterday whilst geocaching. Yes, I finally got off the stick and decided to stop talking about it and actually *get back in the game.* Just in time for the [August challenge](https://www.geocaching.com/blog/2019/06/breaking-news-mystery-at-the-museum/), too.
 
