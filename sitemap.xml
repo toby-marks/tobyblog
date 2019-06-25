@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/microposts/where-o-conner-ends/</loc>
+    <lastmod>2019-06-25T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/journal-for-june-24-2019/</loc>
     <lastmod>2019-06-24T16:55:34-05:00</lastmod>
   </url>
@@ -1815,7 +1820,7 @@
   
   <url>
     <loc>http://tobyblog.com/microposts/</loc>
-    <lastmod>2019-06-21T21:57:28-05:00</lastmod>
+    <lastmod>2019-06-25T12:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2276,7 +2281,7 @@
   
   <url>
     <loc>http://tobyblog.com/</loc>
-    <lastmod>2019-06-24T16:55:34-05:00</lastmod>
+    <lastmod>2019-06-25T12:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
