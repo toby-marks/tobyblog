@@ -78,6 +78,18 @@ header h1 {
   color: #ffffff;
 }
 
+header.photo {
+  max-width: 100%;
+  width: 100%;
+}
+
+main.photo {
+  border: 0px;
+  padding: 0px;
+  margin: 0px;
+  width: 100%;
+}
+
 nav {
   margin-bottom: 20px;
   padding: 25px 0 0 0;
@@ -85,9 +97,14 @@ nav {
   text-align: center;
 }
 
+header.photo nav {
+  width: 100%
+}
+
 nav .banner {
   max-height: 270px;
-  margin: 60px 0 30px 0;
+  margin: 60px auto 30px auto;
+  text-align: center;
 } 
 
 nav ul {
@@ -100,6 +117,12 @@ nav ul {
   padding: 10px 0;
   background-color: #000000;
   text-align: right;
+}
+
+header.photo nav ul {
+  left: 0;
+  margin: 0;
+  width: 100%;
 }
 
 nav ul > li a[href] {
@@ -154,6 +177,10 @@ Articles
   max-width: 780px;
 }
 
+main.photo .post {
+  max-width: 100%;
+}
+
 .post-groups {
   max-width: 820px;
   background-color: rgba(0,0,0,0.5);
@@ -183,6 +210,12 @@ aside.dates {
 
 .post > p, .video > p {
   margin: 20px auto;
+}
+
+main.photo .post {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
 }
 
 .post h2, article.photo .title, .video h2 {
