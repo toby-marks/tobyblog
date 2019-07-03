@@ -1,47 +1,34 @@
 +++
 date = "2019-07-02T19:00:00-05:00"
-draft = true
 title = "Save The Children"
 
 +++
-I just want to ask a question
+I just want to ask a question<br>
+Who really cares?<br>
+To save a world in despair<br>
+Who really cares?<br>
+There’ll come a time, when the world won’t be singing<br>
+Flowers won’t grow, Bella won’t be ringing<br>
+Who really cares?<br>
+Who’s willing to try to save a world<br>
+Thats destined to die<br>
+When I look at the world it fills me with sorrow<br>
+Little children today are really gonna suffer tomorrow<br>
+Oh, what a shame, such a bad way to live<br>
+All who is to blame, we can’t stop loving<br>
+Live, live for life<br>
+But let live everybody<br>
+Live life for the children<br>
+Oh, for the children<br>
+You see, let’s save the children<br>
+Let’s save all the children<br>
+Save the babies, save the babies<br>
+If you wanna love, you got to save the babies<br>
+All of the children<br>
+But who really cares<br>
+Who’s willing to try<br>
+Yea, to save a world<br>
+Yea, save our sweet world<br>
+Save a world that is destined to die
 
-Who really cares?
-
-To save a world in despair
-
-Who really cares?
-
-There’ll come a time, when the world won’t be singing
-
-Flowers won’t grow, Bella won’t be ringing
-
-Who really cares?
-
-Who’s willing to try to save a world 
-
-Thats destined to die
-
-When I look at the world it fills me with sorrow 
-
-Little children today are really gonna suffer tomorrow 
-
-Oh, what a shame, such a bad way to live 
-
-All who is to blame, we can’t stop loving
-
-Live, live for life
-
-But let live everybody
-
-Live life for the children
-
-Oh, for the children
-
-You see, let’s save the children
-
-Let’s save all the children
-
-Save the babies, save the babies
-
-If you wanna love, you got to save the babies 
+![](https://res.cloudinary.com/tobyblog/image/upload/v1562112624/img/B2BF5288-71B3-4400-99C1-411D270A0A40.jpg)
