@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/microposts/save-the-children/</loc>
+    <lastmod>2019-07-02T19:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/microposts/-site-update-fullscreen-galleries/</loc>
     <lastmod>2019-06-28T17:32:30-05:00</lastmod>
   </url>
@@ -1830,7 +1835,7 @@
   
   <url>
     <loc>http://tobyblog.com/microposts/</loc>
-    <lastmod>2019-06-28T17:32:30-05:00</lastmod>
+    <lastmod>2019-07-02T19:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2291,7 +2296,7 @@
   
   <url>
     <loc>http://tobyblog.com/</loc>
-    <lastmod>2019-06-28T17:32:30-05:00</lastmod>
+    <lastmod>2019-07-02T19:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
