@@ -3,7 +3,7 @@ categories = ["Holidays"]
 date = "2019-07-04T11:00:00-05:00"
 description = ""
 externalurl = ""
-minipost = false
+minipost = true
 tags = []
 title = "Independence Day 2019"
 
