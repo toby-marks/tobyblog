@@ -1,6 +1,6 @@
 +++
 categories = ["Holidays"]
-date = "2019-07-04T23:00:00-05:00"
+date = "2019-07-04T11:00:00-05:00"
 description = ""
 externalurl = ""
 minipost = false
