@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jul 2019 11:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2019 17:41:06 -0500</lastBuildDate>
     
 	<atom:link href="http://tobyblog.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Journal</title>
+      <link>http://tobyblog.com/categories/journal/</link>
+      <pubDate>Sun, 07 Jul 2019 17:41:06 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/categories/journal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Holidays</title>
@@ -17,15 +26,6 @@
       <pubDate>Thu, 04 Jul 2019 11:00:00 -0500</pubDate>
       
       <guid>http://tobyblog.com/categories/holidays/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Journal</title>
-      <link>http://tobyblog.com/categories/journal/</link>
-      <pubDate>Mon, 24 Jun 2019 16:55:34 -0500</pubDate>
-      
-      <guid>http://tobyblog.com/categories/journal/</guid>
       <description></description>
     </item>
     
@@ -192,7 +192,7 @@
     </item>
     
     <item>
-      <title>Review the World</title>
+      <title>Review The World</title>
       <link>http://tobyblog.com/categories/review-the-world/</link>
       <pubDate>Wed, 12 Mar 2014 23:05:38 -0700</pubDate>
       
