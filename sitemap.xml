@@ -3,6 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/tags/</loc>
+    <lastmod>2019-07-07T17:41:06-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/</loc>
+    <lastmod>2019-07-07T17:41:06-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/journal/</loc>
+    <lastmod>2019-07-07T17:41:06-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/</loc>
+    <lastmod>2019-07-07T17:41:06-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/2019-07-08-kassiblog-update/</loc>
+    <lastmod>2019-07-07T17:41:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/</loc>
+    <lastmod>2019-07-07T17:41:06-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2019-07-07T17:41:06-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/microposts/known-walkers/</loc>
     <lastmod>2019-07-05T12:01:00-05:00</lastmod>
   </url>
@@ -14,20 +55,8 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/</loc>
-    <lastmod>2019-07-05T12:01:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/microposts/some-classic-80s-for-sale/</loc>
     <lastmod>2019-07-05T12:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/</loc>
-    <lastmod>2019-07-04T11:00:00-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -39,12 +68,6 @@
   <url>
     <loc>http://tobyblog.com/posts/independence-day-2019/</loc>
     <lastmod>2019-07-04T11:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2019-07-04T11:00:00-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -74,26 +97,8 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/</loc>
-    <lastmod>2019-06-24T16:55:34-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/journal/</loc>
-    <lastmod>2019-06-24T16:55:34-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/posts/journal-for-june-24-2019/</loc>
     <lastmod>2019-06-24T16:55:34-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/</loc>
-    <lastmod>2019-06-24T16:55:34-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
