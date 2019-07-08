@@ -17,9 +17,12 @@ fields:
 - type: text
   name: location
   label: Location
-- type: tag_list
-  name: camera
+- name: camera
+  type: text
+  config:
+    required: false
   label: Camera
+  description: Camera and lens used
 pages:
 - content/photos/more-pasadena-eats.md
 - content/photos/sweet-times-with-kassiblog.md
