@@ -12,7 +12,7 @@ I made a promise to myself that I would never waste time on this blog apologizin
 
 ☝🏻
 
-First off, how about those eggs, am I right? That was breakfast this past Saturday morning after [our walk at Bolin Park in Plano](https://kassiblogtoo.blogspot.com/2019/07/saturday-morning-walk-along-rowlett.html). Credit goes to Kassi for the avocado and tomato, but more especially for discovering such a great little park and trail system. The walk took us along ponds and tracked a golf course for most of the way, providing us with some nice urban-pastoral views. I had a great time playing with my P1000, of course. I've quite fallen in love with it. The long range zoom is just fun to use, and the picture quality is somewhat better than I expected given the predominantly cautionary reviews. 
+First off, how about those eggs, am I right? That was breakfast this past Saturday morning after [our walk at Bolin Park in Plano](https://kassiblogtoo.blogspot.com/2019/07/saturday-morning-walk-along-rowlett.html). Credit goes to Kassi for the avocado and tomato, but more especially for discovering such a great little park and trail system. The walk took us along ponds and tracked a golf course for most of the way, providing us with some nice urban-pastoral views. I had a great time [playing with my P1000]({{< ref "/photos/bolin-park.md" >}}), of course. I've quite fallen in love with it. The long range zoom is just fun to use, and the picture quality is somewhat better than I expected given the predominantly cautionary reviews. 
 
 {{< youtube LvMzhhKCFYM >}}
 
