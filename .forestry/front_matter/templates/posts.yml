@@ -23,13 +23,6 @@ fields:
 - type: tag_list
   name: tags
   label: Tags
-- type: text
-  name: externalurl
-  label: External URL
-- type: boolean
-  name: minipost
-  label: Minipost
-  hidden: false
 pages:
 - content/posts/independence-day-2019.md
 - content/microposts/alyssa-stank.md
