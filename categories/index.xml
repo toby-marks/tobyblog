@@ -6,15 +6,24 @@
     <description>Recent content in Categories on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jul 2019 17:33:32 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2019 12:32:05 -0500</lastBuildDate>
     
 	<atom:link href="http://tobyblog.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Sounds</title>
+      <link>http://tobyblog.com/categories/sounds/</link>
+      <pubDate>Thu, 11 Jul 2019 12:32:05 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/categories/sounds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Journal</title>
       <link>http://tobyblog.com/categories/journal/</link>
-      <pubDate>Tue, 09 Jul 2019 17:33:32 -0500</pubDate>
+      <pubDate>Thu, 11 Jul 2019 12:01:00 -0500</pubDate>
       
       <guid>http://tobyblog.com/categories/journal/</guid>
       <description></description>
@@ -35,15 +44,6 @@
       <pubDate>Fri, 21 Jun 2019 21:33:03 -0500</pubDate>
       
       <guid>http://tobyblog.com/categories/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sounds</title>
-      <link>http://tobyblog.com/categories/sounds/</link>
-      <pubDate>Fri, 14 Jun 2019 16:54:34 -0700</pubDate>
-      
-      <guid>http://tobyblog.com/categories/sounds/</guid>
       <description></description>
     </item>
     
@@ -192,7 +192,7 @@
     </item>
     
     <item>
-      <title>Review The World</title>
+      <title>Review the World</title>
       <link>http://tobyblog.com/categories/review-the-world/</link>
       <pubDate>Wed, 12 Mar 2014 23:05:38 -0700</pubDate>
       
