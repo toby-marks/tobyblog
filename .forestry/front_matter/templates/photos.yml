@@ -24,6 +24,7 @@ fields:
   label: Camera
   description: Camera and lens used
 pages:
+- content/photos/farewell-pasadena.md
 - content/photos/more-pasadena-eats.md
 - content/photos/sweet-times-with-kassiblog.md
 - content/photos/pasadena-streets.md
