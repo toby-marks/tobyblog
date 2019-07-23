@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/microposts/halloween-hits-the-shelves/</loc>
+    <lastmod>2019-07-22T19:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/photos/farewell-pasadena/</loc>
     <lastmod>2019-07-18T20:00:00-05:00</lastmod>
   </url>
@@ -1901,7 +1906,7 @@
   
   <url>
     <loc>http://tobyblog.com/microposts/</loc>
-    <lastmod>2019-07-11T12:00:00-05:00</lastmod>
+    <lastmod>2019-07-22T19:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2362,7 +2367,7 @@
   
   <url>
     <loc>http://tobyblog.com/</loc>
-    <lastmod>2019-07-18T20:00:00-05:00</lastmod>
+    <lastmod>2019-07-22T19:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
