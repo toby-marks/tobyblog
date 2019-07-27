@@ -1,6 +1,6 @@
 +++
 title = "Flight to LA With Kassi"
-date = "2019-07-23T13:07:04-05:00"
+date = "2019-07-27T13:07:04-05:00"
 location = "Los Angeles, California"
 camera = "iPhone Xs"
 +++
