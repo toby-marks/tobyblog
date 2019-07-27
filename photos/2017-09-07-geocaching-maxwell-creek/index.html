@@ -11,8 +11,10 @@
     
     <title>Geocaching Maxwell Creek &middot; @tobyblog’s Tobyblog</title>
 
+    <link type="text/css" rel="stylesheet" href="http://tobyblog.com/css/lightgallery.css" />
+    <link type="text/css" rel="stylesheet" href="http://tobyblog.com/css/gallery.css" />
     <link rel="stylesheet" href="http://tobyblog.com/css/weblog.css" media="screen" charset="utf-8" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.2.14/css/lightgallery.min.css" type="text/css" />
+    
     
 
 
@@ -46,6 +48,18 @@
   </head>
   <body class="site">
 
+
+<script src="http://tobyblog.com/js/jquery-3.4.1.slim.min.js"></script>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"></script>
+
+<script src="http://tobyblog.com/js/lightgallery.js"></script>
+
+
+<script src="http://tobyblog.com/js/lg-zoom.min.js"></script>
+<script src="http://tobyblog.com/js/lg-thumbnail.min.js"></script>
+<script src="http://tobyblog.com/js/lg-fullscreen.min.js"></script>
 
 <header class="photo">
   <nav>
@@ -172,6 +186,14 @@
       </p>
     </article>
   </main>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $("#lightgallery").lightGallery({
+        	showThumbByDefault: false
+        }); 
+    });
+</script>
 
 <footer>
   <div class="footer_text">
