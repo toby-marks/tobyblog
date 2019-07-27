@@ -11,6 +11,8 @@
     {{ $.Scratch.Add "title" .Site.Title }}
     <title>{{ with .Title }}{{ if ne . ($.Scratch.Get "title") }}{{ . }} &middot; {{ end }}{{ end }}@{{ .Site.Author.handle }}’s {{ .Site.Title }}</title>
 
+    <link type="text/css" rel="stylesheet" href="{{ .Site.BaseURL }}css/lightgallery.css" />
+    <link type="text/css" rel="stylesheet" href="{{ .Site.BaseURL }}css/gallery.css" />
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/weblog.css" media="screen" charset="utf-8" />
     
     {{ partial "custom_stylesheets.html" . }}
