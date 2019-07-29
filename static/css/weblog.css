@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Goudy+Bookletter+1911|Sorts+Mill+Goudy|Special+Elite');
+@import url('https://fonts.googleapis.com/css?family=Goudy+Bookletter+1911|Sorts+Mill+Goudy|Special+Elite|PT+Serif+Caption');
 
 /* 
 ----------------------------------------------------------------
@@ -329,7 +329,7 @@ li > .wp-caption-text {
 }
 
  .lg-sub-html > p {
-	font-size: .8em;
+	font: .8em "PT Serif Caption", serif;
 	margin-left: 100px;
 	margin-right: 100px;
  }
