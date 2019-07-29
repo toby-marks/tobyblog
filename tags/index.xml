@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Tobyblog</title>
+    <title>Tobyblog</title>
     <link>http://tobyblog.com/tags/</link>
-    <description>Recent content in Tags on Tobyblog</description>
+    <description>Recent content on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Jul 2019 12:32:05 -0500</lastBuildDate>
@@ -12,216 +12,105 @@
     
     
     <item>
-      <title></title>
-      <link>http://tobyblog.com/tags/</link>
+      <title>Sounds From a Mall</title>
+      <link>http://tobyblog.com/posts/2019-07-10-my-lunch-at-northpark/</link>
       <pubDate>Thu, 11 Jul 2019 12:32:05 -0500</pubDate>
       
-      <guid>http://tobyblog.com/tags/</guid>
-      <description></description>
+      <guid>http://tobyblog.com/posts/2019-07-10-my-lunch-at-northpark/</guid>
+      <description>The second installment in my ongoing series of ambient environmental sound recordings. These are the sounds of me packing up my recorder and walking to the food court, where I order a bowl from Chipotle. I take my bowl outside to the patio to enjoy the fresh air and sunshine, after which I take a little walk around the mall to pick up some interesting sounds. And for the second time in a row I ran across a guy playing a piano.</description>
     </item>
     
     <item>
-      <title>Bird and the Bee</title>
-      <link>http://tobyblog.com/tags/bird-and-the-bee/</link>
-      <pubDate>Fri, 21 Jun 2019 21:33:03 -0500</pubDate>
+      <title>Bits and Bobs</title>
+      <link>http://tobyblog.com/posts/2019-07-10-bits-and-bobs/</link>
+      <pubDate>Tue, 09 Jul 2019 17:33:32 -0500</pubDate>
       
-      <guid>http://tobyblog.com/tags/bird-and-the-bee/</guid>
-      <description></description>
+      <guid>http://tobyblog.com/posts/2019-07-10-bits-and-bobs/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1562790874/img/IMG_3630.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I made a promise to myself that I would never waste time on this blog apologizing for sporadic posting. So instead of doing that, I think I&amp;rsquo;ll do that other thing where I throw a few pictures at you and catch you up on recent developments.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>LAX</title>
-      <link>http://tobyblog.com/tags/lax/</link>
-      <pubDate>Fri, 14 Jun 2019 16:54:34 -0700</pubDate>
+      <title>Show Some Love To My Spouseblog</title>
+      <link>http://tobyblog.com/posts/2019-07-08-kassiblog-update/</link>
+      <pubDate>Sun, 07 Jul 2019 17:41:06 -0500</pubDate>
       
-      <guid>http://tobyblog.com/tags/lax/</guid>
-      <description></description>
+      <guid>http://tobyblog.com/posts/2019-07-08-kassiblog-update/</guid>
+      <description>If you haven&amp;rsquo;t been following Kassi over on her personal blog, by all means go there and check it out. She&amp;rsquo;s been killing it lately, posting about all the family stuff I&amp;rsquo;m supposed to be getting to over on this site, but have been too lame to do. I swear she can fire off 3 or 4 posts by the time I&amp;rsquo;m done editing the same number of photos. Practice, I guess?</description>
     </item>
     
     <item>
-      <title>travel</title>
-      <link>http://tobyblog.com/tags/travel/</link>
-      <pubDate>Fri, 14 Jun 2019 16:54:34 -0700</pubDate>
+      <title>Odds and Ends</title>
+      <link>http://tobyblog.com/posts/journal-for-june-24-2019/</link>
+      <pubDate>Mon, 24 Jun 2019 16:55:34 -0500</pubDate>
       
-      <guid>http://tobyblog.com/tags/travel/</guid>
-      <description></description>
+      <guid>http://tobyblog.com/posts/journal-for-june-24-2019/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1561413959/img/kelsey.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s just say today feels more like Kelsey Grammer than Jason Momoa.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Maggie</title>
-      <link>http://tobyblog.com/tags/maggie/</link>
-      <pubDate>Wed, 12 Jun 2019 22:50:09 -0700</pubDate>
+      <title>An All New 👨🏻‍💻 Tobybase.com</title>
+      <link>http://tobyblog.com/posts/tobybase-update/</link>
+      <pubDate>Wed, 24 Apr 2019 16:18:33 -0500</pubDate>
       
-      <guid>http://tobyblog.com/tags/maggie/</guid>
-      <description></description>
+      <guid>http://tobyblog.com/posts/tobybase-update/</guid>
+      <description>I&amp;rsquo;ve been working on a site overhaul for my pro blog, Tobybase.com. Go check it out and tell me what you think! Now just need some new content…</description>
     </item>
     
     <item>
-      <title>Rod Stewart</title>
-      <link>http://tobyblog.com/tags/rod-stewart/</link>
-      <pubDate>Wed, 12 Jun 2019 22:50:09 -0700</pubDate>
+      <title>The Hidden Dangers of AI</title>
+      <link>http://tobyblog.com/posts/when-ai-throws-shade/</link>
+      <pubDate>Sun, 21 Apr 2019 15:50:15 -0500</pubDate>
       
-      <guid>http://tobyblog.com/tags/rod-stewart/</guid>
-      <description></description>
+      <guid>http://tobyblog.com/posts/when-ai-throws-shade/</guid>
+      <description>What exactly are you trying to tell me, Facebook?</description>
     </item>
     
     <item>
-      <title>Louisiana</title>
-      <link>http://tobyblog.com/tags/louisiana/</link>
-      <pubDate>Mon, 03 Jun 2019 09:28:36 -0500</pubDate>
+      <title>Zapps Mega Review Part Three</title>
+      <link>http://tobyblog.com/videos/zapps-mega-review-part-3/</link>
+      <pubDate>Wed, 12 Mar 2014 23:05:38 -0700</pubDate>
       
-      <guid>http://tobyblog.com/tags/louisiana/</guid>
-      <description></description>
+      <guid>http://tobyblog.com/videos/zapps-mega-review-part-3/</guid>
+      <description>The third and final installment of the big Zapp&amp;rsquo;s Potato Chip sampler review, representing my first donation to the blog. I&amp;rsquo;d go on to send a couple more &amp;ldquo;care packs&amp;rdquo; which would feature in a huge percentage of Brian&amp;rsquo;s output during 2014 and 2015, something of which I&amp;rsquo;m quite proud.
+Highlights of this video include some of Brian&amp;rsquo;s prettier cinemagraphic work and Chris making a joke about his &amp;ldquo;bulge&amp;rdquo;.
+  </description>
     </item>
     
     <item>
-      <title>ants</title>
-      <link>http://tobyblog.com/tags/ants/</link>
-      <pubDate>Fri, 31 May 2019 09:55:43 -0500</pubDate>
+      <title>Zapps Mega Review Part Two</title>
+      <link>http://tobyblog.com/videos/zapps-mega-review-part-2/</link>
+      <pubDate>Mon, 03 Feb 2014 22:47:29 -0700</pubDate>
       
-      <guid>http://tobyblog.com/tags/ants/</guid>
-      <description></description>
+      <guid>http://tobyblog.com/videos/zapps-mega-review-part-2/</guid>
+      <description>The second in Brian&amp;rsquo;s Zapp&amp;rsquo;s Potato Chip review trilogy, in which the boys puzzle over Voodoo flavoring and Nick gets sick on pickle chips.
+  </description>
     </item>
     
     <item>
-      <title>coffee</title>
-      <link>http://tobyblog.com/tags/coffee/</link>
-      <pubDate>Fri, 31 May 2019 09:55:43 -0500</pubDate>
+      <title>Zapps Mega Review Part One</title>
+      <link>http://tobyblog.com/videos/zapps-mega-review-part-1/</link>
+      <pubDate>Sun, 12 Jan 2014 22:28:28 -0700</pubDate>
       
-      <guid>http://tobyblog.com/tags/coffee/</guid>
-      <description></description>
+      <guid>http://tobyblog.com/videos/zapps-mega-review-part-1/</guid>
+      <description>I got to know Brian in 2013 after becoming a fan of his blog, reviewtheworld.com. Toward the end of that year I sent him the first of what I would come to call &amp;ldquo;care packs&amp;rdquo; for the show — just donated items for potential review on the site. That particular pack was a huge sampler of Zapps potato chips, a Louisiana snack of which I am quite fond. It took about six months for him to feature the first video.</description>
     </item>
     
     <item>
-      <title>art</title>
-      <link>http://tobyblog.com/tags/art/</link>
-      <pubDate>Tue, 21 May 2019 15:00:00 -0500</pubDate>
+      <title>Get in the Trunk Part 3</title>
+      <link>http://tobyblog.com/videos/get-in-the-trunk-part-3/</link>
+      <pubDate>Sun, 29 Sep 2013 22:16:59 -0700</pubDate>
       
-      <guid>http://tobyblog.com/tags/art/</guid>
-      <description></description>
+      <guid>http://tobyblog.com/videos/get-in-the-trunk-part-3/</guid>
+      <description>My first shout-out on Review the World was in this little vignette, now a classic in the RtW cinematic universe, in which &amp;ldquo;Toby&amp;rdquo; is the name of Chris&amp;rsquo;s ex-girlfriend.
+  </description>
     </item>
     
-    <item>
-      <title>Pikachu</title>
-      <link>http://tobyblog.com/tags/pikachu/</link>
-      <pubDate>Tue, 14 May 2019 20:02:00 +0000</pubDate>
-      
-      <guid>http://tobyblog.com/tags/pikachu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pokemon</title>
-      <link>http://tobyblog.com/tags/pokemon/</link>
-      <pubDate>Tue, 14 May 2019 20:02:00 +0000</pubDate>
-      
-      <guid>http://tobyblog.com/tags/pokemon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>kassi</title>
-      <link>http://tobyblog.com/tags/kassi/</link>
-      <pubDate>Wed, 01 May 2019 17:46:58 -0500</pubDate>
-      
-      <guid>http://tobyblog.com/tags/kassi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dreams</title>
-      <link>http://tobyblog.com/tags/dreams/</link>
-      <pubDate>Wed, 01 May 2019 17:14:42 -0500</pubDate>
-      
-      <guid>http://tobyblog.com/tags/dreams/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>food</title>
-      <link>http://tobyblog.com/tags/food/</link>
-      <pubDate>Wed, 01 May 2019 18:01:00 +0000</pubDate>
-      
-      <guid>http://tobyblog.com/tags/food/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Norman Lear</title>
-      <link>http://tobyblog.com/tags/norman-lear/</link>
-      <pubDate>Sun, 21 Apr 2019 09:01:32 -0500</pubDate>
-      
-      <guid>http://tobyblog.com/tags/norman-lear/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TV</title>
-      <link>http://tobyblog.com/tags/tv/</link>
-      <pubDate>Sun, 21 Apr 2019 09:01:32 -0500</pubDate>
-      
-      <guid>http://tobyblog.com/tags/tv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>California</title>
-      <link>http://tobyblog.com/tags/california/</link>
-      <pubDate>Fri, 19 Apr 2019 19:00:00 +0000</pubDate>
-      
-      <guid>http://tobyblog.com/tags/california/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pasadena</title>
-      <link>http://tobyblog.com/tags/pasadena/</link>
-      <pubDate>Fri, 19 Apr 2019 19:00:00 +0000</pubDate>
-      
-      <guid>http://tobyblog.com/tags/pasadena/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reviews</title>
-      <link>http://tobyblog.com/tags/reviews/</link>
-      <pubDate>Fri, 19 Apr 2019 19:00:00 +0000</pubDate>
-      
-      <guid>http://tobyblog.com/tags/reviews/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Best Stop</title>
-      <link>http://tobyblog.com/tags/best-stop/</link>
-      <pubDate>Wed, 17 Apr 2019 21:58:19 -0700</pubDate>
-      
-      <guid>http://tobyblog.com/tags/best-stop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Swamp Pop</title>
-      <link>http://tobyblog.com/tags/swamp-pop/</link>
-      <pubDate>Wed, 17 Apr 2019 21:58:19 -0700</pubDate>
-      
-      <guid>http://tobyblog.com/tags/swamp-pop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zapps</title>
-      <link>http://tobyblog.com/tags/zapps/</link>
-      <pubDate>Wed, 17 Apr 2019 21:58:19 -0700</pubDate>
-      
-      <guid>http://tobyblog.com/tags/zapps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>potato chips</title>
-      <link>http://tobyblog.com/tags/potato-chips/</link>
-      <pubDate>Wed, 17 Apr 2019 21:58:19 -0700</pubDate>
+  </channel>
+</rss>19 21:58:19 -0700</pubDate>
       
       <guid>http://tobyblog.com/tags/potato-chips/</guid>
       <description></description>
