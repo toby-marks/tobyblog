@@ -15,6 +15,7 @@ fields:
     required: true
     time_format: h:mm A ZZ
 pages:
+- content/microposts/work-day-with-my-son.md
 - content/microposts/the-dad-wagon-is-in-vacation-mode.md
 - content/microposts/halloween-hits-the-shelves.md
 - content/microposts/guns-n-roses.md
