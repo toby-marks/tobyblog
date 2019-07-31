@@ -24,9 +24,11 @@ fields:
   name: tags
   label: Tags
 pages:
+- content/microposts/alyssa-stank.md
+- content/posts/helvetica-now.md
+- content/posts/300-million-butterflies-coming-to-texas.md
 - content/posts/cops-flushing-drugs-could-create-meth-gators.md
 - content/posts/independence-day-2019.md
-- content/microposts/alyssa-stank.md
 - content/posts/hypnotic-donuts.md
 - content/posts/uncle-albert.md
 - content/posts/detective-pikachu-was-as-good-as-it-could-be.md
@@ -36,6 +38,4 @@ pages:
 - content/posts/pasadena-in-bloom.md
 - content/posts/a-simple-but-powerful-prayer.md
 - content/posts/taco-libre.md
-- content/posts/helvetica-now.md
-- content/posts/300-million-butterflies-coming-to-texas.md
 - content/posts/el-portal.md
