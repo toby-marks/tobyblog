@@ -9,6 +9,8 @@ sections:
   label: Videos
   create: all
   match: "**/*"
+  templates:
+  - link-post
 - type: directory
   path: content/photos
   label: Photos
