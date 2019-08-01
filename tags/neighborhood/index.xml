@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neighborhood on Tobyblog</title>
+    <link>http://tobyblog.com/tags/neighborhood/</link>
+    <description>Recent content in Neighborhood on Tobyblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jan 2015 16:40:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tobyblog.com/tags/neighborhood/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Night Cache</title>
+      <link>http://tobyblog.com/videos/my-first-night-cache/</link>
+      <pubDate>Sun, 25 Jan 2015 16:40:00 +0000</pubDate>
+      
+      <guid>http://tobyblog.com/videos/my-first-night-cache/</guid>
+      <description>Come along with the kids and I on our first night caching adventure. For the uninitiated among you, night caching is simply geocaching at night. Generally night caches are made so that you can&amp;rsquo;t find them during the daytime, by making use of trails of reflective tacks or tape or other forms of guidance visible only at night.
+  </description>
+    </item>
+    
+    <item>
+      <title>Review the World Comes to Dallas</title>
+      <link>http://tobyblog.com/posts/review-the-world-comes-to-dallas/</link>
+      <pubDate>Sat, 15 Nov 2014 11:43:00 +0000</pubDate>
+      
+      <guid>http://tobyblog.com/posts/review-the-world-comes-to-dallas/</guid>
+      <description>Those of you paying close attention&amp;nbsp;will remember that Tobyblog owes its existence to my good buddy Brian Hammons of the nostalgia blog&amp;nbsp;reviewtheworld.com. His site is a surprisingly deep personal catalog that is as much a call to action and personal philosophical movement as anything. Brian has been at this game for far longer than YouTube has been around, and has amassed an unparalleled amount of footage and articles documenting the greater part of his life, from high school hijinks to romances come and gone, to thirty-something introspections with friends.</description>
+    </item>
+    
+    <item>
+      <title>Spirit Halloween Store Opening Soon</title>
+      <link>http://tobyblog.com/posts/spirit-halloween-store-opening-soon/</link>
+      <pubDate>Sat, 02 Aug 2014 11:06:00 +0000</pubDate>
+      
+      <guid>http://tobyblog.com/posts/spirit-halloween-store-opening-soon/</guid>
+      <description>Took a little stroll through the neighborhood this morning, and what should we find?
+Come September, tune in to Tobyblog for further details!</description>
+    </item>
+    
+  </channel>
+</rss>

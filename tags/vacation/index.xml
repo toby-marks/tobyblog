@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vacation on Tobyblog</title>
+    <link>http://tobyblog.com/tags/vacation/</link>
+    <description>Recent content in Vacation on Tobyblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2019 13:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://tobyblog.com/tags/vacation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Road Trip Travel Log 01.01</title>
+      <link>http://tobyblog.com/posts/road-trip-travel-log-01-01/</link>
+      <pubDate>Thu, 01 Aug 2019 13:00:00 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/posts/road-trip-travel-log-01-01/</guid>
+      <description>We’re well in to the big family road trip of 2019, and the obligatory Texas pit stop at Bucc-ees has been checked off the list. Would have sent you guys a pic from the storied Bucc-ees bathrooms, but I was too excited about these new hot n’ spicy Beaver Nuggets! You can hear all about my first experience with those glorified Corn Pops in this review I did last year with my good buddy Brian.</description>
+    </item>
+    
+  </channel>
+</rss>
