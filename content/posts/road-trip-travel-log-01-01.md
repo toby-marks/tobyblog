@@ -10,4 +10,4 @@ title = "Road Trip Travel Log 01.01"
 +++
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1564685041/img/62A6A488-C620-4445-9B7B-705A544C99D4_fhcqzp.jpg)
 
-We’re well in to the big family road trip of 2019, and the obligatory Texas pit stop at Bucc-ees has been checked off the list. Would have sent you guys a pic from the storied Bucc-ees bathrooms, but I was too excited about these new hot n’ spicy Beaver Nuggets. Reminds me of 
+We’re well in to the big family road trip of 2019, and the obligatory Texas pit stop at Bucc-ees has been checked off the list. Would have sent you guys a pic from the storied Bucc-ees bathrooms, but I was too excited about these new hot n’ spicy Beaver Nuggets! You can hear all about my first experience with those glorified Corn Pops In this “review” I did last year with my good buddy Brian. How time flies. 
