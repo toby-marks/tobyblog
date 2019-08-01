@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alcohol on Tobyblog</title>
+    <link>http://tobyblog.com/tags/alcohol/</link>
+    <description>Recent content in Alcohol on Tobyblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Mar 2019 17:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tobyblog.com/tags/alcohol/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>St. Patrick’s Favorite Drink</title>
+      <link>http://tobyblog.com/posts/st-patrick-s-favorite-drink/</link>
+      <pubDate>Sat, 16 Mar 2019 17:00:00 +0000</pubDate>
+      
+      <guid>http://tobyblog.com/posts/st-patrick-s-favorite-drink/</guid>
+      <description>Celebrating St. Patrick’s Day with a couple of Vodka Stingers. Kassi approves. 🍀</description>
+    </item>
+    
+  </channel>
+</rss>
