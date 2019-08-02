@@ -21,5 +21,6 @@ fields:
   name: minipost
   label: minipost
 pages:
+- content/posts/road-trip-travel-log-01-02.md
 - content/posts/road-trip-travel-log-01-01.md
 - content/posts/a-fire-sign.md
