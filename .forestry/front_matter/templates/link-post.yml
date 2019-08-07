@@ -21,4 +21,5 @@ fields:
   name: externalurl
   label: externalurl
 pages:
+- content/posts/what-s-your-smell.md
 - content/videos/bucc-ees-beaver-nuggets-with-review-the-world.md
