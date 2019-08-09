@@ -17,8 +17,8 @@ We’ve been busy!
 
 Back to the Grand Canyon this year, and this time we got to spend a night in the park, with a chance to do some dawn/dusk shots of the canyon itself. I can’t wait to show off some of the shots that I took, not to mention the ones that Kassi got herself, which were fairly impressive. Dinner at the El Tovar was exceptional, I have to say. Love all that dark wood. No chance for any night photography due to the cloud cover which has chased us the whole trip so far. That’s actually been a blessing, as it’s tamped down the heat a bit on what we anticipated to be the hottest parts of the trip.
 
-And just like that, I’m being called away again. Time to do more stuff. Lots happened in between, but finally made it to beautiful Telluride, Colorado.
+And just like that, I’m being called away again. Time to do more stuff. Lots happened in between, including trips to Zion and Arches!
 
-More updates on our visits to Zion and Arches later. Gotta run!
+More updates later. Gotta run!
 
 ![](https://res.cloudinary.com/tobyblog/image/upload/a_0/v1565367804/img/7BC72DD6-1D4F-47E4-9AE4-0FE03B0E05FF_jpasnc.jpg)
