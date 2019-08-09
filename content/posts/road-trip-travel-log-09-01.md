@@ -7,7 +7,7 @@ tags = ["travel"]
 title = "Road Trip Travel Log 09.01"
 
 +++
-![](https://res.cloudinary.com/tobyblog/image/upload/v1565366894/img/FB465A3F-24CB-4DBA-83F1-3BEFBD3C3FEE_l5z2mj.jpg)
+![](https://res.cloudinary.com/tobyblog/image/upload/a_0/v1565366894/img/FB465A3F-24CB-4DBA-83F1-3BEFBD3C3FEE_l5z2mj.jpg)
 
 Arrived in beautiful Telluride, Colorado, and yes, this is my first update since day #2 of vacation. So much for my Travel Log. Between lack of cell signal and surrendering my phone to the kid, and straight up being too busy and/or exhausted, I haven’t had much opportunity for posting. 
 
@@ -19,8 +19,6 @@ Back to the Grand Canyon this year, and this time we got to spend a night in the
 
 And just like that, I’m being called away again. Time to do more stuff. Lots happened in between, but finally made it to beautiful Telluride, Colorado.
 
-![](https://res.cloudinary.com/tobyblog/image/upload/v1565367722/img/D3D2763D-BE10-4C26-A013-F7BED90C4229_fn9orh.jpg)
-
 More updates on our visits to Zion and Arches later. Gotta run!
 
-![](https://res.cloudinary.com/tobyblog/image/upload/v1565367804/img/7BC72DD6-1D4F-47E4-9AE4-0FE03B0E05FF_jpasnc.jpg)
+![](https://res.cloudinary.com/tobyblog/image/upload/a_0/v1565367804/img/7BC72DD6-1D4F-47E4-9AE4-0FE03B0E05FF_jpasnc.jpg)
