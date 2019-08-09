@@ -13,7 +13,7 @@ Arrived in beautiful Telluride, Colorado, and yes, this is my first update since
 
 We’ve been busy!
 
-![](https://res.cloudinary.com/tobyblog/image/upload/v1565367158/img/C369AE06-8357-4869-915A-186467331403_h7mulf.jpg)
+![](https://res.cloudinary.com/tobyblog/image/upload/a_0/v1565367158/img/C369AE06-8357-4869-915A-186467331403_h7mulf.jpg)
 
 Back to the Grand Canyon this year, and this time we got to spend a night in the park, with a chance to do some dawn/dusk shots of the canyon itself. I can’t wait to show off some of the shots that I took, not to mention the ones that Kassi got herself, which were fairly impressive. Dinner at the El Tovar was exceptional, I have to say. Love all that dark wood. No chance for any night photography due to the cloud cover which has chased us the whole trip so far. That’s actually been a blessing, as it’s tamped down the heat a bit on what we anticipated to be the hottest parts of the trip.
 
