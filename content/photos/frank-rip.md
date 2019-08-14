@@ -1,38 +1,46 @@
 +++
-title = "Poor Old Frank"
-date = "2019-08-14T00:57:56-05:00"
+title = "Our Dog Frank"
+date = "2019-08-13T22:08:42-05:00"
 location = "Dallas, TX"
 camera = "various"
 +++
 <img src="https://res.cloudinary.com/tobyblog/image/upload/v1565673092/img/kassi.jpg">
 <!--more-->
 
-<span class="caption">
-RIP Frank<br>
-2013-2019
-</span>
+<h4 style="border-left:auto; border-right: auto; text-align:center">Frank<br>2013 – 2019</h4>
+
+I used to call him my ticket out of Purgatory. I should have taken that more seriously. Poor old Frank. I wish we could have given him more walks in the sun. He was such a loving dog, but I never really figured him out. He kept his thoughts mostly to himself. Frank, wherever you are (if you're anywhere at all) thank you for all the photos. You were our prettiest dog. Your presence was always felt, and your absence will be, too.
 
 <div class="container-fluid">
 <div class="demo-gallery dark mrb35">
 	<ul id="lightgallery" class="list-unstyled row">
-		<li data-sub-html="<h4>(1/39) At The Gate</h4><p>Driving up to the gate of a new national park for us. I'd been anticipating seeing Sequoia ever since I learned I'd be flying out to Los Angeles on a regular basis, but I never thought I'd have the opportunity to make the three hour drive north. Seeing those giant trees seemed to me like a truly awesome experience.</p>" data-src="https://live.staticflickr.com/65535/48353079811_b053725c99_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48353079811_58d695d731.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>(1/39) At The Gate</h4><p>Driving up to the gate of a new national park for us. I'd been anticipating seeing Sequoia ever since I learned I'd be flying out to Los Angeles on a regular basis, but I never thought I'd have the opportunity to make the three hour drive north. Seeing those giant trees seemed to me like a truly awesome experience.</p></div></li>
-		<li data-sub-html="<h4>(2/39) Finally Got a Proper Raven Pic</h4><p>Last year driving through Petrified Forest National Forest — and even into Williams, Arizona and all around the Grand Canyon — I saw many ravens. I tried to get good pictures, but because of the limitations of my wide-angle lenses I was never able to get what I considered a satisfactory shot. It was to take pictures of those ravens on return trips that I bought my new camera, the Nikon P1000. I immediately had an opportunity, and I have to say I was delighted at the range and focus of that incomparable zoom. Such a great camera for wildlife.</p>" data-src="https://live.staticflickr.com/65535/48353211382_a180b2970a_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48353211382_9b44438937.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>(2/39) Finally Got a Proper Raven Pic</h4><p>Last year driving through Petrified Forest National Forest — and even into Williams, Arizona and all around the Grand Canyon — I saw many ravens. I tried to get good pictures, but because of the limitations of my wide-angle lenses I was never able to get what I considered a satisfactory shot. It was to take pictures of those ravens on return trips that I bought my new camera, the Nikon P1000. I immediately had an opportunity, and I have to say I was delighted at the range and focus of that incomparable zoom. Such a great camera for wildlife.</p></div></li>
-		<li data-sub-html="<h4>(3/39) At the Visitor's Center</h4><p>We stopped at the visitor's center for souvenirs and a bio-break before entering the park. I thought Kassi looked cute in her little sun hat. Posted outside were warnings about bear dangers, and the status of the controlled burns in the park, which proved to be a bigger obstacle for us.</p>" data-src="https://live.staticflickr.com/65535/48353080036_f72011d722_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48353080036_03b06d1e67.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>(3/39) At the Visitor's Center</h4><p>We stopped at the visitor's center for souvenirs and a bio-break before entering the park. I thought Kassi looked cute in her little sun hat. Posted outside were warnings about bear dangers, and the status of the controlled burns in the park, which proved to be a bigger obstacle for us.</p></div></li>
-		<li data-sub-html="<h4>(4/39) Our First View of the Mountains</h4><p>Once inside the park you don't see any tall trees for a while, but you do get some very pretty vistas of dryish valleys and rocky streams. It was a good spot to work on my technique for taking mountain panos.</p>" data-src="https://live.staticflickr.com/65535/48353219692_d467ed273d_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48353219692_144e29a6f7.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>(4/39) Our First View of the Mountains</h4><p>Once inside the park you don't see any tall trees for a while, but you do get some very pretty vistas of dryish valleys and rocky streams. It was a good spot to work on my technique for taking mountain panos.</p></div></li>
-		<li data-sub-html="<h4>(5/39) Giant Forest</h4><p>After a while of what felt like aimless meandering around the park, we turned a corner — and now it was time to get excited. </p>" data-src="https://live.staticflickr.com/65535/48353077866_8f251026e0_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48353077866_181695a669.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>(5/39) Giant Forest</h4><p>After a while of what felt like aimless meandering around the park, we turned a corner — and now it was time to get excited. </p></div></li>
-		<li data-sub-html="<h4>(6/39) The Dark Forest</h4><p>We entered what can be described as the mid-ground of a Bob Ross painting, only darker and hazier. These were trees unlike any we'd seen in Colorado, tall and formidable.</p>" data-src="https://live.staticflickr.com/65535/48353080441_e734402c10_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48353080441_588f3ee45c.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>(6/39) The Dark Forest</h4><p>We entered what can be described as the mid-ground of a Bob Ross painting, only darker and hazier. These were trees unlike any we'd seen in Colorado, tall and formidable.</p></div></li>
-		<li data-sub-html="<h4>(7/39) Very Tall Trees</h4><p>The trees really did block out the sun, even at midday. But the light shining through the branches was gorgeous. All this was marred however, by an ever present haze that was the result of the nearby controlled burns.</p>" data-src="https://live.staticflickr.com/65535/48353216787_792b85d220_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48353216787_825ed344b8.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>(7/39) Very Tall Trees</h4><p>The trees really did block out the sun, even at midday. But the light shining through the branches was gorgeous. All this was marred however, by an ever present haze that was the result of the nearby controlled burns.</p></div></li>
-		<li data-sub-html="<h4>(8/39) The First Cluster of Sequoias</h4><p>I broke out the Samyang 14mm lens for a few shots of our first cluster of giant sequoias. I'm always hesitant to use that lens for 'money shots', because it's a manual focus lens and I don't trust myself. But I've always been pleased with the results. This is a stitched pano out of Affinity. I left the corners black instead of cropping as I normally do, just to retain all of the information. </p>" data-src="https://live.staticflickr.com/65535/48353086641_ed3475e559_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48353086641_548e39860c.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>(8/39) The First Cluster of Sequoias</h4><p>I broke out the Samyang 14mm lens for a few shots of our first cluster of giant sequoias. I'm always hesitant to use that lens for 'money shots', because it's a manual focus lens and I don't trust myself. But I've always been pleased with the results. This is a stitched pano out of Affinity. I left the corners black instead of cropping as I normally do, just to retain all of the information. </p></div></li>
-		<li data-sub-html="<h4>(9/39) Trees That Shut Out the Sun</h4><p>I had really ambitious plans for us that were totally unrealistic for a one day trip. As it worked out, a lot of the things we wanted to experience were either closed because of the burns or otherwise inaccessible because of smoke and crowds. We'll be better prepared if we make it back with the kids.</p>" data-src="https://live.staticflickr.com/65535/48353220157_3ecba223f2_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48353220157_79c38b8ccd.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>(9/39) Trees That Shut Out the Sun</h4><p>I had really ambitious plans for us that were totally unrealistic for a one day trip. As it worked out, a lot of the things we wanted to experience were either closed because of the burns or otherwise inaccessible because of smoke and crowds. We'll be better prepared if we make it back with the kids.</p></div></li>
+		<li data-sub-html="<h4></h4><p></p>" data-src="https://res.cloudinary.com/tobyblog/image/upload/v1565727634/img/D7D55003-5926-457C-8E48-524C9DBA9878_l5hs8d.jpg" class="col-xs-6 col-sm-4 col-md-3">
+			<a href><img class="img-responsive" src="https://res.cloudinary.com/tobyblog/image/upload/v1565727634/img/D7D55003-5926-457C-8E48-524C9DBA9878_l5hs8d.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4></h4><p></p></div>
+		</li>
+		<li data-sub-html="<h4></h4><p></p>" data-src="https://res.cloudinary.com/tobyblog/image/upload/v1565673092/img/kassi.jpg" class="col-xs-6 col-sm-4 col-md-3">
+			<a href><img class="img-responsive" src="https://res.cloudinary.com/tobyblog/image/upload/v1565673092/img/kassi.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4></h4><p></p></div>
+		</li>
+		<li data-sub-html="<h4></h4><p></p>" data-src="https://res.cloudinary.com/tobyblog/image/upload/v1565673091/img/DSC02583.jpg" class="col-xs-6 col-sm-4 col-md-3">
+			<a href><img class="img-responsive" src="https://res.cloudinary.com/tobyblog/image/upload/v1565673091/img/DSC02583.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4></h4><p></p></div>
+		</li>
+		<li data-sub-html="<h4></h4><p></p>" data-src="https://res.cloudinary.com/tobyblog/image/upload/v1565673087/img/DSC08700.jpg" class="col-xs-6 col-sm-4 col-md-3">
+			<a href><img class="img-responsive" src="https://res.cloudinary.com/tobyblog/image/upload/v1565673087/img/DSC08700.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4></h4><p></p></div>
+		</li>
+		<li data-sub-html="<h4></h4><p></p>" data-src="https://res.cloudinary.com/tobyblog/image/upload/v1565673091/img/DSC08913.jpg" class="col-xs-6 col-sm-4 col-md-3">
+			<a href><img class="img-responsive" src="https://res.cloudinary.com/tobyblog/image/upload/v1565673091/img/DSC08913.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4></h4><p></p></div>
+		</li>
+		<li data-sub-html="<h4></h4><p></p>" data-src="https://res.cloudinary.com/tobyblog/image/upload/v1565673094/img/IMG_4089.jpg" class="col-xs-6 col-sm-4 col-md-3">
+			<a href><img class="img-responsive" src="https://res.cloudinary.com/tobyblog/image/upload/v1565673094/img/IMG_4089.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4></h4><p></p></div>
+		</li>
+		<li data-sub-html="<h4></h4><p></p>" data-src="https://res.cloudinary.com/tobyblog/image/upload/v1565673094/img/IMG_0266.jpg" class="col-xs-6 col-sm-4 col-md-3">
+			<a href><img class="img-responsive" src="https://res.cloudinary.com/tobyblog/image/upload/v1565673094/img/IMG_0266.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4></h4><p></p></div>
+		</li>
+		<li data-sub-html="<h4></h4><p></p>" data-src="https://res.cloudinary.com/tobyblog/image/upload/v1565673091/img/IMG_3894.jpg" class="col-xs-6 col-sm-4 col-md-3">
+			<a href><img class="img-responsive" src="https://res.cloudinary.com/tobyblog/image/upload/v1565673091/img/IMG_3894.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4></h4><p></p></div>
+		</li>
+		<li data-sub-html="<h4></h4><p></p>" data-src="https://res.cloudinary.com/tobyblog/image/upload/v1565673084/img/DSC02447.jpg" class="col-xs-6 col-sm-4 col-md-3">
+			<a href><img class="img-responsive" src="https://res.cloudinary.com/tobyblog/image/upload/v1565673084/img/DSC02447.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4></h4><p></p></div>
+		</li>
 	</ul>
 </div>
 </div>
