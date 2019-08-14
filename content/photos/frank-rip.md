@@ -2,7 +2,7 @@
 title = "Our Dog Frank"
 date = "2019-08-13T22:08:42-05:00"
 location = "Dallas, TX"
-camera = "various"
+camera = "various cameras."
 +++
 <img src="https://res.cloudinary.com/tobyblog/image/upload/v1565673092/img/kassi.jpg">
 <!--more-->
