@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>@tobyblog’s Tobyblog - Microposts</title>
@@ -7,8 +6,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <lastBuildDate>Wed, 14 Aug 2019 08:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2019 16:56:35 -0500</lastBuildDate>
     <atom:link href="/microposts/" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+      	
+        <link>http://tobyblog.com/microposts/vacation-pics-coming-soon/</link>
+        <pubDate>Thu, 15 Aug 2019 16:56:35 -0500</pubDate>
+        <author>Toby Marks</author>
+        <guid>http://tobyblog.com/microposts/vacation-pics-coming-soon/</guid>
+        <description>&lt;p&gt;I guess the travel log sort of fizzled out, but I&amp;rsquo;ll be throwing up vacation pics &lt;em&gt;real soon now&lt;/em&gt;. We had a wonderful time, but to be honest we&amp;rsquo;re reconsidering how we plan our future vacations to have a slower pace, and be focused more on one or two areas. Coming home was unusually hard, what with having to deal with Frank on top of the normal hustle of unpacking and washing everything, and also taking care of some minor car damage sustained during the trip. We&amp;rsquo;re lucky it wasn&amp;rsquo;t a whole lot worse, as we managed to get caught in a hail storm at Red Rock, minutes after this photo was taken.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1565906123/img/full_pano_1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+      </item>
+      
     
       
       <item>
@@ -85,7 +98,7 @@
         <pubDate>Sat, 27 Jul 2019 14:17:42 -0500</pubDate>
         <author>Toby Marks</author>
         <guid>http://tobyblog.com/microposts/all-new-photo-galleries/</guid>
-        <description>&lt;p&gt;It took a bit of effort to get everything tweaked just right for mobile, but I&amp;rsquo;m happy to announce that I&amp;rsquo;ve upgraded my photo galleries to use the popular &amp;ldquo;lightbox&amp;rdquo; style layout. There&amp;rsquo;s of course some Javascript overhead that I regret, but I think that&amp;rsquo;s offset somewhat by lazy loading and the use of thumbnails. See whether you think response time has improved. It&amp;rsquo;s not everywhere yet, just on recent galleries like &lt;a href=&#34;&#34;&gt;Flight to LA&lt;/a&gt; and probably all stuff going forward from that, unless I&amp;rsquo;m posting from my phone. The old stuff should work the same. Best experienced on a laptop or desktop, of course, where you get the nice grid layout with all the thumbnails. I like that you can get a real sense of everything all at once, and then start exploring where you wish, vs being forced to scroll past photos in order to take everything in. Hopefully that leads to a more intentional viewing experience. Enjoy.&lt;/p&gt;
+        <description>&lt;p&gt;It took a bit of effort to get everything tweaked just right for mobile, but I&amp;rsquo;m happy to announce that I&amp;rsquo;ve upgraded my photo galleries to use the popular &amp;ldquo;lightbox&amp;rdquo; style layout. There&amp;rsquo;s of course some Javascript overhead that I regret, but I think that&amp;rsquo;s offset somewhat by lazy loading and the use of thumbnails. See whether you think response time has improved. It&amp;rsquo;s not everywhere yet, just on recent galleries like &lt;a href=&#34;http://tobyblog.com/photos/flight-to-la-with-kassi/&#34;&gt;Flight to LA&lt;/a&gt; and probably all stuff going forward from that, unless I&amp;rsquo;m posting from my phone. The old stuff should work the same. Best experienced on a laptop or desktop, of course, where you get the nice grid layout with all the thumbnails. I like that you can get a real sense of everything all at once, and then start exploring where you wish, vs being forced to scroll past photos in order to take everything in. Hopefully that leads to a more intentional viewing experience. Enjoy.&lt;/p&gt;
 </description>
       </item>
       
