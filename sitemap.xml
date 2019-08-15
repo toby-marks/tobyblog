@@ -3,6 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/posts/puffy-toilet-seats/</loc>
+    <lastmod>2019-08-15T11:16:30-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/</loc>
+    <lastmod>2019-08-15T11:16:30-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/news/</loc>
+    <lastmod>2019-08-15T11:16:30-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/</loc>
+    <lastmod>2019-08-15T11:16:30-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2019-08-15T11:16:30-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/microposts/</loc>
     <lastmod>2019-08-14T08:00:00-05:00</lastmod>
     <priority>0</priority>
@@ -11,12 +40,6 @@
   <url>
     <loc>http://tobyblog.com/microposts/the-importance-of-good-shoes/</loc>
     <lastmod>2019-08-14T08:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/</loc>
-    <lastmod>2019-08-14T08:00:00-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -42,12 +65,6 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/</loc>
-    <lastmod>2019-08-13T12:03:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/tags/frank/</loc>
     <lastmod>2019-08-13T12:03:00-05:00</lastmod>
     <priority>0</priority>
@@ -55,12 +72,6 @@
   
   <url>
     <loc>http://tobyblog.com/categories/journal/</loc>
-    <lastmod>2019-08-13T12:03:00-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/posts/</loc>
     <lastmod>2019-08-13T12:03:00-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -176,12 +187,6 @@
   <url>
     <loc>http://tobyblog.com/posts/cops-flushing-drugs-could-create-meth-gators/</loc>
     <lastmod>2019-07-15T14:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/news/</loc>
-    <lastmod>2019-07-15T14:00:00-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
