@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Aug 2019 12:03:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2019 11:16:30 -0500</lastBuildDate>
     
 	<atom:link href="http://tobyblog.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>News</title>
+      <link>http://tobyblog.com/categories/news/</link>
+      <pubDate>Thu, 15 Aug 2019 11:16:30 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/categories/news/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Journal</title>
@@ -17,15 +26,6 @@
       <pubDate>Tue, 13 Aug 2019 12:03:00 -0500</pubDate>
       
       <guid>http://tobyblog.com/categories/journal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>http://tobyblog.com/categories/news/</link>
-      <pubDate>Mon, 15 Jul 2019 14:00:00 -0500</pubDate>
-      
-      <guid>http://tobyblog.com/categories/news/</guid>
       <description></description>
     </item>
     
