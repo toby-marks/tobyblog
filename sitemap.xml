@@ -3,17 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/categories/</loc>
+    <lastmod>2019-08-23T11:11:46-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/journal/</loc>
+    <lastmod>2019-08-23T11:11:46-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/</loc>
+    <lastmod>2019-08-23T11:11:46-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/</loc>
+    <lastmod>2019-08-23T11:11:46-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2019-08-23T11:11:46-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/work/</loc>
+    <lastmod>2019-08-23T11:11:46-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/working-from-malls/</loc>
+    <lastmod>2019-08-23T11:11:46-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/microposts/search-term-fail/</loc>
     <lastmod>2019-08-20T13:54:50-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://tobyblog.com/microposts/</loc>
-    <lastmod>2019-08-20T13:54:50-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/</loc>
     <lastmod>2019-08-20T13:54:50-05:00</lastmod>
   </url>
   
@@ -48,17 +78,7 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/</loc>
-    <lastmod>2019-08-15T11:16:30-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/categories/news/</loc>
-    <lastmod>2019-08-15T11:16:30-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/posts/</loc>
     <lastmod>2019-08-15T11:16:30-05:00</lastmod>
   </url>
   
@@ -83,17 +103,7 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/journal/</loc>
-    <lastmod>2019-08-13T12:03:00-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/posts/rip-frank-dog-2013-2019/</loc>
-    <lastmod>2019-08-13T12:03:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/</loc>
     <lastmod>2019-08-13T12:03:00-05:00</lastmod>
   </url>
   
@@ -838,12 +848,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/religion/</loc>
+    <loc>http://tobyblog.com/tags/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/religion/</loc>
+    <loc>http://tobyblog.com/categories/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
   
@@ -1029,11 +1039,6 @@
   
   <url>
     <loc>http://tobyblog.com/posts/2019-03-08-brown-noise/</loc>
-    <lastmod>2019-03-08T12:31:10-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/work/</loc>
     <lastmod>2019-03-08T12:31:10-06:00</lastmod>
   </url>
   
