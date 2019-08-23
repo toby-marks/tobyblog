@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Aug 2019 12:03:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2019 11:11:46 -0500</lastBuildDate>
     
 	<atom:link href="http://tobyblog.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>work</title>
+      <link>http://tobyblog.com/tags/work/</link>
+      <pubDate>Fri, 23 Aug 2019 11:11:46 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/tags/work/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Frank</title>
@@ -309,7 +318,7 @@
     </item>
     
     <item>
-      <title>religion</title>
+      <title>Religion</title>
       <link>http://tobyblog.com/tags/religion/</link>
       <pubDate>Mon, 18 Mar 2019 12:02:52 -0500</pubDate>
       
@@ -377,15 +386,6 @@
       <pubDate>Sun, 10 Mar 2019 23:31:51 -0700</pubDate>
       
       <guid>http://tobyblog.com/tags/youtube/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>work</title>
-      <link>http://tobyblog.com/tags/work/</link>
-      <pubDate>Fri, 08 Mar 2019 12:31:10 -0600</pubDate>
-      
-      <guid>http://tobyblog.com/tags/work/</guid>
       <description></description>
     </item>
     
