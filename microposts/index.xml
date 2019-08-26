@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>@tobyblog’s Tobyblog - Microposts</title>
@@ -150,7 +151,7 @@
         <pubDate>Sat, 27 Jul 2019 14:17:42 -0500</pubDate>
         <author>Toby Marks</author>
         <guid>http://tobyblog.com/microposts/all-new-photo-galleries/</guid>
-        <description>&lt;p&gt;It took a bit of effort to get everything tweaked just right for mobile, but I&amp;rsquo;m happy to announce that I&amp;rsquo;ve upgraded my photo galleries to use the popular &amp;ldquo;lightbox&amp;rdquo; style layout. There&amp;rsquo;s of course some Javascript overhead that I regret, but I think that&amp;rsquo;s offset somewhat by lazy loading and the use of thumbnails. See whether you think response time has improved. It&amp;rsquo;s not everywhere yet, just on recent galleries like &lt;a href=&#34;http://tobyblog.com/photos/flight-to-la-with-kassi/&#34;&gt;Flight to LA&lt;/a&gt; and probably all stuff going forward from that, unless I&amp;rsquo;m posting from my phone. The old stuff should work the same. Best experienced on a laptop or desktop, of course, where you get the nice grid layout with all the thumbnails. I like that you can get a real sense of everything all at once, and then start exploring where you wish, vs being forced to scroll past photos in order to take everything in. Hopefully that leads to a more intentional viewing experience. Enjoy.&lt;/p&gt;
+        <description>&lt;p&gt;It took a bit of effort to get everything tweaked just right for mobile, but I&amp;rsquo;m happy to announce that I&amp;rsquo;ve upgraded my photo galleries to use the popular &amp;ldquo;lightbox&amp;rdquo; style layout. There&amp;rsquo;s of course some Javascript overhead that I regret, but I think that&amp;rsquo;s offset somewhat by lazy loading and the use of thumbnails. See whether you think response time has improved. It&amp;rsquo;s not everywhere yet, just on recent galleries like &lt;a href=&#34;&#34;&gt;Flight to LA&lt;/a&gt; and probably all stuff going forward from that, unless I&amp;rsquo;m posting from my phone. The old stuff should work the same. Best experienced on a laptop or desktop, of course, where you get the nice grid layout with all the thumbnails. I like that you can get a real sense of everything all at once, and then start exploring where you wish, vs being forced to scroll past photos in order to take everything in. Hopefully that leads to a more intentional viewing experience. Enjoy.&lt;/p&gt;
 </description>
       </item>
       
