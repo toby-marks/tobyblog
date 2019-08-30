@@ -3,12 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://tobyblog.com/tags/blackbirds/</loc>
-    <lastmod>2019-08-25T17:32:25-05:00</lastmod>
+    <loc>http://tobyblog.com/categories/</loc>
+    <lastmod>2019-08-30T15:33:44-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/</loc>
+    <loc>http://tobyblog.com/posts/faces/</loc>
+    <lastmod>2019-08-30T15:33:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/photoblog/</loc>
+    <lastmod>2019-08-30T15:33:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/</loc>
+    <lastmod>2019-08-30T15:33:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/</loc>
+    <lastmod>2019-08-30T15:33:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2019-08-30T15:33:44-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/blackbirds/</loc>
     <lastmod>2019-08-25T17:32:25-05:00</lastmod>
   </url>
   
@@ -19,26 +44,6 @@
   
   <url>
     <loc>http://tobyblog.com/tags/grand-canyon/</loc>
-    <lastmod>2019-08-25T17:32:25-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/photoblog/</loc>
-    <lastmod>2019-08-25T17:32:25-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2019-08-25T17:32:25-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/</loc>
-    <lastmod>2019-08-25T17:32:25-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/</loc>
     <lastmod>2019-08-25T17:32:25-05:00</lastmod>
   </url>
   
