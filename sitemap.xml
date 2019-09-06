@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/microposts/never-sit-on-a-lonely-bench/</loc>
+    <lastmod>2019-09-06T14:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/faces/</loc>
     <lastmod>2019-08-30T15:33:44-05:00</lastmod>
   </url>
@@ -2081,7 +2086,7 @@
   
   <url>
     <loc>http://tobyblog.com/microposts/</loc>
-    <lastmod>2019-08-20T13:54:50-05:00</lastmod>
+    <lastmod>2019-09-06T14:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2554,7 +2559,7 @@
   
   <url>
     <loc>http://tobyblog.com/</loc>
-    <lastmod>2019-08-30T15:33:44-05:00</lastmod>
+    <lastmod>2019-09-06T14:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
