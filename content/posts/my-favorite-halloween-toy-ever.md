@@ -1,10 +1,11 @@
 +++
-title = "My Favorite Halloween Toy Ever"
-description = ""
-date = "2019-09-10T17:52:50-05:00"
 categories = ["Halloween"]
-tags = ["Halloween", "toys", "music", "holidays"]
+date = "2019-09-10T17:52:50-05:00"
+description = ""
 minipost = true
+tags = ["Halloween", "toys", "music", "holidays"]
+title = "My Favorite Halloween Toy of 2019"
+
 +++
 🎃📻🧡
 {{< youtube F5rr0dmGV5Q >}}
