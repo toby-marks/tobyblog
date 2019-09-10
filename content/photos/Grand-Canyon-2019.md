@@ -1,5 +1,5 @@
 +++
-title = "Grand Canyon 2019"
+title = "Our Trip to the Grand Canyon"
 date = "2019-09-09T20:35:46-05:00"
 location = "Grand Canyon National Park, Arizona"
 camera = "Sony A7RII, Nikon Coolpix P1000"
