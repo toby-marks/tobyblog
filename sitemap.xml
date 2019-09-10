@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/photos/grand-canyon-2019/</loc>
+    <lastmod>2019-09-09T20:35:46-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/photos/</loc>
+    <lastmod>2019-09-09T20:35:46-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2019-09-09T20:35:46-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/microposts/</loc>
     <lastmod>2019-09-06T14:00:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://tobyblog.com/microposts/never-sit-on-a-lonely-bench/</loc>
-    <lastmod>2019-09-06T14:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/</loc>
     <lastmod>2019-09-06T14:00:00-05:00</lastmod>
   </url>
   
@@ -85,11 +95,6 @@
   <url>
     <loc>http://tobyblog.com/microposts/closet-re-org-has-begun/</loc>
     <lastmod>2019-08-17T14:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/photos/</loc>
-    <lastmod>2019-08-17T12:44:32-05:00</lastmod>
   </url>
   
   <url>
