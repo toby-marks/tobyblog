@@ -15,6 +15,7 @@ fields:
     required: true
     time_format: h:mm A ZZ
 pages:
+- content/microposts/michael-vs-michael.md
 - content/microposts/never-sit-on-a-lonely-bench.md
 - content/microposts/closet-re-org-has-begun.md
 - content/microposts/good-monday.md
