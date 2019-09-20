@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/photos/</loc>
+    <lastmod>2019-09-20T11:51:57-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/photos/seeing-zion-national-park/</loc>
+    <lastmod>2019-09-20T11:51:57-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2019-09-20T11:51:57-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/an-album-for-september/</loc>
     <lastmod>2019-09-10T21:00:00-05:00</lastmod>
   </url>
@@ -23,17 +38,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/</loc>
-    <lastmod>2019-09-10T21:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/halloween/</loc>
+    <loc>http://tobyblog.com/categories/halloween/</loc>
     <lastmod>2019-09-10T17:52:50-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/halloween/</loc>
+    <loc>http://tobyblog.com/tags/halloween/</loc>
     <lastmod>2019-09-10T17:52:50-05:00</lastmod>
   </url>
   
@@ -79,11 +89,6 @@
   
   <url>
     <loc>http://tobyblog.com/photos/grand-canyon-2019/</loc>
-    <lastmod>2019-09-09T20:35:46-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/photos/</loc>
     <lastmod>2019-09-09T20:35:46-05:00</lastmod>
   </url>
   
