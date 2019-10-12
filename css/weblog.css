@@ -290,6 +290,9 @@ article.photo img[alt="Old Woman"] {
 article.photo img[alt="@Kassiblog"] {
   margin-top: -450px;
 }
+article.photo img[alt="DowntownFever"] {
+  margin-top: -100px;
+}
 
 
 article.photo img.flickr-embed-frame,
