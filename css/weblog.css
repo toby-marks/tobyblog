@@ -609,6 +609,9 @@ Special rules for small screen devices
 	article.photo img[alt="@Kassiblog"] {
 	  margin-top: -200px;
 	}
+	article.photo img[alt="DowntownFever"] {
+	  margin-top: -75px;
+	}
 
 
 	.micropost h1 {
