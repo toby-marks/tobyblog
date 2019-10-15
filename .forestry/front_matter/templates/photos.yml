@@ -24,6 +24,7 @@ fields:
   label: Camera
   description: Camera and lens used
 pages:
+- content/photos/a-day-in-october.md
 - content/photos/forestwood-antique-mall-artifacts.md
 - content/photos/plano-trade-days.md
 - content/photos/back-in-l-a.md
