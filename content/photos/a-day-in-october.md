@@ -1,12 +1,12 @@
 +++
 camera = "iPhone Xs"
 date = "2019-10-15T17:00:00-05:00"
-draft = true
 location = "Texas"
 title = "A Day in October"
 
 +++
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1571179206/img/50068482-648F-4B67-A050-24F92CF5254C_lzimja.jpg)
+<!--more-->
 
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1571179273/img/EDB2F0AB-4CB3-4112-AFD0-C6000F877542_ywy1s2.jpg)
 
