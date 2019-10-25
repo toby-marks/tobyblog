@@ -4,18 +4,31 @@
       <a href="{{ .Site.BaseURL }}"><img src="/img/tobyblog_logo.png" alt="Welcome to my blog" height=270px></a>
     </div>
     <div class="menu">
-      {{ $.Scratch.Add "sections" .Site.Params.rsssections }}
-      <ul>
-        {{ range .Site.Menus.main }}
-            <li>
-              <a href="{{ .URL }}">{{ .Name }}</a>
-              {{ if in ($.Scratch.Get "sections") .Name }}
-<!--                <a href="{{ .URL }}index.xml"><img src="/img/rss.svg" class="rss-icon" /></a>  -->
-              {{ end }}
-            </li>
-        {{ end }}
-        {{ with .Site.Author.aboutpage }}<li><a href="{{ . }}">About</a></li>{{ end }}
-      </ul>
+		{{ if isset .Site.Params "rsssections" }}
+			{{ $.Scratch.Add "sections" .Site.Params.rsssections }}
+			<ul>
+				{{ range .Site.Menus.main }}
+				<li>
+					<a href="{{.URL}}">{{ .Name }}</a>
+					{{ if in ($.Scratch.Get "sections") .Name }}
+<!--
+						<a href="{{.URL}}index.xml"><img src="/img/rss.svg" class="rss-icon" /></a>
+-->
+					{{ end }}
+				</li>
+				{{ end }}
+				{{ with .Site.Author.aboutpage }}<li><a href="{{ . }}">About</a></li>{{ end }}
+			</ul>
+		{{ else }}
+			<ul>
+				{{ range .Site.Menus.main }}
+				<li>
+					<a href="{{.URL}}">{{ .Name }}</a>
+				</li>
+				{{ end }}
+				{{ with .Site.Author.aboutpage }}<li><a href="{{ . }}">About</a></li>{{ end }}
+			</ul>
+      	{{ end }}
     </div>
   </nav>
 </header>
