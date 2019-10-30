@@ -2,11 +2,14 @@
 categories = ["Halloween"]
 date = "2019-10-29T23:00:00-05:00"
 description = ""
-draft = true
 tags = ["Halloween", "jack o' lanterns", "holidays", "stupid"]
 title = "Nine Useless Jack O' Lantern Templates"
 
 +++
+{{< youtube LWJYaep-0sg >}}
+
+Most of these were taken from the huge catalog of templates over at [Stoneykins.com](https://www.stoneykins.com/), the vast majority of which are pretty cool and definitely not useless. 
+
 ### #9. Joker Joaquin Phoenix
 
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1572452314/img/Screen_Shot_2019-10-29_at_5.52.23_PM.png)
@@ -61,4 +64,4 @@ If you liked #4, but you want your house covered in toilet paper.
 
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1572452314/img/Screen_Shot_2019-10-29_at_5.43.39_PM.png)
 
-Surely this must be at the intersectional nexus of every single category of bad idea. 
+I'd tell you to avoid this one, but surely this must be at the intersectional nexus of every single category of bad idea.
