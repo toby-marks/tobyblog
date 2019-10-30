@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/posts/nine-useless-jack-o-lantern-templates/</loc>
+    <lastmod>2019-10-29T23:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/videos/the-tobyblog-halloween-special/</loc>
     <lastmod>2019-10-25T11:00:00-05:00</lastmod>
   </url>
@@ -1936,13 +1941,13 @@
   
   <url>
     <loc>http://tobyblog.com/categories/halloween/</loc>
-    <lastmod>2019-09-10T17:52:50-05:00</lastmod>
+    <lastmod>2019-10-29T23:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://tobyblog.com/tags/halloween/</loc>
-    <lastmod>2019-10-25T11:00:00-05:00</lastmod>
+    <lastmod>2019-10-29T23:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1960,7 +1965,7 @@
   
   <url>
     <loc>http://tobyblog.com/tags/holidays/</loc>
-    <lastmod>2019-09-10T17:52:50-05:00</lastmod>
+    <lastmod>2019-10-29T23:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2009,6 +2014,12 @@
   <url>
     <loc>http://tobyblog.com/tags/infexxion/</loc>
     <lastmod>2019-03-04T23:29:44-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/jack-o-lanterns/</loc>
+    <lastmod>2019-10-29T23:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2290,7 +2301,7 @@
   
   <url>
     <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2019-09-10T21:00:00-05:00</lastmod>
+    <lastmod>2019-10-29T23:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2528,6 +2539,12 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/stupid/</loc>
+    <lastmod>2019-10-29T23:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/tags/summer/</loc>
     <lastmod>2015-06-17T09:09:00+00:00</lastmod>
     <priority>0</priority>
@@ -2625,7 +2642,7 @@
   
   <url>
     <loc>http://tobyblog.com/</loc>
-    <lastmod>2019-10-25T11:00:00-05:00</lastmod>
+    <lastmod>2019-10-29T23:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
