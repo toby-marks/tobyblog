@@ -45,7 +45,7 @@ Scary? Some kind of political statement? North Korean propaganda? What the hell 
 
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1572452314/img/Screen_Shot_2019-10-29_at_5.54.57_PM.png)
 
-Are you scared yet? Because not even Halloween is safe from the RBG promotional juggernaut. You wanted your spooky time free of tiresome political posturing? **Well she just dropped a dissenting opinion on your ass.**
+Are you scared yet? Because not even Halloween is safe from the RBG promotional juggernaut. You wanted your spooky time free of tiresome political posturing? ***Well she just dropped a dissenting opinion on your ass.***
 
 ### #3. Harvey Milk
 
