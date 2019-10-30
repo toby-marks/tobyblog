@@ -9,6 +9,7 @@ title = "Nine Useless Jack O' Lantern Templates"
 {{< youtube LWJYaep-0sg >}}
 
 Most of these were taken from the huge catalog of templates over at [Stoneykins.com](https://www.stoneykins.com/), the vast majority of which are pretty cool and definitely not useless. 
+<!--more-->
 
 ### #9. Joker Joaquin Phoenix
 
