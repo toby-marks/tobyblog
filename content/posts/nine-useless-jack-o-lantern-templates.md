@@ -15,54 +15,52 @@ Most of these were taken from the huge catalog of templates over at [Stoneykins.
 
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1572452314/img/Screen_Shot_2019-10-29_at_5.52.23_PM.png)
 
-Already looks like you messed it up. Badly.
+Not a bad idea, but it already looks like you messed it up. 
 
 ### #8. Boo-Tay
 
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1572452314/img/Screen_Shot_2019-10-29_at_5.47.10_PM.png)
 
-Why.
+This should not ever be done, for any reason.
 
 ### #7. Frank Sinatra Stein
 
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1572452314/img/Screen_Shot_2019-10-29_at_5.50.26_PM.png)
 
-No.
+Ok. But why?
 
 ### #6. Two Youts
 
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1572452314/img/Screen_Shot_2019-10-29_at_5.56.57_PM.png)
 
-Nothing says classic Halloween nostalgia like My Cousin Vinny.
+Just because the judge from My Cousin Vinny was the same guy who played Herman Munster does not give this jack o' lantern a reason to exist.
 
 ### 5. Kim Jong Un
 
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1572452314/img/Screen_Shot_2019-10-29_at_5.52.48_PM.png)
 
-Wouldn't "Rocket Man" be more appropriate for the 4th of July? 
-
-Yes.
+Scary? Some kind of political statement? North Korean propaganda? What the hell is this.
 
 ### #4. Ruth Bader Ginsburg
 
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1572452314/img/Screen_Shot_2019-10-29_at_5.54.57_PM.png)
 
-Scared yet? Because not even Halloween is safe from RBG's vast promotional machinery. You wanted your spooky time free from tiresome political posturing? Well she just dropped a dissenting opinion on your ass. 
+Are you scared yet? Because not even Halloween is safe from the RBG promotional juggernaut. You wanted your spooky time free of tiresome political posturing? **Well she just dropped a dissenting opinion on your ass.**
 
 ### #3. Harvey Milk
 
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1572452314/img/Screen_Shot_2019-10-29_at_5.51.27_PM.png)
 
-If you liked #4, but you're really gay.
+When you like #4, and you're gay.
 
 ### #2. Keith Olbermann
 
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1572452314/img/Screen_Shot_2019-10-29_at_5.35.48_PM.png)
 
-If you liked #4, but you want your house covered in toilet paper.
+When you like #4, and you really want your house covered in toilet paper.
 
 ### #1. Pope Francis
 
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1572452314/img/Screen_Shot_2019-10-29_at_5.43.39_PM.png)
 
-I'd tell you to avoid this one, but surely this must be at the intersectional nexus of every single category of bad idea.
+Just don't. Surely this has to be at the intersectional nexus of every single category of bad idea. Your Halloween and your Catholicism are now forever lamer. 
