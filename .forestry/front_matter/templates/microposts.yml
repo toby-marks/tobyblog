@@ -15,11 +15,11 @@ fields:
     required: true
     time_format: h:mm A ZZ
 pages:
+- content/microposts/arbor-hills-switchback.md
 - content/microposts/a-dark-path.md
 - content/microposts/christmas-lights-at-the-mall.md
 - content/microposts/november-2019-arbor-hills.md
 - content/microposts/soothing-santa.md
-- content/microposts/arbor-hills-switchback.md
 - content/microposts/forgotten-brand-mascots.md
 - content/microposts/gone-cachin.md
 - content/microposts/michael-vs-michael.md
