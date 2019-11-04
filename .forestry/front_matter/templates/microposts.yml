@@ -15,6 +15,7 @@ fields:
     required: true
     time_format: h:mm A ZZ
 pages:
+- content/microposts/a-dark-path.md
 - content/microposts/christmas-lights-at-the-mall.md
 - content/microposts/november-2019-arbor-hills.md
 - content/microposts/soothing-santa.md
