@@ -6,10 +6,28 @@
     <description>Recent content in Categories on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Oct 2019 23:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2019 15:57:35 -0600</lastBuildDate>
     
 	<atom:link href="http://tobyblog.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Journal</title>
+      <link>http://tobyblog.com/categories/journal/</link>
+      <pubDate>Tue, 05 Nov 2019 15:35:49 -0600</pubDate>
+      
+      <guid>http://tobyblog.com/categories/journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>http://tobyblog.com/categories/news/</link>
+      <pubDate>Tue, 05 Nov 2019 15:26:54 -0600</pubDate>
+      
+      <guid>http://tobyblog.com/categories/news/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Halloween</title>
@@ -44,24 +62,6 @@
       <pubDate>Fri, 30 Aug 2019 15:33:44 -0500</pubDate>
       
       <guid>http://tobyblog.com/categories/photoblog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Journal</title>
-      <link>http://tobyblog.com/categories/journal/</link>
-      <pubDate>Fri, 23 Aug 2019 11:11:46 -0500</pubDate>
-      
-      <guid>http://tobyblog.com/categories/journal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>http://tobyblog.com/categories/news/</link>
-      <pubDate>Thu, 15 Aug 2019 11:16:30 -0500</pubDate>
-      
-      <guid>http://tobyblog.com/categories/news/</guid>
       <description></description>
     </item>
     
