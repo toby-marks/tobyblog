@@ -1,7 +1,7 @@
 +++
 title = "Featured: The Tobyblog Thanksgiving Special"
 #date = 2015-11-29T14:03:00Z
-date = 2019-11-05T16:00:00
+date = "2015-11-29T14:03:00-06:00"
 categories = ["Specials"]
 tags = ["deer balls", "home", "geocaching", "reviews", "Thanksgiving", "thevcubesolver", "food"]
 externalurl = "https://www.youtube.com/watch?v=Bbt8Bt_3K-Y"
