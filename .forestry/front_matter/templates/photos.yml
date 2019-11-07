@@ -24,6 +24,7 @@ fields:
   label: Camera
   description: Camera and lens used
 pages:
+- content/photos/pho-in-the-rain.md
 - content/photos/need-some-photoshop-help.md
 - content/photos/happy-halloween-2019.md
 - content/photos/happy-halloween-hide-dnf.md
