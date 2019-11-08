@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photos on Tobyblog</title>
@@ -6,10 +6,19 @@
     <description>Recent content in Photos on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Nov 2019 17:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2019 16:29:51 -0600</lastBuildDate>
     
 	<atom:link href="http://tobyblog.com/photos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Sunset Walk in November</title>
+      <link>http://tobyblog.com/photos/a-sunset-walk-in-november/</link>
+      <pubDate>Fri, 08 Nov 2019 16:29:51 -0600</pubDate>
+      
+      <guid>http://tobyblog.com/photos/a-sunset-walk-in-november/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/49034887928_3bf5172108_o.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Pho in the Rain</title>
