@@ -5,7 +5,7 @@ location = "Dallas, TX"
 title = "A Sunset Walk in November"
 
 +++
-<img src="https://live.staticflickr.com/65535/49034887928_3bf5172_8o.jpg">  
+<img src="https://live.staticflickr.com/65535/49034887928_3bf5172108_o.jpg">  
 <!--more-->
 
 <div class="container-fluid">
