@@ -3,13 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://tobyblog.com/photos/fall-in-plano/</loc>
-    <lastmod>2019-11-11T18:30:09-06:00</lastmod>
+    <loc>http://tobyblog.com/microposts/armistice-day/</loc>
+    <lastmod>2019-11-11T23:11:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/microposts/armistice-day/</loc>
-    <lastmod>2019-11-11T23:11:00+00:00</lastmod>
+    <loc>http://tobyblog.com/photos/fall-in-plano/</loc>
+    <lastmod>2019-11-11T18:30:09+00:00</lastmod>
   </url>
   
   <url>
@@ -1883,14 +1883,14 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/food/</loc>
-    <lastmod>2019-06-03T09:28:36-05:00</lastmod>
+    <loc>http://tobyblog.com/tags/food/</loc>
+    <lastmod>2019-11-05T17:36:33-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/food/</loc>
-    <lastmod>2019-11-05T17:36:33-06:00</lastmod>
+    <loc>http://tobyblog.com/categories/food/</loc>
+    <lastmod>2019-06-03T09:28:36-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1955,14 +1955,14 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/gaming/</loc>
-    <lastmod>2016-04-15T16:10:00+00:00</lastmod>
+    <loc>http://tobyblog.com/tags/gaming/</loc>
+    <lastmod>2019-03-04T23:29:44-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/gaming/</loc>
-    <lastmod>2019-03-04T23:29:44-06:00</lastmod>
+    <loc>http://tobyblog.com/categories/gaming/</loc>
+    <lastmod>2016-04-15T16:10:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1973,14 +1973,14 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/geocaching/</loc>
-    <lastmod>2019-04-05T14:00:00+00:00</lastmod>
+    <loc>http://tobyblog.com/tags/geocaching/</loc>
+    <lastmod>2019-11-05T17:36:33-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/geocaching/</loc>
-    <lastmod>2019-11-05T17:36:33-06:00</lastmod>
+    <loc>http://tobyblog.com/categories/geocaching/</loc>
+    <lastmod>2019-04-05T14:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2015,13 +2015,13 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/halloween/</loc>
+    <loc>http://tobyblog.com/tags/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/halloween/</loc>
+    <loc>http://tobyblog.com/categories/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2033,14 +2033,14 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/holidays/</loc>
-    <lastmod>2019-07-04T11:00:00-05:00</lastmod>
+    <loc>http://tobyblog.com/tags/holidays/</loc>
+    <lastmod>2019-10-29T23:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/holidays/</loc>
-    <lastmod>2019-10-29T23:00:00-05:00</lastmod>
+    <loc>http://tobyblog.com/categories/holidays/</loc>
+    <lastmod>2019-07-04T11:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2243,14 +2243,14 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/movies/</loc>
-    <lastmod>2019-05-14T20:02:00+00:00</lastmod>
+    <loc>http://tobyblog.com/tags/movies/</loc>
+    <lastmod>2019-03-05T23:39:44-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/movies/</loc>
-    <lastmod>2019-03-05T23:39:44-06:00</lastmod>
+    <loc>http://tobyblog.com/categories/movies/</loc>
+    <lastmod>2019-05-14T20:02:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2261,14 +2261,14 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/music/</loc>
-    <lastmod>2019-09-10T21:00:00-05:00</lastmod>
+    <loc>http://tobyblog.com/tags/music/</loc>
+    <lastmod>2019-09-10T17:52:50-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/music/</loc>
-    <lastmod>2019-09-10T17:52:50-05:00</lastmod>
+    <loc>http://tobyblog.com/categories/music/</loc>
+    <lastmod>2019-09-10T21:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2346,7 +2346,7 @@
   
   <url>
     <loc>http://tobyblog.com/photos/</loc>
-    <lastmod>2019-11-11T18:30:09-06:00</lastmod>
+    <lastmod>2019-11-11T18:30:09+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2447,13 +2447,13 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/religion/</loc>
+    <loc>http://tobyblog.com/tags/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/religion/</loc>
+    <loc>http://tobyblog.com/categories/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2477,26 +2477,26 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/review-the-world/</loc>
-    <lastmod>2014-03-12T23:05:38-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/tags/review-the-world/</loc>
     <lastmod>2018-06-25T15:00:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/reviews/</loc>
-    <lastmod>2019-05-01T18:01:00+00:00</lastmod>
+    <loc>http://tobyblog.com/categories/review-the-world/</loc>
+    <lastmod>2014-03-12T23:05:38-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://tobyblog.com/tags/reviews/</loc>
     <lastmod>2019-11-05T17:36:33-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/reviews/</loc>
+    <lastmod>2019-05-01T18:01:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2717,7 +2717,7 @@
   
   <url>
     <loc>http://tobyblog.com/</loc>
-    <lastmod>2019-11-11T18:30:09-06:00</lastmod>
+    <lastmod>2019-11-11T23:11:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
