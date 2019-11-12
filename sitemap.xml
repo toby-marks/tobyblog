@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://tobyblog.com/photos/a-sunset-walk-in-november/</loc>
-    <lastmod>2019-11-08T22:29:51+00:00</lastmod>
+    <loc>http://tobyblog.com/photos/fall-in-plano/</loc>
+    <lastmod>2019-11-11T18:30:09-06:00</lastmod>
   </url>
   
   <url>
     <loc>http://tobyblog.com/photos/</loc>
-    <lastmod>2019-11-08T22:29:51+00:00</lastmod>
+    <lastmod>2019-11-11T18:30:09-06:00</lastmod>
   </url>
   
   <url>
     <loc>http://tobyblog.com/</loc>
+    <lastmod>2019-11-11T18:30:09-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/photos/a-sunset-walk-in-november/</loc>
     <lastmod>2019-11-08T22:29:51+00:00</lastmod>
   </url>
   
@@ -158,12 +163,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/halloween/</loc>
+    <loc>http://tobyblog.com/categories/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/halloween/</loc>
+    <loc>http://tobyblog.com/tags/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
