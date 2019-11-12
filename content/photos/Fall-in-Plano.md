@@ -1,8 +1,9 @@
 +++
-title = "Fall in Plano"
-date = "2019-11-11T18:30:09-06:00"
-location = "Plano, TX"
 camera = "Sony A7rII, Nikon Coolpix P1000"
+date = 2019-11-11T18:30:09Z
+location = "Plano, TX"
+title = "Fall in Plano"
+
 +++
 <img src="https://live.staticflickr.com/65535/49051417028_03d12ac5f0_o.jpg">
 <!--more-->
