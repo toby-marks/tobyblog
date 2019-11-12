@@ -1,5 +1,5 @@
 +++
-date = 2019-11-12T05:11:00Z
+date = 2019-11-11T23:00:00Z
 title = "Armistice Day"
 
 +++
