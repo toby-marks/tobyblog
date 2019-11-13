@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Nov 2019 18:03:06 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2019 21:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://tobyblog.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>News</title>
       <link>http://tobyblog.com/categories/news/</link>
-      <pubDate>Wed, 06 Nov 2019 18:03:06 -0600</pubDate>
+      <pubDate>Wed, 13 Nov 2019 21:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/categories/news/</guid>
       <description></description>
@@ -201,7 +201,7 @@
     </item>
     
     <item>
-      <title>Review the World</title>
+      <title>Review The World</title>
       <link>http://tobyblog.com/categories/review-the-world/</link>
       <pubDate>Wed, 12 Mar 2014 23:05:38 -0700</pubDate>
       
