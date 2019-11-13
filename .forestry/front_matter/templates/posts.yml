@@ -24,6 +24,7 @@ fields:
   name: tags
   label: Tags
 pages:
+- content/posts/the-fight-for-baby-tinslee.md
 - content/posts/nine-useless-jack-o-lantern-templates.md
 - content/posts/el-portal.md
 - content/posts/taco-libre.md
