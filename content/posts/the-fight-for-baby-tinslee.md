@@ -8,7 +8,7 @@ tags = ["prolife"]
 +++
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1573679128/img/2C1366D7-67E3-4A28-996C-A7B2474B672D_kalzqo.jpg) 
 
-I got to tag along recently to an impromptu press conference called at Cook Children's Medical Center in Ft. Worth by [Texas Right to Life](https://www.texasrighttolife.com) — you can [read about the unfortunate circumstances here](https://www.texasrighttolife.com/catholic-hospital-tries-to-coerce-woman-into-an-abortion-bans-caregiver/). We were expecting Kassi to speak to the legal issues involved, but she wasn't questioned at that time. 
+I got to tag along recently to an impromptu press conference called at Cook Children's Medical Center in Ft. Worth by [Texas Right to Life](https://www.texasrighttolife.com) — you can [read about the unfortunate circumstances here](https://www.texasrighttolife.com/urgent-cook-childrens-to-pull-plug-on-9-month-baby/). We were expecting Kassi to speak to the legal issues involved, but she wasn't questioned at that time. 
 <!--more-->
 
 The gist of the matter is that the hospital wanted to pull the plug on a nine month old baby girl with a congenital defect that weakens her heart and lungs. The little girl was responding to her family and no way in a "vegetative state". The hospital claims the girl is in pain when not sedated and are seeking to terminate the child for "quality of life" reasons.
