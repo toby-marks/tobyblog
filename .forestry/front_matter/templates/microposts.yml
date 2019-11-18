@@ -15,6 +15,7 @@ fields:
     required: true
     time_format: h:mm A ZZ
 pages:
+- content/microposts/billy-corgan-uncle-fester.md
 - content/microposts/introducing-the-amaroni.md
 - content/microposts/armistice-day.md
 - content/microposts/arbor-hills-switchback.md
