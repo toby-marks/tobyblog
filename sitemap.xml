@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/microposts/christmas-feels/</loc>
+    <lastmod>2019-11-20T17:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/photos/it-s-christmas-time/</loc>
     <lastmod>2019-11-20T15:00:00+00:00</lastmod>
   </url>
@@ -2299,7 +2304,7 @@
   
   <url>
     <loc>http://tobyblog.com/microposts/</loc>
-    <lastmod>2019-11-19T20:00:00+00:00</lastmod>
+    <lastmod>2019-11-20T17:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2808,7 +2813,7 @@
   
   <url>
     <loc>http://tobyblog.com/</loc>
-    <lastmod>2019-11-20T15:00:00+00:00</lastmod>
+    <lastmod>2019-11-20T17:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
