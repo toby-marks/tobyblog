@@ -24,6 +24,7 @@ fields:
   label: Camera
   description: Camera and lens used
 pages:
+- content/photos/date-night-at-northpark.md
 - content/photos/old-tree-off-rowlett-creek.md
 - content/photos/a-walk-around-northpark-mall.md
 - content/photos/pho-in-the-rain.md
