@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/photos/forestwood-antiques/</loc>
+    <lastmod>2019-11-21T15:35:31-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/photos/</loc>
+    <lastmod>2019-11-21T15:35:31-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2019-11-21T15:35:31-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/microposts/christmas-feels/</loc>
     <lastmod>2019-11-20T17:00:00+00:00</lastmod>
   </url>
@@ -13,17 +28,7 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/</loc>
-    <lastmod>2019-11-20T17:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/photos/it-s-christmas-time/</loc>
-    <lastmod>2019-11-20T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/photos/</loc>
     <lastmod>2019-11-20T15:00:00+00:00</lastmod>
   </url>
   
@@ -1173,12 +1178,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/religion/</loc>
+    <loc>http://tobyblog.com/categories/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/religion/</loc>
+    <loc>http://tobyblog.com/tags/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
   
