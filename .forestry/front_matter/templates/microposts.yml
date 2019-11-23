@@ -15,6 +15,7 @@ fields:
     required: true
     time_format: h:mm A ZZ
 pages:
+- content/microposts/pick-one.md
 - content/microposts/i-am-stupid.md
 - content/microposts/christmas-feels.md
 - content/microposts/john-cena-is-jim-varney.md
