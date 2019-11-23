@@ -21,6 +21,7 @@ fields:
   name: minipost
   label: minipost
 pages:
+- content/posts/turning-31.md
 - content/posts/an-album-for-september.md
 - content/posts/rip-frank-dog-2013-2019.md
 - content/posts/road-trip-travel-log-09-01.md
