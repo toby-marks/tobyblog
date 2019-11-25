@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/categories/</loc>
+    <lastmod>2019-11-25T12:08:30-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/smooth-jazz-sandman/</loc>
+    <lastmod>2019-11-25T12:08:30-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/</loc>
+    <lastmod>2019-11-25T12:08:30-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/</loc>
+    <lastmod>2019-11-25T12:08:30-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2019-11-25T12:08:30-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/music/</loc>
+    <lastmod>2019-11-25T12:00:07-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/rage-against-the-bees/</loc>
+    <lastmod>2019-11-25T12:00:07-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/microposts/</loc>
     <lastmod>2019-11-23T22:00:00+00:00</lastmod>
   </url>
@@ -10,16 +45,6 @@
   <url>
     <loc>http://tobyblog.com/microposts/pick-one/</loc>
     <lastmod>2019-11-23T22:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/</loc>
-    <lastmod>2019-11-23T22:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/</loc>
-    <lastmod>2019-11-23T18:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,23 +58,8 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2019-11-23T18:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/</loc>
-    <lastmod>2019-11-23T18:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/posts/turning-31/</loc>
     <lastmod>2019-11-23T18:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/music/</loc>
-    <lastmod>2019-11-22T23:50:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1203,12 +1213,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/religion/</loc>
+    <loc>http://tobyblog.com/categories/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/religion/</loc>
+    <loc>http://tobyblog.com/tags/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
   
