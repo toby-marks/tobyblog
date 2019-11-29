@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/microposts/top-o-the-morning/</loc>
+    <lastmod>2019-11-29T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/photos/arches-national-park/</loc>
     <lastmod>2019-11-26T17:16:43-06:00</lastmod>
   </url>
@@ -2343,7 +2348,7 @@
   
   <url>
     <loc>http://tobyblog.com/microposts/</loc>
-    <lastmod>2019-11-23T22:00:00+00:00</lastmod>
+    <lastmod>2019-11-29T18:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2858,7 +2863,7 @@
   
   <url>
     <loc>http://tobyblog.com/</loc>
-    <lastmod>2019-11-26T17:16:43-06:00</lastmod>
+    <lastmod>2019-11-29T18:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
