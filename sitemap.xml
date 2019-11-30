@@ -3,17 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/tags/black-friday/</loc>
+    <lastmod>2019-11-30T10:46:15-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/</loc>
+    <lastmod>2019-11-30T10:46:15-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/holidays/</loc>
+    <lastmod>2019-11-30T10:46:15-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/music/</loc>
+    <lastmod>2019-11-30T10:46:15-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/music/</loc>
+    <lastmod>2019-11-30T10:46:15-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/black-friday-music/</loc>
+    <lastmod>2019-11-30T10:46:15-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/</loc>
+    <lastmod>2019-11-30T10:46:15-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/</loc>
+    <lastmod>2019-11-30T10:46:15-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2019-11-30T10:46:15-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/microposts/</loc>
     <lastmod>2019-11-30T16:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://tobyblog.com/microposts/still-make-a-damn-good-ham-and-red-eye-gravy/</loc>
-    <lastmod>2019-11-30T16:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/</loc>
     <lastmod>2019-11-30T16:00:00+00:00</lastmod>
   </url>
   
@@ -33,27 +73,7 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/</loc>
-    <lastmod>2019-11-25T12:08:30-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/posts/smooth-jazz-sandman/</loc>
-    <lastmod>2019-11-25T12:08:30-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/music/</loc>
-    <lastmod>2019-11-25T12:08:30-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2019-11-25T12:08:30-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/</loc>
     <lastmod>2019-11-25T12:08:30-06:00</lastmod>
   </url>
   
@@ -318,17 +338,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/halloween/</loc>
-    <lastmod>2019-10-29T23:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/categories/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/holidays/</loc>
+    <loc>http://tobyblog.com/tags/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
@@ -385,11 +400,6 @@
   <url>
     <loc>http://tobyblog.com/posts/an-album-for-september/</loc>
     <lastmod>2019-09-10T21:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/music/</loc>
-    <lastmod>2019-09-10T17:52:50-05:00</lastmod>
   </url>
   
   <url>
@@ -1228,12 +1238,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/religion/</loc>
+    <loc>http://tobyblog.com/tags/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/religion/</loc>
+    <loc>http://tobyblog.com/categories/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
   
