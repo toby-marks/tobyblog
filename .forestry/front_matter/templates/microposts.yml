@@ -15,8 +15,8 @@ fields:
     required: true
     time_format: h:mm A ZZ
 pages:
-- content/microposts/still-make-a-damn-good-ham-and-red-eye-gravy.md
 - content/microposts/top-o-the-morning.md
+- content/microposts/still-make-a-damn-good-ham-and-red-eye-gravy.md
 - content/microposts/i-am-stupid.md
 - content/microposts/pick-one.md
 - content/microposts/christmas-feels.md
