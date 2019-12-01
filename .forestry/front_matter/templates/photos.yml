@@ -24,6 +24,7 @@ fields:
   label: Camera
   description: Camera and lens used
 pages:
+- content/photos/last-day-in-november.md
 - content/photos/tis-the-season-of-big-trees.md
 - content/photos/date-night-at-northpark.md
 - content/photos/it-s-christmas-time.md
