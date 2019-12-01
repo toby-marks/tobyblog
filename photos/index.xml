@@ -6,10 +6,19 @@
     <description>Recent content in Photos on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Nov 2019 17:16:43 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2019 21:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://tobyblog.com/photos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Last Day in November</title>
+      <link>http://tobyblog.com/photos/last-day-in-november/</link>
+      <pubDate>Sun, 01 Dec 2019 21:00:00 +0000</pubDate>
+      
+      <guid>http://tobyblog.com/photos/last-day-in-november/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1575234725/img/4A0FCF8F-BDD1-4BDE-98CA-101C3247DE2B_kh9ew2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arches National Park</title>
