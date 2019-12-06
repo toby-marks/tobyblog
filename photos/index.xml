@@ -6,10 +6,19 @@
     <description>Recent content in Photos on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Dec 2019 21:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2019 22:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://tobyblog.com/photos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Astrophil &amp; Stella</title>
+      <link>http://tobyblog.com/photos/astrophil-stella/</link>
+      <pubDate>Fri, 06 Dec 2019 22:00:00 +0000</pubDate>
+      
+      <guid>http://tobyblog.com/photos/astrophil-stella/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1575669780/img/377073AC-8423-4FF3-97C4-1C83594ADDC2_d2vjdt.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Last Day in November</title>
