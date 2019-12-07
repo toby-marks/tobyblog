@@ -15,17 +15,17 @@ fields:
     required: true
     time_format: h:mm A ZZ
 pages:
+- content/microposts/top-o-the-morning.md
+- content/microposts/introducing-the-amaroni.md
+- content/microposts/armistice-day.md
 - content/microposts/grilling-pizzas.md
 - content/microposts/scruffy.md
-- content/microposts/top-o-the-morning.md
 - content/microposts/still-make-a-damn-good-ham-and-red-eye-gravy.md
 - content/microposts/i-am-stupid.md
 - content/microposts/pick-one.md
 - content/microposts/christmas-feels.md
 - content/microposts/john-cena-is-jim-varney.md
-- content/microposts/introducing-the-amaroni.md
 - content/microposts/billy-corgan-uncle-fester.md
-- content/microposts/armistice-day.md
 - content/microposts/arbor-hills-switchback.md
 - content/microposts/a-dark-path.md
 - content/microposts/christmas-lights-at-the-mall.md
