@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Videos on Tobyblog</title>
@@ -6,20 +6,10 @@
     <description>Recent content in Videos on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Nov 2019 17:36:33 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2019 21:58:19 -0700</lastBuildDate>
     
 	<atom:link href="http://tobyblog.com/videos/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>The Tobyblog Thanksgiving Special</title>
-      <link>http://tobyblog.com/videos/the-tobyblog-thanksgiving-special/</link>
-      <pubDate>Tue, 05 Nov 2019 17:36:33 -0600</pubDate>
-      
-      <guid>http://tobyblog.com/videos/the-tobyblog-thanksgiving-special/</guid>
-      <description>After taking some time off to contemplate the overwhelming success of my Burger King poop tweet*, we now return to our regularly scheduled programming.
-In truth October is always a busy month for us and I don&amp;rsquo;t have much spare time for blogging. This past Halloween was without a doubt the best yet, but I&amp;rsquo;ll save that retrospective for another day. For today we find ourselves at the end of November, as grand a month as any.</description>
-    </item>
     
     <item>
       <title>Cajun Treats</title>
@@ -127,6 +117,16 @@ Enjoy.
       <guid>http://tobyblog.com/videos/we-play-wii-play-playthrough/</guid>
       <description>TheVCubeSolver and I team up in this playthrough vid to reintroduce you to a seriously underrated classic on the Wii.
   </description>
+    </item>
+    
+    <item>
+      <title>The Tobyblog Thanksgiving Special</title>
+      <link>http://tobyblog.com/videos/the-tobyblog-thanksgiving-special/</link>
+      <pubDate>Sun, 29 Nov 2015 14:03:00 +0000</pubDate>
+      
+      <guid>http://tobyblog.com/videos/the-tobyblog-thanksgiving-special/</guid>
+      <description>After taking some time off to contemplate the overwhelming success of my Burger King poop tweet*, we now return to our regularly scheduled programming.
+In truth October is always a busy month for us and I don&amp;rsquo;t have much spare time for blogging. This past Halloween was without a doubt the best yet, but I&amp;rsquo;ll save that retrospective for another day. For today we find ourselves at the end of November, as grand a month as any.</description>
     </item>
     
     <item>
