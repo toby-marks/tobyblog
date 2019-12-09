@@ -24,6 +24,7 @@ fields:
   label: Camera
   description: Camera and lens used
 pages:
+- content/photos/breckinridge-park-1219.md
 - content/photos/happy-halloween-2019.md
 - content/photos/date-night-at-northpark.md
 - content/photos/last-day-in-november.md
