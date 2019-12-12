@@ -3,6 +3,17 @@ date = "2017-08-19"
 title = "Chisholm Trail in Watercolor"
 location = "Dallas, TX"
 camera = "Sony DSC-RX100"
+image = "https://farm5.staticflickr.com/4347/36260804100_b4b471bd0e_z.jpg"
+images = ["https://farm5.staticflickr.com/4347/36260804100_b4b471bd0e_z.jpg",
+"https://farm5.staticflickr.com/4409/36260830800_39f4bffd2f_z.jpg",
+"https://farm5.staticflickr.com/4343/36610508906_5d8a3837c2_z.jpg",
+"https://farm5.staticflickr.com/4346/35847655763_e3c1ac8120_z.jpg",
+"https://farm5.staticflickr.com/4409/36260836310_a7d3cc624f_z.jpg",
+"https://farm5.staticflickr.com/4381/36260831930_93888b0a0b_z.jpg",
+"https://farm5.staticflickr.com/4335/36260827340_f756b4f7f4_z.jpg",
+"https://farm5.staticflickr.com/4384/35847674193_2cddaf6674_z.jpg",
+"https://farm5.staticflickr.com/4426/36260800760_eb9b7e15a5_z.jpg"
+]
 +++
 {{% flickr "Chisholm tree"
            "Chisholm tree"

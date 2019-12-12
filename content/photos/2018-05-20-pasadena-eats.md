@@ -3,6 +3,17 @@ title = "Pasadena Eats"
 date = "2018-05-20T11:59:57-05:00"
 location = "Pasadena, California"
 camera = "iPhone 7 Plus"
+image = "https://farm1.staticflickr.com/960/42132774932_9814945c4c_z.jpg"
+images = ["https://farm1.staticflickr.com/960/42132774932_9814945c4c_z.jpg",
+"https://farm1.staticflickr.com/980/40372258040_d115a74247_k.jpg",
+"https://farm1.staticflickr.com/963/28361670608_7913bf7b20_z.jpg",
+"https://farm1.staticflickr.com/964/41440678104_1b1384e625_z.jpg",
+"https://farm1.staticflickr.com/979/41440678304_41e81b3f76_k.jpg",
+"https://farm1.staticflickr.com/910/41440678374_3ce9eeb1ba_z.jpg",
+"https://farm1.staticflickr.com/965/42132774652_b3cfca5259_z.jpg",
+"https://farm1.staticflickr.com/828/42132774662_ec66c19619_k.jpg",
+"https://farm1.staticflickr.com/943/40427436190_c1a0b114a8_z.jpg"
+]
 +++
 {{% flickr "Saki, opened"
            "Saki, opened"
