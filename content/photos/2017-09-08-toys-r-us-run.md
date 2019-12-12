@@ -3,6 +3,20 @@ location = "Dallas, Texas"
 title = "A Halloween Run to Toys R Us"
 date = "2017-09-08"
 camera = "iPhone 7 Plus"
+image = "https://farm5.staticflickr.com/4442/36848844065_55e63cc2d5_z.jpg"
+images = ["https://farm5.staticflickr.com/4442/36848844065_55e63cc2d5_z.jpg",
+"https://farm5.staticflickr.com/4353/36014395064_32b524cdc9_z.jpg",
+"https://farm5.staticflickr.com/4423/36848847065_f2aeecef93_z.jpg",
+"https://farm5.staticflickr.com/4441/36709812981_b05f3dd192_z.jpg",
+"https://farm5.staticflickr.com/4401/36848849445_cd5cde7f9d_z.jpg",
+"https://farm5.staticflickr.com/4340/36039948593_ee2bf960fd_z.jpg",
+"https://farm5.staticflickr.com/4390/36678454212_951510cf8c_z.jpg",
+"https://farm5.staticflickr.com/4394/36452690190_ac4fab9732_z.jpg",
+"https://farm5.staticflickr.com/4362/36848846705_68d7b338a3_z.jpg",
+"https://farm5.staticflickr.com/4334/36678374092_1227463b13_z.jpg",
+"https://farm5.staticflickr.com/4436/36848848225_ce056dd671_z.jpg",
+"https://farm5.staticflickr.com/4340/36709811581_a876cbd4b0_z.jpg"
+]
 +++
 {{% flickr "Brothers at Toys R Us"
            "Brothers at Toys R Us"

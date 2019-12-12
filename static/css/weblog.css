@@ -105,6 +105,9 @@ header.photo nav {
 
 nav .banner {
   max-height: 270px;
+}
+
+nav .banner, nav .site-info {
   margin: 60px auto 30px auto;
   text-align: center;
 } 
@@ -119,6 +122,20 @@ nav ul {
   padding: 10px 0;
   background-color: #000000;
   text-align: right;
+}
+
+nav .podcast-info {
+  margin-bottom: -20px;
+  background-color: #333333;
+  color: #cccccc;
+}
+nav .podcast-info a {
+  color: #aaaaaa;
+}
+nav .podcast-info img {
+  height: 25px;
+  margin: 5px;
+  vertical-align: middle;
 }
 
 header.photo nav ul {
@@ -493,7 +510,7 @@ Special rules for small screen devices
 	  text-transform: uppercase;
 	  font: .7em "Sorts Mill Goudy", serif;
 	}
-
+	
 	article .postmeta {
 	  color: #999999;
 	  font: "Sorts Mill Goudy", serif;

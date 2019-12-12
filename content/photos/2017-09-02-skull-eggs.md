@@ -3,6 +3,13 @@ date = "2017-09-02T12:42:20-05:00"
 title = "Skull Eggs for Breakfast"
 location = "World Market and my kitchen"
 camera = "iPhone 7 Plus"
+image = "https://farm5.staticflickr.com/4351/36710289681_3f2aba6f2f_z.jpg"
+images = ["https://farm5.staticflickr.com/4351/36710289681_3f2aba6f2f_z.jpg",
+"https://farm5.staticflickr.com/4355/36014480394_e0e51078fd_z.jpg",
+"https://farm5.staticflickr.com/4338/36709899421_7157fe1c03_z.jpg",
+"https://farm5.staticflickr.com/4347/36678794182_89d6664c95_z.jpg",
+"https://farm5.staticflickr.com/4427/36453014270_39919cda48_z.jpg"]
+
 +++
 {{% flickr "A balanced breakfast"
            "A balanced breakfast"
