@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infexxion on Tobyblog</title>
+    <link>http://tobyblog.com/tags/infexxion/</link>
+    <description>Recent content in Infexxion on Tobyblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Mar 2019 23:29:44 -0600</lastBuildDate>
+    
+	<atom:link href="http://tobyblog.com/tags/infexxion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Infexxion-34</title>
+      <link>http://tobyblog.com/posts/2019-03-04-infexxion/</link>
+      <pubDate>Mon, 04 Mar 2019 23:29:44 -0600</pubDate>
+      
+      <guid>http://tobyblog.com/posts/2019-03-04-infexxion/</guid>
+      <description>Infexxion is an iPhone game based on the old arcade game Attax. My cousin Carl introduced me to it. There was a cabinet in the lobby of a (surely long-since demolished?) movie theater in what is now a rough part of Lafayette, Louisiana. I forget what we were seeing that night. He played — I didn&amp;rsquo;t, as I recall. It had a weird, edgy kind of quality to it, like an Exidy game.</description>
+    </item>
+    
+  </channel>
+</rss>
