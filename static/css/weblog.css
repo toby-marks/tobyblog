@@ -484,6 +484,8 @@ Special rules for small screen devices
 
 	nav .banner {
 	  max-height: 190px;
+	}
+	nav .banner, nav .site-info {
 	  margin: 40px 0 0 0;
 	} 
 
@@ -491,6 +493,20 @@ Special rules for small screen devices
 	  width: 50%;
 	  height: 50%;
 	} 
+
+	nav .podcast-info {
+/*	  margin-bottom: -20px; */
+	  background-color: #333333;
+	  color: #cccccc;
+	}
+	nav .podcast-info a {
+	  color: #aaaaaa;
+	}
+	nav .podcast-info img {
+	  height: 25px;
+	  margin: 5px;
+	  vertical-align: middle;
+	}
 
 	nav ul {
 	  position: absolute;
@@ -556,7 +572,7 @@ Special rules for small screen devices
 	  margin: 0;
 	}
 
-	nav .banner {
+	nav .banner, nav .site-info {
 	  margin: 0;
 	  padding: 40px 0 25px 0;
 	  border: 0;
@@ -567,6 +583,20 @@ Special rules for small screen devices
 	  width: 75%;
 	  height: 75%;
 	} 
+
+	nav .podcast-info {
+/*	  margin-bottom: -20px; */
+	  background-color: #333333;
+	  color: #cccccc;
+	}
+	nav .podcast-info a {
+	  color: #aaaaaa;
+	}
+	nav .podcast-info img {
+	  height: 25px;
+	  margin: 5px;
+	  vertical-align: middle;
+	}
 
 	nav ul {
 	  position: absolute;
