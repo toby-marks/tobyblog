@@ -128,6 +128,7 @@ nav .podcast-info {
   margin-bottom: -20px;
   background-color: #333333;
   color: #cccccc;
+  font: .7em "Special Elite", cursive;
 }
 nav .podcast-info a {
   color: #aaaaaa;
@@ -495,11 +496,10 @@ Special rules for small screen devices
 	} 
 
 	nav .podcast-info {
-/*	  margin-bottom: -20px; */
-	  line-height: 29px;
-	  height: 29px;
+  	  padding: 0 0 5px 0;
 	  background-color: #333333;
 	  color: #cccccc;
+      font: .7em "Special Elite", cursive;
 	}
 	nav .podcast-info a {
 	  color: #aaaaaa;
@@ -587,11 +587,10 @@ Special rules for small screen devices
 	} 
 
 	nav .podcast-info {
-/*	  margin-bottom: -20px; */
-	  line-height: 29px;
-	  height: 29px;
+  	  padding: 0 0 5px 0;
 	  background-color: #333333;
 	  color: #cccccc;
+      font: .7em "Special Elite", cursive;
 	}
 	nav .podcast-info a {
 	  color: #aaaaaa;
