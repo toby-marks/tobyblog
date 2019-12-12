@@ -3,6 +3,29 @@ title = "The Retro Store in Pasadena, California"
 date = "2018-05-11T16:42:12-05:00"
 location = "Pasadena, California"
 camera = "iPhone 7 Plus"
+image = "https://farm1.staticflickr.com/946/42090262291_c42d9822cd_k.jpg"
+images = ["https://farm1.staticflickr.com/946/42090262291_c42d9822cd_k.jpg",
+"https://farm1.staticflickr.com/972/27220846447_89b31a5db6_k.jpg",
+"https://farm1.staticflickr.com/905/41190106495_50ac61a944_z.jpg",
+"https://farm1.staticflickr.com/981/42045720162_ac0e54930e_z.jpg",
+"https://farm1.staticflickr.com/961/42045720732_fe7ebb8bbe_k.jpg",
+"https://farm1.staticflickr.com/830/41190106755_b9f4d7d962_k.jpg",
+"https://farm1.staticflickr.com/830/28217711268_cd058da20e_z.jpg",
+"https://farm1.staticflickr.com/956/27220845987_069dee0157_k.jpg",
+"https://farm1.staticflickr.com/825/41371294764_bb921da805_z.jpg",
+"https://farm1.staticflickr.com/982/42090258841_a4b79a7783_z.jpg",
+"https://farm1.staticflickr.com/975/41371295744_d60d3f5b4b_z.jpg",
+"https://farm1.staticflickr.com/944/42090260941_c32b1398ab_z.jpg",
+"https://farm1.staticflickr.com/972/42090257131_5ccdd87920_z.jpg",
+"https://farm1.staticflickr.com/823/42090262591_bcc3c27ea4_k.jpg",
+"https://farm1.staticflickr.com/958/28217710948_064e24e8b4_z.jpg",
+"https://farm1.staticflickr.com/829/28217705378_1124d0120a_z.jpg",
+"https://farm1.staticflickr.com/966/41190106425_5d8e8dd4eb_z.jpg",
+"https://farm1.staticflickr.com/943/28217704478_ee1184462d_z.jpg",
+"https://farm1.staticflickr.com/961/41371291534_7f2d6e56e3_k.jpg",
+"https://farm1.staticflickr.com/824/42090252331_b0d9c35bc6_z.jpg",
+"https://farm1.staticflickr.com/904/42090256091_abb90dd6a4_k.jpg"
+]
 +++
 {{% flickr "The Retro Store Storefront"
            "The Retro Store Storefront"

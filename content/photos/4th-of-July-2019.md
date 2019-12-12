@@ -3,6 +3,39 @@ title = "Independence Day 2019"
 date = "2019-07-10T16:57:59-05:00"
 location = "Dallas, TX"
 camera = "Sony A7RII"
+image = "https://live.staticflickr.com/65535/48214822416_5b6695e00c_k.jpg"
+images = [
+	"https://live.staticflickr.com/65535/48214822416_5b6695e00c_k.jpg",
+	"https://live.staticflickr.com/65535/48214819506_4fd2507781_k.jpg",
+	"https://live.staticflickr.com/65535/48214871952_1f0540357d_k.jpg",
+	"https://live.staticflickr.com/65535/48214819121_74d8928502_k.jpg",
+	"https://live.staticflickr.com/65535/48214869737_71dd5f9458_k.jpg",
+	"https://live.staticflickr.com/65535/48214870127_c3cf8c260d_k.jpg",
+	"https://live.staticflickr.com/65535/48214877167_d8f2820599_k.jpg",
+	"https://live.staticflickr.com/65535/48214817506_186c4ec9ea_k.jpg",
+	"https://live.staticflickr.com/65535/48214817906_1f576b6b65_k.jpg",
+	"https://live.staticflickr.com/65535/48214875422_ad90118a6b_k.jpg",
+	"https://live.staticflickr.com/65535/48214871352_f773c6af8d_k.jpg",
+	"https://live.staticflickr.com/65535/48214876247_2c90bda5de_k.jpg",
+	"https://live.staticflickr.com/65535/48214877497_1234e485d2_k.jpg",
+	"https://live.staticflickr.com/65535/48214876947_09dec5e498_k.jpg",
+	"https://live.staticflickr.com/65535/48214818881_46b690b57d_k.jpg",
+	"https://live.staticflickr.com/65535/48214874312_716ac0b48f_k.jpg",
+	"https://live.staticflickr.com/65535/48214874882_3211b03bbb_k.jpg",
+	"https://live.staticflickr.com/65535/48214871577_c77af5b117_k.jpg",
+	"https://live.staticflickr.com/65535/48214821406_5a0c836c58_k.jpg",
+	"https://live.staticflickr.com/65535/48214820951_23a2c448cc_k.jpg",
+	"https://live.staticflickr.com/65535/48214820756_ea2175372f_k.jpg",
+	"https://live.staticflickr.com/65535/48214820546_7a406a6cc4_k.jpg",
+	"https://live.staticflickr.com/65535/48214872827_8e02acc7ba_k.jpg",
+	"https://live.staticflickr.com/65535/48214873382_3cdd2cfde6_k.jpg",
+	"https://live.staticflickr.com/65535/48214873667_ce42833006_k.jpg",
+	"https://live.staticflickr.com/65535/48214874562_060e4a5c20_k.jpg",
+	"https://live.staticflickr.com/65535/48214823431_be2a2be265_k.jpg",
+	"https://live.staticflickr.com/65535/48214875237_cdbfe8a0a0_k.jpg",
+	"https://live.staticflickr.com/65535/48214875727_655045d7d3_k.jpg",
+	"https://live.staticflickr.com/65535/48214876512_bade72f0f4_k.jpg"
+]
 +++
 {{% flickr "Uncle Sam at the Mall"
            "Independence Day 2019"
