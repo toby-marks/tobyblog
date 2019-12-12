@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conventions on Tobyblog</title>
+    <link>http://tobyblog.com/tags/conventions/</link>
+    <description>Recent content in conventions on Tobyblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Jun 2015 21:09:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tobyblog.com/tags/conventions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Texas Frightmare Weekend</title>
+      <link>http://tobyblog.com/posts/texas-frightmare-weekend/</link>
+      <pubDate>Fri, 19 Jun 2015 21:09:00 +0000</pubDate>
+      
+      <guid>http://tobyblog.com/posts/texas-frightmare-weekend/</guid>
+      <description>This year I attended Texas Frightmare Weekend for the first time. By now it seems like forever ago. But lucky you — I saved all the pictures! So here they are without much verbal adornment, or it&amp;rsquo;d probably take me another month and a half to get this up.
+
+I suggest you take your time with this post. It&amp;rsquo;s a big one. Really savor the photographs. Left-click to enlarge them.</description>
+    </item>
+    
+    <item>
+      <title>Retropalooza</title>
+      <link>http://tobyblog.com/posts/retropalooza/</link>
+      <pubDate>Sun, 21 Sep 2014 15:46:00 +0000</pubDate>
+      
+      <guid>http://tobyblog.com/posts/retropalooza/</guid>
+      <description>Yesterday I took the kids to the amazing Retropalooza convention in Arlington, Texas, and boy did we have a blast! There were loads and loads of dealer tables with some very cool nostalgia items on display, classic and rare games galore, cosplayers, and even a few YouTube celebrities. Take a look at some of the fun things we discovered.
+The owner of Tendril here was willing to let him go for a meagre forty dollars, making it the best deal I found.</description>
+    </item>
+    
+  </channel>
+</rss>
