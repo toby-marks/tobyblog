@@ -3,7 +3,7 @@ camera = "Sony A7RII, Sigma Art 85mm f/1.8"
 date = 2019-11-08T22:29:51Z
 location = "Dallas, TX"
 title = "A Sunset Walk in November"
-image= = "https://live.staticflickr.com/65535/49034887928_3bf5172108_o.jpg"
+image = "https://live.staticflickr.com/65535/49034887928_3bf5172108_o.jpg"
 images = ["https://live.staticflickr.com/65535/49034887928_3bf5172108_o.jpg",
 "https://live.staticflickr.com/65535/49035610157_24725182e6_o.jpg",
 "https://live.staticflickr.com/65535/49035387916_816528ff2a_o.jpg",
