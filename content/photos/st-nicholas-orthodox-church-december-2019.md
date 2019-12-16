@@ -1,12 +1,12 @@
 +++
 camera = "iPhone XS "
 date = 2019-12-15T01:00:00Z
-draft = true
 location = "McKinney, TX"
 title = "St. Nicholas Orthodox Church, December 2019"
 
 +++
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1576373791/img/D03D8F4B-9330-4AA9-955F-927E6FC0F595_vacerd.jpg)
+<!--more-->
 
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1576373896/img/AB8B1106-FFB3-4DCE-A7F1-F1C4CBA6BB27_tnaiuo.jpg)
 
