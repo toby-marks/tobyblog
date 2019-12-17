@@ -12,6 +12,6 @@ title = "Weird Science"
 
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1576621853/img/8BEA474A-4654-489B-B1DB-13372C5437E4_nowtjo.jpg)
 
-Somehow I just don't see this taking off...
+Somehow I don't see this taking off.
 
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1576621870/img/4C627A5E-D44C-4A75-A510-2A88FD30C675_e6xl0r.jpg)
