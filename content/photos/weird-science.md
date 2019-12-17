@@ -15,3 +15,5 @@ title = "Weird Science"
 Yeah, I don't see this taking off.
 
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1576621870/img/4C627A5E-D44C-4A75-A510-2A88FD30C675_e6xl0r.jpg)
+
+I mean, where the hell is the viewfinder?
