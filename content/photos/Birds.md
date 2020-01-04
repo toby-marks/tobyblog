@@ -6,6 +6,9 @@ camera = "Nikon Coolpix P1000"
 +++
 <img src="https://live.staticflickr.com/65535/49312790956_d41171ec7d_o.jpg">
 <!--more-->
+From a walk along the Cottonwood Trail with Kassi. It started with the bluebirds, which she tells me she rarely sees out in the wild. The day was overcast and a little chilly, and after I broke out the Nikon our walk turned from into something of a birdwatching adventure. We're continuing to discover this system of urban trails that winds its way from Allen to McKinney. The Cottonwood ends at 121 by a movie theater and some restaurants, and by the time we got there I was dying for some Mexican food. 
+
+More than anything it felt like a great start to the year. I want to return to the times when we did this kind of thing much more often than we do these days. How exactly you fall out of the habit of doing things you enjoy so much is a good question. Weather had something to do with it, but still… Maybe I'll get back into geocaching seriously this year. Kassi has some good new ideas for placing a few caches of our own. But I'm finding that I enjoy getting out with my camera just as much, and I like coming home with a few "trophy" photos.
 
 <div class="container-fluid">
 <div class="demo-gallery dark mrb35">
