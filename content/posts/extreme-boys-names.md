@@ -14,9 +14,9 @@ So for the record, when I'm picking my baseball team I got dibs on Slugger, Fiel
 
 So sold on these new baby names am I that I decided to come up with my own list of super jacked-up hot rod names. Feel free to steal any of these that you like.
 
-Biggun Manchester
-Ripper Reichskiller
-Surge Dominator
+Biggun Manchester<br>
+Ripper Reichskiller<br>
+Surge Dominator<br>
 Hugh Johnson
 
 P.S. I couldn't help but notice the lack of popular baby names like Coder, Manager, or Commuter. What, no love for the IT life? 
