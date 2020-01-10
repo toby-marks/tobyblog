@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Tobyblog</title>
@@ -6,10 +6,19 @@
     <description>Recent content in News on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jan 2020 14:26:52 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2020 15:35:40 -0600</lastBuildDate>
     
 	<atom:link href="http://tobyblog.com/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Slayer, Striker, Shooter and the Rise of the Extreme Baby Boy Name</title>
+      <link>http://tobyblog.com/posts/extreme-boys-names/</link>
+      <pubDate>Fri, 10 Jan 2020 15:35:40 -0600</pubDate>
+      
+      <guid>http://tobyblog.com/posts/extreme-boys-names/</guid>
+      <description>In a recent Namerology article on the topic, she lists several of the burlier, more aggressive names that have been picking up steam: Angler, Camper, Tracker, Trapper, Catcher, Driver, Fielder, Racer, Sailor, Striker, Wheeler — deep breath — Breaker, Roper, Trotter, Wrangler — still going — Lancer, Shooter, Slayer, Soldier, Tracer, Trooper — wait, “Slayer”? — Blazer, Brewer, Charger, Dodger, Laker, Pacer, Packer, Raider, Ranger, Steeler, Warrior — kill me — Dreamer, Jester and — wait for it — Rocker.</description>
+    </item>
     
     <item>
       <title>The Intelligence of Corvids</title>
