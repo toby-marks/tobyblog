@@ -3,6 +3,7 @@ title = "Sunset on Oahu"
 date = "2020-01-11T20:19:03-06:00"
 location = "Sunset Beach, Oahu"
 camera = "Sony A7RII"
+image = "https://live.staticflickr.com/65535/49369979083_6a59b56e3f_o.jpg"
 +++
 <img src="https://live.staticflickr.com/65535/49369979083_6a59b56e3f_o.jpg">
 <!--more-->
