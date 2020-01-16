@@ -44,7 +44,7 @@ So much for the nature show.
 
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1562790874/img/IMG_3641.jpg)
 
-Back home we ended with a scrumptious dinner of white fish and brussels sprouts. I've become a huge fan of brussels sprouts since my dinner at [Sage in Pasadena]({{< ref "/posts/three-new-pasadena-restaurants.md" >}}), and these were likewise delicious. 
+Back home we ended with a scrumptious dinner of white fish and brussels sprouts. I've become a huge fan of brussels sprouts since my dinner at [Sage in Pasadena]( {{< ref "/posts/three-new-pasadena-restaurants.md" >}} , and these were likewise delicious. 
 
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1562790874/img/IMG_3633.jpg)
 
