@@ -5,7 +5,7 @@ title = "Music For a Rainy Day"
 +++
 Listening 🎧
 
-Sunset Mission is my favorite jazz noir album. It's moody, ethereal, urban, and sultry. Excellent for late nights and rainy days, and thinking. Or brooding. It's a double album, which I didn't realize until I received it as a gift last Christmas. The first side of the first album is available on YouTube, but I'm not sure anybody's posted the rest. I enjoy that.
+Sunset Mission is my favorite jazz noir album. It's moody, ethereal, urban, and brooding. Excellent for late nights and rainy days, and thinking. It's a double album, which I didn't realize until I received it as a gift last Christmas. The first side of the first album is available on YouTube, but I'm not sure anybody's posted the rest. 
 
 It's a rare album, hard to find and expensive. It was gotten for a steal. 
 
