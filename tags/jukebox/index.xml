@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jukebox on Tobyblog</title>
+    <link>http://tobyblog.com/tags/jukebox/</link>
+    <description>Recent content in jukebox on Tobyblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Apr 2019 11:11:56 -0500</lastBuildDate>
+    
+	<atom:link href="http://tobyblog.com/tags/jukebox/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>🎧 Soulshine</title>
+      <link>http://tobyblog.com/posts/jukebox-franti-soulshine/</link>
+      <pubDate>Wed, 10 Apr 2019 11:11:56 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/posts/jukebox-franti-soulshine/</guid>
+      <description>Don&amp;rsquo;t you need it?
+  </description>
+    </item>
+    
+    <item>
+      <title>Jean — Rod McKuen</title>
+      <link>http://tobyblog.com/posts/2019-03-10-jean/</link>
+      <pubDate>Sun, 10 Mar 2019 23:31:51 -0700</pubDate>
+      
+      <guid>http://tobyblog.com/posts/2019-03-10-jean/</guid>
+      <description>Listening.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spring on Tobyblog</title>
+    <link>http://tobyblog.com/tags/spring/</link>
+    <description>Recent content in spring on Tobyblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tobyblog.com/tags/spring/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spring buds</title>
+      <link>http://tobyblog.com/posts/spring-buds/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://tobyblog.com/posts/spring-buds/</guid>
+      <description>All winter keep still.
+Naked, silent. Dream until
+spring ends cold’s vigil.</description>
+    </item>
+    
+    <item>
+      <title>Happy Spring!</title>
+      <link>http://tobyblog.com/posts/happy-spring/</link>
+      <pubDate>Fri, 08 Mar 2019 06:00:00 +0000</pubDate>
+      
+      <guid>http://tobyblog.com/posts/happy-spring/</guid>
+      <description>Happy springtime to all you players out there. The weather’s warming up here in Texas. We’re coming out of winter. I think we’re through the worst of it. Are you looking for signs of new growth? Look to the trees! They’re always the first to show.</description>
+    </item>
+    
+  </channel>
+</rss>
