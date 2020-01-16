@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>work on Tobyblog</title>
+    <title>Work on Tobyblog</title>
     <link>http://tobyblog.com/tags/work/</link>
-    <description>Recent content in work on Tobyblog</description>
+    <description>Recent content in Work on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Aug 2019 11:11:46 -0500</lastBuildDate>
@@ -26,12 +26,15 @@
       <pubDate>Fri, 08 Mar 2019 12:31:10 -0600</pubDate>
       
       <guid>http://tobyblog.com/posts/2019-03-08-brown-noise/</guid>
-      <description>&lt;p&gt;Over the last couple of weeks I&#39;ve had the need to maintain a greater focus in my work and study. I find brown noise to be good way of filtering out distractions, to allow the mind to concentrate on a task. Brown noise tends to sit at a lower frequency than white noise, so the sound is deeper and more meditative.&lt;/p&gt;
+      <description>&lt;p&gt;Over the last couple of weeks I&amp;rsquo;ve had the need to maintain a greater focus in my work and study. I find brown noise to be good way of filtering out distractions, to allow the mind to concentrate on a task. Brown noise tends to sit at a lower frequency than white noise, so the sound is deeper and more meditative.&lt;/p&gt;
+
 &lt;p&gt;Here are some tracks that I like. Use headphones to get the most out of these.&lt;/p&gt;
 
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/SHM-ympOZo0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/SHM-ympOZo0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 &lt;p&gt;Very low, like a muffled waterfall from a distance. Very good track.&lt;/p&gt;</description>
     </item>
