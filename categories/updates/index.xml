@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Updates on Tobyblog</title>
@@ -17,7 +17,7 @@
       <pubDate>Wed, 24 Apr 2019 16:18:33 -0500</pubDate>
       
       <guid>http://tobyblog.com/posts/tobybase-update/</guid>
-      <description>I&amp;rsquo;ve been working on a site overhaul for my pro blog, Tobybase.com. Go check it out and tell me what you think! Now just need some new content…</description>
+      <description>I&#39;ve been working on a site overhaul for my pro blog, Tobybase.com. Go check it out and tell me what you think! Now just need some new content…</description>
     </item>
     
   </channel>
