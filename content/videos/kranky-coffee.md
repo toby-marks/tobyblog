@@ -14,6 +14,6 @@ We *discover*.
 
 And we bring our findings to the world. Enjoy.
 
-(* The [beer review]({{< ref "posts/review-the-world-comes-to-dallas.md" >}}), shot as it was on an already shaky stomach, and with a lame furtive effort to avoid being spotted by the patrolling cops, hardly counts. -TJM)
+(* The [beer review]({{< ref "/posts/review-the-world-comes-to-dallas.md" >}}), shot as it was on an already shaky stomach, and with a lame furtive effort to avoid being spotted by the patrolling cops, hardly counts. -TJM)
 
 {{< youtube h3W97HQWuEo >}}
