@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>geocaching on Tobyblog</title>
+    <title>Geocaching on Tobyblog</title>
     <link>http://tobyblog.com/tags/geocaching/</link>
-    <description>Recent content in geocaching on Tobyblog</description>
+    <description>Recent content in Geocaching on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 May 2016 11:26:00 +0000</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Mon, 30 May 2016 11:26:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/videos/geocaching-lost-episodes/</guid>
-      <description>Over the years I&#39;ve accumulated a ton of never-used footage from our various geocaching adventures. Here they all are, wrapped up a big ball of video for you, my Tobyblogging public.
+      <description>Over the years I&amp;rsquo;ve accumulated a ton of never-used footage from our various geocaching adventures. Here they all are, wrapped up a big ball of video for you, my Tobyblogging public.
 Enjoy.
   </description>
     </item>
@@ -28,13 +28,17 @@ Enjoy.
       <pubDate>Mon, 02 May 2016 21:21:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/posts/super-meganerd-fun-pack/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;https://farm2.staticflickr.com/1507/26490173342_5105efd276_z.jpg&amp;quot; alt=&amp;quot;The Super Meganerd Fun Pack&amp;quot;&amp;gt;
-&amp;lt;figcaption class=&amp;quot;wp-caption-text&amp;quot;&amp;gt;The Super Meganerd Fun Pack — Photo by &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/&amp;quot;&amp;gt;Tobyblog&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/26490173342/&amp;quot; title=&amp;quot;The Super Meganerd Fun Pack&amp;quot;&amp;gt;Flickr&amp;lt;/a&amp;gt;&amp;lt;/figcaption&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+    &lt;img src=&#34;https://farm2.staticflickr.com/1507/26490173342_5105efd276_z.jpg&#34; alt=&#34;The Super Meganerd Fun Pack&#34;&gt;
+    &lt;figcaption class=&#34;wp-caption-text&#34;&gt;The Super Meganerd Fun Pack — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/26490173342/&#34; title=&#34;The Super Meganerd Fun Pack&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+
 &lt;p&gt;&lt;em&gt;What the pack?!&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;My cousin Carl, &lt;a href=&#34;http://tobyblog.com/posts/sfanthor-house-of-wax/&#34;&gt;as previously featured on Tobyblog&lt;/a&gt;, sent this to me for my birthday. Get a load. It&#39;s almost like he knows me.&lt;/p&gt;</description>
+
+&lt;p&gt;My cousin Carl, &lt;a href=&#34;http://tobyblog.com/posts/sfanthor-house-of-wax/&#34;&gt;as previously featured on Tobyblog&lt;/a&gt;, sent this to me for my birthday. Get a load. It&amp;rsquo;s almost like he knows me.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -43,7 +47,7 @@ Enjoy.
       <pubDate>Sun, 06 Mar 2016 15:55:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/videos/my-geocoin-collection/</guid>
-      <description>You might find this interesting if you&#39;re a hardcore geocaching or geocoin enthusiast, or an ASMR type.
+      <description>You might find this interesting if you&amp;rsquo;re a hardcore geocaching or geocoin enthusiast, or an ASMR type.
   </description>
     </item>
     
@@ -54,7 +58,7 @@ Enjoy.
       
       <guid>http://tobyblog.com/videos/the-tobyblog-thanksgiving-special/</guid>
       <description>After taking some time off to contemplate the overwhelming success of my Burger King poop tweet*, we now return to our regularly scheduled programming.
-In truth October is always a busy month for us and I don&#39;t have much spare time for blogging. This past Halloween was without a doubt the best yet, but I&#39;ll save that retrospective for another day. For today we find ourselves at the end of November, as grand a month as any.</description>
+In truth October is always a busy month for us and I don&amp;rsquo;t have much spare time for blogging. This past Halloween was without a doubt the best yet, but I&amp;rsquo;ll save that retrospective for another day. For today we find ourselves at the end of November, as grand a month as any.</description>
     </item>
     
     <item>
@@ -63,7 +67,7 @@ In truth October is always a busy month for us and I don&#39;t have much spare t
       <pubDate>Tue, 18 Aug 2015 19:09:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/videos/super-mega-fun-pack/</guid>
-      <description>The Super Mega Fun Pack geocache (GC5Z4X7) is a thinly-veiled tribute to Matt of dinosaurdracula.com and the amazing box of goodies that he puts together every month for his hordes of devoted fans. It&#39;s only &amp;ldquo;veiled&amp;rdquo; at all because of the (understandable) policy of geocaching.com not to list any cache with references to commercial products. After going back and forth with them a bit about this, I relented and removed any overt references to Matt or his website, including changing the name of the cache from the original &amp;ldquo;The Dino Drac Fun Pack Geocache&amp;rdquo; to &amp;ldquo;Super Mega Fun Pack&amp;rdquo;.</description>
+      <description>The Super Mega Fun Pack geocache (GC5Z4X7) is a thinly-veiled tribute to Matt of dinosaurdracula.com and the amazing box of goodies that he puts together every month for his hordes of devoted fans. It&amp;rsquo;s only &amp;ldquo;veiled&amp;rdquo; at all because of the (understandable) policy of geocaching.com not to list any cache with references to commercial products. After going back and forth with them a bit about this, I relented and removed any overt references to Matt or his website, including changing the name of the cache from the original &amp;ldquo;The Dino Drac Fun Pack Geocache&amp;rdquo; to &amp;ldquo;Super Mega Fun Pack&amp;rdquo;.</description>
     </item>
     
     <item>
@@ -72,7 +76,7 @@ In truth October is always a busy month for us and I don&#39;t have much spare t
       <pubDate>Sun, 22 Mar 2015 11:02:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/videos/march-cache-maintenance/</guid>
-      <description>TheVCubeSolver and I hit the road on a pretty March morning to do some maintenance on a couple of our geocaches. The log for RtW #3 had filled up and Augie&#39;s beaver cache had recently been reported missing. A little town, a little country. More geocaching goodness for you.
+      <description>TheVCubeSolver and I hit the road on a pretty March morning to do some maintenance on a couple of our geocaches. The log for RtW #3 had filled up and Augie&amp;rsquo;s beaver cache had recently been reported missing. A little town, a little country. More geocaching goodness for you.
   </description>
     </item>
     
@@ -82,7 +86,7 @@ In truth October is always a busy month for us and I don&#39;t have much spare t
       <pubDate>Sun, 25 Jan 2015 16:40:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/videos/my-first-night-cache/</guid>
-      <description>Come along with the kids and I on our first night caching adventure. For the uninitiated among you, night caching is simply geocaching at night. Generally night caches are made so that you can&#39;t find them during the daytime, by making use of trails of reflective tacks or tape or other forms of guidance visible only at night.
+      <description>Come along with the kids and I on our first night caching adventure. For the uninitiated among you, night caching is simply geocaching at night. Generally night caches are made so that you can&amp;rsquo;t find them during the daytime, by making use of trails of reflective tacks or tape or other forms of guidance visible only at night.
   </description>
     </item>
     
@@ -92,7 +96,10 @@ In truth October is always a busy month for us and I don&#39;t have much spare t
       <pubDate>Sat, 23 Aug 2014 23:55:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/posts/incredible-halloween-village-at-michaels/</guid>
-      <description></description>
+      <description>HALLOWEEN LOVERS EVERYWHERE, IF YOU HAVE NEVER SEEN THE LEMAX SPOOKY TOWN COLLECTION AT MICHAELS, FIND ONE NEAR YOU AND GO THERE.&amp;nbsp;NOW.
+
+I am not kidding.
+I discovered the world of Lemax Village collectibles only a year ago. They also make Christmas sets, but the Halloween village is sold exclusively at Michaels. Now I&amp;rsquo;m not normally the kind of guy that goes gaga for stuff like this, but the artistry and imagination evident in these pieces is hard to deny.</description>
     </item>
     
     <item>
@@ -101,7 +108,7 @@ In truth October is always a busy month for us and I don&#39;t have much spare t
       <pubDate>Thu, 07 Aug 2014 12:34:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/posts/halloween-at-big-lots/</guid>
-      <description></description>
+      <description>Greetings, friends! It&amp;rsquo;s been a few days since my last update, but I haven&amp;rsquo;t been idle. Have you noticed how early the stores are stocking for Halloween this year? I blogged about my first sighting at At Home&amp;nbsp;(formerly Garden Ridge)&amp;nbsp;which was on July 1st, a full one month earlier than last year. (And if you&amp;rsquo;re interested, that was at a chain called Home Goods, where the theme of ravens &amp;amp; blackbirds predominated.</description>
     </item>
     
     <item>
@@ -110,7 +117,8 @@ In truth October is always a busy month for us and I don&#39;t have much spare t
       <pubDate>Tue, 17 Jun 2014 23:16:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/posts/wylies-angel/</guid>
-      <description>I like geocaching for lots of reasons. I like to be outside. I like discovering new places. I like walking and connecting with nature. But occasionally I learn something as well. Usually it&#39;s just local historical trivia, or maybe a geography lesson. But sometimes the lesson is more personal, and as in this case, tragic.The morning started out with a trip to the Trinity Trails in Wylie, Texas for some hiking and caching.</description>
+      <description>I like geocaching for lots of reasons. I like to be outside. I like discovering new places. I like&amp;nbsp;walking and connecting with nature. But occasionally I learn something as well. Usually it&amp;rsquo;s just local historical trivia, or maybe a&amp;nbsp;geography&amp;nbsp;lesson. But sometimes the lesson is more personal, and as in this case, tragic.
+The morning started out with a trip to the Trinity Trails in Wylie, Texas for some hiking and caching.</description>
     </item>
     
     <item>
@@ -119,7 +127,8 @@ In truth October is always a busy month for us and I don&#39;t have much spare t
       <pubDate>Sun, 09 Mar 2014 19:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/posts/found-objects-a-photolog-of-geocaching-swagarticle-i-evil-zombie-clown/</guid>
-      <description></description>
+      <description>I have no particular fear of clowns. I am not one of those people. But this thing gives me the creeps. Downright turns my stomach. 
+I found it in an ammo can in a small copse of woods near the office, nestled among a collection of unremarkable trinkets. It&amp;rsquo;s only about an inch or so high, so it took me a second to realize that it carries in its left hand a severed human arm.</description>
     </item>
     
     <item>
@@ -128,7 +137,7 @@ In truth October is always a busy month for us and I don&#39;t have much spare t
       <pubDate>Thu, 20 Feb 2014 21:46:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/posts/geocaching-explained/</guid>
-      <description>Geocaching is one of my main hobbies. Since I&#39;m going to be posting a lot about it, here&#39;s a formal introduction from Groundspeak, the company that runs the geocaching.com site. </description>
+      <description>Geocaching is one of my main hobbies. Since I&amp;rsquo;m going to be posting a lot about it, here&amp;rsquo;s a formal introduction from Groundspeak, the company that runs the geocaching.com site.</description>
     </item>
     
     <item>
@@ -137,7 +146,8 @@ In truth October is always a busy month for us and I don&#39;t have much spare t
       <pubDate>Wed, 19 Feb 2014 20:48:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/posts/suncreek-park-more-than-meets-the-eye/</guid>
-      <description>Two weeks ago my wife told me about a new park she had discovered while killing time between a couple of the kids&amp;rsquo; classes. While climbing an overpass she caught site of some paved trails just off the road that interested her enough to want to Google it later. The trails turned out to be part of Suncreek Park in Allen, Texas. The website claims Suncreek sports only four tenths of a mile of paved trails, so it&#39;s not much for walking, hiking, or biking.</description>
+      <description>Two weeks ago my wife told me about a new park she had discovered while killing time between a couple of the kids&amp;rsquo; classes. 
+While climbing an overpass she caught site of some paved trails just off the road that interested her enough to want to Google it later. The trails turned out to be part of Suncreek Park in Allen, Texas. The website claims Suncreek sports only four tenths of a mile of paved trails, so it&amp;rsquo;s not much for walking, hiking, or biking.</description>
     </item>
     
   </channel>
