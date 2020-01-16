@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>birthdays on Tobyblog</title>
+    <link>http://tobyblog.com/tags/birthdays/</link>
+    <description>Recent content in birthdays on Tobyblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Dec 2019 22:01:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tobyblog.com/tags/birthdays/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Happy Birthday, Kass</title>
+      <link>http://tobyblog.com/posts/happy-birthday-kass/</link>
+      <pubDate>Fri, 06 Dec 2019 22:01:00 +0000</pubDate>
+      
+      <guid>http://tobyblog.com/posts/happy-birthday-kass/</guid>
+      <description>Wishing the best of birthdays to my beloved and fellow blogger. If only it could be from Hawaii again this year. I promise to make some Mai Tais this weekend to commemorate it, and maybe post some of those pics.</description>
+    </item>
+    
+  </channel>
+</rss>

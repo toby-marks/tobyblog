@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TV on Tobyblog</title>
+    <link>http://tobyblog.com/tags/tv/</link>
+    <description>Recent content in TV on Tobyblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Apr 2019 09:01:32 -0500</lastBuildDate>
+    
+	<atom:link href="http://tobyblog.com/tags/tv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Resurrection of Archie Bunker</title>
+      <link>http://tobyblog.com/posts/all-in-the-family-live-event/</link>
+      <pubDate>Sun, 21 Apr 2019 09:01:32 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/posts/all-in-the-family-live-event/</guid>
+      <description>You would think that in this &amp;ldquo;woke&amp;rdquo; era the comedies of Norman Lear would be better appreciated, but I don&amp;rsquo;t think his many efforts to reboot his old series are going anywhere. Not because of any politically touchy subject matter, but because he saw the humanity in all of his characters, including those like Archie Bunker who he used to illustrate everything he saw as wrong with modern American attitudes, but whom he based on his own beloved father.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Toby Marks">
+    <meta name="description" content="The personal blog and home page of one of the web&#39;s many Tobys. What distinguishes me is that I own the domain. To you I say welcome(!) in the grand old tradition of proto-websites of the nineties. The place where I deposit the overflow of my time, mind, and labors, Tobyblog is my refuge from the coming social media apocalypse.">
+    <meta name="generator" content="Hugo 0.59.0" />
+
+    
+    <title>Series &middot; @tobyblog’s Tobyblog</title>
+
+    <link rel="stylesheet" href="http://tobyblog.com/css/weblog.css" media="screen" charset="utf-8" />
+    
+    
+
+
+    
+	<link href="http://tobyblog.com/index.xml" rel="alternate" type="application/rss+xml" title="Tobyblog" />
+	
+
+	<meta property="og:title" content="Series" />
+<meta property="og:description" content="The personal blog and home page of one of the web&#39;s many Tobys. What distinguishes me is that I own the domain. To you I say welcome(!) in the grand old tradition of proto-websites of the nineties. The place where I deposit the overflow of my time, mind, and labors, Tobyblog is my refuge from the coming social media apocalypse." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://tobyblog.com/series/" />
+
+<meta property="og:image" content="http://tobyblog.com/img/tobyblog-site-cover.jpg" />
+
+
+	<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="http://tobyblog.com/img/tobyblog-site-cover.jpg"/>
+
+<meta name="twitter:title" content="Series"/>
+<meta name="twitter:description" content="The personal blog and home page of one of the web&#39;s many Tobys. What distinguishes me is that I own the domain. To you I say welcome(!) in the grand old tradition of proto-websites of the nineties. The place where I deposit the overflow of my time, mind, and labors, Tobyblog is my refuge from the coming social media apocalypse."/>
+
+  </head>
+  <body class="site">
+
+<header>
+  <nav>
+    <div class="banner">
+      <a href="http://tobyblog.com/"><img src="/img/tobyblog_logo.png" alt="Welcome to my blog" height=270px></a>
+    </div>
+    <div class="site-info podcast-info">
+    	<a href="https://soundcloud.com/toby-marks-1">Visit my Soundcloud</a> <img src="/img/soundcloud-512.png"> <a href="http://feeds.soundcloud.com/users/soundcloud:users:46374114/sounds.rss">Subscribe to the podcast</a>
+    </div>
+    <div class="menu">
+		
+			
+			<ul>
+				
+				<li>
+					<a href="/posts/">Posts</a>
+					
+
+					
+				</li>
+				
+				<li>
+					<a href="/microposts/">Microposts</a>
+					
+
+					
+				</li>
+				
+				<li>
+					<a href="/photos/">Photos</a>
+					
+
+					
+				</li>
+				
+				<li>
+					<a href="/videos/">Videos</a>
+					
+
+					
+				</li>
+				
+				
+			</ul>
+		
+    </div>
+  </nav>
+</header>
+
+
+<main class="content list">
+   
+
+
+
+
+
+<div class="pagination">
+  
+
+  
+
+  
+</div>
+
+
+</main>
+
+
+<footer>
+  <div class="footer_text">
+      <div>
+        <h3>Hi, <a href="">I'm Toby…</a></h3>
+        <p>
+          and this is <span style="font-style:italic;">Tobyblog</span> — the personal blog and home page of one of the web's many Tobys. What distinguishes me is that I own the domain. To you I say <span style="font-weight:bold; font-variant:small-caps;">welcome</span> in the grand old tradition of proto-websites of the nineties. This is the place where I deposit the overflow of my time, energy, and labors. Tobyblog is my refuge from the coming social media apocalypse.
+        </p>
+      </div>
+      
+      <div>
+          <h3><a href="https://www.flickr.com/photos/75738497@N00/">My Photography</a></h3>
+          <div id="photos"></div>
+      </div>
+      
+  </div>
+
+  
+    <div class="footer_copyright">
+      &copy; 2020 <a href="">Toby Marks</a>
+       - Made in Dallas, TX
+    </div>
+  
+</footer>
+
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery/2.2.0/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.2.14/js/lightgallery-all.min.js" charset="utf-8"></script>
+    <script src="/js/weblog.js" charset="utf-8"></script>
+    
+
+    <script type="text/javascript">
+
+  
+  $(function() {
+    
+    $.getJSON("https://api.flickr.com/services/feeds/photos_public.gne?id=75738497@N00&format=json&jsoncallback=?", function(data) {
+      iweblog.application.displayImages(data, 8);
+    });
+  });
+
+</script>
+
+    
+  </body>
+</html>
+

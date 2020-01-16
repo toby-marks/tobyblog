@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pumpkins on Tobyblog</title>
+    <link>http://tobyblog.com/tags/pumpkins/</link>
+    <description>Recent content in pumpkins on Tobyblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Sep 2015 09:36:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tobyblog.com/tags/pumpkins/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Pumpkin for St. Michael</title>
+      <link>http://tobyblog.com/posts/a-pumpkin-for-st.-michael/</link>
+      <pubDate>Tue, 29 Sep 2015 09:36:00 +0000</pubDate>
+      
+      <guid>http://tobyblog.com/posts/a-pumpkin-for-st.-michael/</guid>
+      <description>September 29th is the feast of St. Michael the Archangel, or Michaelmas as it is known in European countries. St. Michael cast the devil out of heaven, and is the commander of the armies of God. He is traditionally shown fighting a dragon, or with his foot on the back of the devil. He is the patron of soldiers and police officers, but also of the ill and suffering. He has appeared to people at various times curing diseases.</description>
+    </item>
+    
+  </channel>
+</rss>
