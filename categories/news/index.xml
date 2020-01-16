@@ -6,10 +6,19 @@
     <description>Recent content in News on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jan 2020 15:35:40 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2020 11:02:11 -0600</lastBuildDate>
     
 	<atom:link href="http://tobyblog.com/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Cleverest Life Hack</title>
+      <link>http://tobyblog.com/posts/clever-life-hack/</link>
+      <pubDate>Thu, 16 Jan 2020 11:02:11 -0600</pubDate>
+      
+      <guid>http://tobyblog.com/posts/clever-life-hack/</guid>
+      <description>Wait, just hear me out on this…</description>
+    </item>
     
     <item>
       <title>Slayer, Striker, Shooter and the Rise of the Extreme Baby Boy Name</title>
