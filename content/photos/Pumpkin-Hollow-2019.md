@@ -6,7 +6,7 @@ camera = "Nikon P1000 and Sony A7RII"
 +++
 <img src="https://live.staticflickr.com/65535/48924284687_b876ff056b_o.jpg">
 <!--more-->
-The Pumpkin Hollow Halloween Carnival in Little Elm is one of my favorite fall family traditions. I was wondering this year at the fact that after all this time it's still retained the small town carnival charm that made it so special for us the year we discovered it. I featured it in my [Halloween Special]({{< ref "videos/the-tobyblog-halloween-special.md" >}}), and about the only thing that's changed since then is that the little haunted trail they put on gets better every year.
+The Pumpkin Hollow Halloween Carnival in Little Elm is one of my favorite fall family traditions. I was wondering this year at the fact that after all this time it's still retained the small town carnival charm that made it so special for us the year we discovered it. I featured it in my [Halloween Special]({{< ref "/videos/the-tobyblog-halloween-special.md" >}}), and about the only thing that's changed since then is that the little haunted trail they put on gets better every year.
 
 <div class="container-fluid">
 <div class="demo-gallery dark mrb35">
