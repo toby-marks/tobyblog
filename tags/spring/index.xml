@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>spring on Tobyblog</title>
+    <title>Spring on Tobyblog</title>
     <link>http://tobyblog.com/tags/spring/</link>
-    <description>Recent content in spring on Tobyblog</description>
+    <description>Recent content in Spring on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
@@ -17,7 +17,9 @@
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/posts/spring-buds/</guid>
-      <description>All winter keep still.Naked, silent. Dream untilspring ends cold’s vigil.</description>
+      <description>All winter keep still.
+Naked, silent. Dream until
+spring ends cold’s vigil.</description>
     </item>
     
     <item>
