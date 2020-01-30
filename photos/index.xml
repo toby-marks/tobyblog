@@ -125,11 +125,11 @@
       <pubDate>Thu, 21 Nov 2019 15:35:31 -0600</pubDate>
       
       <guid>http://tobyblog.com/photos/forestwood-antiques/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;https://live.staticflickr.com/65535/49101789021_28ac95b3e9_o.jpg&amp;quot; alt=&amp;quot;Blue Butterfly Pillow&amp;quot;&amp;gt;
-&amp;lt;figcaption class=&amp;quot;wp-caption-text&amp;quot;&amp;gt;Blue Butterfly Pillow — Photo by &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/&amp;quot;&amp;gt;Tobyblog&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/49101789021/&amp;quot; title=&amp;quot;Blue Butterfly Pillow&amp;quot;&amp;gt;Flickr&amp;lt;/a&amp;gt;&amp;lt;/figcaption&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+  &lt;img src=&#34;https://live.staticflickr.com/65535/49101789021_28ac95b3e9_o.jpg&#34; alt=&#34;Blue Butterfly Pillow&#34;&gt;
+  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Blue Butterfly Pillow — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/49101789021/&#34; title=&#34;Blue Butterfly Pillow&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
     <item>
@@ -327,11 +327,11 @@
       <pubDate>Wed, 10 Jul 2019 16:57:59 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/4th-of-july-2019/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;https://live.staticflickr.com/65535/48214822416_5b6695e00c_k.jpg&amp;quot; alt=&amp;quot;Uncle Sam at the Mall&amp;quot;&amp;gt;
-&amp;lt;figcaption class=&amp;quot;wp-caption-text&amp;quot;&amp;gt;Uncle Sam at the Mall — Photo by &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/&amp;quot;&amp;gt;Tobyblog&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/48214822416/&amp;quot; title=&amp;quot;Uncle Sam at the Mall&amp;quot;&amp;gt;Flickr&amp;lt;/a&amp;gt;&amp;lt;/figcaption&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+  &lt;img src=&#34;https://live.staticflickr.com/65535/48214822416_5b6695e00c_k.jpg&#34; alt=&#34;Uncle Sam at the Mall&#34;&gt;
+  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Uncle Sam at the Mall — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214822416/&#34; title=&#34;Uncle Sam at the Mall&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
     <item>
@@ -340,11 +340,11 @@
       <pubDate>Wed, 10 Jul 2019 16:55:24 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/bolin-park/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;https://live.staticflickr.com/65535/48214659381_59469a8b9d_k.jpg&amp;quot; alt=&amp;quot;Kassi Spotted a Gecko&amp;quot;&amp;gt;
-&amp;lt;figcaption class=&amp;quot;wp-caption-text&amp;quot;&amp;gt;Kassi Spotted a Gecko — Photo by &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/&amp;quot;&amp;gt;Tobyblog&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/48214659381/&amp;quot; title=&amp;quot;Kassi Spotted a Gecko&amp;quot;&amp;gt;Flickr&amp;lt;/a&amp;gt;&amp;lt;/figcaption&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+  &lt;img src=&#34;https://live.staticflickr.com/65535/48214659381_59469a8b9d_k.jpg&#34; alt=&#34;Kassi Spotted a Gecko&#34;&gt;
+  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Kassi Spotted a Gecko — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214659381/&#34; title=&#34;Kassi Spotted a Gecko&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
     <item>
@@ -353,11 +353,11 @@
       <pubDate>Fri, 28 Jun 2019 16:06:38 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/bunny-run/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;https://live.staticflickr.com/65535/48140229827_bea0fb69d6_k.jpg&amp;quot; alt=&amp;quot;Digging&amp;quot;&amp;gt;
-&amp;lt;figcaption class=&amp;quot;wp-caption-text&amp;quot;&amp;gt;Digging — Photo by &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/&amp;quot;&amp;gt;Tobyblog&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/48140229827/&amp;quot; title=&amp;quot;Digging&amp;quot;&amp;gt;Flickr&amp;lt;/a&amp;gt;&amp;lt;/figcaption&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+  &lt;img src=&#34;https://live.staticflickr.com/65535/48140229827_bea0fb69d6_k.jpg&#34; alt=&#34;Digging&#34;&gt;
+  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Digging — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48140229827/&#34; title=&#34;Digging&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
     <item>
@@ -366,11 +366,11 @@
       <pubDate>Fri, 21 Jun 2019 16:46:36 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/things-to-see-on-a-lunchtime-walk/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;https://live.staticflickr.com/65535/48105199446_52d47b8718_k.jpg&amp;quot; alt=&amp;quot;Leaf Beetle&amp;quot;&amp;gt;
-&amp;lt;figcaption class=&amp;quot;wp-caption-text&amp;quot;&amp;gt;Leaf Beetle — Photo by &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/&amp;quot;&amp;gt;Tobyblog&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/48105199446/&amp;quot; title=&amp;quot;Leaf Beetle&amp;quot;&amp;gt;Flickr&amp;lt;/a&amp;gt;&amp;lt;/figcaption&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+  &lt;img src=&#34;https://live.staticflickr.com/65535/48105199446_52d47b8718_k.jpg&#34; alt=&#34;Leaf Beetle&#34;&gt;
+  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Leaf Beetle — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48105199446/&#34; title=&#34;Leaf Beetle&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
     <item>
@@ -379,11 +379,11 @@
       <pubDate>Fri, 21 Jun 2019 13:50:55 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/old-photos-and-re-edits/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;https://live.staticflickr.com/65535/48103978738_96e77b0280_k.jpg&amp;quot; alt=&amp;quot;Runway Model&amp;quot;&amp;gt;
-&amp;lt;figcaption class=&amp;quot;wp-caption-text&amp;quot;&amp;gt;Runway Model — Photo by &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/&amp;quot;&amp;gt;Tobyblog&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/48103978738/&amp;quot; title=&amp;quot;Runway Model&amp;quot;&amp;gt;Flickr&amp;lt;/a&amp;gt;&amp;lt;/figcaption&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+  &lt;img src=&#34;https://live.staticflickr.com/65535/48103978738_96e77b0280_k.jpg&#34; alt=&#34;Runway Model&#34;&gt;
+  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Runway Model — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48103978738/&#34; title=&#34;Runway Model&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
     <item>
@@ -392,11 +392,11 @@
       <pubDate>Wed, 19 Jun 2019 23:25:18 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/p1000-at-the-library/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;https://live.staticflickr.com/65535/48088771232_f126384254_k.jpg&amp;quot; alt=&amp;quot;DSCN0489&amp;quot;&amp;gt;
-&amp;lt;figcaption class=&amp;quot;wp-caption-text&amp;quot;&amp;gt;DSCN0489 — Photo by &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/&amp;quot;&amp;gt;Tobyblog&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/48088771232/&amp;quot; title=&amp;quot;DSCN0489&amp;quot;&amp;gt;Flickr&amp;lt;/a&amp;gt;&amp;lt;/figcaption&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+  &lt;img src=&#34;https://live.staticflickr.com/65535/48088771232_f126384254_k.jpg&#34; alt=&#34;DSCN0489&#34;&gt;
+  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;DSCN0489 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48088771232/&#34; title=&#34;DSCN0489&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
     <item>
@@ -405,11 +405,11 @@
       <pubDate>Sat, 15 Jun 2019 15:21:57 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/20190615-rcp-walk/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;https://live.staticflickr.com/65535/48068564986_304d96d8d7_k.jpg&amp;quot; alt=&amp;quot;DSCN0394&amp;quot;&amp;gt;
-&amp;lt;figcaption class=&amp;quot;wp-caption-text&amp;quot;&amp;gt;DSCN0394 — Photo by &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/&amp;quot;&amp;gt;Tobyblog&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/48068564986/&amp;quot; title=&amp;quot;DSCN0394&amp;quot;&amp;gt;Flickr&amp;lt;/a&amp;gt;&amp;lt;/figcaption&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+  &lt;img src=&#34;https://live.staticflickr.com/65535/48068564986_304d96d8d7_k.jpg&#34; alt=&#34;DSCN0394&#34;&gt;
+  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;DSCN0394 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48068564986/&#34; title=&#34;DSCN0394&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
     <item>
@@ -418,11 +418,11 @@
       <pubDate>Sat, 15 Jun 2019 14:51:23 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/p1000-moon-shots/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;https://live.staticflickr.com/65535/48068565151_e819077d30_k.jpg&amp;quot; alt=&amp;quot;DSCN0343&amp;quot;&amp;gt;
-&amp;lt;figcaption class=&amp;quot;wp-caption-text&amp;quot;&amp;gt;DSCN0343 — Photo by &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/&amp;quot;&amp;gt;Tobyblog&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/48068565151/&amp;quot; title=&amp;quot;DSCN0343&amp;quot;&amp;gt;Flickr&amp;lt;/a&amp;gt;&amp;lt;/figcaption&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+  &lt;img src=&#34;https://live.staticflickr.com/65535/48068565151_e819077d30_k.jpg&#34; alt=&#34;DSCN0343&#34;&gt;
+  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;DSCN0343 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48068565151/&#34; title=&#34;DSCN0343&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
     <item>
@@ -431,11 +431,11 @@
       <pubDate>Wed, 12 Jun 2019 23:36:21 -0700</pubDate>
       
       <guid>http://tobyblog.com/photos/firewheels-at-arbor-hills/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;https://live.staticflickr.com/65535/48053678868_deaa527898_k.jpg&amp;quot; alt=&amp;quot;Arbor Hills Firewheels Frame 1&amp;quot;&amp;gt;
-&amp;lt;figcaption class=&amp;quot;wp-caption-text&amp;quot;&amp;gt;Arbor Hills Firewheels Frame 1 — Photo by &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/&amp;quot;&amp;gt;Tobyblog&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/48053678868/&amp;quot; title=&amp;quot;Arbor Hills Firewheels Frame 1&amp;quot;&amp;gt;Flickr&amp;lt;/a&amp;gt;&amp;lt;/figcaption&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+  &lt;img src=&#34;https://live.staticflickr.com/65535/48053678868_deaa527898_k.jpg&#34; alt=&#34;Arbor Hills Firewheels Frame 1&#34;&gt;
+  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Arbor Hills Firewheels Frame 1 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48053678868/&#34; title=&#34;Arbor Hills Firewheels Frame 1&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
     <item>
@@ -444,11 +444,11 @@
       <pubDate>Wed, 29 May 2019 18:34:27 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/an-evening-walk-march-2019/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;https://live.staticflickr.com/65535/47962002236_483b757865_k.jpg&amp;quot; alt=&amp;quot;Kassi 01&amp;quot;&amp;gt;
-&amp;lt;figcaption class=&amp;quot;wp-caption-text&amp;quot;&amp;gt;Kassi 01 — Photo by &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/&amp;quot;&amp;gt;Tobyblog&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/47962002236/&amp;quot; title=&amp;quot;Kassi 01&amp;quot;&amp;gt;Flickr&amp;lt;/a&amp;gt;&amp;lt;/figcaption&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+  &lt;img src=&#34;https://live.staticflickr.com/65535/47962002236_483b757865_k.jpg&#34; alt=&#34;Kassi 01&#34;&gt;
+  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Kassi 01 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/47962002236/&#34; title=&#34;Kassi 01&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
     <item>
@@ -475,11 +475,11 @@
       <pubDate>Wed, 15 May 2019 01:48:23 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/antiques-part-3/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;https://live.staticflickr.com/65535/40893653383_a1eae55385_k.jpg&amp;quot; alt=&amp;quot;A Striking Bust 01&amp;quot;&amp;gt;
-&amp;lt;figcaption class=&amp;quot;wp-caption-text&amp;quot;&amp;gt;A Striking Bust 01 — Photo by &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/&amp;quot;&amp;gt;Tobyblog&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/40893653383/&amp;quot; title=&amp;quot;A Striking Bust 01&amp;quot;&amp;gt;Flickr&amp;lt;/a&amp;gt;&amp;lt;/figcaption&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+  &lt;img src=&#34;https://live.staticflickr.com/65535/40893653383_a1eae55385_k.jpg&#34; alt=&#34;A Striking Bust 01&#34;&gt;
+  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;A Striking Bust 01 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/40893653383/&#34; title=&#34;A Striking Bust 01&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
     <item>
@@ -506,11 +506,11 @@
       <pubDate>Thu, 04 Apr 2019 19:05:06 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/veneration-of-the-cross-2019/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;https://live.staticflickr.com/7867/40572622873_d6543fdfae_k.jpg&amp;quot; alt=&amp;quot;Veneration of the Cross 01&amp;quot;&amp;gt;
-&amp;lt;figcaption class=&amp;quot;wp-caption-text&amp;quot;&amp;gt;Veneration of the Cross 01 — Photo by &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/&amp;quot;&amp;gt;Tobyblog&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/40572622873/&amp;quot; title=&amp;quot;Veneration of the Cross 01&amp;quot;&amp;gt;Flickr&amp;lt;/a&amp;gt;&amp;lt;/figcaption&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+  &lt;img src=&#34;https://live.staticflickr.com/7867/40572622873_d6543fdfae_k.jpg&#34; alt=&#34;Veneration of the Cross 01&#34;&gt;
+  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Veneration of the Cross 01 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/40572622873/&#34; title=&#34;Veneration of the Cross 01&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
     <item>
@@ -528,11 +528,11 @@
       <pubDate>Sun, 24 Mar 2019 11:57:33 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/shadows-in-the-forest/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;https://farm8.staticflickr.com/7834/33581029088_ca22827b68_k.jpg&amp;quot; alt=&amp;quot;The Game is Afoot&amp;quot;&amp;gt;
-&amp;lt;figcaption class=&amp;quot;wp-caption-text&amp;quot;&amp;gt;The Game is Afoot — Photo by &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/&amp;quot;&amp;gt;Tobyblog&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/33581029088/&amp;quot; title=&amp;quot;The Game is Afoot&amp;quot;&amp;gt;Flickr&amp;lt;/a&amp;gt;&amp;lt;/figcaption&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+  &lt;img src=&#34;https://farm8.staticflickr.com/7834/33581029088_ca22827b68_k.jpg&#34; alt=&#34;The Game is Afoot&#34;&gt;
+  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;The Game is Afoot — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/33581029088/&#34; title=&#34;The Game is Afoot&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
     <item>
@@ -541,11 +541,11 @@
       <pubDate>Sat, 23 Mar 2019 17:17:50 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/february-morning-walk/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;https://farm8.staticflickr.com/7827/46728345454_9561e2384b_k.jpg&amp;quot; alt=&amp;quot;Backlit Flower&amp;quot;&amp;gt;
-&amp;lt;figcaption class=&amp;quot;wp-caption-text&amp;quot;&amp;gt;Backlit Flower — Photo by &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/&amp;quot;&amp;gt;Tobyblog&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/46728345454/&amp;quot; title=&amp;quot;Backlit Flower&amp;quot;&amp;gt;Flickr&amp;lt;/a&amp;gt;&amp;lt;/figcaption&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+  &lt;img src=&#34;https://farm8.staticflickr.com/7827/46728345454_9561e2384b_k.jpg&#34; alt=&#34;Backlit Flower&#34;&gt;
+  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Backlit Flower — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/46728345454/&#34; title=&#34;Backlit Flower&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
     <item>
@@ -653,11 +653,11 @@
       <pubDate>Tue, 26 Feb 2019 12:53:04 -0600</pubDate>
       
       <guid>http://tobyblog.com/photos/2019-02-26-lax-international-terminal/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;https://farm8.staticflickr.com/7903/46497439394_af06a97d7e_k.jpg&amp;quot; alt=&amp;quot;Futuristic Billboard Wall&amp;quot;&amp;gt;
-&amp;lt;figcaption class=&amp;quot;wp-caption-text&amp;quot;&amp;gt;Futuristic Billboard Wall — Photo by &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/&amp;quot;&amp;gt;Tobyblog&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/46497439394/&amp;quot; title=&amp;quot;Futuristic Billboard Wall&amp;quot;&amp;gt;Flickr&amp;lt;/a&amp;gt;&amp;lt;/figcaption&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+  &lt;img src=&#34;https://farm8.staticflickr.com/7903/46497439394_af06a97d7e_k.jpg&#34; alt=&#34;Futuristic Billboard Wall&#34;&gt;
+  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Futuristic Billboard Wall — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/46497439394/&#34; title=&#34;Futuristic Billboard Wall&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
     <item>
@@ -666,11 +666,11 @@
       <pubDate>Mon, 25 Feb 2019 13:27:20 -0600</pubDate>
       
       <guid>http://tobyblog.com/photos/2019-02-25-lovebirds/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;https://farm8.staticflickr.com/7884/33335552558_09c13a90a4_z.jpg&amp;quot; alt=&amp;quot;Lovebirds&amp;quot;&amp;gt;
-&amp;lt;figcaption class=&amp;quot;wp-caption-text&amp;quot;&amp;gt;Lovebirds — Photo by &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/&amp;quot;&amp;gt;Tobyblog&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/40372258040/&amp;quot; title=&amp;quot;Lovebirds&amp;quot;&amp;gt;Flickr&amp;lt;/a&amp;gt;&amp;lt;/figcaption&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+  &lt;img src=&#34;https://farm8.staticflickr.com/7884/33335552558_09c13a90a4_z.jpg&#34; alt=&#34;Lovebirds&#34;&gt;
+  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Lovebirds — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/40372258040/&#34; title=&#34;Lovebirds&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
     <item>
@@ -679,11 +679,11 @@
       <pubDate>Sun, 20 May 2018 11:59:57 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/2018-05-20-pasadena-eats/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;https://farm1.staticflickr.com/960/42132774932_9814945c4c_z.jpg&amp;quot; alt=&amp;quot;Saki, opened&amp;quot;&amp;gt;
-&amp;lt;figcaption class=&amp;quot;wp-caption-text&amp;quot;&amp;gt;Saki, opened — Photo by &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/&amp;quot;&amp;gt;Tobyblog&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/42132774932/&amp;quot; title=&amp;quot;Saki, opened&amp;quot;&amp;gt;Flickr&amp;lt;/a&amp;gt;&amp;lt;/figcaption&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+  &lt;img src=&#34;https://farm1.staticflickr.com/960/42132774932_9814945c4c_z.jpg&#34; alt=&#34;Saki, opened&#34;&gt;
+  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Saki, opened — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/42132774932/&#34; title=&#34;Saki, opened&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
     <item>
@@ -692,11 +692,11 @@
       <pubDate>Fri, 11 May 2018 16:42:12 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/2018-05-10-the-retro-store-pasadena/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;https://farm1.staticflickr.com/946/42090262291_c42d9822cd_k.jpg&amp;quot; alt=&amp;quot;The Retro Store Storefront&amp;quot;&amp;gt;
-&amp;lt;figcaption class=&amp;quot;wp-caption-text&amp;quot;&amp;gt;The Retro Store Storefront — Photo by &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/&amp;quot;&amp;gt;Tobyblog&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/42090262291/&amp;quot; title=&amp;quot;The Retro Store Storefront&amp;quot;&amp;gt;Flickr&amp;lt;/a&amp;gt;&amp;lt;/figcaption&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+  &lt;img src=&#34;https://farm1.staticflickr.com/946/42090262291_c42d9822cd_k.jpg&#34; alt=&#34;The Retro Store Storefront&#34;&gt;
+  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;The Retro Store Storefront — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/42090262291/&#34; title=&#34;The Retro Store Storefront&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
     <item>
@@ -705,11 +705,11 @@
       <pubDate>Thu, 29 Mar 2018 23:53:25 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/2018-03-29-maneki-neko/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;https://farm1.staticflickr.com/794/40412447885_7f28497c59_z.jpg&amp;quot; alt=&amp;quot;Maneki Neko Signage&amp;quot;&amp;gt;
-&amp;lt;figcaption class=&amp;quot;wp-caption-text&amp;quot;&amp;gt;Maneki Neko Signage — Photo by &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/&amp;quot;&amp;gt;Tobyblog&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/40412447885/&amp;quot; title=&amp;quot;Maneki Neko Signage&amp;quot;&amp;gt;Flickr&amp;lt;/a&amp;gt;&amp;lt;/figcaption&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+  &lt;img src=&#34;https://farm1.staticflickr.com/794/40412447885_7f28497c59_z.jpg&#34; alt=&#34;Maneki Neko Signage&#34;&gt;
+  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Maneki Neko Signage — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/40412447885/&#34; title=&#34;Maneki Neko Signage&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
     <item>
@@ -718,11 +718,11 @@
       <pubDate>Wed, 28 Mar 2018 15:45:32 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/2018-03-28-oracle-headquarters/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;https://farm1.staticflickr.com/902/26431323287_c5191bbacd_z.jpg&amp;quot; alt=&amp;quot;Oracle Headquarters&amp;quot;&amp;gt;
-&amp;lt;figcaption class=&amp;quot;wp-caption-text&amp;quot;&amp;gt;Oracle Headquarters — Photo by &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/&amp;quot;&amp;gt;Tobyblog&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/26431323287/&amp;quot; title=&amp;quot;Oracle Headquarters&amp;quot;&amp;gt;Flickr&amp;lt;/a&amp;gt;&amp;lt;/figcaption&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+  &lt;img src=&#34;https://farm1.staticflickr.com/902/26431323287_c5191bbacd_z.jpg&#34; alt=&#34;Oracle Headquarters&#34;&gt;
+  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Oracle Headquarters — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/26431323287/&#34; title=&#34;Oracle Headquarters&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
     <item>
@@ -731,11 +731,11 @@
       <pubDate>Sat, 30 Sep 2017 10:40:38 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/2017-09-30-lemax-village-additions/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;https://farm5.staticflickr.com/4350/36014831924_2e97089b56_z.jpg&amp;quot; alt=&amp;quot;Lemax Camper, Illuminated&amp;quot;&amp;gt;
-&amp;lt;figcaption class=&amp;quot;wp-caption-text&amp;quot;&amp;gt;Lemax Camper, Illuminated — Photo by &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/&amp;quot;&amp;gt;Tobyblog&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/36014831924/&amp;quot; title=&amp;quot;Lemax Camper, Illuminated&amp;quot;&amp;gt;Flickr&amp;lt;/a&amp;gt;&amp;lt;/figcaption&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+  &lt;img src=&#34;https://farm5.staticflickr.com/4350/36014831924_2e97089b56_z.jpg&#34; alt=&#34;Lemax Camper, Illuminated&#34;&gt;
+  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Lemax Camper, Illuminated — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/36014831924/&#34; title=&#34;Lemax Camper, Illuminated&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
     <item>
@@ -744,11 +744,11 @@
       <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/2017-09-08-toys-r-us-run/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;https://farm5.staticflickr.com/4442/36848844065_55e63cc2d5_z.jpg&amp;quot; alt=&amp;quot;Brothers at Toys R Us&amp;quot;&amp;gt;
-&amp;lt;figcaption class=&amp;quot;wp-caption-text&amp;quot;&amp;gt;Brothers at Toys R Us — Photo by &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/&amp;quot;&amp;gt;Tobyblog&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/36848844065/&amp;quot; title=&amp;quot;Brothers at Toys R Us&amp;quot;&amp;gt;Flickr&amp;lt;/a&amp;gt;&amp;lt;/figcaption&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+  &lt;img src=&#34;https://farm5.staticflickr.com/4442/36848844065_55e63cc2d5_z.jpg&#34; alt=&#34;Brothers at Toys R Us&#34;&gt;
+  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Brothers at Toys R Us — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/36848844065/&#34; title=&#34;Brothers at Toys R Us&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
     <item>
@@ -757,11 +757,11 @@
       <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/2017-09-07-geocaching-maxwell-creek/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;https://farm5.staticflickr.com/4378/36709897221_b2162b77f4_z.jpg&amp;quot; alt=&amp;quot;Walking the caching trail&amp;quot;&amp;gt;
-&amp;lt;figcaption class=&amp;quot;wp-caption-text&amp;quot;&amp;gt;Walking the caching trail — Photo by &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/&amp;quot;&amp;gt;Tobyblog&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/36709897221/&amp;quot; title=&amp;quot;Walking the caching trail&amp;quot;&amp;gt;Flickr&amp;lt;/a&amp;gt;&amp;lt;/figcaption&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+  &lt;img src=&#34;https://farm5.staticflickr.com/4378/36709897221_b2162b77f4_z.jpg&#34; alt=&#34;Walking the caching trail&#34;&gt;
+  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Walking the caching trail — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/36709897221/&#34; title=&#34;Walking the caching trail&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
     <item>
@@ -770,11 +770,11 @@
       <pubDate>Sat, 02 Sep 2017 16:45:55 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/2017-09-02-solar-eclipse/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;https://farm5.staticflickr.com/4371/36709944671_758b45f3f2_z.jpg&amp;quot; alt=&amp;quot;Father and son enjoying the eclipse&amp;quot;&amp;gt;
-&amp;lt;figcaption class=&amp;quot;wp-caption-text&amp;quot;&amp;gt;Father and son enjoying the eclipse — Photo by &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/&amp;quot;&amp;gt;Tobyblog&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/36709944671/&amp;quot; title=&amp;quot;Father and son enjoying the eclipse&amp;quot;&amp;gt;Flickr&amp;lt;/a&amp;gt;&amp;lt;/figcaption&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+  &lt;img src=&#34;https://farm5.staticflickr.com/4371/36709944671_758b45f3f2_z.jpg&#34; alt=&#34;Father and son enjoying the eclipse&#34;&gt;
+  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Father and son enjoying the eclipse — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/36709944671/&#34; title=&#34;Father and son enjoying the eclipse&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
     <item>
@@ -783,11 +783,11 @@
       <pubDate>Sat, 02 Sep 2017 12:42:20 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/2017-09-02-skull-eggs/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;https://farm5.staticflickr.com/4351/36710289681_3f2aba6f2f_z.jpg&amp;quot; alt=&amp;quot;A balanced breakfast&amp;quot;&amp;gt;
-&amp;lt;figcaption class=&amp;quot;wp-caption-text&amp;quot;&amp;gt;A balanced breakfast — Photo by &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/&amp;quot;&amp;gt;Tobyblog&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/36710289681/&amp;quot; title=&amp;quot;A balanced breakfast&amp;quot;&amp;gt;Flickr&amp;lt;/a&amp;gt;&amp;lt;/figcaption&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+  &lt;img src=&#34;https://farm5.staticflickr.com/4351/36710289681_3f2aba6f2f_z.jpg&#34; alt=&#34;A balanced breakfast&#34;&gt;
+  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;A balanced breakfast — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/36710289681/&#34; title=&#34;A balanced breakfast&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
     <item>
@@ -796,11 +796,11 @@
       <pubDate>Sat, 19 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/chisholm-trail-watercolors/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;https://farm5.staticflickr.com/4347/36260804100_b4b471bd0e_z.jpg&amp;quot; alt=&amp;quot;Chisholm tree&amp;quot;&amp;gt;
-&amp;lt;figcaption class=&amp;quot;wp-caption-text&amp;quot;&amp;gt;Chisholm tree — Photo by &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/&amp;quot;&amp;gt;Tobyblog&amp;lt;/a&amp;gt; on &amp;lt;a href=&amp;quot;https://www.flickr.com/photos/tobyjmarks/36260804100/&amp;quot; title=&amp;quot;Chisholm tree&amp;quot;&amp;gt;Flickr&amp;lt;/a&amp;gt;&amp;lt;/figcaption&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
+  &lt;img src=&#34;https://farm5.staticflickr.com/4347/36260804100_b4b471bd0e_z.jpg&#34; alt=&#34;Chisholm tree&#34;&gt;
+  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Chisholm tree — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/36260804100/&#34; title=&#34;Chisholm tree&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;</description>
     </item>
     
   </channel>
