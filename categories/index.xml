@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jan 2020 11:39:17 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 12:00:00 -0600</lastBuildDate>
     
 	<atom:link href="http://tobyblog.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sounds</title>
+      <link>http://tobyblog.com/categories/sounds/</link>
+      <pubDate>Thu, 30 Jan 2020 12:00:00 -0600</pubDate>
+      
+      <guid>http://tobyblog.com/categories/sounds/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Instagram</title>
@@ -80,15 +89,6 @@
       <pubDate>Fri, 30 Aug 2019 15:33:44 -0500</pubDate>
       
       <guid>http://tobyblog.com/categories/photoblog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sounds</title>
-      <link>http://tobyblog.com/categories/sounds/</link>
-      <pubDate>Thu, 11 Jul 2019 12:32:05 -0500</pubDate>
-      
-      <guid>http://tobyblog.com/categories/sounds/</guid>
       <description></description>
     </item>
     
