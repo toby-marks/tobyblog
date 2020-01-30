@@ -17,7 +17,14 @@
         <author>Toby Marks</author>
         <guid>http://tobyblog.com/posts/the-rat-pack-podcast/</guid>
         <description>&lt;p&gt;Recorded on an evening out with &lt;a href=&#34;http://kassiblogtoo.blogspot.com/&#34;&gt;Kass&lt;/a&gt;. Not the best recording, but then again, not the best performance. They tried, though. Sammy and Dean were pretty good, I thought.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;iframe 
+    width=&#34;100%&#34;
+    height=&#34;450&#34;
+    scrolling=&#34;no&#34;
+    frameborder=&#34;no&#34;
+    allow=&#34;autoplay&#34;
+    src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/750814666&amp;color=%2334333c&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true&#34;
+&gt;&lt;/iframe&gt;
 </description>
       </item>
       
