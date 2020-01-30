@@ -5,10 +5,10 @@ date = "2019-03-06T23:28:11-06:00"
 categories = ["Journal"]
 tags = ["Orthodox", "Lent", "religion"]
 +++
-{{% flickr "Theotokos Icon"
+{{< flickr "Theotokos Icon"
            "Theotokos Icon"
            "https://www.flickr.com/photos/tobyjmarks/40345372543/"
-           "https://farm8.staticflickr.com/7851/40345372543_3e0f96a5b4_b.jpg" %}}
+           "https://farm8.staticflickr.com/7851/40345372543_3e0f96a5b4_b.jpg" >}}
 
 Today is Ash Wednesday, the Catholic holy day that begins the penitential season of Lent. This year I will not be celebrating as a Catholic.
 
