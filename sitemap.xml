@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/categories/</loc>
+    <lastmod>2020-01-31T16:59:22-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/</loc>
+    <lastmod>2020-01-31T16:59:22-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/grocery_store_asmr/</loc>
+    <lastmod>2020-01-31T16:59:22-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/sounds/</loc>
+    <lastmod>2020-01-31T16:59:22-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/</loc>
+    <lastmod>2020-01-31T16:59:22-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-01-31T16:59:22-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/mall_asmr/</loc>
+    <lastmod>2020-01-31T16:52:13-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/microposts/broken-galleries-fixed-again/</loc>
     <lastmod>2020-01-30T22:46:30-06:00</lastmod>
   </url>
@@ -13,32 +48,7 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/</loc>
-    <lastmod>2020-01-30T22:46:30-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/</loc>
-    <lastmod>2020-01-30T12:00:00-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/posts/the-rat-pack-podcast/</loc>
-    <lastmod>2020-01-30T12:00:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2020-01-30T12:00:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/sounds/</loc>
-    <lastmod>2020-01-30T12:00:00-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/</loc>
     <lastmod>2020-01-30T12:00:00-06:00</lastmod>
   </url>
   
@@ -1373,12 +1383,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/religion/</loc>
+    <loc>http://tobyblog.com/categories/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/religion/</loc>
+    <loc>http://tobyblog.com/tags/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
   
