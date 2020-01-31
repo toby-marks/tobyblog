@@ -6,42 +6,68 @@ languageCode = "en-us"
 publishDir = "public"
 theme = "internet-weblog"
 title = "Tobyblog"
+
 [author]
-FirstName = "Toby"
-FlickrID = "75738497@N00"
-Handle = "tobyblog"
-LastName = "Marks"
-Location = "Dallas, TX"
+	FirstName = "Toby"
+	FlickrID = "75738497@N00"
+	Handle = "tobyblog"
+	LastName = "Marks"
+	Location = "Dallas, TX"
+
 [[menu.main]]
-identifier = "videos"
-name = "Videos"
-url = "/videos/"
-weight = 4
+	identifier = "videos"
+	name = "Videos"
+	url = "/videos/"
+	weight = 4
+
 [[menu.main]]
-identifier = "photos"
-name = "Photos"
-url = "/photos/"
-weight = 3
+	identifier = "photos"
+	name = "Photos"
+	url = "/photos/"
+	weight = 3
+
 [[menu.main]]
-identifier = "microposts"
-name = "Microposts"
-url = "/microposts/"
-weight = 2
+	identifier = "microposts"
+	name = "Microposts"
+	url = "/microposts/"
+	weight = 2
+
 [[menu.main]]
-identifier = "posts"
-name = "Posts"
-url = "/posts/"
-weight = 1
+	identifier = "posts"
+	name = "Posts"
+	url = "/posts/"
+	weight = 1
+
 [params]
-Description = "The personal blog and home page of one of the web's many Tobys. What distinguishes me is that I own the domain. To you I say welcome(!) in the grand old tradition of proto-websites of the nineties. The place where I deposit the overflow of my time, mind, and labors, Tobyblog is my refuge from the coming social media apocalypse."
-RSSEnabled = true
-RSSMicropostTitles = false
-RSSSections = ["Posts", "Microposts", "Photos", "Videos"]
-ShowCopyright = true
-SummarizeMicroposts = false
-YearlyMicroposts = true
-images = ["img/tobyblog-site-cover.jpg"]
+	Description = "The personal blog and home page of one of the web's many Tobys. What distinguishes me is that I own the domain. To you I say welcome(!) in the grand old tradition of proto-websites of the nineties. The place where I deposit the overflow of my time, mind, and labors, Tobyblog is my refuge from the coming social media apocalypse."
+	RSSEnabled = true
+	RSSMicropostTitles = false
+	RSSSections = ["Posts", "Microposts", "Photos", "Videos"]
+	ShowCopyright = true
+	SummarizeMicroposts = false
+	YearlyMicroposts = true
+	images = ["img/tobyblog-site-cover.jpg"]
+
 [taxonomies]
-category = "categories"
-series = "series"
-tag = "tags"
+	category = "categories"
+	series = "series"
+	tag = "tags"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
+      autoHeadingIDType = "github"
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xHTML = false
