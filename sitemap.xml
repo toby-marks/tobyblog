@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/microposts/broken-galleries-fixed-again/</loc>
+    <lastmod>2020-01-30T22:46:30-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/microposts/</loc>
+    <lastmod>2020-01-30T22:46:30-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-01-30T22:46:30-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/categories/</loc>
     <lastmod>2020-01-30T12:00:00-06:00</lastmod>
   </url>
@@ -28,11 +43,6 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/</loc>
-    <lastmod>2020-01-30T12:00:00-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/categories/instagram/</loc>
     <lastmod>2020-01-30T11:39:17-06:00</lastmod>
   </url>
@@ -44,11 +54,6 @@
   
   <url>
     <loc>http://tobyblog.com/microposts/broken/</loc>
-    <lastmod>2020-01-30T11:31:29-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/microposts/</loc>
     <lastmod>2020-01-30T11:31:29-06:00</lastmod>
   </url>
   
@@ -463,12 +468,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/halloween/</loc>
+    <loc>http://tobyblog.com/categories/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/halloween/</loc>
+    <loc>http://tobyblog.com/tags/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
