@@ -4,12 +4,11 @@ date = "2020-02-01T15:58:28-06:00"
 location = "Dallas, TX"
 camera = "Nikon Coolpix P1000"
 +++
-<img src="https://live.staticflickr.com/65535/49474034598_f45783eea3_o.jpg">
+{{% flickr "Untitled"
+           ""
+           "https://www.flickr.com/photos/tobyjmarks/49474034598/"
+           "https://live.staticflickr.com/65535/49474034598_f45783eea3_o.jpg" %}}
 <!--more-->
-
-<div class="container-fluid">
-<div class="demo-gallery dark mrb35">
-<ul id="lightgallery" class="list-unstyled row">
 
 {{% flickr "Untitled"
            ""
@@ -58,11 +57,6 @@ camera = "Nikon Coolpix P1000"
 
 {{% flickr "Untitled"
            ""
-           "https://www.flickr.com/photos/tobyjmarks/49474034598/"
-           "https://live.staticflickr.com/65535/49474034598_f45783eea3_o.jpg" %}}
-
-{{% flickr "Untitled"
-           ""
            "https://www.flickr.com/photos/tobyjmarks/49474741557/"
            "https://live.staticflickr.com/65535/49474741557_4316ee6553_o.jpg" %}}
 
@@ -70,7 +64,3 @@ camera = "Nikon Coolpix P1000"
            ""
            "https://www.flickr.com/photos/tobyjmarks/49474033568/"
            "https://live.staticflickr.com/65535/49474033568_68d5307daa_o.jpg" %}}
-
-</ul>
-</div>
-</div>
