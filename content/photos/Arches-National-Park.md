@@ -3,6 +3,7 @@ title = "Arches National Park"
 date = "2019-11-26T17:16:43-06:00"
 location = "Moab, Utah"
 camera = "Sony A7RII"
+series = ["2019 Summer Vacation"]
 image = "https://live.staticflickr.com/65535/49129310703_13e5cfece2_o.jpg"
 images = ["https://live.staticflickr.com/65535/49129310703_13e5cfece2_o.jpg",
 "https://live.staticflickr.com/65535/49129987212_6c38da28a5_o.jpg",
