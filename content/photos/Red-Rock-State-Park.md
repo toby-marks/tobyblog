@@ -3,6 +3,7 @@ title = "Red Rock State Park"
 date = "2019-08-17T12:44:32-05:00"
 location = "Red Rock State Park, Arizona"
 camera = "Nikon Coolpix P1000"
+series = ["2019 Summer Vacation"]
 +++
 <img src="https://live.staticflickr.com/65535/48559877497_4bc7f7f7ed_o.jpg">
 <!--more-->
