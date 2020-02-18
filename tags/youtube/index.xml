@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>YouTube on Tobyblog</title>
+    <title>Youtube on Tobyblog</title>
     <link>http://tobyblog.com/tags/youtube/</link>
-    <description>Recent content in YouTube on Tobyblog</description>
+    <description>Recent content in Youtube on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 Mar 2019 23:31:51 -0700</lastBuildDate>
@@ -28,11 +28,14 @@
       
       <guid>http://tobyblog.com/posts/2019-03-08-brown-noise/</guid>
       <description>&lt;p&gt;Over the last couple of weeks I&amp;rsquo;ve had the need to maintain a greater focus in my work and study. I find brown noise to be good way of filtering out distractions, to allow the mind to concentrate on a task. Brown noise tends to sit at a lower frequency than white noise, so the sound is deeper and more meditative.&lt;/p&gt;
+
 &lt;p&gt;Here are some tracks that I like. Use headphones to get the most out of these.&lt;/p&gt;
 
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/SHM-ympOZo0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/SHM-ympOZo0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 &lt;p&gt;Very low, like a muffled waterfall from a distance. Very good track.&lt;/p&gt;</description>
     </item>
@@ -45,9 +48,11 @@
       <guid>http://tobyblog.com/posts/2019-02-20-bird-and-the-bee/</guid>
       <description>&lt;p&gt;I discovered the The Bird and Bee this past December when I heard their rendition of &lt;a href=&#34;http://tobyblog.com/posts/2018-12-21-my-favorite-christmas-songs/&#34;&gt;The Twelve Days of Christmas&lt;/a&gt; at a bar in Honolulu. That led me to this album, and I&amp;rsquo;ve been burning it up lately on drives and at work.&lt;/p&gt;
 
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/V7rExwCkRYI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/V7rExwCkRYI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 &lt;p&gt;It&amp;rsquo;s total ear candy.&lt;/p&gt;</description>
     </item>
@@ -80,8 +85,9 @@ I find jazz noir goes best with whiskey.
       
       <guid>http://tobyblog.com/posts/2018-12-21-my-favorite-christmas-songs/</guid>
       <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/S6wDzvibd_Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/S6wDzvibd_Q&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 &lt;p&gt;Hands down my favorite Christmas song of 2018. I passed up this album in favor of Jackie Gleason&amp;rsquo;s &lt;em&gt;Tis The Season&lt;/em&gt;, a purchase I do not regret, but this song is definitely worth the price of the vinyl. I love it when Frank sings melancholy, and this one has that quality in spades. Nostalgia, regret, and loneliness are all wrapped up in that golden bow of his amazing voice, a voice that forces your ears to attention when you hear it, never aging, never dulling, calling your life before your eyes, and all but materializing that glass of whiskey or scotch in your left hand, as your right hand reaches to pull the brim of your fedora down a little more to cover the tears in your eyes. Merry Christmas!&lt;/p&gt;</description>
     </item>
@@ -129,7 +135,7 @@ I find jazz noir goes best with whiskey.
       
       <guid>http://tobyblog.com/posts/free-spooks-on-youtube-apparitions/</guid>
       <description>Are you looking for something spooky to watch as we wind our way down to Halloween, but find yourself bored by the usual fare of cheesy monster movies or gross slasher flicks? Maybe you&amp;rsquo;re in the mood for something a little more thoughtful; a little more substantial, perhaps? Let me show you something interesting.
- Apparitions is a BBC miniseries about a Catholic exorcist who finds himself at the center of a satanic intrigue that reaches to the Vatican and threatens the world itself.</description>
+ Apparitions&amp;nbsp;is a BBC miniseries about a Catholic exorcist who finds himself at the center of a satanic intrigue that reaches to the Vatican and threatens the world itself.</description>
     </item>
     
   </channel>

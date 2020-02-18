@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2019 Summer Vacation on Tobyblog</title>
@@ -17,7 +17,7 @@
       <pubDate>Sat, 15 Feb 2020 20:10:05 -0600</pubDate>
       
       <guid>http://tobyblog.com/photos/ending-the-trip-in-mountain-village-colorado/</guid>
-      <description>&lt;img src=&#34;https://live.staticflickr.com/65535/49539373778_08e2f5ca5e_o.jpg&#34;&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/49539373778_08e2f5ca5e_o.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Tue, 26 Nov 2019 17:16:43 -0600</pubDate>
       
       <guid>http://tobyblog.com/photos/arches-national-park/</guid>
-      <description>&lt;img src=&#34;https://live.staticflickr.com/65535/49129310703_13e5cfece2_o.jpg&#34;&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/49129310703_13e5cfece2_o.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Fri, 20 Sep 2019 11:51:57 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/seeing-zion-national-park/</guid>
-      <description>&lt;img src=&#34;https://live.staticflickr.com/65535/48760860313_caae22cfa4_o.jpg&#34;&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48760860313_caae22cfa4_o.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Mon, 09 Sep 2019 20:35:46 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/grand-canyon-2019/</guid>
-      <description>&lt;img src=&#34;https://live.staticflickr.com/65535/48709006971_7eb3810ac2_o.jpg&#34;&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48709006971_7eb3810ac2_o.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Sat, 17 Aug 2019 12:44:32 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/red-rock-state-park/</guid>
-      <description>&lt;img src=&#34;https://live.staticflickr.com/65535/48559877497_4bc7f7f7ed_o.jpg&#34;&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48559877497_4bc7f7f7ed_o.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
