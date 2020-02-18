@@ -7,8 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <lastBuildDate>Thu, 16 Jan 2020 20:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 22:46:30 -0600</lastBuildDate>
     <atom:link href="/microposts/" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+      	
+        <link>http://tobyblog.com/microposts/broken-galleries-fixed-again/</link>
+        <pubDate>Thu, 30 Jan 2020 22:46:30 -0600</pubDate>
+        <author>Toby Marks</author>
+        <guid>http://tobyblog.com/microposts/broken-galleries-fixed-again/</guid>
+        <description>
+
+&lt;h3 id=&#34;fixed-broken-galleries-again&#34;&gt;Fixed Broken Galleries… Again&lt;/h3&gt;
+
+&lt;p&gt;Crap. Looks like even more stuff was broken by the recent Hugo upgrade than I realized, but I think everything should be back to normal now.&lt;/p&gt;
+</description>
+      </item>
+      
+    
+      
+      <item>
+      	
+        <link>http://tobyblog.com/microposts/broken/</link>
+        <pubDate>Thu, 30 Jan 2020 11:31:29 -0600</pubDate>
+        <author>Toby Marks</author>
+        <guid>http://tobyblog.com/microposts/broken/</guid>
+        <description>
+
+&lt;h3 id=&#34;fixed-a-problem-with-flickr-photo-galleries&#34;&gt;🛠 Fixed a Problem With Flickr Photo Galleries 👨🏻‍💻&lt;/h3&gt;
+
+&lt;p&gt;I figured out why half of my galleries in Photos were no longer working. Looks like things were broken after a recent update to Hugo, the tool I use to build the site. Had to adjust some of my backend code, but all should be well now. Browse on.&lt;/p&gt;
+</description>
+      </item>
+      
     
       
       <item>
