@@ -13,7 +13,11 @@ Or at least it will be, tomorrow. ☘️
 
 I'm not gonna lie — all this rain can be difficult for me to endure, particularly now with the whole world on lockdown because of the coronavirus. But I guess it's not been so bad. As I write this I see sun peeking through the clouds, and I notice that the streets are starting to dry up. Might be a good opportunity for a short walk, a brief chance to take in some of the only light we've had in a couple days. 
 
-Yesterday I took a moment to try to capture some of the feel. Enjoy.
+Yesterday I took a moment to try to capture some of the feel. Enjoy the pictures.
+
+How will you folks be celebrating this year? I hope with large pot of corned beef and cabbage and a frothy mug of Irish beer. That, or a pot of gold. 
+
+Right now I'd settle for a rainbow.
 
 <div class="container-fluid">
 <div class="demo-gallery dark mrb35">
