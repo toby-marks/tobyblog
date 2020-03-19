@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://tobyblog.com/microposts/coming-to-join-you-honey/</loc>
-    <lastmod>2020-03-18T20:51:28-05:00</lastmod>
+    <loc>http://tobyblog.com/microposts/</loc>
+    <lastmod>2020-03-19T15:32:16-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/microposts/</loc>
-    <lastmod>2020-03-18T20:51:28-05:00</lastmod>
+    <loc>http://tobyblog.com/microposts/tales-of-quarantine-day-7/</loc>
+    <lastmod>2020-03-19T15:32:16-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-03-19T15:32:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/microposts/coming-to-join-you-honey/</loc>
     <lastmod>2020-03-18T20:51:28-05:00</lastmod>
   </url>
   
@@ -1493,12 +1498,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/religion/</loc>
+    <loc>http://tobyblog.com/categories/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/religion/</loc>
+    <loc>http://tobyblog.com/tags/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
   
