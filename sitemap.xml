@@ -4,41 +4,46 @@
   
   <url>
     <loc>http://tobyblog.com/categories/</loc>
-    <lastmod>2020-03-28T10:40:30-05:00</lastmod>
+    <lastmod>2020-03-28T10:52:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/coronavirus-rap/</loc>
+    <lastmod>2020-03-28T10:52:59-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://tobyblog.com/tags/coronavirus/</loc>
-    <lastmod>2020-03-28T10:40:30-05:00</lastmod>
+    <lastmod>2020-03-28T10:52:59-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://tobyblog.com/tags/covid19/</loc>
-    <lastmod>2020-03-28T10:40:30-05:00</lastmod>
+    <lastmod>2020-03-28T10:52:59-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://tobyblog.com/categories/music/</loc>
-    <lastmod>2020-03-28T10:40:30-05:00</lastmod>
+    <lastmod>2020-03-28T10:52:59-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2020-03-28T10:40:30-05:00</lastmod>
+    <lastmod>2020-03-28T10:52:59-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://tobyblog.com/tags/</loc>
-    <lastmod>2020-03-28T10:40:30-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/posts/covid-19-blues/</loc>
-    <lastmod>2020-03-28T10:40:30-05:00</lastmod>
+    <lastmod>2020-03-28T10:52:59-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-03-28T10:52:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/covid-19-blues/</loc>
     <lastmod>2020-03-28T10:40:30-05:00</lastmod>
   </url>
   
@@ -638,12 +643,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/halloween/</loc>
+    <loc>http://tobyblog.com/categories/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/halloween/</loc>
+    <loc>http://tobyblog.com/tags/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
