@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/categories/</loc>
+    <lastmod>2020-04-03T16:13:07-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/music/</loc>
+    <lastmod>2020-04-03T16:13:07-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/</loc>
+    <lastmod>2020-04-03T16:13:07-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/bill-withers-rip/</loc>
+    <lastmod>2020-04-03T16:13:07-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/</loc>
+    <lastmod>2020-04-03T16:13:07-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-04-03T16:13:07-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/microposts/20200403/</loc>
     <lastmod>2020-04-03T16:10:12-05:00</lastmod>
   </url>
@@ -13,32 +43,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/</loc>
-    <lastmod>2020-04-03T16:10:12-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/</loc>
-    <lastmod>2020-04-03T16:00:36-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/tags/fonts/</loc>
     <lastmod>2020-04-03T16:00:36-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://tobyblog.com/categories/news/</loc>
-    <lastmod>2020-04-03T16:00:36-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2020-04-03T16:00:36-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/</loc>
     <lastmod>2020-04-03T16:00:36-05:00</lastmod>
   </url>
   
@@ -64,11 +74,6 @@
   
   <url>
     <loc>http://tobyblog.com/tags/covid19/</loc>
-    <lastmod>2020-03-28T10:52:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/music/</loc>
     <lastmod>2020-03-28T10:52:59-05:00</lastmod>
   </url>
   
@@ -663,12 +668,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/halloween/</loc>
+    <loc>http://tobyblog.com/tags/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/halloween/</loc>
+    <loc>http://tobyblog.com/categories/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
@@ -1563,12 +1568,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/religion/</loc>
+    <loc>http://tobyblog.com/tags/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/religion/</loc>
+    <loc>http://tobyblog.com/categories/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
   
