@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Mar 2020 10:52:59 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2020 16:00:36 -0500</lastBuildDate>
     
 	<atom:link href="http://tobyblog.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>fonts</title>
+      <link>http://tobyblog.com/tags/fonts/</link>
+      <pubDate>Fri, 03 Apr 2020 16:00:36 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/tags/fonts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>coronavirus</title>
@@ -516,7 +525,7 @@
     </item>
     
     <item>
-      <title>Religion</title>
+      <title>religion</title>
       <link>http://tobyblog.com/tags/religion/</link>
       <pubDate>Mon, 18 Mar 2019 12:02:52 -0500</pubDate>
       
