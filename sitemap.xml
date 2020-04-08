@@ -4,7 +4,32 @@
   
   <url>
     <loc>http://tobyblog.com/categories/</loc>
-    <lastmod>2020-04-03T16:13:07-05:00</lastmod>
+    <lastmod>2020-04-08T14:18:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/journal/</loc>
+    <lastmod>2020-04-08T14:18:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/</loc>
+    <lastmod>2020-04-08T14:18:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/</loc>
+    <lastmod>2020-04-08T14:18:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/missing-california/</loc>
+    <lastmod>2020-04-08T14:18:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-04-08T14:18:06-05:00</lastmod>
   </url>
   
   <url>
@@ -13,22 +38,7 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2020-04-03T16:13:07-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/posts/bill-withers-rip/</loc>
-    <lastmod>2020-04-03T16:13:07-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/</loc>
-    <lastmod>2020-04-03T16:13:07-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/</loc>
     <lastmod>2020-04-03T16:13:07-05:00</lastmod>
   </url>
   
@@ -180,11 +190,6 @@
   <url>
     <loc>http://tobyblog.com/photos/circumnavigating-lake-carolyn/</loc>
     <lastmod>2020-02-27T23:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/journal/</loc>
-    <lastmod>2020-02-26T22:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -668,12 +673,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/halloween/</loc>
+    <loc>http://tobyblog.com/categories/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/halloween/</loc>
+    <loc>http://tobyblog.com/tags/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
@@ -898,6 +903,16 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/california/</loc>
+    <lastmod>2019-07-31T17:34:22-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/pasadena/</loc>
+    <lastmod>2019-07-31T17:34:22-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/photos/pasadena-tour/</loc>
     <lastmod>2019-07-31T17:34:22-05:00</lastmod>
   </url>
@@ -924,6 +939,16 @@
   
   <url>
     <loc>http://tobyblog.com/photos/flight-to-la-with-kassi/</loc>
+    <lastmod>2019-07-27T13:07:04-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/lax/</loc>
+    <lastmod>2019-07-27T13:07:04-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/los-angeles/</loc>
     <lastmod>2019-07-27T13:07:04-05:00</lastmod>
   </url>
   
@@ -1084,11 +1109,6 @@
   
   <url>
     <loc>http://tobyblog.com/posts/lax-sound-tour/</loc>
-    <lastmod>2019-06-14T16:54:34-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/lax/</loc>
     <lastmod>2019-06-14T16:54:34-07:00</lastmod>
   </url>
   
@@ -1373,16 +1393,6 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/california/</loc>
-    <lastmod>2019-04-19T19:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/pasadena/</loc>
-    <lastmod>2019-04-19T19:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/tags/reviews/</loc>
     <lastmod>2019-04-19T19:00:00+00:00</lastmod>
   </url>
@@ -1568,12 +1578,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/religion/</loc>
+    <loc>http://tobyblog.com/categories/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/religion/</loc>
+    <loc>http://tobyblog.com/tags/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
   
@@ -2119,6 +2129,11 @@
   
   <url>
     <loc>http://tobyblog.com/photos/2018-03-29-maneki-neko/</loc>
+    <lastmod>2018-03-29T23:53:25-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/san-francisco/</loc>
     <lastmod>2018-03-29T23:53:25-05:00</lastmod>
   </url>
   
