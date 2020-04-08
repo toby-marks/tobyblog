@@ -3,6 +3,7 @@ date = "2019-03-12T01:00:00+00:00"
 title = "For the Lightly Bosomed Woman"
 categories = ["Life"]
 minipost = true
+tags = ["Pasadena","California"]
 +++
 I see what you did there, Flattery. And for the moderately bosomed woman? Out of luck, I suppose… 👙
 
