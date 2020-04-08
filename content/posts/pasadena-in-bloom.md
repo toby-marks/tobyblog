@@ -3,7 +3,7 @@ categories = []
 date = "2019-04-15T10:00:00+00:00"
 description = ""
 minipost = true
-tags = []
+tags = ["Pasadena","California"]
 title = "Pasadena in Bloom"
 
 +++

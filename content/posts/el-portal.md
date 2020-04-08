@@ -3,7 +3,7 @@ categories = ["Reviews"]
 date = "2019-03-14T22:13:00+00:00"
 description = "A review of El Portal Yucatán Mexican Restaurant in Pasadena, CA"
 draft = false
-tags = ["Reviews", "food"]
+tags = ["Pasadena","California","Reviews", "food"]
 title = "Good Times at the El Portal"
 
 +++

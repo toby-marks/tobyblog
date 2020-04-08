@@ -3,7 +3,7 @@ title = "The Retro Store in Pasadena, California"
 date = "2018-05-11T16:42:12-05:00"
 location = "Pasadena, California"
 camera = "iPhone 7 Plus"
-image = "https://farm1.staticflickr.com/946/42090262291_c42d9822cd_k.jpg"
+vimage = "https://farm1.staticflickr.com/946/42090262291_c42d9822cd_k.jpg"
 images = ["https://farm1.staticflickr.com/946/42090262291_c42d9822cd_k.jpg",
 "https://farm1.staticflickr.com/972/27220846447_89b31a5db6_k.jpg",
 "https://farm1.staticflickr.com/905/41190106495_50ac61a944_z.jpg",

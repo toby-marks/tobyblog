@@ -2,6 +2,7 @@
 date = "2019-03-14T12:06:00+00:00"
 title = "Horn Player"
 categories = ["Life"]
+tags = ["Pasadena","California"]
 minipost = true
 +++
 A street musician doing his thing in Old Town Pasadena.

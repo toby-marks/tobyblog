@@ -3,7 +3,7 @@ camera = ["iPhone XS"]
 date = "2019-03-12T05:50:00+00:00"
 location = "Pasadena, CA"
 title = "Pokémon Go In Pasadena "
-
+tags = ["Pasadena","California"]
 +++
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1552368385/img/DB43AC67-39AA-4FD9-9C90-2B861549B6D4.jpg)
 <!--more-->

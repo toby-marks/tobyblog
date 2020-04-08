@@ -3,6 +3,7 @@ title = "Pasadena Tour"
 date = "2019-07-31T17:34:22-05:00"
 location = "Pasadena, California"
 camera = "Nikon Coolpix P1000, Sony A7Rii"
+tags = ["Pasadena","California"]
 +++
 <img src="https://live.staticflickr.com/65535/48426533512_b6464a1f29_o.jpg">
 <!--more-->
