@@ -2,6 +2,7 @@
 date = "2019-03-12T03:00:00+00:00"
 title = "Old Methodist Church"
 categories = ["Life"]
+tags = ["Pasadena","California"]
 minipost = true
 +++
 The interesting things you run across when you decide to walk the mile and a half back to the hotel instead of Uber-ing. This is an old Methodist Church in the Playhouse District of Pasadena. Almost looks like an entrance to another world. A secret garden. A little foreboding perhaps. 

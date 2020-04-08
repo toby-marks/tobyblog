@@ -3,7 +3,7 @@ categories = ["Reviews"]
 date = "2019-03-14T22:57:00+00:00"
 description = "A review of Taco Libre in Old Town Pasadena"
 draft = false
-tags = ["Reviews", "food"]
+tags = ["Pasadena","California","Reviews", "food"]
 title = "Taco Libre"
 
 +++

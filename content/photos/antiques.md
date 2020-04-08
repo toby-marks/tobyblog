@@ -3,6 +3,7 @@ camera = ["iPhone XS"]
 date = "2019-03-13T19:00:00+00:00"
 location = "Pasadena, CA"
 title = "Antiques"
+tags = ["Pasadena","California"]
 image = "https://res.cloudinary.com/tobyblog/image/upload/v1552506907/img/BFFE4B29-1323-4BB4-949B-868D7B414857.jpg"
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1552506907/img/BFFE4B29-1323-4BB4-949B-868D7B414857.jpg",
 "https://res.cloudinary.com/tobyblog/image/upload/v1552506930/img/8D793477-BF9B-4417-A291-FB14829C9B5A.jpg",

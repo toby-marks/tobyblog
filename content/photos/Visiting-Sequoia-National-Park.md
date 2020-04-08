@@ -3,6 +3,7 @@ title = "Visiting Sequoia National Park"
 date = "2019-07-28T19:57:56-05:00"
 location = "Sequoia National Park"
 camera = "Nikon Coolpix P1000, Sony A7Rii (Sigma Art 85mm f/1.4, Sony Vario-Tessar T* FE 16-35mm f/4 ZA OSS, Samyang 14mm f/2.8 lenses)>"
+tags = ["Pasadena","California"]
 +++
 <img src="https://live.staticflickr.com/65535/48353086296_6a4047f202_o.jpg">
 <!--more-->
