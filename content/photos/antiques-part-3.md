@@ -3,6 +3,7 @@ camera = "iPhone XS"
 date = "2019-05-15T1:48:23-05:00"
 location = "Pasadena, CA"
 title = "Antiques, Part 3"
+tags = ["Pasadena","California"]
 image = "https://live.staticflickr.com/65535/40893653383_a1eae55385_k.jpg"
 images = ["https://live.staticflickr.com/65535/40893653383_a1eae55385_k.jpg",
 "https://live.staticflickr.com/65535/46943981425_42fef433b9_k.jpg",

@@ -4,7 +4,7 @@ date = "2019-06-14T16:54:34-07:00"
 description = "Join me on a soundseeing tour of LAX airport"
 draft = false
 minipost = "true"
-tags = ["LAX", "travel"]
+tags = ["LAX", "travel","Los Angeles","Pasadena","California"]
 title = "A New Thing?"
 
 +++

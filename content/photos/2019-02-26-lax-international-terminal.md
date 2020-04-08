@@ -3,6 +3,7 @@ title = "Scenes from the Lax International Terminal"
 date = "2019-02-26T12:53:04-06:00"
 location = "Los Angeles, California"
 camera = "iPhone XS"
+tags = ["Pasadena","California","Los Angeles","LAX"]
 image = "https://farm8.staticflickr.com/7903/46497439394_af06a97d7e_k.jpg"
 images = ["https://farm8.staticflickr.com/7903/46497439394_af06a97d7e_k.jpg",
 "https://farm8.staticflickr.com/7859/47220817701_64cfb8a0c4_k.jpg",

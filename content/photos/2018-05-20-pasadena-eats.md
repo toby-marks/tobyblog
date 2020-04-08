@@ -3,6 +3,7 @@ title = "Pasadena Eats"
 date = "2018-05-20T11:59:57-05:00"
 location = "Pasadena, California"
 camera = "iPhone 7 Plus"
+tags = ["Pasadena","California"]
 image = "https://farm1.staticflickr.com/960/42132774932_9814945c4c_z.jpg"
 images = ["https://farm1.staticflickr.com/960/42132774932_9814945c4c_z.jpg",
 "https://farm1.staticflickr.com/980/40372258040_d115a74247_k.jpg",

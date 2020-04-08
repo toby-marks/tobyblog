@@ -3,6 +3,7 @@ camera = ["iPhone XS"]
 date = "2019-05-17T18:00:00+00:00"
 location = "Pasadena, CA"
 title = "More Pasadena Eats"
+tags = ["Pasadena","California"]
 
 +++
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1558135229/img/E9B65ABF-BCBE-4A07-BC70-38DA032212F8.jpg)

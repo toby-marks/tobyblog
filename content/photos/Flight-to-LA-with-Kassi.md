@@ -3,6 +3,7 @@ title = "Flight to LA With Kassi"
 date = "2019-07-27T13:07:04-05:00"
 location = "Los Angeles, California"
 camera = "iPhone Xs"
+tags = ["Pasadena","California","LAX","Los Angeles"]
 +++
 <img src="https://live.staticflickr.com/65535/48359898937_4876587de0_b.jpg">
 <!--more-->

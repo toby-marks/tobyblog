@@ -3,6 +3,7 @@ title = "Greetings from Redwood City"
 date = "2018-03-28T15:45:32-05:00"
 location = "Redwood Shores, California"
 camera = "iPhone 7 plus"
+tags = ["California"]
 image = "https://farm1.staticflickr.com/902/26431323287_c5191bbacd_z.jpg"
 images = ["https://farm1.staticflickr.com/902/26431323287_c5191bbacd_z.jpg",
 "https://farm1.staticflickr.com/880/41303205281_c318da5c03_z.jpg",

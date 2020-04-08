@@ -3,6 +3,7 @@ title = "Maneki Neko Exhibit at the San Francisco Airport"
 date = "2018-03-29T23:53:25-05:00"
 location = "San Francisco, California"
 camera = "iPhone 7 Plus"
+tags = ["San Francisco", "California"]
 image = "https://farm1.staticflickr.com/794/40412447885_7f28497c59_z.jpg"
 images = ["https://farm1.staticflickr.com/794/40412447885_7f28497c59_z.jpg",
 "https://farm1.staticflickr.com/813/41265429672_dff5c4bf4a_z.jpg",
