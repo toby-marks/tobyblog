@@ -678,12 +678,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/halloween/</loc>
+    <loc>http://tobyblog.com/categories/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/halloween/</loc>
+    <loc>http://tobyblog.com/tags/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
@@ -1238,6 +1238,11 @@
   </url>
   
   <url>
+    <loc>http://tobyblog.com/tags/ramen/</loc>
+    <lastmod>2019-05-16T21:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/photos/antiques-part-3/</loc>
     <lastmod>2019-05-15T01:48:23-05:00</lastmod>
   </url>
@@ -1583,12 +1588,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/religion/</loc>
+    <loc>http://tobyblog.com/tags/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/religion/</loc>
+    <loc>http://tobyblog.com/categories/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
   
@@ -1909,11 +1914,6 @@
   
   <url>
     <loc>http://tobyblog.com/posts/2019-02-19-working-in-pasadena/</loc>
-    <lastmod>2019-02-19T23:42:48-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/ramen/</loc>
     <lastmod>2019-02-19T23:42:48-08:00</lastmod>
   </url>
   
