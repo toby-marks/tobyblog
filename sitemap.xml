@@ -4,7 +4,32 @@
   
   <url>
     <loc>http://tobyblog.com/categories/</loc>
-    <lastmod>2020-04-13T13:10:58-05:00</lastmod>
+    <lastmod>2020-04-13T16:30:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/food/</loc>
+    <lastmod>2020-04-13T16:30:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/</loc>
+    <lastmod>2020-04-13T16:30:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/tajin-seasoning/</loc>
+    <lastmod>2020-04-13T16:30:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/</loc>
+    <lastmod>2020-04-13T16:30:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-04-13T16:30:11-05:00</lastmod>
   </url>
   
   <url>
@@ -28,22 +53,7 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2020-04-13T13:10:58-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/tags/quarantine/</loc>
-    <lastmod>2020-04-13T13:10:58-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/</loc>
-    <lastmod>2020-04-13T13:10:58-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/</loc>
     <lastmod>2020-04-13T13:10:58-05:00</lastmod>
   </url>
   
@@ -688,12 +698,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/halloween/</loc>
+    <loc>http://tobyblog.com/tags/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/halloween/</loc>
+    <loc>http://tobyblog.com/categories/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
@@ -1155,11 +1165,6 @@
   <url>
     <loc>http://tobyblog.com/microposts/error-in-transmission/</loc>
     <lastmod>2019-06-06T14:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/food/</loc>
-    <lastmod>2019-06-03T09:28:36-05:00</lastmod>
   </url>
   
   <url>
