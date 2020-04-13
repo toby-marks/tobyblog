@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Apr 2020 14:18:06 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2020 13:10:58 -0500</lastBuildDate>
     
 	<atom:link href="http://tobyblog.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>coronavirus</title>
+      <link>http://tobyblog.com/tags/coronavirus/</link>
+      <pubDate>Mon, 13 Apr 2020 13:10:58 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/tags/coronavirus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>covid-19</title>
+      <link>http://tobyblog.com/tags/covid-19/</link>
+      <pubDate>Mon, 13 Apr 2020 13:10:58 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/tags/covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quarantine</title>
+      <link>http://tobyblog.com/tags/quarantine/</link>
+      <pubDate>Mon, 13 Apr 2020 13:10:58 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/tags/quarantine/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>fonts</title>
@@ -21,29 +48,11 @@
     </item>
     
     <item>
-      <title>coronavirus</title>
-      <link>http://tobyblog.com/tags/coronavirus/</link>
-      <pubDate>Sat, 28 Mar 2020 10:52:59 -0500</pubDate>
-      
-      <guid>http://tobyblog.com/tags/coronavirus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>covid19</title>
       <link>http://tobyblog.com/tags/covid19/</link>
       <pubDate>Sat, 28 Mar 2020 10:52:59 -0500</pubDate>
       
       <guid>http://tobyblog.com/tags/covid19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>covid-19</title>
-      <link>http://tobyblog.com/tags/covid-19/</link>
-      <pubDate>Fri, 20 Mar 2020 09:55:49 -0500</pubDate>
-      
-      <guid>http://tobyblog.com/tags/covid-19/</guid>
       <description></description>
     </item>
     
