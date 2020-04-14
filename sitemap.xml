@@ -4,7 +4,32 @@
   
   <url>
     <loc>http://tobyblog.com/categories/</loc>
-    <lastmod>2020-04-14T09:49:49-05:00</lastmod>
+    <lastmod>2020-04-14T14:05:30-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/jenny_sessions_04_12_2020/</loc>
+    <lastmod>2020-04-14T14:05:30-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/music/</loc>
+    <lastmod>2020-04-14T14:05:30-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/</loc>
+    <lastmod>2020-04-14T14:05:30-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/</loc>
+    <lastmod>2020-04-14T14:05:30-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-04-14T14:05:30-05:00</lastmod>
   </url>
   
   <url>
@@ -13,22 +38,7 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2020-04-14T09:49:49-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/</loc>
-    <lastmod>2020-04-14T09:49:49-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/posts/windows-of-our-isolation/</loc>
-    <lastmod>2020-04-14T09:49:49-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/</loc>
     <lastmod>2020-04-14T09:49:49-05:00</lastmod>
   </url>
   
@@ -85,11 +95,6 @@
   <url>
     <loc>http://tobyblog.com/posts/missing-california/</loc>
     <lastmod>2020-04-08T14:18:06-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/music/</loc>
-    <lastmod>2020-04-03T16:13:07-05:00</lastmod>
   </url>
   
   <url>
@@ -708,12 +713,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/halloween/</loc>
+    <loc>http://tobyblog.com/categories/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/halloween/</loc>
+    <loc>http://tobyblog.com/tags/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
