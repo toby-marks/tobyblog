@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photos on Tobyblog</title>
@@ -17,7 +17,7 @@
       <pubDate>Thu, 26 Mar 2020 23:53:23 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/a-brief-respite-from-the-rain/</guid>
-      <description>&lt;img src=&#34;https://live.staticflickr.com/65535/49702654813_8ab49e4b24_o.jpg&#34;&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/49702654813_8ab49e4b24_o.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -27,6 +27,7 @@
       
       <guid>http://tobyblog.com/photos/st.-patricks-day-clover/</guid>
       <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
   &lt;img src=&#34;https://live.staticflickr.com/65535/49666893906_fdefea70dc_o.jpg&#34; alt=&#34;Droplets on Clover&#34;&gt;
   &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Droplets on Clover — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/49666893906/&#34; title=&#34;Droplets on Clover&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;</description>
@@ -38,7 +39,7 @@
       <pubDate>Sat, 14 Mar 2020 11:56:20 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/little-things-in-the-back-yard/</guid>
-      <description>&lt;img src=&#34;https://live.staticflickr.com/65535/49657313216_1023d80397_o.jpg&#34;&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/49657313216_1023d80397_o.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -47,7 +48,7 @@
       <pubDate>Wed, 04 Mar 2020 21:08:08 -0600</pubDate>
       
       <guid>http://tobyblog.com/photos/andrew-brown-park-menagerie/</guid>
-      <description>&lt;img src=&#34;https://live.staticflickr.com/65535/49618817876_594790aba5_o.jpg&#34;&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/49618817876_594790aba5_o.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -56,7 +57,7 @@
       <pubDate>Thu, 27 Feb 2020 23:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/circumnavigating-lake-carolyn/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1582844462/img/C302ACD4-4B4A-46C1-864C-3F86887F3F04_csttru.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1582844462/img/C302ACD4-4B4A-46C1-864C-3F86887F3F04_csttru.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -65,7 +66,7 @@
       <pubDate>Tue, 25 Feb 2020 19:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/andrew-brown-park-coppell/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1582667482/img/FCB0FE25-7AD4-42C3-B774-3BB8EA5A9D34_wwxbnk.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1582667482/img/FCB0FE25-7AD4-42C3-B774-3BB8EA5A9D34_wwxbnk.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -74,7 +75,7 @@
       <pubDate>Sat, 15 Feb 2020 20:10:05 -0600</pubDate>
       
       <guid>http://tobyblog.com/photos/ending-the-trip-in-mountain-village-colorado/</guid>
-      <description>&lt;img src=&#34;https://live.staticflickr.com/65535/49539373778_08e2f5ca5e_o.jpg&#34;&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/49539373778_08e2f5ca5e_o.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -84,6 +85,7 @@
       
       <guid>http://tobyblog.com/photos/sunset-in-mckinney/</guid>
       <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
   &lt;img src=&#34;https://live.staticflickr.com/65535/49512803808_cd22214675_o.jpg&#34; alt=&#34;Sunset in a Field&#34;&gt;
   &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Sunset in a Field — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/49512803808/&#34; title=&#34;Sunset in a Field&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;</description>
@@ -96,6 +98,7 @@
       
       <guid>http://tobyblog.com/photos/saturday-morning-at-maxwell-creek/</guid>
       <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
+
   &lt;img src=&#34;https://live.staticflickr.com/65535/49474034598_f45783eea3_o.jpg&#34; alt=&#34;Untitled&#34;&gt;
   &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Untitled — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/49474034598/&#34; title=&#34;Untitled&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;</description>
@@ -107,7 +110,7 @@
       <pubDate>Sat, 01 Feb 2020 10:05:53 -0600</pubDate>
       
       <guid>http://tobyblog.com/photos/breakfast-lunch/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1580573144/img/IMG_6123.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1580573144/img/IMG_6123.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -116,7 +119,7 @@
       <pubDate>Sat, 11 Jan 2020 20:19:03 -0600</pubDate>
       
       <guid>http://tobyblog.com/photos/sunset-on-oahu/</guid>
-      <description>&lt;img src=&#34;https://live.staticflickr.com/65535/49369979083_6a59b56e3f_o.jpg&#34;&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/49369979083_6a59b56e3f_o.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -125,7 +128,7 @@
       <pubDate>Sat, 04 Jan 2020 14:10:34 -0600</pubDate>
       
       <guid>http://tobyblog.com/photos/the-wild-part-of-breckinridge-park/</guid>
-      <description>&lt;img src=&#34;https://live.staticflickr.com/65535/49329539932_7752d9cd7a_o.jpg&#34;&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/49329539932_7752d9cd7a_o.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -134,7 +137,7 @@
       <pubDate>Wed, 01 Jan 2020 14:12:56 -0600</pubDate>
       
       <guid>http://tobyblog.com/photos/birds/</guid>
-      <description>&lt;img src=&#34;https://live.staticflickr.com/65535/49312790956_d41171ec7d_o.jpg&#34;&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/49312790956_d41171ec7d_o.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -143,7 +146,7 @@
       <pubDate>Mon, 23 Dec 2019 14:13:25 -0600</pubDate>
       
       <guid>http://tobyblog.com/photos/santa-at-north-park/</guid>
-      <description>&lt;img src=&#34;https://live.staticflickr.com/65535/49265726427_7e14646d3f_o.jpg&#34;&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/49265726427_7e14646d3f_o.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -152,7 +155,7 @@
       <pubDate>Tue, 17 Dec 2019 22:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/weird-science/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1576621818/img/015B9C56-7A29-4D3C-86D1-F5FA1EB41DFD_j1r9ib.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1576621818/img/015B9C56-7A29-4D3C-86D1-F5FA1EB41DFD_j1r9ib.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -161,7 +164,7 @@
       <pubDate>Mon, 16 Dec 2019 18:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/playing-kitchen-and-bar/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/a_0/v1576519734/img/EE8280FF-167F-4251-9662-02411246D5C7_jqdtjk.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/a_0/v1576519734/img/EE8280FF-167F-4251-9662-02411246D5C7_jqdtjk.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -170,7 +173,7 @@
       <pubDate>Sun, 15 Dec 2019 01:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/st-nicholas-orthodox-church-december-2019/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/a_0/v1576373791/img/D03D8F4B-9330-4AA9-955F-927E6FC0F595_vacerd.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/a_0/v1576373791/img/D03D8F4B-9330-4AA9-955F-927E6FC0F595_vacerd.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -179,7 +182,7 @@
       <pubDate>Mon, 09 Dec 2019 01:59:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/breckinridge-park-1219/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/a_0/v1575913079/img/A602D7D7-4278-45C9-8CE3-9F9A6ABAA662_zqk7ec.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/a_0/v1575913079/img/A602D7D7-4278-45C9-8CE3-9F9A6ABAA662_zqk7ec.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -188,7 +191,7 @@
       <pubDate>Fri, 06 Dec 2019 22:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/astrophil-stella/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/a_0/v1575669780/img/377073AC-8423-4FF3-97C4-1C83594ADDC2_d2vjdt.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/a_0/v1575669780/img/377073AC-8423-4FF3-97C4-1C83594ADDC2_d2vjdt.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -197,7 +200,7 @@
       <pubDate>Sun, 01 Dec 2019 21:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/last-day-in-november/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/a_0/v1575234725/img/4A0FCF8F-BDD1-4BDE-98CA-101C3247DE2B_kh9ew2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/a_0/v1575234725/img/4A0FCF8F-BDD1-4BDE-98CA-101C3247DE2B_kh9ew2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -206,7 +209,7 @@
       <pubDate>Tue, 26 Nov 2019 17:16:43 -0600</pubDate>
       
       <guid>http://tobyblog.com/photos/arches-national-park/</guid>
-      <description>&lt;img src=&#34;https://live.staticflickr.com/65535/49129310703_13e5cfece2_o.jpg&#34;&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/49129310703_13e5cfece2_o.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -215,7 +218,7 @@
       <pubDate>Fri, 22 Nov 2019 19:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/tis-the-season-of-big-trees/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1574450899/img/FBF5EBC1-03FA-4453-A3BF-9A93E5DA9FBD_pugfgp.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1574450899/img/FBF5EBC1-03FA-4453-A3BF-9A93E5DA9FBD_pugfgp.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -237,7 +240,7 @@
       <pubDate>Wed, 20 Nov 2019 15:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/it-s-christmas-time/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1574263800/img/CB11E232-C7B8-4188-B122-43B53F52CBED_vysxav.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1574263800/img/CB11E232-C7B8-4188-B122-43B53F52CBED_vysxav.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -246,7 +249,7 @@
       <pubDate>Wed, 20 Nov 2019 02:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/date-night-at-northpark/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/a_0/v1574215974/img/6AC112A2-B3F7-4EBD-8DE6-CF26B2352331_clq09o.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/a_0/v1574215974/img/6AC112A2-B3F7-4EBD-8DE6-CF26B2352331_clq09o.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -255,7 +258,7 @@
       <pubDate>Mon, 18 Nov 2019 21:33:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/old-tree-off-rowlett-creek/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1574112756/img/oldtree.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1574112756/img/oldtree.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -264,7 +267,7 @@
       <pubDate>Tue, 12 Nov 2019 12:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/a-walk-around-northpark-mall/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1573584468/img/33AB1556-F0BC-4D69-9EFA-672FDF4C9544_rbmnzj.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1573584468/img/33AB1556-F0BC-4D69-9EFA-672FDF4C9544_rbmnzj.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -273,7 +276,7 @@
       <pubDate>Mon, 11 Nov 2019 18:30:09 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/fall-in-plano/</guid>
-      <description>&lt;img src=&#34;https://live.staticflickr.com/65535/49051417028_03d12ac5f0_o.jpg&#34;&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/49051417028_03d12ac5f0_o.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -282,7 +285,7 @@
       <pubDate>Fri, 08 Nov 2019 22:29:51 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/a-sunset-walk-in-november/</guid>
-      <description>&lt;img src=&#34;https://live.staticflickr.com/65535/49034887928_3bf5172108_o.jpg&#34;&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/49034887928_3bf5172108_o.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -291,7 +294,7 @@
       <pubDate>Thu, 07 Nov 2019 17:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/pho-in-the-rain/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1573149101/img/B57CF219-8A8F-4807-A66D-0AB485141947_m8s2eg.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1573149101/img/B57CF219-8A8F-4807-A66D-0AB485141947_m8s2eg.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -300,7 +303,7 @@
       <pubDate>Fri, 01 Nov 2019 03:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/happy-halloween-2019/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/a_0/v1572579604/img/2C248740-BC32-4495-A471-DD1401DBC4D6_c03nnu.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/a_0/v1572579604/img/2C248740-BC32-4495-A471-DD1401DBC4D6_c03nnu.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -309,7 +312,7 @@
       <pubDate>Wed, 23 Oct 2019 14:00:00 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/happy-halloween-hide-dnf/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1571856012/img/Screen_Shot_2019-10-23_at_1.36.14_PM.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1571856012/img/Screen_Shot_2019-10-23_at_1.36.14_PM.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -318,7 +321,7 @@
       <pubDate>Sat, 19 Oct 2019 10:38:39 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/pumpkin-hollow-2019/</guid>
-      <description>&lt;img src=&#34;https://live.staticflickr.com/65535/48924284687_b876ff056b_o.jpg&#34;&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48924284687_b876ff056b_o.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -327,7 +330,7 @@
       <pubDate>Tue, 15 Oct 2019 17:00:00 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/a-day-in-october/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1571179206/img/50068482-648F-4B67-A050-24F92CF5254C_lzimja.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1571179206/img/50068482-648F-4B67-A050-24F92CF5254C_lzimja.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -336,7 +339,7 @@
       <pubDate>Sat, 12 Oct 2019 11:59:42 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/downtown-fever-on-stage-at-the-plano-balloon-festival/</guid>
-      <description>&lt;img src=&#34;https://live.staticflickr.com/65535/48882149951_376b54f0b1_o.jpg&#34; alt=&#34;DowntownFever&#34;&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48882149951_376b54f0b1_o.jpg&#34; alt=&#34;DowntownFever&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -345,7 +348,7 @@
       <pubDate>Fri, 20 Sep 2019 11:51:57 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/seeing-zion-national-park/</guid>
-      <description>&lt;img src=&#34;https://live.staticflickr.com/65535/48760860313_caae22cfa4_o.jpg&#34;&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48760860313_caae22cfa4_o.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -354,7 +357,7 @@
       <pubDate>Mon, 09 Sep 2019 20:35:46 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/grand-canyon-2019/</guid>
-      <description>&lt;img src=&#34;https://live.staticflickr.com/65535/48709006971_7eb3810ac2_o.jpg&#34;&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48709006971_7eb3810ac2_o.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -363,7 +366,7 @@
       <pubDate>Sat, 17 Aug 2019 12:44:32 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/red-rock-state-park/</guid>
-      <description>&lt;img src=&#34;https://live.staticflickr.com/65535/48559877497_4bc7f7f7ed_o.jpg&#34;&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48559877497_4bc7f7f7ed_o.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -372,7 +375,7 @@
       <pubDate>Tue, 13 Aug 2019 22:08:42 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/frank-rip/</guid>
-      <description>&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1565673092/img/kassi.jpg&#34;&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1565673092/img/kassi.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -381,7 +384,7 @@
       <pubDate>Wed, 31 Jul 2019 17:34:22 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/pasadena-tour/</guid>
-      <description>&lt;img src=&#34;https://live.staticflickr.com/65535/48426533512_b6464a1f29_o.jpg&#34;&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48426533512_b6464a1f29_o.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -390,7 +393,7 @@
       <pubDate>Wed, 31 Jul 2019 17:04:06 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/taking-kassi-to-the-channel-islands/</guid>
-      <description>&lt;img src=&#34;https://live.staticflickr.com/65535/48426181736_e29b8dd2ec_o.jpg&#34;&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48426181736_e29b8dd2ec_o.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -399,7 +402,7 @@
       <pubDate>Sun, 28 Jul 2019 19:57:56 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/visiting-sequoia-national-park/</guid>
-      <description>&lt;img src=&#34;https://live.staticflickr.com/65535/48353086296_6a4047f202_o.jpg&#34;&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48353086296_6a4047f202_o.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -408,7 +411,7 @@
       <pubDate>Sat, 27 Jul 2019 13:07:04 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/flight-to-la-with-kassi/</guid>
-      <description>&lt;img src=&#34;https://live.staticflickr.com/65535/48359898937_4876587de0_b.jpg&#34;&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48359898937_4876587de0_b.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -417,7 +420,7 @@
       <pubDate>Thu, 18 Jul 2019 20:00:00 -0500</pubDate>
       
       <guid>http://tobyblog.com/photos/farewell-pasadena/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1563498929/img/9BB85DBB-962B-418A-A3F9-6956D7B716E5.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1563498929/img/9BB85DBB-962B-418A-A3F9-6956D7B716E5.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -556,7 +559,7 @@
       <pubDate>Fri, 24 May 2019 16:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/bee-on-firewheel-at-the-library/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1558733963/img/A731EFAA-1843-4280-A7E4-FCECDEEFDE3B.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1558733963/img/A731EFAA-1843-4280-A7E4-FCECDEEFDE3B.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -565,7 +568,7 @@
       <pubDate>Fri, 17 May 2019 18:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/more-pasadena-eats/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1558135229/img/E9B65ABF-BCBE-4A07-BC70-38DA032212F8.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1558135229/img/E9B65ABF-BCBE-4A07-BC70-38DA032212F8.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -587,7 +590,7 @@
       <pubDate>Fri, 12 Apr 2019 14:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/lunchtime-stroll-around-lake-carolyn/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1555098325/img/09A7CF26-16EB-4E1A-B1F5-1A0789E874E0.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1555098325/img/09A7CF26-16EB-4E1A-B1F5-1A0789E874E0.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -596,7 +599,7 @@
       <pubDate>Mon, 08 Apr 2019 15:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/sweet-times-with-kassiblog/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1554756919/img/IMG_1565.jpg&#34; alt=&#34;@Kassiblog&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1554756919/img/IMG_1565.jpg&#34; alt=&#34;@Kassiblog&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -618,7 +621,7 @@
       <pubDate>Mon, 25 Mar 2019 09:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/old-woman-lost-in-thought/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1553530150/img/E4296D93-6F33-4673-87D3-DA61534BE81E.jpg&#34; alt=&#34;Old Woman&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1553530150/img/E4296D93-6F33-4673-87D3-DA61534BE81E.jpg&#34; alt=&#34;Old Woman&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -653,7 +656,7 @@
       <pubDate>Mon, 18 Mar 2019 08:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/bee-/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1552924469/img/1EF86701-66F3-417B-8A5A-54388E5795E2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1552924469/img/1EF86701-66F3-417B-8A5A-54388E5795E2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -662,7 +665,7 @@
       <pubDate>Sat, 16 Mar 2019 11:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/contrail-rainbow/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1552759231/img/B581B6FC-132F-4021-A7E0-9E136B5E74BC.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1552759231/img/B581B6FC-132F-4021-A7E0-9E136B5E74BC.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -671,7 +674,7 @@
       <pubDate>Fri, 15 Mar 2019 11:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/pasadena-streets/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1552684168/img/187B3422-B271-4BD5-8111-4B0E281F7EDB.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1552684168/img/187B3422-B271-4BD5-8111-4B0E281F7EDB.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -680,7 +683,7 @@
       <pubDate>Fri, 15 Mar 2019 10:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/a-half-price-books/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1552685065/img/7F654D75-901B-4DAA-A5BB-BDBAA3935BC1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1552685065/img/7F654D75-901B-4DAA-A5BB-BDBAA3935BC1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -689,7 +692,7 @@
       <pubDate>Thu, 14 Mar 2019 21:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/pasadena-street-musician/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1552625025/img/461E69A7-8660-433A-8938-D64C51FC300F.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1552625025/img/461E69A7-8660-433A-8938-D64C51FC300F.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -698,7 +701,7 @@
       <pubDate>Thu, 14 Mar 2019 02:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/antiques-part-2/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1552538466/img/9FB984CE-8F6E-4EE8-B4A8-FBE3FBBBE5C3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1552538466/img/9FB984CE-8F6E-4EE8-B4A8-FBE3FBBBE5C3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -707,7 +710,7 @@
       <pubDate>Wed, 13 Mar 2019 19:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/antiques/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1552506907/img/BFFE4B29-1323-4BB4-949B-868D7B414857.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1552506907/img/BFFE4B29-1323-4BB4-949B-868D7B414857.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -716,7 +719,7 @@
       <pubDate>Tue, 12 Mar 2019 05:50:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/pok%C3%A9mon-go-in-pasadena/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1552368385/img/DB43AC67-39AA-4FD9-9C90-2B861549B6D4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1552368385/img/DB43AC67-39AA-4FD9-9C90-2B861549B6D4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -725,7 +728,7 @@
       <pubDate>Sun, 10 Mar 2019 08:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/back-in-l-a/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1552276412/img/46869C5E-ED6E-4566-BD92-BFECFC0D8526.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1552276412/img/46869C5E-ED6E-4566-BD92-BFECFC0D8526.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -734,7 +737,7 @@
       <pubDate>Sat, 09 Mar 2019 06:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/plano-trade-days/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/a_0/v1552180710/img/3092C5EB-BFB7-4C74-9522-63A923D64E83.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/a_0/v1552180710/img/3092C5EB-BFB7-4C74-9522-63A923D64E83.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -743,7 +746,7 @@
       <pubDate>Thu, 07 Mar 2019 06:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/photos/forestwood-antique-mall-artifacts/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1552004266/img/CE8CD332-4542-497F-8C28-C4EA7C7216CD.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1552004266/img/CE8CD332-4542-497F-8C28-C4EA7C7216CD.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
