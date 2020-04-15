@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Apr 2020 14:05:30 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2020 11:05:44 -0500</lastBuildDate>
     
 	<atom:link href="http://tobyblog.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Books</title>
+      <link>http://tobyblog.com/categories/books/</link>
+      <pubDate>Wed, 15 Apr 2020 11:05:44 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/categories/books/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Music</title>
@@ -179,15 +188,6 @@
       <pubDate>Mon, 18 Mar 2019 12:02:52 -0500</pubDate>
       
       <guid>http://tobyblog.com/categories/religion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Books</title>
-      <link>http://tobyblog.com/categories/books/</link>
-      <pubDate>Thu, 28 Feb 2019 01:41:02 -0600</pubDate>
-      
-      <guid>http://tobyblog.com/categories/books/</guid>
       <description></description>
     </item>
     
