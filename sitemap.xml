@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/photos/last-train-to-ponyville/</loc>
+    <lastmod>2020-04-27T17:51:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/photos/</loc>
+    <lastmod>2020-04-27T17:51:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-04-27T17:51:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/photos/crossing-the-bridge/</loc>
+    <lastmod>2020-04-27T17:39:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/photos/new-church-icons/</loc>
+    <lastmod>2020-04-27T17:16:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/microposts/franks-seventh-birthday/</loc>
     <lastmod>2020-04-16T16:02:08-05:00</lastmod>
   </url>
@@ -13,17 +38,7 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/</loc>
-    <lastmod>2020-04-16T16:02:08-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/photos/gun-range-trail/</loc>
-    <lastmod>2020-04-15T21:59:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/photos/</loc>
     <lastmod>2020-04-15T21:59:00+00:00</lastmod>
   </url>
   
@@ -738,12 +753,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/halloween/</loc>
+    <loc>http://tobyblog.com/tags/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/halloween/</loc>
+    <loc>http://tobyblog.com/categories/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
