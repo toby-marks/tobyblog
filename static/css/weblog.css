@@ -311,6 +311,12 @@ article.photo img[alt="@Kassiblog"] {
 article.photo img[alt="DowntownFever"] {
   margin-top: -100px;
 }
+article.photo img[alt="stnicholas"] {
+  margin-top: -350px;
+}
+article.photo img[alt="onthebridge"] {
+  margin-top: -90px;
+}
 
 
 article.photo img.flickr-embed-frame,
@@ -661,6 +667,12 @@ Special rules for small screen devices
 	}
 	article.photo img[alt="DowntownFever"] {
 	  margin-top: -50px;
+	}
+	article.photo img[alt="stnicholas"] {
+	  margin-top: -100px;
+	}
+	article.photo img[alt="onthebridge"] {
+	  margin-top: 0px;
 	}
 
 
