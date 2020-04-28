@@ -3,17 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/categories/</loc>
+    <lastmod>2020-04-28T09:50:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/media/</loc>
+    <lastmod>2020-04-28T09:50:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/nazis/</loc>
+    <lastmod>2020-04-28T09:50:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/news/</loc>
+    <lastmod>2020-04-28T09:50:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/</loc>
+    <lastmod>2020-04-28T09:50:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/</loc>
+    <lastmod>2020-04-28T09:50:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/the-subtle-subversion-of-nazi-hatred/</loc>
+    <lastmod>2020-04-28T09:50:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-04-28T09:50:49-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/photos/last-train-to-ponyville/</loc>
     <lastmod>2020-04-27T17:51:16-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://tobyblog.com/photos/</loc>
-    <lastmod>2020-04-27T17:51:16-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/</loc>
     <lastmod>2020-04-27T17:51:16-05:00</lastmod>
   </url>
   
@@ -48,27 +83,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/</loc>
-    <lastmod>2020-04-15T11:05:44-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/posts/live-forever/</loc>
     <lastmod>2020-04-15T11:05:44-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2020-04-15T11:05:44-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/tags/ray-bradbury/</loc>
-    <lastmod>2020-04-15T11:05:44-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/</loc>
     <lastmod>2020-04-15T11:05:44-05:00</lastmod>
   </url>
   
@@ -80,11 +100,6 @@
   <url>
     <loc>http://tobyblog.com/categories/music/</loc>
     <lastmod>2020-04-14T14:05:30-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/news/</loc>
-    <lastmod>2020-04-14T09:49:49-05:00</lastmod>
   </url>
   
   <url>
@@ -1658,12 +1673,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/religion/</loc>
+    <loc>http://tobyblog.com/tags/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/religion/</loc>
+    <loc>http://tobyblog.com/categories/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
   
