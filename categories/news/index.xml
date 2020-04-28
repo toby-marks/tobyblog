@@ -6,10 +6,20 @@
     <description>Recent content in News on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Apr 2020 09:50:49 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2020 13:41:27 -0500</lastBuildDate>
     
 	<atom:link href="http://tobyblog.com/categories/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Jim Carrey in The Shining</title>
+      <link>http://tobyblog.com/posts/jim-carrey-stars-in-the-shining/</link>
+      <pubDate>Tue, 28 Apr 2020 13:41:27 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/posts/jim-carrey-stars-in-the-shining/</guid>
+      <description>Deepfake. I would have preferred this use his Ace Ventura voice, but I guess the AI isn&amp;rsquo;t up to that (yet).
+  </description>
+    </item>
     
     <item>
       <title>The Subtle Subversion of Hating Nazis</title>

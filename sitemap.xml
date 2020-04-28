@@ -4,7 +4,37 @@
   
   <url>
     <loc>http://tobyblog.com/categories/</loc>
-    <lastmod>2020-04-28T09:50:49-05:00</lastmod>
+    <lastmod>2020-04-28T13:41:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/horror/</loc>
+    <lastmod>2020-04-28T13:41:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/jim-carrey-stars-in-the-shining/</loc>
+    <lastmod>2020-04-28T13:41:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/news/</loc>
+    <lastmod>2020-04-28T13:41:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/</loc>
+    <lastmod>2020-04-28T13:41:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/</loc>
+    <lastmod>2020-04-28T13:41:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-04-28T13:41:27-05:00</lastmod>
   </url>
   
   <url>
@@ -18,27 +48,7 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/news/</loc>
-    <lastmod>2020-04-28T09:50:49-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2020-04-28T09:50:49-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/</loc>
-    <lastmod>2020-04-28T09:50:49-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/posts/the-subtle-subversion-of-nazi-hatred/</loc>
-    <lastmod>2020-04-28T09:50:49-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/</loc>
     <lastmod>2020-04-28T09:50:49-05:00</lastmod>
   </url>
   
@@ -768,12 +778,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/halloween/</loc>
+    <loc>http://tobyblog.com/categories/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/halloween/</loc>
+    <loc>http://tobyblog.com/tags/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
@@ -2224,11 +2234,6 @@
   
   <url>
     <loc>http://tobyblog.com/tags/beyond-the-gates/</loc>
-    <lastmod>2018-03-28T22:46:49-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/horror/</loc>
     <lastmod>2018-03-28T22:46:49-05:00</lastmod>
   </url>
   
