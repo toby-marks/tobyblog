@@ -3,27 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://tobyblog.com/microposts/</loc>
-    <lastmod>2020-04-28T09:46:57-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/microposts/testing/</loc>
-    <lastmod>2020-04-28T09:46:57-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/</loc>
-    <lastmod>2020-04-28T09:46:57-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/photos/last-train-to-ponyville/</loc>
     <lastmod>2020-04-27T17:51:16-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://tobyblog.com/photos/</loc>
+    <lastmod>2020-04-27T17:51:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
     <lastmod>2020-04-27T17:51:16-05:00</lastmod>
   </url>
   
@@ -39,6 +29,11 @@
   
   <url>
     <loc>http://tobyblog.com/microposts/franks-seventh-birthday/</loc>
+    <lastmod>2020-04-16T16:02:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/microposts/</loc>
     <lastmod>2020-04-16T16:02:08-05:00</lastmod>
   </url>
   
