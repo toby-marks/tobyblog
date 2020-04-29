@@ -3,8 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/tags/alcohol/</loc>
+    <lastmod>2020-04-29T17:17:05-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/categories/</loc>
-    <lastmod>2020-04-28T13:41:27-05:00</lastmod>
+    <lastmod>2020-04-29T17:17:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/cocktails/</loc>
+    <lastmod>2020-04-29T17:17:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/food/</loc>
+    <lastmod>2020-04-29T17:17:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/</loc>
+    <lastmod>2020-04-29T17:17:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/quarantine-cocktail-hour-amaretto-and-ginger/</loc>
+    <lastmod>2020-04-29T17:17:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/</loc>
+    <lastmod>2020-04-29T17:17:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-04-29T17:17:05-05:00</lastmod>
   </url>
   
   <url>
@@ -19,21 +54,6 @@
   
   <url>
     <loc>http://tobyblog.com/categories/news/</loc>
-    <lastmod>2020-04-28T13:41:27-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2020-04-28T13:41:27-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/</loc>
-    <lastmod>2020-04-28T13:41:27-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/</loc>
     <lastmod>2020-04-28T13:41:27-05:00</lastmod>
   </url>
   
@@ -119,11 +139,6 @@
   
   <url>
     <loc>http://tobyblog.com/posts/elote-ramen/</loc>
-    <lastmod>2020-04-14T08:41:18-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/food/</loc>
     <lastmod>2020-04-14T08:41:18-05:00</lastmod>
   </url>
   
@@ -1683,12 +1698,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/religion/</loc>
+    <loc>http://tobyblog.com/categories/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/religion/</loc>
+    <loc>http://tobyblog.com/tags/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
   
@@ -1700,11 +1715,6 @@
   <url>
     <loc>http://tobyblog.com/photos/bee-/</loc>
     <lastmod>2019-03-18T08:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/alcohol/</loc>
-    <lastmod>2019-03-16T17:00:00+00:00</lastmod>
   </url>
   
   <url>
