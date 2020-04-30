@@ -11,7 +11,6 @@ The Pumpkin Hollow Halloween Carnival in Little Elm is one of my favorite fall f
 <div class="container-fluid">
 <div class="demo-gallery dark mrb35">
 	<ul id="lightgallery" class="list-unstyled row">
-
 		<!-------------------------------------->
 		<!--  Taken with Nikon Coolpix P1000  -->
 		<!-------------------------------------->
@@ -33,7 +32,6 @@ The Pumpkin Hollow Halloween Carnival in Little Elm is one of my favorite fall f
 			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48923998166_248b606bfc.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
 		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48923997716_90060a08db_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
 			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48923997716_acdeb2d1c0.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-
 		<!-------------------------------------->
 		<!--  Taken with Sony A7RII           -->
 		<!-------------------------------------->
