@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/photos/</loc>
+    <lastmod>2020-04-30T10:38:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/photos/supermoon-2020/</loc>
+    <lastmod>2020-04-30T10:38:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-04-30T10:38:42-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/tags/alcohol/</loc>
     <lastmod>2020-04-29T17:17:05-05:00</lastmod>
   </url>
@@ -38,11 +53,6 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/</loc>
-    <lastmod>2020-04-29T17:17:05-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/tags/horror/</loc>
     <lastmod>2020-04-28T13:41:27-05:00</lastmod>
   </url>
@@ -74,11 +84,6 @@
   
   <url>
     <loc>http://tobyblog.com/photos/last-train-to-ponyville/</loc>
-    <lastmod>2020-04-27T17:51:16-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/photos/</loc>
     <lastmod>2020-04-27T17:51:16-05:00</lastmod>
   </url>
   
@@ -1698,12 +1703,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/religion/</loc>
+    <loc>http://tobyblog.com/tags/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/religion/</loc>
+    <loc>http://tobyblog.com/categories/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
   
