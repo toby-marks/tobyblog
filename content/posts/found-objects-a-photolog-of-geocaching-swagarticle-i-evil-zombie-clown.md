@@ -2,11 +2,39 @@
 title = "FOUND OBJECTS: A PHOTOLOG OF GEOCACHING SWAGARTICLE I EVIL ZOMBIE CLOWN"
 date = 2014-03-09T19:00:00Z
 updated = 2014-06-19T22:21:23Z
+categories = ["Journal"]
 tags = ["geocaching", "found items", "photolog"]
-blogimport = true 
-[author]
-	name = "Toby Marks"
-	uri = "https://www.blogger.com/profile/09367177211408746652"
 +++
 
-<div class="separator" style="clear: both; text-align: center;"><a href="http://4.bp.blogspot.com/-3ji1yOQtiMw/UxyOCfghi_I/AAAAAAAAAUA/nmODM8uCQ1Q/s1600/clown_face.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span style="font-family: inherit;"><img border="0" src="http://4.bp.blogspot.com/-3ji1yOQtiMw/UxyOCfghi_I/AAAAAAAAAUA/nmODM8uCQ1Q/s320/clown_face.png" /></span></a></div><span style="font-family: inherit;">I have no particular fear of clowns. I am not one of those people. But this thing gives me the creeps. Downright turns my stomach.   </span><br /><a name='more'></a><div class="separator" style="clear: both; text-align: center;"><a href="http://3.bp.blogspot.com/-e4HdwZibjwk/UxyOL4R-d0I/AAAAAAAAAUI/S12WVQaKu5k/s1600/DSC09354.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span style="font-family: inherit;"><img border="0" src="http://3.bp.blogspot.com/-e4HdwZibjwk/UxyOL4R-d0I/AAAAAAAAAUI/S12WVQaKu5k/s320/DSC09354.jpg" /></span></a></div><span style="font-family: inherit;">I found it in an ammo can in a small copse of woods near the office, nestled among a collection of unremarkable trinkets. It's only about an inch or so high, so it took me a second to realize that it carries in its left hand a severed human arm.  </span><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://2.bp.blogspot.com/-9BK_WgLn1Kk/UxyO5vxUJAI/AAAAAAAAAUQ/Jb__4yZqug8/s1600/severed_arm.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span style="font-family: inherit;"><img border="0" src="http://2.bp.blogspot.com/-9BK_WgLn1Kk/UxyO5vxUJAI/AAAAAAAAAUQ/Jb__4yZqug8/s320/severed_arm.png" /></span></a></div><span style="font-family: inherit;">My first thought was that this thing was bad news, possibly a fetish of some kind. I immediately regretted having touched it. My second thought was not to be so damn superstitious, probably just a morbid toy of some kind — maybe a character token in some horror themed role playing game. Though this was not something the kids were going to end up with, it was interesting enough so I decided to trade for it.   </span><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://4.bp.blogspot.com/-dcJbxFOv8l0/UxyPESR4yeI/AAAAAAAAAUY/Uw0WinxFEd0/s1600/DSC09356.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span style="font-family: inherit;"><img border="0" src="http://4.bp.blogspot.com/-dcJbxFOv8l0/UxyPESR4yeI/AAAAAAAAAUY/Uw0WinxFEd0/s320/DSC09356.jpg" /></span></a></div><span style="font-family: inherit;">On closer inspection you can see that the clown is supposed to be a zombie, because the belly is exposed. I couldn't capture this very well on camera, but you can make out what appear to be muscle and intestines. To the eye the figure is a translucent whitish-gray, but when photographed on the camera's macro settings it has a transparent quality that reminded me of one of those crystal skulls found in South America.   </span><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://1.bp.blogspot.com/-3R5hKbwvWF8/UxyQePhwqXI/AAAAAAAAAU8/KTUlhAaG2sU/s1600/DSC09354+-+Version+2.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span style="font-family: inherit;"><img border="0" src="http://1.bp.blogspot.com/-3R5hKbwvWF8/UxyQePhwqXI/AAAAAAAAAU8/KTUlhAaG2sU/s320/DSC09354+-+Version+2.jpg" /></span></a></div><div style="text-align: center;"><span style="font-family: inherit;"><a href="http://www.crystalinks.com/crystalskulls.html"><img src="http://www.crystalinks.com/crystalskullmh.jpg" /></a> </span></div><span style="font-family: inherit;">The most disturbing feature of this little "toy" is that it is impossible to make out the details of the face. You only get hints, no matter what angle, tool, or magnification level you try. It's frustrating. The only thing you can really make out is its dark, malevolent smile. Is it staring back at you?  </span><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://3.bp.blogspot.com/-B9ZpizCm4Q8/UxyPnZVir8I/AAAAAAAAAUk/DQvMx-J8RSM/s1600/DSC09360.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span style="font-family: inherit;"><img border="0" src="http://3.bp.blogspot.com/-B9ZpizCm4Q8/UxyPnZVir8I/AAAAAAAAAUk/DQvMx-J8RSM/s320/DSC09360.jpg" /></span></a></div><span style="font-family: inherit;">My friend Brian Hammons thought it looked like a Heroscape game piece. Probably something like that. But then again…   </span><br /><span style="font-family: inherit;">I ditched it today in a different woodland cache, where I expect it will spend much of the spring and summer entombed in an impassible bramble of thorn and briar. It'll be for some other cacher to contemplate its origins and purpose. As for me, I was happy enough to see it go.  </span><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://1.bp.blogspot.com/-qd4g8hjS504/UxyQHBE0juI/AAAAAAAAAUs/VMSqcIQiVDg/s1600/200.gif" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span style="font-family: inherit;"><img border="0" src="http://1.bp.blogspot.com/-qd4g8hjS504/UxyQHBE0juI/AAAAAAAAAUs/VMSqcIQiVDg/s320/200.gif" /></span></a></div><span style="font-family: inherit;">NEXT: BEN'S LARGE BLUE MARBLE</span><br /><span style="font-family: inherit;"><br /></span><span style="font-family: inherit;"><br /></span><span style="font-family: inherit;"><br /></span><span style="font-family: inherit;"><br /></span><span style="font-family: inherit;"><br /></span><span style="font-family: inherit;"><br /></span><br />
+![](http://4.bp.blogspot.com/-3ji1yOQtiMw/UxyOCfghi_I/AAAAAAAAAUA/nmODM8uCQ1Q/s1600/clown_face.png)
+
+I have no particular fear of clowns. I am not one of those people. But this thing gives me the creeps. Downright turns my stomach.
+
+![](http://3.bp.blogspot.com/-e4HdwZibjwk/UxyOL4R-d0I/AAAAAAAAAUI/S12WVQaKu5k/s1600/DSC09354.jpg)
+
+I found it in an ammo can in a small copse of woods near the office, nestled among a collection of unremarkable trinkets. It's only about an inch or so high, so it took me a second to realize that it carries in its left hand a severed human arm.
+
+![](http://2.bp.blogspot.com/-9BK_WgLn1Kk/UxyO5vxUJAI/AAAAAAAAAUQ/Jb__4yZqug8/s1600/severed_arm.png)
+
+My first thought was that this thing was bad news, possibly a fetish of some kind. I immediately regretted having touched it. My second thought was not to be so damn superstitious, probably just a morbid toy of some kind — maybe a character token in some horror themed role playing game. Though this was not something the kids were going to end up with, it was interesting enough so I decided to trade for it.
+
+![](http://4.bp.blogspot.com/-dcJbxFOv8l0/UxyPESR4yeI/AAAAAAAAAUY/Uw0WinxFEd0/s1600/DSC09356.jpg)
+
+On closer inspection you can see that the clown is supposed to be a zombie, because the belly is exposed. I couldn't capture this very well on camera, but you can make out what appear to be muscle and intestines. To the eye the figure is a translucent whitish-gray, but when photographed on the camera's macro settings it has a transparent quality that reminded me of one of those crystal skulls found in South America.
+
+![](http://1.bp.blogspot.com/-3R5hKbwvWF8/UxyQePhwqXI/AAAAAAAAAU8/KTUlhAaG2sU/s1600/DSC09354+-+Version+2.jpg")
+
+[![](http://www.crystalinks.com/crystalskullmh.jpg)](http://www.crystalinks.com/crystalskulls.html) 
+
+The most disturbing feature of this little "toy" is that it is impossible to make out the details of the face. You only get hints, no matter what angle, tool, or magnification level you try. It's frustrating. The only thing you can really make out is its dark, malevolent smile. Is it staring back at you?
+
+![](http://3.bp.blogspot.com/-B9ZpizCm4Q8/UxyPnZVir8I/AAAAAAAAAUk/DQvMx-J8RSM/s1600/DSC09360.jpg)
+
+My friend Brian Hammons thought it looked like a Heroscape game piece. Probably something like that. But then again…
+
+I ditched it today in a different woodland cache, where I expect it will spend much of the spring and summer entombed in an impassible bramble of thorn and briar. It'll be for some other cacher to contemplate its origins and purpose. As for me, I was happy enough to see it go.
+
+![](http://1.bp.blogspot.com/-qd4g8hjS504/UxyQHBE0juI/AAAAAAAAAUs/VMSqcIQiVDg/s1600/200.gif)
+
+NEXT: BEN'S LARGE BLUE MARBLE
+
