@@ -6,15 +6,18 @@ Universal rules
 ----------------------------------------------------------------
 */
 
+html {
+  font: 150% "Sorts Mill Goudy", serif;
+}
+
 body {
-  font: 16px/24px "Sorts Mill Goudy", serif;
   background: black url("/img/field.jpg") no-repeat fixed top left;
   background-size: cover;
-  color: #cccccc;
+  color: rgb(186,190,190);
 }
 
 a[href] {
-	color: #ebe084;
+	color: rgb(204,216,133);
 	text-decoration: none;
 }
 
@@ -23,7 +26,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, article.photo .title {
-  font: 1.7em "Goudy Bookletter 1911", serif;
+  font: 1.5rem "Goudy Bookletter 1911", serif;
 }
 
 p img {
@@ -34,14 +37,14 @@ p img {
 }
 
 blockquote {
-  background-color: #333333;
-  color: #999999;
+  background-color: rgb(37,31,35);
   padding: 5px;
 }
 
 blockquote p {
   font-style: italic;
   padding: 0 20px 0 20px;
+  color: rgb(186,190,190) !important;
 }
 
 .site {
@@ -75,7 +78,7 @@ header h1 {
   margin: 0 auto;
   padding: 10px 10px 0 10px;
   max-width: 720px;
-  color: #ffffff;
+  color: #eeeeee;
 }
 
 header.photo {
@@ -120,18 +123,18 @@ nav ul {
   margin: 0 0 0 -410px;
   width: 820px;
   padding: 10px 0;
-  background-color: #000000;
+  background-color: rgb(33,19,11);
   text-align: right;
 }
 
 nav .podcast-info {
   margin-bottom: -20px;
-  background-color: #333333;
-  color: #cccccc;
-  font: .7em "Special Elite", cursive;
+  background-color: rgb(50,45,61);
+  color: rgb(171,178,176);
+  font: 0.6rem "Special Elite", cursive;
 }
 nav .podcast-info a {
-  color: #aaaaaa;
+  color: rgb(171,178,176);
 }
 nav .podcast-info img {
   height: 25px;
@@ -146,7 +149,7 @@ header.photo nav ul {
 }
 
 nav ul > li a[href] {
-  color: #ebe084;
+  color: rgb(204,216,133);
 }
 
 nav ul > li {
@@ -167,7 +170,7 @@ nav ul > li {
 }
 
 .pagination span {
-  color: #ebe084;
+  color: rgb(204,216,133);
 }
 
 /* 
@@ -177,16 +180,16 @@ Articles
 */
 
 .post, .video {   
-  background-color: rgba(0,0,0,1.0); 
+  background-color: rgb(33,19,11); 
   padding: 20px;
 }
 
 .photo {   
-  background-color: rgba(0,0,0,1.0); 
+  background-color: rgb(33,19,11); 
 }
 
 .micropost {
-  background-color: rgba(51, 30, 0, 0.75); 
+  background-color: rgba(40, 30, 13, 0.9); 
   margin: auto auto;
   padding: 20px;
   max-width: 780px;
@@ -209,16 +212,16 @@ main.photo .post {
 }
 
 .micropost h1 {
-  color: #cccccc;
+  color: rgb(171,178,176);
   font: "Sorts Mill Goudy", serif;
 }
 
 .page > p {
-  color: #aaaaaa;
+  color: rgb(211,162,8);
 }
 
 .post p, .video p {
-	color: #afa763;  /*darker version of #ebe084*/
+	color: rgb(211,162,8);  /*darker version of rgb(204,216,133)*/
 }
 
 .micropost a {
@@ -226,8 +229,8 @@ main.photo .post {
 }
 
 aside.dates {
-  color: #999999;
-  font: .7em "Special Elite", cursive;
+  color: rgb(186,190,190);
+  font: 0.6rem "Special Elite", cursive;
 }
 
 .post > p, .video > p {
@@ -330,8 +333,8 @@ article.photo img:hover {
 }
 
 article .postmeta {
-  color: #999999;
-  font: .7em "Special Elite", cursive;
+  color: rgb(186,190,190);
+  font: 0.6rem "Special Elite", cursive;
 }
 
 article .postmeta a {
@@ -339,7 +342,7 @@ article .postmeta a {
 }
 
 .wp-caption figcaption p, .wp-caption-text, .lg-sub-html > h4, .lg-sub-html > p {
-	font: .7em "Special Elite", cursive;
+	font: 0.6rem "Special Elite", cursive;
 	color: #eeeeee;
 	padding-top: 5px;
 	color: rgba(auto,auto,auto,.5);
@@ -351,12 +354,12 @@ li > .wp-caption-text {
 }
 
 .lg-sub-html > h4 {
-	font-size: .8em;
-	color: #ebe084;
+	font-size: 0.7rem;
+	color: rgb(204,216,133);
 }
 
  .lg-sub-html > p {
-	font: .8em "PT Serif Caption", serif;
+	font: 0.7rem "PT Serif Caption", serif;
 	margin-left: 100px;
 	margin-right: 100px;
  }
@@ -372,7 +375,7 @@ li > .wp-caption-text {
   width: 40%;
   margin: 5px;
   font-size: .7em;
-  color: #999999;
+  color: rgb(186,190,190);
 }
 
 .post-group-item:hover {
@@ -380,7 +383,7 @@ li > .wp-caption-text {
 }
 
 .post-group-item h3 {
-  color: #999999;
+  color: rgb(186,190,190);
   font-size: 2.1em;
   margin: 0;
   padding: 6px 0 0 6px;
@@ -400,8 +403,9 @@ Footer and Flickr board
 
 footer {
   background-color: #545454;
-  color: #ffffff;
+  color: #eeeeee;
   margin: 0;
+  font-size: 0.7rem;
 }
 
 .footer_text {
@@ -412,11 +416,12 @@ footer {
 }
 
 .footer_text h3 {
-  color: #cccccc;
+  color: rgb(171,178,176);
+  font-size: 0.9rem;
 }
 
 .footer_text a {
-  color: #cccccc;
+  color: rgb(171,178,176);
 }
 
 .footer_text > div {
@@ -458,15 +463,15 @@ footer {
 }
 
 .footer_copyright {
-  color: #999999;
-  font: .7em "Sorts Mill Goudy", serif;
+  color: rgb(186,190,190);
+  font: 0.7rem "Sorts Mill Goudy", serif;
   margin: auto;
   padding: 10px 0;
   text-align: center;
 }
 
 .footer_copyright a {
-  color: #cccccc;
+  color: rgb(171,178,176);
 }
 
 /*
@@ -503,12 +508,12 @@ Special rules for small screen devices
 
 	nav .podcast-info {
   	  padding: 0 0 5px 0;
-	  background-color: #333333;
-	  color: #cccccc;
-      font: .7em "Special Elite", cursive;
+	  background-color: rgb(50,45,61);
+	  color: rgb(171,178,176);
+      font: 0.6rem "Special Elite", cursive;
 	}
 	nav .podcast-info a {
-	  color: #aaaaaa;
+	  color: rgb(171,178,176);
 	}
 	nav .podcast-info img {
 	  height: 25px;
@@ -524,7 +529,7 @@ Special rules for small screen devices
 	  margin: 0 auto;
 	  width: 100%;
 	  padding: 10px 0;
-	  background-color: #000000;
+	  background-color: rgb(33,19,11);
 	  text-align: center;
 	}
 
@@ -532,16 +537,16 @@ Special rules for small screen devices
 	  display: inline;
 	  padding: 10px;
 	  text-transform: uppercase;
-	  font: .7em "Sorts Mill Goudy", serif;
+	  font: 0.6rem "Sorts Mill Goudy", serif;
 	}
 	
 	article .postmeta {
-	  color: #999999;
+	  color: rgb(186,190,190);
 	  font: "Sorts Mill Goudy", serif;
 	}
 
 	.micropost h1 {
-	  color: #cccccc;
+	  color: rgb(171,178,176);
 	  font: "Sorts Mill Goudy", serif;
 	}
 
@@ -555,7 +560,7 @@ Special rules for small screen devices
 	}
 
 	.footer_copyright {
-	  font: .7em "Sorts Mill Goudy", serif;
+	  font: 0.7rem "Sorts Mill Goudy", serif;
 	}
   
 }
@@ -571,6 +576,10 @@ Special rules for small screen devices
   and (min-device-width: 375px) 
   and (max-device-width: 896px)  {
 
+	html {
+	  font-size: 1.2rem;
+	}
+	
 	header {
 	  background: black url("/img/field.jpg") no-repeat fixed top left;
 	}
@@ -594,12 +603,12 @@ Special rules for small screen devices
 
 	nav .podcast-info {
   	  padding: 0 0 5px 0;
-	  background-color: #333333;
-	  color: #cccccc;
-      font: .7em "Special Elite", cursive;
+	  background-color: rgb(50,45,61);
+	  color: rgb(171,178,176);
+      font: 0.6rem "Special Elite", cursive;
 	}
 	nav .podcast-info a {
-	  color: #aaaaaa;
+	  color: rgb(171,178,176);
 	}
 	nav .podcast-info img {
 	  height: 25px;
@@ -615,7 +624,7 @@ Special rules for small screen devices
 	  margin: 0 auto;
 	  width: 100%;
 	  padding: 10px 0;
-	  background-color: #000000;
+	  background-color: rgb(33,19,11);
 	  text-align: center;
 	}
 
@@ -627,8 +636,26 @@ Special rules for small screen devices
 	}
 
 	article .postmeta {
-	  color: #999999;
+	  color: rgb(186,190,190);
 	  font: "Sorts Mill Goudy", serif;
+	}
+	
+	article.post img {
+	  margin-left: -5%;
+	  max-width: 110%;
+	}
+	
+    ul#lightgallery {
+      margin-left: -6%;
+      margin-right: 0;
+      width: 112%;
+    }
+    
+	ul#lightgallery img, ul#lightgallery li {
+	  margin: 0;
+      padding: 0;
+	  max-width: 120%;
+	  border: none !important;
 	}
 
 	article.photo {
@@ -677,7 +704,7 @@ Special rules for small screen devices
 
 
 	.micropost h1 {
-	  color: #cccccc;
+	  color: rgb(171,178,176);
 	  font: "Sorts Mill Goudy", serif;
 	}
 
@@ -691,7 +718,7 @@ Special rules for small screen devices
 	}
 
 	.footer_copyright {
-	  font: .7em "Sorts Mill Goudy", serif;
+	  font: 0.7rem "Sorts Mill Goudy", serif;
 	}
 
 	.lg-sub-html {
@@ -704,10 +731,10 @@ Special rules for small screen devices
 		display: block;
 	}
 	li > .wp-caption-text > h4 {
-		font: 1em/2em "Special Elite", cursive;
+		font: 0.7rem "Special Elite", cursive;
 	}
 	li > .wp-caption-text > p {
-		font: 16px/24px "Sorts Mill Goudy", serif;
+		font: 0.7rem "Sorts Mill Goudy", serif;
 		text-align: left;
 	}
 
