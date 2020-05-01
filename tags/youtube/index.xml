@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>YouTube on Tobyblog</title>
+    <title>youtube on Tobyblog</title>
     <link>http://tobyblog.com/tags/youtube/</link>
-    <description>Recent content in YouTube on Tobyblog</description>
+    <description>Recent content in youtube on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Mar 2020 12:23:27 -0500</lastBuildDate>
@@ -140,6 +140,15 @@ I find jazz noir goes best with whiskey.
       <guid>http://tobyblog.com/posts/free-spooks-on-youtube-apparitions/</guid>
       <description>Are you looking for something spooky to watch as we wind our way down to Halloween, but find yourself bored by the usual fare of cheesy monster movies or gross slasher flicks? Maybe you&amp;rsquo;re in the mood for something a little more thoughtful; a little more substantial, perhaps? Let me show you something interesting.
  Apparitions is a BBC miniseries about a Catholic exorcist who finds himself at the center of a satanic intrigue that reaches to the Vatican and threatens the world itself.</description>
+    </item>
+    
+    <item>
+      <title>A Musical Interlude</title>
+      <link>http://tobyblog.com/posts/a-musical-interlude/</link>
+      <pubDate>Thu, 19 Jun 2014 22:34:00 +0000</pubDate>
+      
+      <guid>http://tobyblog.com/posts/a-musical-interlude/</guid>
+      <description>   </description>
     </item>
     
   </channel>
