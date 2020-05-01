@@ -338,7 +338,7 @@ article .postmeta a {
 	color: #eeeeee;
 }
 
-.wp-caption-text, .lg-sub-html > h4, .lg-sub-html > p {
+.wp-caption figcaption p, .wp-caption-text, .lg-sub-html > h4, .lg-sub-html > p {
 	font: .7em "Special Elite", cursive;
 	color: #eeeeee;
 	padding-top: 5px;
