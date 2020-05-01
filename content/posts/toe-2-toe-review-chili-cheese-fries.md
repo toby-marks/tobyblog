@@ -2,7 +2,7 @@
 title = "\"Toe 2 Toe\" Review: Chili Cheese Fries"
 date = 2014-05-18T14:35:00Z
 updated = 2014-06-19T22:20:22Z
-categories = ["Food", "Reviews"]
+categories = ["Food"]
 tags = ["reviews", "chili cheese fries", "restaurants", "T2T", "in my car"]
 +++
 THE CONTENDERS:
