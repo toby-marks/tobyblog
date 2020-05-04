@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Apr 2020 17:17:05 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2020 17:33:01 -0500</lastBuildDate>
     
 	<atom:link href="http://tobyblog.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>reviews</title>
+      <link>http://tobyblog.com/tags/reviews/</link>
+      <pubDate>Mon, 04 May 2020 17:33:01 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/tags/reviews/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>alcohol</title>
@@ -494,15 +503,6 @@
       <pubDate>Sun, 21 Apr 2019 09:01:32 -0500</pubDate>
       
       <guid>http://tobyblog.com/tags/tv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reviews</title>
-      <link>http://tobyblog.com/tags/reviews/</link>
-      <pubDate>Fri, 19 Apr 2019 19:00:00 +0000</pubDate>
-      
-      <guid>http://tobyblog.com/tags/reviews/</guid>
       <description></description>
     </item>
     

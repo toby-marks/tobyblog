@@ -3,17 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/categories/</loc>
+    <lastmod>2020-05-04T17:33:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/food/</loc>
+    <lastmod>2020-05-04T17:33:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/</loc>
+    <lastmod>2020-05-04T17:33:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/reviews/</loc>
+    <lastmod>2020-05-04T17:33:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/</loc>
+    <lastmod>2020-05-04T17:33:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/tia-lupita-and-yellowbird/</loc>
+    <lastmod>2020-05-04T17:33:01-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-05-04T17:33:01-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/photos/egg-decorating-and-birthday-cake/</loc>
     <lastmod>2020-05-04T14:52:50-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://tobyblog.com/photos/</loc>
-    <lastmod>2020-05-04T14:52:50-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/</loc>
     <lastmod>2020-05-04T14:52:50-05:00</lastmod>
   </url>
   
@@ -28,32 +58,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/</loc>
-    <lastmod>2020-04-29T17:17:05-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/tags/cocktails/</loc>
     <lastmod>2020-04-29T17:17:05-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/food/</loc>
-    <lastmod>2020-04-29T17:17:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2020-04-29T17:17:05-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/posts/quarantine-cocktail-hour-amaretto-and-ginger/</loc>
-    <lastmod>2020-04-29T17:17:05-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/</loc>
     <lastmod>2020-04-29T17:17:05-05:00</lastmod>
   </url>
   
@@ -803,12 +813,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/halloween/</loc>
+    <loc>http://tobyblog.com/categories/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/halloween/</loc>
+    <loc>http://tobyblog.com/tags/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
@@ -1523,11 +1533,6 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/reviews/</loc>
-    <lastmod>2019-04-19T19:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/posts/three-new-pasadena-restaurants/</loc>
     <lastmod>2019-04-19T19:00:00+00:00</lastmod>
   </url>
@@ -1708,12 +1713,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/religion/</loc>
+    <loc>http://tobyblog.com/categories/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/religion/</loc>
+    <loc>http://tobyblog.com/tags/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
   
