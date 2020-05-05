@@ -3,6 +3,7 @@ title = "A Curious Butterfly"
 date = "2020-05-05T15:53:47-05:00"
 location = "Dallas, TX"
 camera = "Nikon Coolpix P1000"
+draft = true
 +++
 {{% flickr "butterfly on the hood, wings spread wide"
            ""
