@@ -4,16 +4,36 @@
   
   <url>
     <loc>http://tobyblog.com/categories/</loc>
-    <lastmod>2020-05-04T17:33:01-05:00</lastmod>
+    <lastmod>2020-05-06T10:59:53-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/food/</loc>
-    <lastmod>2020-05-04T17:33:01-05:00</lastmod>
+    <loc>http://tobyblog.com/posts/tumbleweed-tornado/</loc>
+    <lastmod>2020-05-06T10:59:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/news/</loc>
+    <lastmod>2020-05-06T10:59:53-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://tobyblog.com/posts/</loc>
+    <lastmod>2020-05-06T10:59:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/</loc>
+    <lastmod>2020-05-06T10:59:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-05-06T10:59:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/food/</loc>
     <lastmod>2020-05-04T17:33:01-05:00</lastmod>
   </url>
   
@@ -23,17 +43,7 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/</loc>
-    <lastmod>2020-05-04T17:33:01-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/posts/tia-lupita-and-yellowbird/</loc>
-    <lastmod>2020-05-04T17:33:01-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/</loc>
     <lastmod>2020-05-04T17:33:01-05:00</lastmod>
   </url>
   
@@ -74,11 +84,6 @@
   
   <url>
     <loc>http://tobyblog.com/posts/jim-carrey-stars-in-the-shining/</loc>
-    <lastmod>2020-04-28T13:41:27-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/news/</loc>
     <lastmod>2020-04-28T13:41:27-05:00</lastmod>
   </url>
   
@@ -813,12 +818,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/halloween/</loc>
+    <loc>http://tobyblog.com/categories/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/halloween/</loc>
+    <loc>http://tobyblog.com/tags/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
