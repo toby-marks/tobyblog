@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/microposts/111-preview/</loc>
+    <lastmod>2020-05-11T17:13:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/microposts/</loc>
+    <lastmod>2020-05-11T17:13:02-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-05-11T17:13:02-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/photos/</loc>
     <lastmod>2020-05-06T17:54:28-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://tobyblog.com/photos/first-firewheels-of-2020/</loc>
-    <lastmod>2020-05-06T17:54:28-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/</loc>
     <lastmod>2020-05-06T17:54:28-05:00</lastmod>
   </url>
   
@@ -124,11 +134,6 @@
   
   <url>
     <loc>http://tobyblog.com/microposts/franks-seventh-birthday/</loc>
-    <lastmod>2020-04-16T16:02:08-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/microposts/</loc>
     <lastmod>2020-04-16T16:02:08-05:00</lastmod>
   </url>
   
@@ -823,12 +828,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/halloween/</loc>
+    <loc>http://tobyblog.com/tags/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/halloween/</loc>
+    <loc>http://tobyblog.com/categories/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
