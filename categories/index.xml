@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 May 2020 10:59:53 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2020 16:19:55 -0500</lastBuildDate>
     
 	<atom:link href="http://tobyblog.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Books</title>
+      <link>http://tobyblog.com/categories/books/</link>
+      <pubDate>Thu, 14 May 2020 16:19:55 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/categories/books/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>News</title>
@@ -26,15 +35,6 @@
       <pubDate>Mon, 04 May 2020 17:33:01 -0500</pubDate>
       
       <guid>http://tobyblog.com/categories/food/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Books</title>
-      <link>http://tobyblog.com/categories/books/</link>
-      <pubDate>Wed, 15 Apr 2020 11:05:44 -0500</pubDate>
-      
-      <guid>http://tobyblog.com/categories/books/</guid>
       <description></description>
     </item>
     
@@ -228,7 +228,7 @@
     </item>
     
     <item>
-      <title>Review The World</title>
+      <title>Review the World</title>
       <link>http://tobyblog.com/categories/review-the-world/</link>
       <pubDate>Wed, 12 Mar 2014 23:05:38 -0700</pubDate>
       
