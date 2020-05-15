@@ -3,12 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://tobyblog.com/microposts/</loc>
-    <lastmod>2020-05-15T15:20:19-05:00</lastmod>
+    <loc>http://tobyblog.com/categories/books/</loc>
+    <lastmod>2020-05-15T16:30:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/</loc>
+    <lastmod>2020-05-15T16:30:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/dandelion-wine-chapter-one/</loc>
+    <lastmod>2020-05-15T16:30:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/</loc>
+    <lastmod>2020-05-15T16:30:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/ray-bradbury/</loc>
+    <lastmod>2020-05-15T16:30:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/</loc>
+    <lastmod>2020-05-15T16:30:06-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-05-15T16:30:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/microposts/</loc>
     <lastmod>2020-05-15T15:20:19-05:00</lastmod>
   </url>
   
@@ -23,21 +53,6 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/</loc>
-    <lastmod>2020-05-15T15:06:36-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2020-05-15T15:06:36-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/</loc>
-    <lastmod>2020-05-15T15:06:36-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/categories/travel/</loc>
     <lastmod>2020-05-15T15:06:36-05:00</lastmod>
   </url>
@@ -48,17 +63,7 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/books/</loc>
-    <lastmod>2020-05-14T16:19:55-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/posts/dandelion-wine-01/</loc>
-    <lastmod>2020-05-14T16:19:55-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/ray-bradbury/</loc>
     <lastmod>2020-05-14T16:19:55-05:00</lastmod>
   </url>
   
