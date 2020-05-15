@@ -6,8 +6,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <lastBuildDate>Fri, 15 May 2020 10:54:50 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2020 15:20:19 -0500</lastBuildDate>
     <atom:link href="http://tobyblog.com/microposts/" rel="self" type="application/rss+xml" />
+    
+      
+      <item>
+      	
+        <link>http://tobyblog.com/microposts/tobyblog-speed-report/</link>
+        <pubDate>Fri, 15 May 2020 15:20:19 -0500</pubDate>
+        <author>Toby Marks</author>
+        <guid>http://tobyblog.com/microposts/tobyblog-speed-report/</guid>
+        <description>&lt;p&gt;👨🏻‍💻 🛠 Not bad. Looks like my blog passes the speed test. Could use a little work on image size optimization, though. Working on that.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1589572277/img/Screen_Shot_2020-05-15_at_2.50.34_PM.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+      </item>
+      
     
       
       <item>

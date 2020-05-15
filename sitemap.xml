@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/microposts/</loc>
+    <lastmod>2020-05-15T15:20:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-05-15T15:20:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/microposts/tobyblog-speed-report/</loc>
+    <lastmod>2020-05-15T15:20:19-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/posts/hiking-pacific-crest-trail/</loc>
     <lastmod>2020-05-15T15:06:36-05:00</lastmod>
   </url>
@@ -23,18 +38,8 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/</loc>
-    <lastmod>2020-05-15T15:06:36-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/categories/travel/</loc>
     <lastmod>2020-05-15T15:06:36-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/microposts/</loc>
-    <lastmod>2020-05-15T10:54:50-05:00</lastmod>
   </url>
   
   <url>
@@ -848,12 +853,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/halloween/</loc>
+    <loc>http://tobyblog.com/tags/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/halloween/</loc>
+    <loc>http://tobyblog.com/categories/halloween/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
@@ -1748,12 +1753,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/religion/</loc>
+    <loc>http://tobyblog.com/tags/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/religion/</loc>
+    <loc>http://tobyblog.com/categories/religion/</loc>
     <lastmod>2019-03-18T12:02:52-05:00</lastmod>
   </url>
   
