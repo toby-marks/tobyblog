@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 May 2020 16:30:06 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2020 11:07:15 -0500</lastBuildDate>
     
 	<atom:link href="http://tobyblog.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>fitness</title>
+      <link>http://tobyblog.com/tags/fitness/</link>
+      <pubDate>Sat, 16 May 2020 11:07:15 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/tags/fitness/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ray Bradbury</title>
@@ -120,7 +129,7 @@
     </item>
     
     <item>
-      <title>YouTube</title>
+      <title>youtube</title>
       <link>http://tobyblog.com/tags/youtube/</link>
       <pubDate>Mon, 16 Mar 2020 12:23:27 -0500</pubDate>
       
