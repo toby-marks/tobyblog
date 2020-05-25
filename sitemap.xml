@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/photos/a-late-spring-walk-in-search-of-firewheels/</loc>
+    <lastmod>2020-05-25T12:01:31-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/photos/</loc>
+    <lastmod>2020-05-25T12:01:31-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-05-25T12:01:31-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/categories/</loc>
     <lastmod>2020-05-16T11:07:15-05:00</lastmod>
   </url>
@@ -29,11 +44,6 @@
   
   <url>
     <loc>http://tobyblog.com/tags/</loc>
-    <lastmod>2020-05-16T11:07:15-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/</loc>
     <lastmod>2020-05-16T11:07:15-05:00</lastmod>
   </url>
   
@@ -85,11 +95,6 @@
   <url>
     <loc>http://tobyblog.com/microposts/111-preview/</loc>
     <lastmod>2020-05-11T17:13:02-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/photos/</loc>
-    <lastmod>2020-05-06T17:54:28-05:00</lastmod>
   </url>
   
   <url>
