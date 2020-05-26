@@ -1,8 +1,8 @@
 +++
 title = "Mushrooms in the Hood"
 date = "2020-05-26T18:25:17-05:00"
-location = "My neighborhood"
-camera = "my iPhone"
+location = "my neighborhood"
+camera = "my phone cam"
 +++
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1590535456/img/IMG_7183.jpg)
 <!--more-->
