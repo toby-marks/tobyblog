@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/photos/mushrooms-in-the-hood/</loc>
+    <lastmod>2020-05-26T18:25:17-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/photos/</loc>
+    <lastmod>2020-05-26T18:25:17-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-05-26T18:25:17-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/microposts/</loc>
     <lastmod>2020-05-25T14:52:22-05:00</lastmod>
   </url>
@@ -13,17 +28,7 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/</loc>
-    <lastmod>2020-05-25T14:52:22-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/photos/a-late-spring-walk-in-search-of-firewheels/</loc>
-    <lastmod>2020-05-25T12:01:31-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/photos/</loc>
     <lastmod>2020-05-25T12:01:31-05:00</lastmod>
   </url>
   
