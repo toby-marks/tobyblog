@@ -3,17 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/categories/</loc>
+    <lastmod>2020-05-29T17:27:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/cover-battle-killing-in-the-name/</loc>
+    <lastmod>2020-05-29T17:27:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/music/</loc>
+    <lastmod>2020-05-29T17:27:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/music/</loc>
+    <lastmod>2020-05-29T17:27:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/</loc>
+    <lastmod>2020-05-29T17:27:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/</loc>
+    <lastmod>2020-05-29T17:27:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-05-29T17:27:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/youtube/</loc>
+    <lastmod>2020-05-29T17:27:49-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/photos/a-lizard-out-my-window/</loc>
     <lastmod>2020-05-28T17:08:34-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://tobyblog.com/photos/</loc>
-    <lastmod>2020-05-28T17:08:34-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/</loc>
     <lastmod>2020-05-28T17:08:34-05:00</lastmod>
   </url>
   
@@ -38,11 +73,6 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/</loc>
-    <lastmod>2020-05-16T11:07:15-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/tags/fitness/</loc>
     <lastmod>2020-05-16T11:07:15-05:00</lastmod>
   </url>
@@ -53,17 +83,7 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2020-05-16T11:07:15-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/categories/stunts/</loc>
-    <lastmod>2020-05-16T11:07:15-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/</loc>
     <lastmod>2020-05-16T11:07:15-05:00</lastmod>
   </url>
   
@@ -228,11 +248,6 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/music/</loc>
-    <lastmod>2020-04-14T14:05:30-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/posts/windows-of-our-isolation/</loc>
     <lastmod>2020-04-14T09:49:49-05:00</lastmod>
   </url>
@@ -389,11 +404,6 @@
   
   <url>
     <loc>http://tobyblog.com/posts/jonathan-frakes-asking-things/</loc>
-    <lastmod>2020-03-16T12:23:27-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/youtube/</loc>
     <lastmod>2020-03-16T12:23:27-05:00</lastmod>
   </url>
   
@@ -659,11 +669,6 @@
   
   <url>
     <loc>http://tobyblog.com/tags/holidays/</loc>
-    <lastmod>2019-11-30T10:46:15-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/music/</loc>
     <lastmod>2019-11-30T10:46:15-06:00</lastmod>
   </url>
   
