@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/categories/</loc>
+    <lastmod>2020-06-03T10:26:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/curtis-mayfield/</loc>
+    <lastmod>2020-06-03T10:26:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/happy-78th-curtis-mayfield/</loc>
+    <lastmod>2020-06-03T10:26:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/music/</loc>
+    <lastmod>2020-06-03T10:26:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/</loc>
+    <lastmod>2020-06-03T10:26:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/</loc>
+    <lastmod>2020-06-03T10:26:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-06-03T10:26:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/youtube/</loc>
+    <lastmod>2020-06-03T10:26:58-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/microposts/changing-my-name/</loc>
     <lastmod>2020-06-03T10:05:21-05:00</lastmod>
   </url>
@@ -13,42 +53,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/</loc>
-    <lastmod>2020-06-03T10:05:21-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/</loc>
-    <lastmod>2020-05-29T17:27:49-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/posts/cover-battle-killing-in-the-name/</loc>
     <lastmod>2020-05-29T17:27:49-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/music/</loc>
-    <lastmod>2020-05-29T17:27:49-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/tags/music/</loc>
-    <lastmod>2020-05-29T17:27:49-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2020-05-29T17:27:49-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/</loc>
-    <lastmod>2020-05-29T17:27:49-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/youtube/</loc>
     <lastmod>2020-05-29T17:27:49-05:00</lastmod>
   </url>
   

@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 May 2020 17:27:49 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2020 10:26:58 -0500</lastBuildDate>
     
 	<atom:link href="http://tobyblog.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Curtis Mayfield</title>
+      <link>http://tobyblog.com/tags/curtis-mayfield/</link>
+      <pubDate>Wed, 03 Jun 2020 10:26:58 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/tags/curtis-mayfield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YouTube</title>
+      <link>http://tobyblog.com/tags/youtube/</link>
+      <pubDate>Wed, 03 Jun 2020 10:26:58 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/tags/youtube/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>music</title>
@@ -17,15 +35,6 @@
       <pubDate>Fri, 29 May 2020 17:27:49 -0500</pubDate>
       
       <guid>http://tobyblog.com/tags/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>YouTube</title>
-      <link>http://tobyblog.com/tags/youtube/</link>
-      <pubDate>Fri, 29 May 2020 17:27:49 -0500</pubDate>
-      
-      <guid>http://tobyblog.com/tags/youtube/</guid>
       <description></description>
     </item>
     
