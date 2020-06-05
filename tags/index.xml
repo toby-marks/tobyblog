@@ -6,19 +6,10 @@
     <description>Recent content in Tags on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jun 2020 16:24:47 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2020 10:26:58 -0500</lastBuildDate>
     
 	<atom:link href="http://tobyblog.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Ray Bradbury</title>
-      <link>http://tobyblog.com/tags/ray-bradbury/</link>
-      <pubDate>Fri, 05 Jun 2020 16:24:47 -0500</pubDate>
-      
-      <guid>http://tobyblog.com/tags/ray-bradbury/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Curtis Mayfield</title>
@@ -53,6 +44,15 @@
       <pubDate>Sat, 16 May 2020 11:07:15 -0500</pubDate>
       
       <guid>http://tobyblog.com/tags/fitness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ray Bradbury</title>
+      <link>http://tobyblog.com/tags/ray-bradbury/</link>
+      <pubDate>Fri, 15 May 2020 16:30:06 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/tags/ray-bradbury/</guid>
       <description></description>
     </item>
     
