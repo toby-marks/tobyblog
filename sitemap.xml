@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/photos/</loc>
+    <lastmod>2020-06-16T22:36:47-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/photos/sunflowers-and-solar-flares/</loc>
+    <lastmod>2020-06-16T22:36:47-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-06-16T22:36:47-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/microposts/happy-deathday-2020-ray-bradbury/</loc>
     <lastmod>2020-06-05T17:19:13-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://tobyblog.com/microposts/</loc>
-    <lastmod>2020-06-05T17:19:13-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/</loc>
     <lastmod>2020-06-05T17:19:13-05:00</lastmod>
   </url>
   
@@ -69,11 +79,6 @@
   
   <url>
     <loc>http://tobyblog.com/photos/a-lizard-out-my-window/</loc>
-    <lastmod>2020-05-28T17:08:34-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/photos/</loc>
     <lastmod>2020-05-28T17:08:34-05:00</lastmod>
   </url>
   
