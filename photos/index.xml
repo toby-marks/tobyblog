@@ -6,10 +6,19 @@
     <description>Recent content in Photos on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 May 2020 17:08:34 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2020 22:36:47 -0500</lastBuildDate>
     
 	<atom:link href="http://tobyblog.com/photos/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sunflowers and Solar Flares</title>
+      <link>http://tobyblog.com/photos/sunflowers-and-solar-flares/</link>
+      <pubDate>Tue, 16 Jun 2020 22:36:47 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/photos/sunflowers-and-solar-flares/</guid>
+      <description>&lt;img src=&#34;https://live.staticflickr.com/65535/50015066712_d4ec7fe2d3_o.jpg&#34;&gt;</description>
+    </item>
     
     <item>
       <title>A Lizard Out My Window</title>
