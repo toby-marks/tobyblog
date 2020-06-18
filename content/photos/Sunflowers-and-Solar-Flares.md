@@ -6,9 +6,15 @@ camera = "Sony A7RII, Sigma Art 80mm Lens"
 +++
 <img src="https://live.staticflickr.com/65535/50015066712_d4ec7fe2d3_o.jpg">
 <!--more-->
-Sunday evenings always were one of my favorite times for a family walk. 
+Sunday evenings always were one of my favorite times for a family walk. That golden light. The world seems a little more quiet. Our last chance to unwind after a stressful week. Looking forward somewhat to the week ahead, or at least gearing yourself up for it. Pooling up energy for it. 
 
-I really like this set and wanted to get these out tonight, but I don't have a lot of time to write. It's been like that lately. Maybe I'll come back and edit this tomorrow. Meanwhile, enjoy.
+It's fun seeing Kassi enjoy her photography so much. I'm glad that's something we share. I dare say these days she's more fanatic about it than I am at times. She gets some fairly nice shots on her phone. I still haven't figured out all the contours of the iPhone 11 for photography. Probably need to play around with it more. But I know you can get some excellent sky shots. It can do great things with clouds. I'm not as sold on the lowlight capabilities, though, which don't seem a whole lot better than my 10s. I'm not sure we're using it right. 
+
+The new trails they opened up near the house make for a pretty nice walking/biking circuit, and I'm very grateful for the addition. That day we saw something I'd never seen before — some folks playing in the creek with gigantic pool toys. Some sort of giant pink inflatable dragon. Lot of other floaties. Just down there in the creek. They looked like they were having a ball. Would have liked to snag a "stranger" pic or two to be honest, but thought that might have been too creepy. It just would have made for a nice shot on the creek in the evening light. 
+
+The little one came along with us this time, and I'm glad he did. Like the girl, he's not much on the Texas sun. But we packed a little personal misting fan, some iced water, and a couple of little granola snacks. He was good to go. Talked the entire time, that one. He makes me smile.
+
+I like this set. We're all starving for a real vacation right about now, so on days like this it's nice to be surprised by the beauty in your own back yard.
 
 <div class="container-fluid">
 <div class="demo-gallery dark mrb35">
@@ -47,8 +53,8 @@ I really like this set and wanted to get these out tonight, but I don't have a l
 			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/50014805871_290832cf15.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
 		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/50015066337_289fddfdbf_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
 			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/50015066337_2b133d5a90.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/50014806011_8e47087f98_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/50014806011_167a50f711.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
+		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/50014806011_67271c5e61_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
+			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/50014806011_24bd54d65b_z.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
 		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/50014805956_a9cd424588_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
 			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/50014805956_9782ee9784.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
 		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/50014275863_bd09e33391_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
