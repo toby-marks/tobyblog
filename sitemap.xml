@@ -4,7 +4,37 @@
   
   <url>
     <loc>http://tobyblog.com/categories/</loc>
-    <lastmod>2020-06-18T11:19:10-05:00</lastmod>
+    <lastmod>2020-06-18T17:36:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/local/</loc>
+    <lastmod>2020-06-18T17:36:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/</loc>
+    <lastmod>2020-06-18T17:36:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/</loc>
+    <lastmod>2020-06-18T17:36:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-06-18T17:36:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/toys/</loc>
+    <lastmod>2020-06-18T17:36:13-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/dallas-vintage-toys-reopening/</loc>
+    <lastmod>2020-06-18T17:36:13-05:00</lastmod>
   </url>
   
   <url>
@@ -19,21 +49,6 @@
   
   <url>
     <loc>http://tobyblog.com/posts/music-from-empty-malls/</loc>
-    <lastmod>2020-06-18T11:19:10-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2020-06-18T11:19:10-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/</loc>
-    <lastmod>2020-06-18T11:19:10-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/</loc>
     <lastmod>2020-06-18T11:19:10-05:00</lastmod>
   </url>
   
@@ -999,11 +1014,6 @@
   
   <url>
     <loc>http://tobyblog.com/posts/my-favorite-halloween-toy-ever/</loc>
-    <lastmod>2019-09-10T17:52:50-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/toys/</loc>
     <lastmod>2019-09-10T17:52:50-05:00</lastmod>
   </url>
   
