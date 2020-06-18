@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2020 11:19:10 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2020 17:36:13 -0500</lastBuildDate>
     
 	<atom:link href="http://tobyblog.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Local</title>
+      <link>http://tobyblog.com/categories/local/</link>
+      <pubDate>Thu, 18 Jun 2020 17:36:13 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/categories/local/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Music</title>
