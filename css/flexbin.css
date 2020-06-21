@@ -61,11 +61,11 @@
       .flexbin > * {
         position: relative;
         display: block;
-        height: 100px;
+        height: 200px;
         margin: 2.5px;
         flex-grow: 1; }
         .flexbin > * > img {
-          height: 100px;
+          height: 200px;
           object-fit: cover;
           max-width: 100%;
           min-width: 100%;
