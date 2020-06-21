@@ -52,7 +52,7 @@
       display: flex;
       overflow: hidden;
       flex-wrap: wrap;
-      margin: -2.5px; }
+      margin: 0; }
       .flexbin:after {
         content: '';
         flex-grow: 999999999;
@@ -62,7 +62,7 @@
         position: relative;
         display: block;
         height: 200px;
-        margin: 2.5px;
+        margin: 0;
         flex-grow: 1; }
         .flexbin > * > img {
           height: 200px;
@@ -71,4 +71,4 @@
           min-width: 100%;
           vertical-align: bottom; }
       .flexbin.flexbin-margin {
-        margin: 2.5px; } }
+        margin: 0; } }
