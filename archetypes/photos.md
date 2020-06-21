@@ -7,9 +7,13 @@ camera = "<Enter Camera, (e.g. iPhone X)>"
 <img src="">
 <!--more-->
 
+<!--
 <div class="container-fluid">
 <div class="demo-gallery dark mrb35">
 	<ul id="lightgallery" class="list-unstyled row">
 	</ul>
 </div>
+</div>
+-->
+<div class="flexbin flexbin-margin">
 </div>
