@@ -3,6 +3,7 @@ title = "Springtime at Ranch 111"
 date = "2020-06-27T13:32:44-05:00"
 location = "Richardson, TX"
 camera = "Sony A7RII"
+images = ["https://live.staticflickr.com/65535/50051296746_decb17937c_b.jpg"]
 +++
 <img src="https://live.staticflickr.com/65535/50051296746_decb17937c_b.jpg">
 <!--more-->
