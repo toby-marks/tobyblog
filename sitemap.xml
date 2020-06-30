@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/categories/</loc>
+    <lastmod>2020-06-30T16:57:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/frank-sinatra/</loc>
+    <lastmod>2020-06-30T16:57:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/song-of-the-day-20200630/</loc>
+    <lastmod>2020-06-30T16:57:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/music/</loc>
+    <lastmod>2020-06-30T16:57:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/</loc>
+    <lastmod>2020-06-30T16:57:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/</loc>
+    <lastmod>2020-06-30T16:57:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-06-30T16:57:43-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/youtube/</loc>
+    <lastmod>2020-06-30T16:57:43-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/photos/</loc>
     <lastmod>2020-06-27T13:32:44-05:00</lastmod>
   </url>
@@ -10,16 +50,6 @@
   <url>
     <loc>http://tobyblog.com/photos/springtime-at-ranch-111/</loc>
     <lastmod>2020-06-27T13:32:44-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/</loc>
-    <lastmod>2020-06-27T13:32:44-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/</loc>
-    <lastmod>2020-06-25T18:04:39-05:00</lastmod>
   </url>
   
   <url>
@@ -33,17 +63,7 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2020-06-25T18:04:39-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/posts/real-life-pokemon/</loc>
-    <lastmod>2020-06-25T18:04:39-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/</loc>
     <lastmod>2020-06-25T18:04:39-05:00</lastmod>
   </url>
   
@@ -78,17 +98,7 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/music/</loc>
-    <lastmod>2020-06-18T11:19:10-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/posts/music-from-empty-malls/</loc>
-    <lastmod>2020-06-18T11:19:10-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/youtube/</loc>
     <lastmod>2020-06-18T11:19:10-05:00</lastmod>
   </url>
   
@@ -2290,11 +2300,6 @@
   <url>
     <loc>http://tobyblog.com/microposts/2018-10-23-halloween-thoughts/</loc>
     <lastmod>2018-10-23T01:02:44-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/frank-sinatra/</loc>
-    <lastmod>2018-10-17T16:17:27-05:00</lastmod>
   </url>
   
   <url>
