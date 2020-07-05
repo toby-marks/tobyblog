@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/photos/exploring-oak-point/</loc>
+    <lastmod>2020-07-05T16:24:15-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/photos/</loc>
+    <lastmod>2020-07-05T16:24:15-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-07-05T16:24:15-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/categories/</loc>
     <lastmod>2020-06-30T16:57:43-05:00</lastmod>
   </url>
@@ -33,18 +48,8 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/</loc>
-    <lastmod>2020-06-30T16:57:43-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/tags/youtube/</loc>
     <lastmod>2020-06-30T16:57:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/photos/</loc>
-    <lastmod>2020-06-27T13:32:44-05:00</lastmod>
   </url>
   
   <url>
