@@ -31,7 +31,7 @@
       .flexbin:after {
         content: '';
         flex-grow: 999999999;
-        min-width: 150px;
+        min-width: 175px;
         height: 0; }
       .flexbin > * {
         position: relative;
@@ -56,16 +56,16 @@
       .flexbin:after {
         content: '';
         flex-grow: 999999999;
-        min-width: 100px;
+        min-width: 175px;
         height: 0; }
       .flexbin > * {
         position: relative;
         display: block;
-        height: 200px;
-        margin: 0;
+        height: 175px;
+        margin: 2.5;
         flex-grow: 1; }
         .flexbin > * > img {
-          height: 200px;
+          height: 175px;
           object-fit: cover;
           max-width: 100%;
           min-width: 100%;
