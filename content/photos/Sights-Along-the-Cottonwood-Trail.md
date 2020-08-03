@@ -1,5 +1,5 @@
 +++
-title = "A Couple of Birds Who Are Obviously Best Friends. Also, Mushrooms."
+title = "Bird Buddies"
 date = "2020-08-02T19:04:37-05:00"
 location = "Plano, TX"
 camera = "Nikon Coolpix P1000"
