@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/photos/sights-along-the-cottonwood-trail/</loc>
+    <lastmod>2020-08-02T19:04:37-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/photos/</loc>
+    <lastmod>2020-08-02T19:04:37-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-08-02T19:04:37-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/categories/</loc>
     <lastmod>2020-07-30T21:36:57-05:00</lastmod>
   </url>
@@ -23,11 +38,6 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/</loc>
-    <lastmod>2020-07-30T21:36:57-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/posts/lunchtime-walk-audio/</loc>
     <lastmod>2020-07-28T13:19:32-05:00</lastmod>
   </url>
@@ -39,11 +49,6 @@
   
   <url>
     <loc>http://tobyblog.com/photos/exploring-oak-point/</loc>
-    <lastmod>2020-07-09T16:56:11-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/photos/</loc>
     <lastmod>2020-07-09T16:56:11-05:00</lastmod>
   </url>
   
