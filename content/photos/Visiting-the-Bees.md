@@ -1,12 +1,14 @@
 +++
-title = "Visiting the Bees"
+title = "Late Summer Sunflowers and Bees"
 date = "2020-08-02T19:19:20-05:00"
 location = "Dallas, TX"
 camera = "Nikon Coolpix P1000, Sony A7RII"
-draft = "true"
 +++
 <img src="https://live.staticflickr.com/65535/50181937308_95d31ff974_b.jpg">
 <!--more-->
+It is a rare morning walk, alone, that I engage with people as I'm out doing my thing. On this particular hot morning along some paved trails close to home I was approached by an older couple, and then again later by an older man walking his dog, about what I was doing. They remarked on the sunflowers, in full bloom then and signifying the height of the sun's power over summer 2020 — a year that has seemed like one long, still, troubled season all its own. I told them I was actually taking pictures of the bees. This they seemed to find interesting; almost amusing. Maybe I seem a little eccentric in my big floppy trail hat. The bumblebees and honeybees were out together that morning. It was good to see such a crowd of bees. It won't be long before the city authorities start poisoning them again in an effort to quell that other perennial disease threat, the West Nile virus. 
+
+Gather while you can, bees.
 
 <div class="flexbin flexbin-margin">
 		<a href="https://live.staticflickr.com/65535/50182738832_26b358dcec_o.jpg">
