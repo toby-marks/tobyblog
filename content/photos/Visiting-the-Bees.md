@@ -1,5 +1,5 @@
 +++
-title = "Late Summer Sunflowers and Bees"
+title = "Summer Sunflowers and Bees"
 date = "2020-08-15T08:19:20-05:00"
 location = "Dallas, TX"
 camera = "Nikon Coolpix P1000, Sony A7RII"
