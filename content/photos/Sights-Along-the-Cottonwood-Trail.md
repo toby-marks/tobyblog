@@ -3,6 +3,8 @@ title = "Bird Buddies"
 date = "2020-08-02T19:04:37-05:00"
 location = "Plano, TX"
 camera = "Nikon Coolpix P1000"
+image = "https://live.staticflickr.com/65535/50163681251_10e647ec54_b.jpg"
+images = ["https://live.staticflickr.com/65535/50163681251_10e647ec54_b.jpg"]
 +++
 {{% flickr "A Bird Conversation"
            ""
