@@ -3,6 +3,8 @@ title = "Sunset on Lake Ray Hubbard"
 date = "2020-08-15T11:18:24-05:00"
 location = "Rockwall, TX"
 camera = "iPhone, Nikon Coolpix P1000"
+image = "https://live.staticflickr.com/65535/50183053366_af9af8f917_o.jpg"
+images = ["https://live.staticflickr.com/65535/50183053366_af9af8f917_o.jpg"]
 +++
 <img src="https://live.staticflickr.com/65535/50183053366_af9af8f917_o.jpg">
 <!--more-->
