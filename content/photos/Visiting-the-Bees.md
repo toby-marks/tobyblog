@@ -3,6 +3,8 @@ title = "Summer Sunflowers and Bees"
 date = "2020-08-15T08:19:20-05:00"
 location = "Dallas, TX"
 camera = "Nikon Coolpix P1000, Sony A7RII"
+image = "https://live.staticflickr.com/65535/50181937308_95d31ff974_b.jpg"
+images = ["https://live.staticflickr.com/65535/50181937308_95d31ff974_b.jpg"]
 +++
 <img src="https://live.staticflickr.com/65535/50181937308_95d31ff974_b.jpg">
 <!--more-->
