@@ -65,7 +65,7 @@
         margin: 2.5;
         flex-grow: 1; }
         .flexbin > * > img {
-          height: 175px;
+          height: 300px;
           object-fit: cover;
           max-width: 100%;
           min-width: 100%;
