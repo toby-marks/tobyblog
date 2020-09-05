@@ -2,7 +2,8 @@
 title = "A Short Trip to Devil's Den"
 date = "2020-09-04T18:27:23-05:00"
 location = "Devil's Den State Park, Arkansas"
-camera = "Nikon P1000"
+camera = "Nikon Coolpix P1000, Sony A7Rii"
+images = ["https://live.staticflickr.com/65535/50287427888_d3a2d384b7_o.jpg"]
 +++
 <img src="https://live.staticflickr.com/65535/50287427888_d3a2d384b7_o.jpg">
 <!--more-->
