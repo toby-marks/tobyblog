@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/microposts/</loc>
+    <lastmod>2020-09-24T16:59:09-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/microposts/september-leaves/</loc>
+    <lastmod>2020-09-24T16:59:09-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-09-24T16:59:09-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/photos/</loc>
     <lastmod>2020-09-20T14:20:25-05:00</lastmod>
   </url>
@@ -13,17 +28,7 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/</loc>
-    <lastmod>2020-09-20T14:20:25-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/microposts/frank-zappa-dream/</loc>
-    <lastmod>2020-09-08T13:32:54-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/microposts/</loc>
     <lastmod>2020-09-08T13:32:54-05:00</lastmod>
   </url>
   
