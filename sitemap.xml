@@ -3,13 +3,78 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://tobyblog.com/microposts/</loc>
-    <lastmod>2020-09-25T17:50:03-05:00</lastmod>
+    <loc>http://tobyblog.com/tags/candy/</loc>
+    <lastmod>2020-10-05T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/</loc>
+    <lastmod>2020-10-05T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/halloween/</loc>
+    <lastmod>2020-10-05T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/lemax/</loc>
+    <lastmod>2020-10-05T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/reviews/</loc>
+    <lastmod>2020-10-05T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/soda-pop/</loc>
+    <lastmod>2020-10-05T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/categories/specials/</loc>
+    <lastmod>2020-10-05T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/</loc>
+    <lastmod>2020-10-05T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/videos/the-tobyblog-halloween-special/</loc>
+    <lastmod>2020-10-05T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/theponyowner/</loc>
+    <lastmod>2020-10-05T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/thevcubesolver/</loc>
+    <lastmod>2020-10-05T00:00:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://tobyblog.com/</loc>
-    <lastmod>2020-09-25T17:50:03-05:00</lastmod>
+    <lastmod>2020-10-05T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/videos/</loc>
+    <lastmod>2020-10-05T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/microposts/girl-spook/</loc>
+    <lastmod>2020-09-29T17:59:07-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/microposts/</loc>
+    <lastmod>2020-09-29T17:59:07-05:00</lastmod>
   </url>
   
   <url>
@@ -43,11 +108,6 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/</loc>
-    <lastmod>2020-09-04T18:15:28-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/tags/garth-alper/</loc>
     <lastmod>2020-09-04T18:15:28-05:00</lastmod>
   </url>
@@ -64,11 +124,6 @@
   
   <url>
     <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2020-09-04T18:15:28-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/</loc>
     <lastmod>2020-09-04T18:15:28-05:00</lastmod>
   </url>
   
@@ -309,11 +364,6 @@
   
   <url>
     <loc>http://tobyblog.com/categories/food/</loc>
-    <lastmod>2020-05-04T17:33:01-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/reviews/</loc>
     <lastmod>2020-05-04T17:33:01-05:00</lastmod>
   </url>
   
@@ -1045,11 +1095,6 @@
   <url>
     <loc>http://tobyblog.com/photos/happy-halloween-2019/</loc>
     <lastmod>2019-11-01T03:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/halloween/</loc>
-    <lastmod>2019-10-29T23:00:00-05:00</lastmod>
   </url>
   
   <url>
@@ -1803,11 +1848,6 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/videos/</loc>
-    <lastmod>2019-04-17T21:58:19-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/tags/zapps/</loc>
     <lastmod>2019-04-17T21:58:19-07:00</lastmod>
   </url>
@@ -2423,11 +2463,6 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/theponyowner/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/categories/unboxings/</loc>
     <lastmod>2018-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -2528,11 +2563,6 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/candy/</loc>
-    <lastmod>2017-10-29T19:53:27-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/videos/2017-10-29-cauldron-skittles-review/</loc>
     <lastmod>2017-10-29T19:53:27-05:00</lastmod>
   </url>
@@ -2590,11 +2620,6 @@
   <url>
     <loc>http://tobyblog.com/videos/america-skittles-review/</loc>
     <lastmod>2017-08-13T23:07:25-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/soda-pop/</loc>
-    <lastmod>2017-01-01T23:24:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2683,11 +2708,6 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/specials/</loc>
-    <lastmod>2016-07-11T10:35:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/posts/amazing-30th-anniversary-movies/</loc>
     <lastmod>2016-06-06T14:23:00+00:00</lastmod>
   </url>
@@ -2699,11 +2719,6 @@
   
   <url>
     <loc>http://tobyblog.com/videos/geocaching-lost-episodes/</loc>
-    <lastmod>2016-05-30T11:26:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/thevcubesolver/</loc>
     <lastmod>2016-05-30T11:26:00+00:00</lastmod>
   </url>
   
@@ -3060,16 +3075,6 @@
   <url>
     <loc>http://tobyblog.com/posts/the-mask-of-the-red-death/</loc>
     <lastmod>2014-10-18T06:56:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/lemax/</loc>
-    <lastmod>2014-10-01T15:50:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/videos/the-tobyblog-halloween-special/</loc>
-    <lastmod>2014-10-01T15:50:00+00:00</lastmod>
   </url>
   
   <url>

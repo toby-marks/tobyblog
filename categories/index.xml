@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2020 18:15:28 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2020 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="http://tobyblog.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Specials</title>
+      <link>http://tobyblog.com/categories/specials/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/categories/specials/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Music</title>
@@ -233,15 +242,6 @@
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/categories/unboxings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Specials</title>
-      <link>http://tobyblog.com/categories/specials/</link>
-      <pubDate>Mon, 11 Jul 2016 10:35:00 +0000</pubDate>
-      
-      <guid>http://tobyblog.com/categories/specials/</guid>
       <description></description>
     </item>
     
