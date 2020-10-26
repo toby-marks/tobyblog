@@ -6,11 +6,7 @@
     <description>Recent content in seasons on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2015 15:54:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://tobyblog.com/tags/seasons/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 26 Aug 2015 15:54:00 +0000</lastBuildDate><atom:link href="http://tobyblog.com/tags/seasons/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Decorator&#39;s Warehouse</title>
       <link>http://tobyblog.com/posts/the-decorators-warehouse/</link>
