@@ -1,8 +1,7 @@
 +++
 title = "The Tobyblog Halloween Special"
 description = "A family tribute to Halloween."
-#date = 2014-10-01T15:50:00Z
-date = 2020-10-05
+date = 2014-10-01T15:50:00Z
 externalurl = "https://www.youtube.com/watch?v=ljTFXYLcNCc"
 categories = ["Specials"]
 tags = ["reviews", "Lemax", "thevcubesolver", "Halloween", "soda pop", "candy", "theponyowner"]
