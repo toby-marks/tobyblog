@@ -6,67 +6,13 @@
     <description>Recent content in Tags on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2020 00:00:00 -0500</lastBuildDate><atom:link href="http://tobyblog.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Nov 2020 12:07:29 -0600</lastBuildDate><atom:link href="http://tobyblog.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>candy</title>
-      <link>http://tobyblog.com/tags/candy/</link>
-      <pubDate>Mon, 05 Oct 2020 00:00:00 -0500</pubDate>
+      <title>YouTube</title>
+      <link>http://tobyblog.com/tags/youtube/</link>
+      <pubDate>Wed, 04 Nov 2020 12:07:29 -0600</pubDate>
       
-      <guid>http://tobyblog.com/tags/candy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Halloween</title>
-      <link>http://tobyblog.com/tags/halloween/</link>
-      <pubDate>Mon, 05 Oct 2020 00:00:00 -0500</pubDate>
-      
-      <guid>http://tobyblog.com/tags/halloween/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lemax</title>
-      <link>http://tobyblog.com/tags/lemax/</link>
-      <pubDate>Mon, 05 Oct 2020 00:00:00 -0500</pubDate>
-      
-      <guid>http://tobyblog.com/tags/lemax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reviews</title>
-      <link>http://tobyblog.com/tags/reviews/</link>
-      <pubDate>Mon, 05 Oct 2020 00:00:00 -0500</pubDate>
-      
-      <guid>http://tobyblog.com/tags/reviews/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>soda pop</title>
-      <link>http://tobyblog.com/tags/soda-pop/</link>
-      <pubDate>Mon, 05 Oct 2020 00:00:00 -0500</pubDate>
-      
-      <guid>http://tobyblog.com/tags/soda-pop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>theponyowner</title>
-      <link>http://tobyblog.com/tags/theponyowner/</link>
-      <pubDate>Mon, 05 Oct 2020 00:00:00 -0500</pubDate>
-      
-      <guid>http://tobyblog.com/tags/theponyowner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>thevcubesolver</title>
-      <link>http://tobyblog.com/tags/thevcubesolver/</link>
-      <pubDate>Mon, 05 Oct 2020 00:00:00 -0500</pubDate>
-      
-      <guid>http://tobyblog.com/tags/thevcubesolver/</guid>
+      <guid>http://tobyblog.com/tags/youtube/</guid>
       <description></description>
     </item>
     
@@ -76,15 +22,6 @@
       <pubDate>Fri, 04 Sep 2020 18:15:28 -0500</pubDate>
       
       <guid>http://tobyblog.com/tags/garth-alper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>YouTube</title>
-      <link>http://tobyblog.com/tags/youtube/</link>
-      <pubDate>Fri, 04 Sep 2020 18:15:28 -0500</pubDate>
-      
-      <guid>http://tobyblog.com/tags/youtube/</guid>
       <description></description>
     </item>
     
@@ -157,6 +94,15 @@
       <pubDate>Fri, 15 May 2020 16:30:06 -0500</pubDate>
       
       <guid>http://tobyblog.com/tags/ray-bradbury/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reviews</title>
+      <link>http://tobyblog.com/tags/reviews/</link>
+      <pubDate>Mon, 04 May 2020 17:33:01 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/tags/reviews/</guid>
       <description></description>
     </item>
     
@@ -355,6 +301,15 @@
       <pubDate>Wed, 13 Nov 2019 21:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/tags/prolife/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Halloween</title>
+      <link>http://tobyblog.com/tags/halloween/</link>
+      <pubDate>Tue, 29 Oct 2019 23:00:00 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/tags/halloween/</guid>
       <description></description>
     </item>
     
@@ -980,6 +935,15 @@
     </item>
     
     <item>
+      <title>theponyowner</title>
+      <link>http://tobyblog.com/tags/theponyowner/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://tobyblog.com/tags/theponyowner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Frank Zappa</title>
       <link>http://tobyblog.com/tags/frank-zappa/</link>
       <pubDate>Wed, 25 Apr 2018 17:25:39 -0500</pubDate>
@@ -1061,6 +1025,15 @@
     </item>
     
     <item>
+      <title>candy</title>
+      <link>http://tobyblog.com/tags/candy/</link>
+      <pubDate>Sun, 29 Oct 2017 19:53:27 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/tags/candy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>skittles</title>
       <link>http://tobyblog.com/tags/skittles/</link>
       <pubDate>Sun, 29 Oct 2017 19:53:27 -0500</pubDate>
@@ -1075,6 +1048,15 @@
       <pubDate>Mon, 04 Sep 2017 09:41:11 -0500</pubDate>
       
       <guid>http://tobyblog.com/tags/candles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>soda pop</title>
+      <link>http://tobyblog.com/tags/soda-pop/</link>
+      <pubDate>Sun, 01 Jan 2017 23:24:00 +0000</pubDate>
+      
+      <guid>http://tobyblog.com/tags/soda-pop/</guid>
       <description></description>
     </item>
     
@@ -1183,6 +1165,15 @@
       <pubDate>Mon, 30 May 2016 11:26:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/tags/geocaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thevcubesolver</title>
+      <link>http://tobyblog.com/tags/thevcubesolver/</link>
+      <pubDate>Mon, 30 May 2016 11:26:00 +0000</pubDate>
+      
+      <guid>http://tobyblog.com/tags/thevcubesolver/</guid>
       <description></description>
     </item>
     
@@ -1516,6 +1507,15 @@
       <pubDate>Sat, 18 Oct 2014 06:56:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/tags/fiction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lemax</title>
+      <link>http://tobyblog.com/tags/lemax/</link>
+      <pubDate>Wed, 01 Oct 2014 15:50:00 +0000</pubDate>
+      
+      <guid>http://tobyblog.com/tags/lemax/</guid>
       <description></description>
     </item>
     
