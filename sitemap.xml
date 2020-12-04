@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/microposts/2020-spotify-recap/</loc>
+    <lastmod>2020-12-04T15:00:40-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/microposts/</loc>
+    <lastmod>2020-12-04T15:00:40-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-12-04T15:00:40-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/categories/</loc>
     <lastmod>2020-11-04T12:07:29-06:00</lastmod>
   </url>
@@ -23,11 +38,6 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/</loc>
-    <lastmod>2020-11-04T12:07:29-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/posts/its-possible/</loc>
     <lastmod>2020-11-04T12:07:29-06:00</lastmod>
   </url>
@@ -39,11 +49,6 @@
   
   <url>
     <loc>http://tobyblog.com/microposts/girl-spook/</loc>
-    <lastmod>2020-09-29T17:59:07-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/microposts/</loc>
     <lastmod>2020-09-29T17:59:07-05:00</lastmod>
   </url>
   
