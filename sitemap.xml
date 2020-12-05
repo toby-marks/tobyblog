@@ -3,7 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://tobyblog.com/posts/</loc>
+    <lastmod>2020-12-05T09:25:06-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/rip-taco-naan/</loc>
+    <lastmod>2020-12-05T09:25:06-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-12-05T09:25:06-06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tobyblog.com/microposts/2020-spotify-recap/</loc>
+    <lastmod>2020-12-04T15:00:40-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/blossom-dearie/</loc>
     <lastmod>2020-12-04T15:00:40-06:00</lastmod>
   </url>
   
@@ -13,7 +33,12 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/</loc>
+    <loc>http://tobyblog.com/tags/music/</loc>
+    <lastmod>2020-12-04T15:00:40-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/</loc>
     <lastmod>2020-12-04T15:00:40-06:00</lastmod>
   </url>
   
@@ -24,16 +49,6 @@
   
   <url>
     <loc>http://tobyblog.com/categories/music/</loc>
-    <lastmod>2020-11-04T12:07:29-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2020-11-04T12:07:29-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/</loc>
     <lastmod>2020-11-04T12:07:29-06:00</lastmod>
   </url>
   
@@ -219,11 +234,6 @@
   
   <url>
     <loc>http://tobyblog.com/posts/cover-battle-killing-in-the-name/</loc>
-    <lastmod>2020-05-29T17:27:49-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/music/</loc>
     <lastmod>2020-05-29T17:27:49-05:00</lastmod>
   </url>
   
