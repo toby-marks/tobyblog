@@ -1,6 +1,7 @@
 +++
 title = "2020 Spotify Wrapped"
 date = "2020-12-04T15:00:40-06:00"
+tags = ["music", "Blossom Dearie"]
 +++
 # Spotify Wrapped: 2020 Edition
 
