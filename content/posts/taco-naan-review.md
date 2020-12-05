@@ -3,10 +3,6 @@ title = "Taco Naan Review"
 date = 2014-02-26T22:55:00Z
 updated = 2014-08-07T15:34:49Z
 tags = ["indian food", "reviews", "restaurants", "mexican food", "taco naan"]
-blogimport = true 
-[author]
-	name = "Toby Marks"
-	uri = "https://www.blogger.com/profile/09367177211408746652"
 +++
 Go back, right now, and take a look at my [Zyka India Food restaurant review.]({{< ref "/videos/zyka-indian-food-review.md" >}}) Notice anything suspicious about the Chicken 65? Take a closer look at those ingredients.   
 
