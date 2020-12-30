@@ -3,17 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2020-12-05T09:25:06-06:00</lastmod>
+    <loc>http://tobyblog.com/categories/</loc>
+    <lastmod>2020-12-30T16:36:14-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tobyblog.com/posts/rip-taco-naan/</loc>
-    <lastmod>2020-12-05T09:25:06-06:00</lastmod>
+    <loc>http://tobyblog.com/categories/photoblog/</loc>
+    <lastmod>2020-12-30T16:36:14-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/photolog/</loc>
+    <lastmod>2020-12-30T16:36:14-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/</loc>
+    <lastmod>2020-12-30T16:36:14-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/tags/</loc>
+    <lastmod>2020-12-30T16:36:14-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/the-year-in-pictures-2020/</loc>
+    <lastmod>2020-12-30T16:36:14-06:00</lastmod>
   </url>
   
   <url>
     <loc>http://tobyblog.com/</loc>
+    <lastmod>2020-12-30T16:36:14-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/rip-taco-naan/</loc>
     <lastmod>2020-12-05T09:25:06-06:00</lastmod>
   </url>
   
@@ -35,16 +60,6 @@
   <url>
     <loc>http://tobyblog.com/tags/music/</loc>
     <lastmod>2020-12-04T15:00:40-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/tags/</loc>
-    <lastmod>2020-12-04T15:00:40-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tobyblog.com/categories/</loc>
-    <lastmod>2020-11-04T12:07:29-06:00</lastmod>
   </url>
   
   <url>
@@ -558,11 +573,6 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/categories/photoblog/</loc>
-    <lastmod>2020-03-18T01:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/microposts/is-amazon-a-corona-vector/</loc>
     <lastmod>2020-03-17T18:23:02-05:00</lastmod>
   </url>
@@ -765,6 +775,11 @@
   <url>
     <loc>http://tobyblog.com/microposts/happy/</loc>
     <lastmod>2020-01-01T08:18:49-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/the-year-in-pictures-2019/</loc>
+    <lastmod>2019-12-30T16:21:55-06:00</lastmod>
   </url>
   
   <url>
@@ -2463,11 +2478,6 @@
   </url>
   
   <url>
-    <loc>http://tobyblog.com/tags/photolog/</loc>
-    <lastmod>2018-04-22T13:49:48-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://tobyblog.com/posts/2018-04-08-halloween-hauntfest/</loc>
     <lastmod>2018-04-22T13:49:48-05:00</lastmod>
   </url>
@@ -2815,6 +2825,11 @@
   <url>
     <loc>http://tobyblog.com/tags/krampus/</loc>
     <lastmod>2016-01-01T17:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tobyblog.com/posts/the-year-in-pictures-2015/</loc>
+    <lastmod>2015-12-30T15:27:46-06:00</lastmod>
   </url>
   
   <url>
