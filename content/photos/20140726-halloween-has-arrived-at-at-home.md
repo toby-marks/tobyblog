@@ -1,15 +1,20 @@
 +++
+date = 2014-07-26
 title = "Halloween Has Arrived at At Home"
-date = 2014-07-26T22:11:00Z
-tags = ["home", "seasons", "fall", "Halloween"]
+location = "Plano, TX"
+camera = "my iPhone"
+categories = ["Reviews"]
+tags = ["Halloween","Augie","Lucy","Anthony"]
+images = ["http://4.bp.blogspot.com/-FO_yRp9ctsA/U9SGRMmODvI/AAAAAAAAAqw/DWrvOfaTVWQ/s1600/IMG_1492.jpg"]
 +++
+
+![](http://4.bp.blogspot.com/-_gwhccKqpqY/U9SAkCQ1olI/AAAAAAAAAlA/cJhMhsf1OfE/s1600/IMG_1422.jpg)
+
+<!--more-->
 
 Garden Ridge recently declared bankruptcy, and are now being reincorporated as At Home. But true to form, the seasons still come early there and stay late.
 
 My dear wife noticed yesterday that one of the nearby stores had been refurbished, so we decided to drop in and check it out. I of course had high hopes for what to expect, and I wasn't disappointed.
-
-![](http://4.bp.blogspot.com/-_gwhccKqpqY/U9SAkCQ1olI/AAAAAAAAAlA/cJhMhsf1OfE/s1600/IMG_1422.jpg)
-
 
 Indeed, Halloween and fall are in full swing there.
 

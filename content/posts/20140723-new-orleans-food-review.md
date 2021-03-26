@@ -1,9 +1,8 @@
 +++
 title = "New Orleans Food Review"
 date = 2014-07-23T07:35:00Z
-updated = 2014-07-26T22:16:02Z
-categories = ["Food"]
-tags = ["Fritos"]
+categories = ["Reviews"]
+tags = ["food"]
 +++
 New Orleans is, of course, a city known for its food, home to some of the best chefs in the country. I was in town recently, so I figured I'd check out some of the local establishments and give you guys a virtual sight-tasting tour. Let's start with the hotel vending machine.
 

@@ -1,9 +1,7 @@
 +++
 title = "Restroom Tissue Dispensers"
 date = 2014-07-24T22:15:00Z
-updated = 2014-07-26T22:15:49Z
 categories = ["Reviews"]
-tags = ["gripes", "PSA"]
 +++
 (Works best if you read this in an Andy Rooney-esque whine.)
 
