@@ -1,12 +1,8 @@
 +++
 title = "Suncreek Park - More Than Meets The Eye"
 date = 2014-02-19T20:48:00Z
-updated = 2014-06-19T22:22:09Z
-tags = ["geocaching", "reviews", "parks"]
-blogimport = true 
-[author]
-	name = "Toby Marks"
-	uri = "https://www.blogger.com/profile/09367177211408746652"
+categories = ["Reviews"]
+tags = ["geocaching","parks","Frank","Augie","Lucy"]
 +++
 Two weeks ago my wife told me about a new park she had discovered while killing time between a couple of the kids' classes.   
 

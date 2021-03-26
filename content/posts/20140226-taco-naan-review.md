@@ -1,8 +1,8 @@
 +++
 title = "Taco Naan Review"
 date = 2014-02-26T22:55:00Z
-updated = 2014-08-07T15:34:49Z
-tags = ["indian food", "reviews", "restaurants", "mexican food", "taco naan"]
+categories = ["Reviews"]
+tags = ["food"]
 +++
 Go back, right now, and take a look at my [Zyka India Food restaurant review.]({{< ref "/videos/zyka-indian-food-review.md" >}}) Notice anything suspicious about the Chicken 65? Take a closer look at those ingredients.   
 
