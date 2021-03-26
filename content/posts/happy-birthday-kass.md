@@ -1,5 +1,5 @@
 +++
-categories = ["Journal "]
+categories = ["Journal"]
 date = 2019-12-06T22:01:00Z
 description = ""
 minipost = "True"
