@@ -9,7 +9,7 @@ blogimport = true
 	uri = "https://www.blogger.com/profile/09367177211408746652"
 +++
 
-One thing I love is [end of year retrospectives](http://www.realclearpolitics.com/video/2014/12/27/mclaughlin_group_2014_awards_show_winners__losers_best__worst_of_the_year.html). And in the grand tradition I [started last year]({{< ref "/posts/top-10-review-the-world-episodes-of-2013.md" >}}), I offer to you the top ten [Review the World](http://www.reviewtheworld.com/) episodes of 2014. So clear your personal calendars, grab a bag of Rap Snacks, and settle in the for the show. These are all episodes I love, and I encourage you to watch every one in its entirety.
+One thing I love is [end of year retrospectives](http://www.realclearpolitics.com/video/2014/12/27/mclaughlin_group_2014_awards_show_winners__losers_best__worst_of_the_year.html). And in the grand tradition I [started last year]({{< ref "20140202-top10-reviewtheworld-episodes-of-2013.md" >}}), I offer to you the top ten [Review the World](http://www.reviewtheworld.com/) episodes of 2014. So clear your personal calendars, grab a bag of Rap Snacks, and settle in the for the show. These are all episodes I love, and I encourage you to watch every one in its entirety.
 
 ### [#10: Childhood Neighborhood Tour](http://www.reviewtheworld.com/2014/12/childhood-neighborhood-tour.html)
 

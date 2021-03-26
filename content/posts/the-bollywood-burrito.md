@@ -10,7 +10,7 @@ blogimport = true
 +++
 ![](https://1.bp.blogspot.com/-Sq3xak90kZg/V6zwoaw0I7I/AAAAAAAAC40/evK2MCidSAEDtEYEMePNyQVFAWYgzkF1QCLcB/s640/IMG_5441.jpg)
 
-Remember Taco Naan, the Mexican-Indian hybrid restaurant [I wrote about]({{< ref "taco-naan-review.md" >}}) a long time back? I'm talking about the very same one my buddy [Brian featured](http://www.reviewtheworld.com/2015/03/texas-taco-challenge-taco-naan-vs-fuel.html) on his second trip to the Big D, where he stacked up its offerings against the nationally renowned taco dive Fuel City. Well, they're still around and busier and better than ever! The place is expanding like mad, doubling its interior floor space and hopefully renovating those dismal restrooms. I wouldn't know because I've never had the courage to try them again. But you don't go to Taco Naan to use the bathroom, man, so no worries.
+Remember Taco Naan, the Mexican-Indian hybrid restaurant [I wrote about]({{< ref "20140226-taco-naan-review.md" >}}) a long time back? I'm talking about the very same one my buddy [Brian featured](http://www.reviewtheworld.com/2015/03/texas-taco-challenge-taco-naan-vs-fuel.html) on his second trip to the Big D, where he stacked up its offerings against the nationally renowned taco dive Fuel City. Well, they're still around and busier and better than ever! The place is expanding like mad, doubling its interior floor space and hopefully renovating those dismal restrooms. I wouldn't know because I've never had the courage to try them again. But you don't go to Taco Naan to use the bathroom, man, so no worries.
 <!--more-->
 
 ![](https://2.bp.blogspot.com/-zKzERafMksM/V6z_YT51uKI/AAAAAAAAC5M/4DmGbkbgiZIq01Grv90h9ttpCA13HhrOQCLcB/s1600/images.jpeg)

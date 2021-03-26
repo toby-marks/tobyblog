@@ -1,9 +1,8 @@
 +++
 title = "Anniversary Candy"
 date = 2014-06-19T22:27:00Z
-updated = 2014-06-20T11:30:47Z
-categories = ["Food"]
-tags = ["home", "candy"]
+categories = ["Reviews"]
+tags = ["food"]
 +++
 Aren't I lucky? How many guys get to have a truly one of a kind candy made just for them?
 
