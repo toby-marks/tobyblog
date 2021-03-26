@@ -2,7 +2,7 @@
 title = "The Hidden Dangers of AI"
 description = ""
 date = "2019-04-21T15:50:15-05:00"
-categories = ["Dad Bods"]
+categories = ["DadBods"]
 tags = [""]
 minipost = "true"
 +++

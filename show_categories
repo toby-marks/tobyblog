@@ -1,0 +1,2 @@
+grep categories ./content/**/*md | awk '{print $3}' | sort -u
+

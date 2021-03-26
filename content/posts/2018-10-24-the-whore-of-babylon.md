@@ -2,7 +2,7 @@
 title = "Revelation 17"
 description = "Meditation on the Whore of Babylon"
 date = "2018-10-24T01:26:49-05:00"
-categories = ["End Times"]
+categories = ["EndTimes"]
 tags = ["prophecy", "the Bible", "Revelations", "the Whore of Babylon"]
 +++
 ![](https://upload.wikimedia.org/wikipedia/commons/d/da/Burgkmair_whore_babylon_color.jpg)
