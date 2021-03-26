@@ -15,7 +15,7 @@ While you're at it, why don't you check out some of my other food reviews?
 +  The V-Cube Solver tackles [Kryptonite Kandy]({{< ref "/videos/kryptonite-kandy.md" >}})
 +  A [Chili Cheese Fries]({{< ref "20140518-toe-2-toe-review-chili-cheese-fries.md" >}}) throw down
 +  A tribute to my wife's special [Anniversary Candy]({{< ref "20140619-anniversary-candy.md" >}})
-+  My magic review of some [food I found in New Orleans]({{< ref "/posts/new-orleans-food-review.md" >}}) (I won't say where)
++  My magic review of some [food I found in New Orleans]({{< ref "20140723-new-orleans-food-review.md" >}}) (I won't say where)
 
 Enjoy.
 
