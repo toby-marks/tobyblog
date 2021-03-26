@@ -1,9 +1,8 @@
 +++
 title = "Don't Worry, Be Happy"
 date = 2014-07-13T16:06:00Z
-updated = 2014-07-13T16:06:30Z
-categories = ["Food"]
-tags = ["McDonalds"]
+categories = ["Journal"]
+tags = ["food"]
 +++
 ![](https://lh4.googleusercontent.com/-qkQCvBU6dZI/U8MQ5OZQhvI/AAAAAAAAAhU/sK4AWdvfQ2g/s640/blogger-image--1072667005.jpg)
 

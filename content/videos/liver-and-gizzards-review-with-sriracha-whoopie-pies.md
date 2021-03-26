@@ -10,11 +10,11 @@ While you're at it, why don't you check out some of my other food reviews?
 
 +  There's that time I went to [Zyka Indian Restaurant]({{< ref "/videos/zyka-indian-food-review.md" >}})
 +  The V-Cube Solver's [Jolly Rancher Cool Tubes]({{< ref "/videos/jolly-rancher-cool-tubes-review.md" >}}) review
-+  My famous [Taco Naan]({{< ref "/posts/taco-naan-review.md" >}}) review
++  My famous [Taco Naan]({{< ref "20140226-taco-naan-review.md" >}}) review
 +  The Buddy Team's epic [Taki's/Cane Sugar Soda]({{< ref "/videos/takis-cane-sugar-soda-pops.md" >}}) review
 +  The V-Cube Solver tackles [Kryptonite Kandy]({{< ref "/videos/kryptonite-kandy.md" >}})
-+  A [Chili Cheese Fries]({{< ref "/posts/toe-2-toe-review-chili-cheese-fries.md" >}}) throw down
-+  A tribute to my wife's special [Anniversary Candy]({{< ref "/posts/anniversary-candy.md" >}})
++  A [Chili Cheese Fries]({{< ref "20140518-toe-2-toe-review-chili-cheese-fries.md" >}}) throw down
++  A tribute to my wife's special [Anniversary Candy]({{< ref "20140619-anniversary-candy.md" >}})
 +  My magic review of some [food I found in New Orleans]({{< ref "/posts/new-orleans-food-review.md" >}}) (I won't say where)
 
 Enjoy.

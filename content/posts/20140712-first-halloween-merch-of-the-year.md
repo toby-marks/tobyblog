@@ -1,9 +1,8 @@
 +++
 title = "First Halloween Merch of the Year"
 date = 2014-07-12T06:52:00Z
-updated = 2014-07-12T07:18:37Z
 categories = ["Journal"]
-tags = ["seasons", "Halloween"]
+tags = ["Halloween"]
 +++
 Technically spotted on July 1 at Michaels. Thanks to [Swagger Mom](http://swaggermomtales.blogspot.com/) for the tip-off about fall going up this week. That made me wonder, and my suspicions checked out.
 

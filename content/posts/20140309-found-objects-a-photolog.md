@@ -1,9 +1,8 @@
 +++
-title = "FOUND OBJECTS: A PHOTOLOG OF GEOCACHING SWAGARTICLE I EVIL ZOMBIE CLOWN"
+title = "Found Objects: Evil Zombie Clown"
 date = 2014-03-09T19:00:00Z
-updated = 2014-06-19T22:21:23Z
-categories = ["Journal"]
-tags = ["geocaching", "found items", "photolog"]
+categories = ["Hobbies"]
+tags = ["geocaching"]
 +++
 
 ![](http://4.bp.blogspot.com/-3ji1yOQtiMw/UxyOCfghi_I/AAAAAAAAAUA/nmODM8uCQ1Q/s1600/clown_face.png)
