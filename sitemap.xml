@@ -1568,6 +1568,9 @@
     <loc>http://tobyblog.com/photos/chisholm-trail-watercolors/</loc>
     <lastmod>2017-08-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://tobyblog.com/categories/parks/</loc>
+    <lastmod>2017-08-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://tobyblog.com/videos/america-skittles-review/</loc>
     <lastmod>2017-08-13T23:07:25-05:00</lastmod>
   </url><url>
@@ -1970,43 +1973,40 @@
     <loc>http://tobyblog.com/posts/new-orleans-food-review/</loc>
     <lastmod>2014-07-23T07:35:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/baker-street/</loc>
+    <loc>http://tobyblog.com/posts/20140721-baker-street/</loc>
     <lastmod>2014-07-21T14:05:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/tags/firewheelcoffee/</loc>
+    <loc>http://tobyblog.com/tags/pop-music/</loc>
     <lastmod>2014-07-21T14:05:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/tags/live/</loc>
-    <lastmod>2014-07-21T14:05:00+00:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/posts/dont-worry-be-happy/</loc>
+    <loc>http://tobyblog.com/posts/20140713-dont-worry-be-happy/</loc>
     <lastmod>2014-07-13T16:06:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/tags/mcdonalds/</loc>
-    <lastmod>2014-07-13T16:06:00+00:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/posts/first-halloween-merch-of-the-year/</loc>
+    <loc>http://tobyblog.com/posts/20140712-first-halloween-merch-of-the-year/</loc>
     <lastmod>2014-07-12T06:52:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/summer-is-coming/</loc>
+    <loc>http://tobyblog.com/posts/20140621-summer-is-coming/</loc>
     <lastmod>2014-06-21T08:52:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/a-musical-interlude/</loc>
+    <loc>http://tobyblog.com/posts/20140619-a-musical-interlude/</loc>
     <lastmod>2014-06-19T22:34:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/anniversary-candy/</loc>
+    <loc>http://tobyblog.com/tags/folk/</loc>
+    <lastmod>2014-06-19T22:34:00+00:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/posts/20140619-anniversary-candy/</loc>
     <lastmod>2014-06-19T22:27:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/wylies-angel/</loc>
+    <loc>http://tobyblog.com/tags/augie/</loc>
     <lastmod>2014-06-17T23:16:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/toe-2-toe-review-chili-cheese-fries/</loc>
-    <lastmod>2014-05-18T14:35:00+00:00</lastmod>
+    <loc>http://tobyblog.com/categories/hobbies/</loc>
+    <lastmod>2014-06-17T23:16:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/tags/chili-cheese-fries/</loc>
-    <lastmod>2014-05-18T14:35:00+00:00</lastmod>
+    <loc>http://tobyblog.com/posts/20140617-wylies-angel/</loc>
+    <lastmod>2014-06-17T23:16:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/tags/t2t/</loc>
+    <loc>http://tobyblog.com/posts/20140518-toe-2-toe-review-chili-cheese-fries/</loc>
     <lastmod>2014-05-18T14:35:00+00:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/tags/kryptonite/</loc>
@@ -2024,11 +2024,11 @@
     <loc>http://tobyblog.com/videos/takis-cane-sugar-soda-pops/</loc>
     <lastmod>2014-04-18T21:20:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/a-day-of-decisions/</loc>
-    <lastmod>2014-04-17T22:33:00+00:00</lastmod>
+    <loc>http://tobyblog.com/posts/20140418-a-day-of-decisions/</loc>
+    <lastmod>2014-04-18T00:00:00-05:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/tags/ray-bradbury-theater/</loc>
-    <lastmod>2014-04-17T22:33:00+00:00</lastmod>
+    <lastmod>2014-04-18T00:00:00-05:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/videos/houston-winter-open/</loc>
     <lastmod>2014-03-14T20:09:00+00:00</lastmod>
@@ -2045,31 +2045,28 @@
     <loc>http://tobyblog.com/videos/zapps-mega-review-part-3/</loc>
     <lastmod>2014-03-12T23:05:38-07:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/tags/found-items/</loc>
+    <loc>http://tobyblog.com/posts/20140309-found-objects-a-photolog/</loc>
     <lastmod>2014-03-09T19:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/found-objects-a-photolog-of-geocaching-swagarticle-i-evil-zombie-clown/</loc>
-    <lastmod>2014-03-09T19:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/posts/taco-naan-review/</loc>
+    <loc>http://tobyblog.com/posts/20140226-taco-naan-review/</loc>
     <lastmod>2014-02-26T22:55:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/tags/ken-nordine/</loc>
+    <loc>http://tobyblog.com/tags/jazz/</loc>
     <lastmod>2014-02-25T15:07:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/tags/wordjazz/</loc>
+    <loc>http://tobyblog.com/posts/20140225-youre-getting-better-ken-nordine/</loc>
     <lastmod>2014-02-25T15:07:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/youre-getting-better-ken-nordine/</loc>
-    <lastmod>2014-02-25T15:07:00+00:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/posts/geocaching-explained/</loc>
+    <loc>http://tobyblog.com/posts/20140220-geocaching-explained/</loc>
     <lastmod>2014-02-20T21:46:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/suncreek-park-more-than-meets-the-eye/</loc>
+    <loc>http://tobyblog.com/tags/lucy/</loc>
     <lastmod>2014-02-19T20:48:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/coming-soon-houston-winter-open/</loc>
+    <loc>http://tobyblog.com/posts/20140219-suncreek-park-more-than-meets-the-eye/</loc>
+    <lastmod>2014-02-19T20:48:00+00:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/videos/20140211-coming-soon-houston-winter-open/</loc>
     <lastmod>2014-02-11T21:37:00+00:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/tags/ice-cream/</loc>
@@ -2093,17 +2090,14 @@
     <loc>http://tobyblog.com/videos/zyka-indian-food-review/</loc>
     <lastmod>2014-02-02T23:22:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/tags/recommendations/</loc>
-    <lastmod>2014-02-02T22:30:00+00:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/posts/top-10-review-the-world-episodes-of-2013/</loc>
-    <lastmod>2014-02-02T22:30:00+00:00</lastmod>
-  </url><url>
     <loc>http://tobyblog.com/tags/brian-hammons/</loc>
-    <lastmod>2014-02-02T21:58:00+00:00</lastmod>
+    <lastmod>2014-02-02T22:30:00+00:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/tags/reviewtheworld.com/</loc>
-    <lastmod>2014-02-02T21:58:00+00:00</lastmod>
+    <lastmod>2014-02-02T22:30:00+00:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/posts/20140202-top10-reviewtheworld-episodes-of-2013/</loc>
+    <lastmod>2014-02-02T22:30:00+00:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/posts/20140202-the-beginning/</loc>
     <lastmod>2014-02-02T21:58:00+00:00</lastmod>
