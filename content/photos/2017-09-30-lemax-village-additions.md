@@ -27,7 +27,7 @@ images = ["https://farm5.staticflickr.com/4350/36014831924_2e97089b56_z.jpg",
 
 I picked up a couple of new pieces for my Lemax Spookytown Halloween village this year. The Haunted House makes says something like "Get out! Unless you want to _DIE_.", which is kind of intense. Overall the 2017 collection is as strong as it's been in years, and they've brought back the [Ghost Around](http://www.lemaxcollection.com/information/collectors/product-exclusives/michaels/ghost-around), one of my favorites from their haunted carnival line.
 
-[Take a look at the entire Lemax collection online.](http://www.lemaxcollection.com/villages/spooky-town/sights-and-sounds) The Spookytown Village is sold exclusively at Michaels, I believe, and [I've blogged about it before.]({{< ref "/posts/incredible-halloween-village-at-michaels.md" >}})
+[Take a look at the entire Lemax collection online.](http://www.lemaxcollection.com/villages/spooky-town/sights-and-sounds) The Spookytown Village is sold exclusively at Michaels, I believe, and [I've blogged about it before.]({{< ref "photos/20140823-incredible-halloween-village-at-michaels.md" >}})
 
 {{< flickr "Lemax Camper, Box"
            "Lemax Camper, Box"
