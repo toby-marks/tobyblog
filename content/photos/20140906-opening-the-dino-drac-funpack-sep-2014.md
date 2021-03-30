@@ -1,12 +1,14 @@
 +++
 title = "Opening the Dino Drac Funpack, Sep 2014"
-date = 2014-09-06
+date = 2014-09-07
 location = "Dallas, TX"
 camera = "my Sony DSC RX-100"
 categories = ["Reviews"]
 tags = ["Dinosaur Dracula","Lucy","Augie"]
 +++
 ![](http://2.bp.blogspot.com/-JB9vI3k6VSA/VAv1DnbERKI/AAAAAAAABKE/dpcrYsI7IsA/s1600/DSC01899.jpg)
+
+<!--more-->
 
 September has arrived, and it's time to open another funpack from Dinosaur Dracula!
 
