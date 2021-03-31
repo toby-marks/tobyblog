@@ -1,12 +1,20 @@
 +++
 title = "The Mask of the Red Death"
 date = 2014-10-18T06:56:00Z
-updated = 2014-10-18T06:56:21Z
-tags = ["horror", "ebola", "fiction"]
-blogimport = true 
-[author]
-	name = "Toby Marks"
-	uri = "https://www.blogger.com/profile/09367177211408746652"
+categories = ["Books"]
 +++
+![](http://4.bp.blogspot.com/-LG5tJUTc_xU/VEJuvEURinI/AAAAAAAABis/MisjKk3frhA/s1600/IMG_2405.JPG)
 
-<div class="separator" style="clear: both; text-align: center;"><a href="http://4.bp.blogspot.com/-LG5tJUTc_xU/VEJuvEURinI/AAAAAAAABis/MisjKk3frhA/s1600/IMG_2405.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://4.bp.blogspot.com/-LG5tJUTc_xU/VEJuvEURinI/AAAAAAAABis/MisjKk3frhA/s1600/IMG_2405.JPG" height="480" width="640" /></a></div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: left;">"The 'Red Death' had long devastated the country. No pestilence had ever been so fatal, or so hideous. Blood was its Avatar and its seal — the redness and the horror of blood. There were sharp pains, and sudden dizziness, and then profuse bleeding at the pores, with dissolution."</div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;">"With such precautions the courtiers might bid defiance to contagion. The external world could take care of itself."</div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;">"All these and security were within. Without was the 'Red Death.'"</div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;">"His vesture was dabbled in <i>blood</i>&nbsp;— and his broad brow, with all the features of the face, was besprinkled with the scarlet horror."</div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;"><br /></div><div class="separator" style="clear: both; text-align: left;">From The Masque of the Red Death, By Edgar Allen Poe. You can read the <a href="http://xroads.virginia.edu/~Hyper/POE/masque.html">full story online</a>.</div><br />
+> The 'Red Death' had long devastated the country. No pestilence had ever been so fatal, or so hideous. Blood was its Avatar and its seal — the redness and the horror of blood. There were sharp pains, and sudden dizziness, and then profuse bleeding at the pores, with dissolution.
+
+<!--more--> 
+
+> With such precautions the courtiers might bid defiance to contagion. The external world could take care of itself.
+
+> All these and security were within. Without was the "Red Death."
+
+> His vesture was dabbled in *blood* — and his broad brow, with all the features of the face, was besprinkled with the scarlet horror.
+> 
+> Edgar Allen Poe, "The Masque of the Red Death"
+
+You can read the [full story online.](http://xroads.virginia.edu/~Hyper/POE/masque.html)
