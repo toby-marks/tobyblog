@@ -1,9 +1,10 @@
 +++
 title = "A Visit to Collector's Crypt"
 date = 2015-04-10T14:48:00Z
-updated = 2015-11-06T15:41:25Z
+location = "Oak Cliff"
+camera = "my old Sony DSC RX-100"
 categories = ["Journal"]
-tags = ["Collector's Crypt", "horror", "toys", "dallas", "Halloween"]
+tags = ["Collector's Crypt","Dallas","Halloween"]
 +++
 
 {{< figure class= "wp-caption alignnone" src="http://1.bp.blogspot.com/-5f6E4EuUntQ/VRbDEIWGqAI/AAAAAAAABws/owuiYxsrxGs/s1600/FullSizeRender%2B11.jpg" caption="Dr. Channard from Hellraiser II, in all his glory" >}}
