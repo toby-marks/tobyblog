@@ -6,8 +6,9 @@ camera = "my old Sony DSC RX-100"
 categories = ["Journal"]
 tags = ["Collector's Crypt","Dallas","Halloween"]
 +++
-
 {{< figure class= "wp-caption alignnone" src="http://1.bp.blogspot.com/-5f6E4EuUntQ/VRbDEIWGqAI/AAAAAAAABws/owuiYxsrxGs/s1600/FullSizeRender%2B11.jpg" caption="Dr. Channard from Hellraiser II, in all his glory" >}}
+
+<!--more-->
 
 Collector's Crypt is a boutique shop in Dallas specializing in horror and sci-fi collectibles, memorabilia, paraphernalia, and… well, you just gotta see it, folks. It's an amazing place. I discovered them only recently after attending the St. Patrick's Slay Weekend event at [Dark Hour Haunted House](http://darkhourhauntedhouse.com/) in Plano. They were a sponsor of that particular show, so Dark Hour graciously gave them some floor space to sell a few wares after the show and otherwise promote the store. Now it's not like Dallas has a whole lot of shops like this; in fact, I cannot think of *one other*. So it piqued my interest. I noticed that they are located only a short distance across the river from where I currently work, so I decided to pop in on my next available lunch hour.
 
