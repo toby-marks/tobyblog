@@ -4,7 +4,8 @@ title = "Yankee Candle Halloween Preview"
 location = "Dallas, TX"
 camera = "my iPhone"
 categories = ["Reviews"]
-tags = ["Halloween"]
+tags = ["Halloween","stores"]
+images = ["http://1.bp.blogspot.com/-6FJ3nuF1Rq0/U96JVc7d8MI/AAAAAAAAAvw/1XjHAlNOflA/s1600/IMG_1603.jpg"]
 +++
 ![](http://1.bp.blogspot.com/-6FJ3nuF1Rq0/U96JVc7d8MI/AAAAAAAAAvw/1XjHAlNOflA/s1600/IMG_1603.jpg)
 

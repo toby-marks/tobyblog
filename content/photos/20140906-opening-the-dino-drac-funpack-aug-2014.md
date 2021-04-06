@@ -5,6 +5,7 @@ location = "Dallas, TX"
 camera = "my Sony DSC RX-100"
 categories = ["Reviews"]
 tags = ["Dinosaur Dracula","Augie","Lucy"]
+images = ["http://3.bp.blogspot.com/-mbZzgxeWocg/VAvxF5TPerI/AAAAAAAABFk/V625KbgIXYo/s1600/IMG_1721.jpg"]
 +++
 ![](http://3.bp.blogspot.com/-mbZzgxeWocg/VAvxF5TPerI/AAAAAAAABFk/V625KbgIXYo/s1600/IMG_1721.jpg)
 

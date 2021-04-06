@@ -4,7 +4,7 @@ title = "Halloween Has Arrived at At Home"
 location = "Plano, TX"
 camera = "my iPhone"
 categories = ["Reviews"]
-tags = ["Halloween","Augie","Lucy","Anthony"]
+tags = ["Halloween","Augie","Lucy","Anthony","stores"]
 images = ["http://4.bp.blogspot.com/-FO_yRp9ctsA/U9SGRMmODvI/AAAAAAAAAqw/DWrvOfaTVWQ/s1600/IMG_1492.jpg"]
 +++
 
