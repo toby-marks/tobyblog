@@ -4,7 +4,8 @@ date = 2014-09-27T07:52:00Z
 location = "Dallas, TX"
 camera = "my Sony DSC RX-100"
 categories = ["Reviews"]
-tags = ["Halloween"]
+tags = ["Halloween","stores"]
+images = ["http://4.bp.blogspot.com/-jxBynb6fbbQ/VCa81QdRisI/AAAAAAAABYE/oDRuHs5PaBQ/s1600/DSC02222.jpg"]
 +++
 ![](http://4.bp.blogspot.com/-jxBynb6fbbQ/VCa81QdRisI/AAAAAAAABYE/oDRuHs5PaBQ/s1600/DSC02222.jpg)
 

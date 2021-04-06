@@ -4,7 +4,8 @@ title = "Halloween at Big Lots"
 location = "Dallas, TX"
 camera = "my iPhone"
 categories = ["Reviews"]
-tags = ["geocaching","Halloween"]
+tags = ["geocaching","Halloween","stores"]
+images = ["https://lh6.googleusercontent.com/-T4PPeI9JIWg/U-Kfhb6-DlI/AAAAAAAAAxs/AFXIe1xozHg/s640/blogger-image-1422700385.jpg"]
 +++
 ![](https://lh6.googleusercontent.com/-T4PPeI9JIWg/U-Kfhb6-DlI/AAAAAAAAAxs/AFXIe1xozHg/s640/blogger-image-1422700385.jpg)
 
