@@ -3,6 +3,7 @@ title = "Taco Naan Review"
 date = 2014-02-26T22:55:00Z
 categories = ["Reviews"]
 tags = ["food"]
+images = ["http://1.bp.blogspot.com/-kOWZdp1hKUM/Uw7fZHHQ_MI/AAAAAAAAASo/PaKzZurs9tA/s1600/Screen+Shot+2014-02-27+at+12.45.36+AM.png"]
 +++
 Go back, right now, and take a look at my [Zyka India Food restaurant review.]({{< ref "/videos/zyka-indian-food-review.md" >}}) Notice anything suspicious about the Chicken 65? Take a closer look at those ingredients.   
 

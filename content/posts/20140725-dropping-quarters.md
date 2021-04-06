@@ -3,6 +3,7 @@ title = "Dropping Quarters"
 date = 2014-07-25T22:56:00Z
 categories = ["Reviews"]
 tags = ["gaming","Augie"]
+images = ["http://1.bp.blogspot.com/-Jbl4GY7Jctw/U9M6_8Hpv5I/AAAAAAAAAkw/WhrAC0XVP4s/s1600/IMG_1206.jpg"]
 +++
 There is a little independent retro gaming store in Plano that is the closest thing to a real arcade that I've ever experienced with the kids. There are still a lot of places you could call "arcades", mostly attached to chain family restaurants like Chuck-E-Cheese or entertainment complexes like Fun Zone or Amazing Jakes. But the key differentiator for me is that the machines take real quarters, preferably only one per play. I always hated changing tokens, and to me the idea of plopping tokens into a machine screws with the mythology somehow.
 

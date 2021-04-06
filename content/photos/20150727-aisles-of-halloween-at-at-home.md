@@ -4,7 +4,8 @@ date = 2015-07-27T23:05:00Z
 location = "Plano, TX"
 camera = "my Sony DSC-RX100"
 categories = ["Reviews"]
-tags = ["Halloween"]
+tags = ["Halloween","stores"]
+images = ["http://4.bp.blogspot.com/-Xivo-U5lONM/VbcX07M_97I/AAAAAAAACQs/mYKBdfkFbE8/s1600/IMG_0001.jpg"]
 +++
 ![](http://4.bp.blogspot.com/-Xivo-U5lONM/VbcX07M_97I/AAAAAAAACQs/mYKBdfkFbE8/s1600/IMG_0001.jpg)
 

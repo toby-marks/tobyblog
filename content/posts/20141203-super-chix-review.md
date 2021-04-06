@@ -3,6 +3,7 @@ title = "Super Chix Review"
 date = 2014-12-03T22:28:00Z
 categories = ["Reviews"]
 tags = ["food"]
+images = ["http://3.bp.blogspot.com/-amX4B6z6bBM/VH_u7e2JqGI/AAAAAAAABpo/Lvwkw1Duirg/s1600/IMG_0346.JPG"]
 +++
 ![](http://3.bp.blogspot.com/-amX4B6z6bBM/VH_u7e2JqGI/AAAAAAAABpo/Lvwkw1Duirg/s1600/IMG_0346.JPG)
 

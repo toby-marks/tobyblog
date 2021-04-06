@@ -3,6 +3,7 @@ title = "New Orleans Food Review"
 date = 2014-07-23T07:35:00Z
 categories = ["Reviews"]
 tags = ["food"]
+images = ["https://lh3.googleusercontent.com/-rHaibYXANIw/U8_Hy4ggYiI/AAAAAAAAAio/oW6JSP1QZeQ/s640/blogger-image-1201992581.jpg"]
 +++
 New Orleans is, of course, a city known for its food, home to some of the best chefs in the country. I was in town recently, so I figured I'd check out some of the local establishments and give you guys a virtual sight-tasting tour. Let's start with the hotel vending machine.
 

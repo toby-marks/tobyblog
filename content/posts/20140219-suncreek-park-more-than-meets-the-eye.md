@@ -3,6 +3,7 @@ title = "Suncreek Park - More Than Meets The Eye"
 date = 2014-02-19T20:48:00Z
 categories = ["Reviews"]
 tags = ["geocaching","parks","Frank","Augie","Lucy"]
+images = ["http://3.bp.blogspot.com/-6mnC4JYvcn0/UwWCzShf6HI/AAAAAAAAAPM/y2nUzVn5A88/s1600/Screen+Shot+2014-02-19+at+10.16.29+PM.png"]
 +++
 Two weeks ago my wife told me about a new park she had discovered while killing time between a couple of the kids' classes.   
 

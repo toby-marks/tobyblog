@@ -3,6 +3,7 @@ title = "Anniversary Candy"
 date = 2014-06-19T22:27:00Z
 categories = ["Reviews"]
 tags = ["food"]
+images = ["https://lh3.googleusercontent.com/-xm0JFA17S_I/U6R9zcsBA4I/AAAAAAAAAew/h2zWFMTegHk/s640/blogger-image--2114821383.jpg"]
 +++
 Aren't I lucky? How many guys get to have a truly one of a kind candy made just for them?
 
