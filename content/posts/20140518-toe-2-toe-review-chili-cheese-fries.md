@@ -3,6 +3,7 @@ title = "\"Toe 2 Toe\" Review: Chili Cheese Fries"
 date = 2014-05-18T14:35:00Z
 categories = ["Reviews"]
 tags = ["food"]
+images = ["http://2.bp.blogspot.com/-GzMOCiX1j9E/U3Wap9B7m3I/AAAAAAAAAXo/5B7VYui7oaI/s1600/melters.jpg"]
 +++
 THE CONTENDERS:
 
