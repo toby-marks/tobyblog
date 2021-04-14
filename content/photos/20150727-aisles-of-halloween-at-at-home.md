@@ -11,7 +11,7 @@ images = ["http://4.bp.blogspot.com/-Xivo-U5lONM/VbcX07M_97I/AAAAAAAACQs/mYKBdfk
 
 <!--more-->
 
-We're just under 100 days to Halloween now, but there are certain places you can always depend on to roll out the spooky stock a little early. [I covered At Home]({{< ref "photos/20140726-halloween-has-arrived-at-at-home.md" >}}) last year and this year's selection looks bigger and better than ever. For 2015 our local store has literally *doubled* the floor space devoted to Halloween goods. And, well, just take a look for yourself.
+We're just under 100 days to Halloween now, but there are certain places you can always depend on to roll out the spooky stock a little early. [I covered At Home]({{< ref "20140726-halloween-has-arrived-at-at-home.md" >}}) last year and this year's selection looks bigger and better than ever. For 2015 our local store has literally *doubled* the floor space devoted to Halloween goods. And, well, just take a look for yourself.
 
 ![](http://4.bp.blogspot.com/-ABPXcWv1v-8/VbcX07fCs7I/AAAAAAAACQo/g_GcwKJ64nQ/s1600/IMG_0002.jpg)
 

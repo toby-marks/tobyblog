@@ -3,6 +3,7 @@ title = "Geocaching Explained"
 date = 2014-02-20T21:46:00Z
 categories = ["Hobbies"]
 tags = ["geocaching"]
+minipost = "true"
 +++
 {{< youtube 1YTqitVK-Ts >}}
 
