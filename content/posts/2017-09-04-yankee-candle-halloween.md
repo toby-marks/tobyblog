@@ -46,7 +46,7 @@ Take _this one_, for example.
            "https://www.flickr.com/photos/tobyjmarks/36040104233/"
            "https://farm5.staticflickr.com/4380/36040104233_26ecf5d314_z.jpg" >}}
 
-Haunted Hallow. Can you get better than that? Reminds me of Washington Irving's Sleepy Hollow, from which the Headless Horseman rode forth to terrorize old Ichabod Crane. Cool enough reference to an underappreciated Halloween icon, but the smell is completely amazing. Reminds me of the entrance lobby to Plano, Texas' year-round haunt experience, Dark Hour Haunted House, about which I have [blogged]({{< relref "the-dark-hour---best-haunt-ever.md" >}}) a [couple]({{< relref "dark-hours-wreck-the-halls.md" >}}) of times. The smell is similar to the Witches Brew candle, which means its sort of like a burnt patchouli, but with less ash smell than the Brew candle. 
+Haunted Hallow. Can you get better than that? Reminds me of Washington Irving's Sleepy Hollow, from which the Headless Horseman rode forth to terrorize old Ichabod Crane. Cool enough reference to an underappreciated Halloween icon, but the smell is completely amazing. Reminds me of the entrance lobby to Plano, Texas' year-round haunt experience, Dark Hour Haunted House, about which I have [blogged]({{< ref "20150921-the-dark-hour-best-haunt-ever.md" >}}) a [couple]({{< ref "20160101-dark-hours-wreck-the-halls.md" >}}) of times. The smell is similar to the Witches Brew candle, which means its sort of like a burnt patchouli, but with less ash smell than the Brew candle. 
            
 {{< flickr "Witches Brew and Candied Apple scents"
            "Witches Brew and Candied Apple scents"
