@@ -4,6 +4,7 @@ date = 2014-02-02T21:58:00Z
 updated = 2014-02-02T22:11:43Z
 categories = ["Journal"]
 tags = ["Brian Hammons","reviewtheworld.com"]
+minipost = "true"
 +++
 My name is Toby. 
 

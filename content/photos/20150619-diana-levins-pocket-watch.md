@@ -10,7 +10,7 @@ tags = ["Halloween","conventions"]
 
 <!--more-->
 
-While in attendance at [Texas Frightmare Weekend]({{< ref "photos/20150619-texas-frightmare-weekend.md" >}}) I picked up a small pocket watch as a souvenir for my daughter from the booth of Diana Levin. [Check out her gallery](https://www.ghoulishbunnystudios.com/) on her website. Or better yet, if you like what you see you can buy something from [her Etsy store.](https://www.etsy.com/shop/GhoulishBunnyStudios)
+While in attendance at [Texas Frightmare Weekend]({{< ref "20150619-texas-frightmare-weekend.md" >}}) I picked up a small pocket watch as a souvenir for my daughter from the booth of Diana Levin. [Check out her gallery](https://www.ghoulishbunnystudios.com/) on her website. Or better yet, if you like what you see you can buy something from [her Etsy store.](https://www.etsy.com/shop/GhoulishBunnyStudios)
 
 ![](http://1.bp.blogspot.com/-vcV5L4TUFNk/VYTqFn9Su-I/AAAAAAAACNI/uPjSqhRPilI/s1600/DSC04343.jpg)
 

@@ -14,6 +14,8 @@ Sort of an extended special segment of the 2013 Halloween episode, Brian and Tim
 
 {{< youtube 3nAdksT_dCw >}}
 
+<!--more-->
+
 ### [#9: RtW: Killer Buzz Energy Drinks Review](http://www.reviewtheworld.com/2013/10/killer-buzz-energy-drinks.html?m=0)
 
 An energy drink company wanting to generate some viral "buzz" sent Brian a case of their product to review. He and the gang thoroughly dissect the various offerings, and by the end I'm sure you'll be asking "What was _in_ that stuff?" Great fun, but I doubt you'll be seeing clips from this one featured in the Killer Buzz Super Bowl ad. Their mistake.

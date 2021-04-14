@@ -5,11 +5,13 @@ categories = ["Reviews"]
 tags = ["food"]
 images = ["http://1.bp.blogspot.com/-kOWZdp1hKUM/Uw7fZHHQ_MI/AAAAAAAAASo/PaKzZurs9tA/s1600/Screen+Shot+2014-02-27+at+12.45.36+AM.png"]
 +++
-Go back, right now, and take a look at my [Zyka India Food restaurant review.]({{< ref "/videos/zyka-indian-food-review.md" >}}) Notice anything suspicious about the Chicken 65? Take a closer look at those ingredients.   
-
 ![](http://1.bp.blogspot.com/-kOWZdp1hKUM/Uw7fZHHQ_MI/AAAAAAAAASo/PaKzZurs9tA/s1600/Screen+Shot+2014-02-27+at+12.45.36+AM.png)
 
+Go back, right now, and take a look at my [Zyka India Food restaurant review.]({{< ref "/videos/zyka-indian-food-review.md" >}}) Notice anything suspicious about the Chicken 65? Take a closer look at those ingredients.   
+
 Jalapenos. Onions. Cilantro. Sound familiar?
+
+<!--more-->
 
 If you're from Texas or anywhere in the Southwest you would immediately associate that combination with Mexican or Tex-Mex cuisine. There are other similarities, too, like the general spiciness, the use of chilis, or the penchant for using circular flatbread at every meal to sandwich ingredients and sop up sauces.
 

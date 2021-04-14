@@ -326,7 +326,7 @@ Check it out!
 [dd]: http://www.dinosaurdracula.com/
 [ws]: http://halloweenandhaunt.com/halloween-hauntfest-announces-first-36-classes-2018/ "Halloween & Hauntfest 2018 Workshops"
 [ex]: http://halloweenandhaunt.com/extracurricular-activities/
-[tfw]: {{< ref "photos/20150619-texas-frightmare-weekend.md" >}} "Texas Frightmare Weekend"
+[tfw]: {{< ref "20150619-texas-frightmare-weekend.md" >}} "Texas Frightmare Weekend"
 [dds]: https://dementeddesignstudios.com/
 [kc]: https://www.youtube.com/watch?v=SzLHU6S4oic
 [rm]: http://www.reindeermanor.com/
