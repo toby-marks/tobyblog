@@ -2,6 +2,8 @@
 title = "The Year in Pictures"
 date = 2014-12-27T21:48:00Z
 categories = ["Journal"]
+images = ["http://2.bp.blogspot.com/-6i_mWar8nO8/VJ-XS4Eo4uI/AAAAAAAABrg/2YSt64UKmV4/s1600/DSC09211.jpg"]
+minipost = "true"
 +++
 [![](http://2.bp.blogspot.com/-6i_mWar8nO8/VJ-XS4Eo4uI/AAAAAAAABrg/2YSt64UKmV4/s1600/DSC09211.jpg)](https://www.flickr.com/photos/tobyjmarks/sets/72157649926955132/)
 

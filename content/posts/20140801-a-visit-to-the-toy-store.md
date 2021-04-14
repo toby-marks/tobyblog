@@ -8,9 +8,9 @@ tags = ["Halloween","Augie","Lucy"]
 +++
 ![](http://3.bp.blogspot.com/-i7RaY44btHc/U9rGOaPi9sI/AAAAAAAAAtE/RLcy-43mYYw/s1600/IMG_1200.JPG)
 
-<!--more-->
-
 The great thing about being a dad to small kids is that you always have a built-in excuse to be in the toy aisle. And if you have your kids with you then nobody looks twice at you as you gawk at all the amazing stuff on the store shelves these days. We are living in a golden age for toys and board games. Sure, there were a lot of really cool toys that I miss from the seventies and eighties that I wish my kids had a chance to experience, but today's market offers a certain quality and vast variety of toys and other amusements that the old days could never touch.
+
+<!--more-->
 
 A couple of weeks ago I took the kids out to the local toy store. The girl's allowance had reached critical mass, and she was looking for a new pony to buy. While she ruminated on whether to go for the special Halloween-garbed Rainbow Dash or the little MLP remote control car thingy, I had a chance to poke around and see what the current toy scene is like "on the ground". These are not necessarily the best of what I found, but just a few things that caught my eye.
 
