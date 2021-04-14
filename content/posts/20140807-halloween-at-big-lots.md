@@ -11,7 +11,7 @@ images = ["https://lh6.googleusercontent.com/-T4PPeI9JIWg/U-Kfhb6-DlI/AAAAAAAAAx
 
 <!--more-->
 
-Greetings, friends! It's been a few days since my last update, but I haven't been idle. Have you noticed how early the stores are stocking for Halloween this year? I blogged about my first sighting at [At Home (formerly Garden Ridge)]({{< ref "photos/20140726-halloween-has-arrived-at-at-home.md" >}}) which was on July 1st, a full one month earlier than last year. (And if you're interested, that was at a chain called Home Goods, where the theme of ravens &amp; blackbirds predominated.) Naturally, I've been keeping an eye on the usual merchants ever since, and they have not disappointed!
+Greetings, friends! It's been a few days since my last update, but I haven't been idle. Have you noticed how early the stores are stocking for Halloween this year? I blogged about my first sighting at [At Home (formerly Garden Ridge)]({{< ref "20140726-halloween-has-arrived-at-at-home.md" >}}) which was on July 1st, a full one month earlier than last year. (And if you're interested, that was at a chain called Home Goods, where the theme of ravens &amp; blackbirds predominated.) Naturally, I've been keeping an eye on the usual merchants ever since, and they have not disappointed!
 
 Behold the collection from BIG LOTS, a discount chain most of you guys are likely well familiar with.
 

@@ -5,11 +5,13 @@ categories = ["Reviews"]
 tags = ["geocaching","parks","Frank","Augie","Lucy"]
 images = ["http://3.bp.blogspot.com/-6mnC4JYvcn0/UwWCzShf6HI/AAAAAAAAAPM/y2nUzVn5A88/s1600/Screen+Shot+2014-02-19+at+10.16.29+PM.png"]
 +++
-Two weeks ago my wife told me about a new park she had discovered while killing time between a couple of the kids' classes.   
-
 ![](http://3.bp.blogspot.com/-6mnC4JYvcn0/UwWCzShf6HI/AAAAAAAAAPM/y2nUzVn5A88/s1600/Screen+Shot+2014-02-19+at+10.16.29+PM.png)
 
+Two weeks ago my wife told me about a new park she had discovered while killing time between a couple of the kids' classes.   
+
 While climbing an overpass she caught site of some paved trails just off the road that interested her enough to want to Google it later. The trails turned out to be part of Suncreek Park in Allen, Texas. The website claims Suncreek sports only four tenths of a mile of paved trails, so it's not much for walking, hiking, or biking. It does sport some scenic views, though, as well as a handful of geocaching opportunities. One unexpected and mysterious feature deserves further exploration, as I will soon relate.  
+
+<!--more-->
 
 ![](http://4.bp.blogspot.com/-SZU1MT1JR-g/UwWFbERm3iI/AAAAAAAAAP0/2Wh-axySyxI/s1600/DSC09093.JPG)
 

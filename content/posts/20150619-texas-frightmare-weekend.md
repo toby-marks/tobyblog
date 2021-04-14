@@ -40,7 +40,7 @@ The convention floor was packed, but still spacious enough that you had room to 
 
 ![](http://1.bp.blogspot.com/-VMWlyfmrNSU/VX2Z-lp4MDI/AAAAAAAACHA/7hFcl5pK6CU/s1600/IMG_2782.jpg)
 
-This magnificent piece, among many others, was from the folks at Collector's Crypt. [Take a look at my recent blog]({{< ref "photos/20150410-a-visit-to-collectors-crypt.md" >}}) about their store. Such a wonderful place. 
+This magnificent piece, among many others, was from the folks at Collector's Crypt. [Take a look at my recent blog]({{< ref "20150410-a-visit-to-collectors-crypt.md" >}}) about their store. Such a wonderful place. 
 
 ![](http://4.bp.blogspot.com/-_vjD_MCc41w/VX2ZpGj7Y7I/AAAAAAAACGs/sDXVDM4r0xo/s1600/IMG_2784.jpg)
 
