@@ -3,11 +3,13 @@ title = "Found Objects: Evil Zombie Clown"
 date = 2014-03-09T19:00:00Z
 categories = ["Hobbies"]
 tags = ["geocaching"]
+images = ["http://4.bp.blogspot.com/-3ji1yOQtiMw/UxyOCfghi_I/AAAAAAAAAUA/nmODM8uCQ1Q/s1600/clown_face.png"]
 +++
-
 ![](http://4.bp.blogspot.com/-3ji1yOQtiMw/UxyOCfghi_I/AAAAAAAAAUA/nmODM8uCQ1Q/s1600/clown_face.png)
 
 I have no particular fear of clowns. I am not one of those people. But this thing gives me the creeps. Downright turns my stomach.
+
+<!--more-->
 
 ![](http://3.bp.blogspot.com/-e4HdwZibjwk/UxyOL4R-d0I/AAAAAAAAAUI/S12WVQaKu5k/s1600/DSC09354.jpg)
 

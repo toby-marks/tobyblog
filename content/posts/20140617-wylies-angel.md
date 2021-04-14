@@ -12,6 +12,8 @@ There was a little marina at the trailhead.
 
 ![](http://1.bp.blogspot.com/-Ndc6OU8p1_s/U5zURuTgYDI/AAAAAAAAAaU/XaWaY5wtPtY/s1600/IMG_1051.JPG)
 
+<!--more-->
+
 To our surprise, there was also an artificial beach. The morning started off pleasant, then quickly warmed up.
 
 ![](http://3.bp.blogspot.com/-RXQR740IJaI/U5zUQijwSHI/AAAAAAAAAaI/RjwyLgivHNE/s1600/DSC00791.JPG)

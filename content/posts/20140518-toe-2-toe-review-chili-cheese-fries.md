@@ -27,6 +27,8 @@ Burger Fi (Garland)
 * 50s/60s diner aesthetic
 * thick, home-cut fries and real angus beef
 
+<!--more-->
+
 MELTERS
 
 Melters' chili cheese fries were the first and, so far, only thing I've had off of their menu, but I'm already impressed with the place. I was jonesing for chili cheese fries after watching Brian Hammons and buddy Chris smack down on some on a [recent Review the World](http://www.reviewtheworld.com/2014/04/campus-food-review-harriers-nest-at.html) video. Melters had a few favorable reviews on Yelp and Google, and being so close to the office I decided to give them a shot one day for lunch. Melters is located inconspicuously in a small strip mall in Irving. The inside of the place is plain, no frills, but newish feeling. The menu had a few attractive looking items, but I was told their specialty are the baked potatoes and cheese fries.

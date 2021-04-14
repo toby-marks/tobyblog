@@ -5,9 +5,11 @@ categories = ["Reviews"]
 tags = ["food"]
 images = ["https://lh3.googleusercontent.com/-xm0JFA17S_I/U6R9zcsBA4I/AAAAAAAAAew/h2zWFMTegHk/s640/blogger-image--2114821383.jpg"]
 +++
+![](https://lh3.googleusercontent.com/-xm0JFA17S_I/U6R9zcsBA4I/AAAAAAAAAew/h2zWFMTegHk/s640/blogger-image--2114821383.jpg)
+
 Aren't I lucky? How many guys get to have a truly one of a kind candy made just for them?
 
-![](https://lh3.googleusercontent.com/-xm0JFA17S_I/U6R9zcsBA4I/AAAAAAAAAew/h2zWFMTegHk/s640/blogger-image--2114821383.jpg)
+<!--more-->
 
 What you are looking at is an out of this world treat that I have dubbed "Anniversary Candy". Made by my wife, purely for my own enjoyment.
 
