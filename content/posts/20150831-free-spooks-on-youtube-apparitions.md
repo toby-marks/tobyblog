@@ -8,6 +8,8 @@ Are you looking for something spooky to watch as we wind our way down to Hallowe
 
 {{< youtube DPDeV43LDds >}}
 
+<!--more-->
+
 *Apparitions* is a BBC miniseries about a Catholic exorcist who finds himself at the center of a satanic intrigue that reaches to the Vatican and threatens the world itself. Despite the trite plot synopsis, the show has some of the most moving and human characters I've seen on television for some time, and possibly the best portrayal of a Catholic priest I've ever seen outside of the Exorcist.
 
 {{< youtube 0Gi53aVvs8Y >}}

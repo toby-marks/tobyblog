@@ -11,6 +11,8 @@ images = ["https://live.staticflickr.com/1666/23960351439_f598ce7688_k.jpg"]
 
 Do you remember [Collector's Crypt?]({{< ref "20150410-a-visit-to-collectors-crypt.md" >}}) I wrote about that place around this time last year. It's closed now. I had a dream about it the other night, or rather its next incarnation, which was as a hybrid Christmas/Halloween store. I know the owners have an interest in Christmas things, so that detail is not too surprising. But in my dream, there was also a functional toilet over by the register. I'm not sure what that was supposed to mean.
 
+<!--more-->
+
 ![](https://live.staticflickr.com/1688/23699949014_f8ecb78ad5_k.jpg)
 
 One day last summer I dropped by to visit my friend Andrea at lunch. The lights were off. There had been some sort of mistake with the power company. We talked about things, about the state of the business. They always struggled, those guys. I couldn't help but think what a waste it was, for the city. Never to have recognized what a jewel we had. It's a hard loss.

@@ -5,12 +5,13 @@ location = "Dallas, TX"
 camera = "my iPhone"
 categories = ["Journal"]
 tags = ["Retropalooza","Augie","Lucy","conventions"]
+images = ["http://3.bp.blogspot.com/-D2XQdnzfZA4/VB9B7YWZp3I/AAAAAAAABSA/OaMXv3ESdSo/s1600/IMG_2087.jpg"]
 +++
 ![](http://3.bp.blogspot.com/-D2XQdnzfZA4/VB9B7YWZp3I/AAAAAAAABSA/OaMXv3ESdSo/s1600/IMG_2087.jpg)
 
-<!--more-->
-
 Yesterday I took the kids to the amazing [Retropalooza](http://retropalooza.net/) convention in Arlington, Texas, and boy did we have a blast! There were loads and loads of dealer tables with some very cool nostalgia items on display, classic and rare games galore, cosplayers, and even a few YouTube celebrities. Take a look at some of the fun things we discovered.
+
+<!--more-->
 
 ![](http://1.bp.blogspot.com/-HXASCWmwrns/VB9B7RlqdcI/AAAAAAAABR8/r7Jn3iva_8o/s1600/IMG_2088.jpg)
 

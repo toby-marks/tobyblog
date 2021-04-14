@@ -9,9 +9,9 @@ images = ["http://1.bp.blogspot.com/-6FJ3nuF1Rq0/U96JVc7d8MI/AAAAAAAAAvw/1XjHAlN
 +++
 ![](http://1.bp.blogspot.com/-6FJ3nuF1Rq0/U96JVc7d8MI/AAAAAAAAAvw/1XjHAlNOflA/s1600/IMG_1603.jpg)
 
-<!--more-->
-
 Yesterday Yankee Candle had a special one-day preview of their upcoming Halloween 2014 collection, and we dropped in to get a look. Thanks to [PerkyJewels on Twitter](https://twitter.com/perkyjewels?lang=en) for the tip-off!
+
+<!--more-->
 
 ![](http://2.bp.blogspot.com/-oO4lF5AxifE/U96JOwWS_pI/AAAAAAAAAuo/_56VA2uKL2I/s1600/IMG_1581.jpg)
 

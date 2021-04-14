@@ -5,12 +5,13 @@ location = "Dallas, TX"
 camera = "my iPhone and Sony DSC RX-100"
 categories = ["Journal"]
 tags = ["Collector's Crypt","Dark Hour Haunted House","Halloween","conventions"]
+images = ["http://2.bp.blogspot.com/-Cf5LWcH-Ju8/VX2Z96oW_eI/AAAAAAAACGw/u6YmEVmlPlg/s1600/IMG_2778.jpg"]
 +++
 ![](http://2.bp.blogspot.com/-Cf5LWcH-Ju8/VX2Z96oW_eI/AAAAAAAACGw/u6YmEVmlPlg/s1600/IMG_2778.jpg)
 
-<!--more-->
-
 This year I attended Texas Frightmare Weekend for the first time. By now it seems like forever ago. But lucky you — I saved all the pictures! So here they are without much verbal adornment, or it'd probably take me another month and a half to get this up.
+
+<!--more-->
 
 I suggest you **take your time** with this post. It's a big one. Really savor the photographs. Left-click to enlarge them. Get a sense for yourself of what it was like to be there — unless, of course, *you were actually there,* as a good many of you probably were.  But even so, there's a good chance you may have overlooked something interesting. *So savor.* There's some good stuff in here.
 

@@ -9,9 +9,9 @@ images = ["http://4.bp.blogspot.com/-jxBynb6fbbQ/VCa81QdRisI/AAAAAAAABYE/oDRuHs5
 +++
 ![](http://4.bp.blogspot.com/-jxBynb6fbbQ/VCa81QdRisI/AAAAAAAABYE/oDRuHs5PaBQ/s1600/DSC02222.jpg)
 
-<!--more-->
-
 Already a great place to find exotic candies, foreign soda pop, and specialty food items at any time of the year ([Brian Hammons](http://www.reviewtheworld.com/2014/09/3-green-sodas.html), you know what I'm talking about), World Market really comes alive for Halloween. If you've got one in your area, get down there right now and check their selection. The stuff they carry is definitely outside of the Target/Big Lots/Dollar Store Halloween mold, but that's not to say it's super expensive. This year the emphasis is (appropriately) on Halloween's Mexican cousin, El Dia de los Muertos — The Day of the Dead — because of a merchandising tie-in with the upcoming movie [The Book of Life](http://www.bookoflifemovie.com/). 
+
+<!--more-->
 
 Scroll on through and enjoy the gruesome, sinister, and sometimes festive gallery of World Market goodies, and let your senses carry you away to that time, just a little more than a month distant now, when the autumn wind will carry dead leaves past your door, and spooks and goblins will roam your streets, looking for satisfaction in paper and tin foil wrappers.
 

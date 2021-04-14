@@ -6,6 +6,8 @@ tags = ["pop music"]
 +++
 It's time once again for one of my patented YouTube cover battles, and in typical fashion you pick the winner. Tonight's theme is one of my favorite for YouTube covers — LOVE SONGS. I have my personal favorite, of course, but I won't spoil it for you. Enjoy, and leave a comment to vote for the winner. 
 
+<!--more-->
+
 The first track is by [Goga](http://www.gogamusic.com), a local (Dallas) wedding singer and one-man-band act. This was actually filmed at a performance in downtown Dallas in 2008. Go Goga! 
 
 {{< youtube k9sQJOC2sxA >}}

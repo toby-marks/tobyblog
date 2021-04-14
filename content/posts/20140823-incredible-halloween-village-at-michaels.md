@@ -9,11 +9,11 @@ images = ["http://1.bp.blogspot.com/-9EU7kxb09Y0/U_YwFMV_fLI/AAAAAAAAA6Q/EEIYtDJ
 +++
 ![](http://1.bp.blogspot.com/-9EU7kxb09Y0/U_YwFMV_fLI/AAAAAAAAA6Q/EEIYtDJvZ4s/s1600/IMG_1667.jpg)
 
-<!--more-->
-
 Halloween lovers everywhere, if you have never seen the Lemax Spooky Town collection at Michaels, find one near you and go there. 
 
 ***Now.***
+
+<!--more-->
 
 I am not kidding.
 
