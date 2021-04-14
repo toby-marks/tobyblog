@@ -5,9 +5,9 @@ location = "Dallas, TX"
 camera = "my Sony DSC RX-100"
 categories = ["Reviews"]
 tags = ["Dinosaur Dracula","Augie","Lucy"]
-images = ["http://3.bp.blogspot.com/-mbZzgxeWocg/VAvxF5TPerI/AAAAAAAABFk/V625KbgIXYo/s1600/IMG_1721.jpg"]
+images = ["http://3.bp.blogspot.com/-mbZzgxeWocg/VAvxF5TPerI/AAAAAAAABFk/V625KbgIXYo/s2048/IMG_1721.jpg"]
 +++
-![](http://3.bp.blogspot.com/-mbZzgxeWocg/VAvxF5TPerI/AAAAAAAABFk/V625KbgIXYo/s1600/IMG_1721.jpg)
+![](http://3.bp.blogspot.com/-mbZzgxeWocg/VAvxF5TPerI/AAAAAAAABFk/V625KbgIXYo/s2048/IMG_1721.jpg)
 
 <!--more-->
 
@@ -17,76 +17,76 @@ This year Matt has decided to establish a special monthly subscription program t
 
 Here's what we got for August:
 
-![](http://4.bp.blogspot.com/-IhmEsynunm0/VAvxF7zfqnI/AAAAAAAABFo/wZNMCLyX4UI/s1600/IMG_1722.jpg)
+![](http://4.bp.blogspot.com/-IhmEsynunm0/VAvxF7zfqnI/AAAAAAAABFo/wZNMCLyX4UI/s2048/IMG_1722.jpg)
 
-![](http://3.bp.blogspot.com/-sv64Rgc0HxM/VAvxF2yVXmI/AAAAAAAABFs/3QZDWHClyoM/s1600/IMG_1723.jpg)
+![](http://3.bp.blogspot.com/-sv64Rgc0HxM/VAvxF2yVXmI/AAAAAAAABFs/3QZDWHClyoM/s2048/IMG_1723.jpg)
 
-![](http://2.bp.blogspot.com/-MGTU4efoFrU/VAvxGVNgXfI/AAAAAAAABFw/V2LTI3MuuHc/s1600/IMG_1724.jpg)
+![](http://2.bp.blogspot.com/-MGTU4efoFrU/VAvxGVNgXfI/AAAAAAAABFw/V2LTI3MuuHc/s2048/IMG_1724.jpg)
 
-![](http://3.bp.blogspot.com/-xF2ivENTeNo/VAvxGl-29RI/AAAAAAAABF0/O5jiCVEIFZI/s1600/IMG_1725.jpg)
+![](http://3.bp.blogspot.com/-xF2ivENTeNo/VAvxGl-29RI/AAAAAAAABF0/O5jiCVEIFZI/s2048/IMG_1725.jpg)
 
-![](http://4.bp.blogspot.com/-iWcYeGalijA/VAvxGi5GoII/AAAAAAAABF4/Q5zABN0k5B8/s1600/IMG_1726.jpg)
+![](http://4.bp.blogspot.com/-iWcYeGalijA/VAvxGi5GoII/AAAAAAAABF4/Q5zABN0k5B8/s2048/IMG_1726.jpg)
 
-![](http://3.bp.blogspot.com/-hSGNCVe-CFA/VAvxG7hlQAI/AAAAAAAABF8/3vK3tbPunDg/s1600/IMG_1727.jpg)
+![](http://3.bp.blogspot.com/-hSGNCVe-CFA/VAvxG7hlQAI/AAAAAAAABF8/3vK3tbPunDg/s2048/IMG_1727.jpg)
 
-![](http://3.bp.blogspot.com/-rhJWj4ZDmEo/VAvxHHYhUoI/AAAAAAAABGA/bRlQz_E7880/s1600/IMG_1729.jpg)
+![](http://3.bp.blogspot.com/-rhJWj4ZDmEo/VAvxHHYhUoI/AAAAAAAABGA/bRlQz_E7880/s2048/IMG_1729.jpg)
 
-![](http://2.bp.blogspot.com/-I6iP1stciIE/VAvxHRVxIjI/AAAAAAAABGE/ljuQh6m8QR8/s1600/IMG_1730.jpg)
+![](http://2.bp.blogspot.com/-I6iP1stciIE/VAvxHRVxIjI/AAAAAAAABGE/ljuQh6m8QR8/s2048/IMG_1730.jpg)
 
-![](http://3.bp.blogspot.com/-iG8vzxpxtAw/VAvxHSwq8_I/AAAAAAAABIU/lyg5Jb-i-eQ/s1600/IMG_1731.jpg)
+![](http://3.bp.blogspot.com/-iG8vzxpxtAw/VAvxHSwq8_I/AAAAAAAABIU/lyg5Jb-i-eQ/s2048/IMG_1731.jpg)
 
-![](http://2.bp.blogspot.com/-nBrncySUqVY/VAvxHhTmOhI/AAAAAAAABGM/y6Lptvs8VvI/s1600/IMG_1732.jpg)
+![](http://2.bp.blogspot.com/-nBrncySUqVY/VAvxHhTmOhI/AAAAAAAABGM/y6Lptvs8VvI/s2048/IMG_1732.jpg)
 
-![](http://3.bp.blogspot.com/-9QM764-UNW4/VAvxHx7KLkI/AAAAAAAABGU/Hauok9NaFes/s1600/IMG_1733.jpg)
+![](http://3.bp.blogspot.com/-9QM764-UNW4/VAvxHx7KLkI/AAAAAAAABGU/Hauok9NaFes/s2048/IMG_1733.jpg)
 
-![](http://4.bp.blogspot.com/-IYv6uEVZdEY/VAvxIKOraoI/AAAAAAAABGc/RrYVW7CQyUw/s1600/IMG_1735.jpg)
+![](http://4.bp.blogspot.com/-IYv6uEVZdEY/VAvxIKOraoI/AAAAAAAABGc/RrYVW7CQyUw/s2048/IMG_1735.jpg)
 
-![](http://3.bp.blogspot.com/-jtzXKqEjl3c/VAvxIV9ZpxI/AAAAAAAABGg/RTzWsRz8LuQ/s1600/IMG_1737.jpg)
+![](http://3.bp.blogspot.com/-jtzXKqEjl3c/VAvxIV9ZpxI/AAAAAAAABGg/RTzWsRz8LuQ/s2048/IMG_1737.jpg)
 
-![](http://2.bp.blogspot.com/-uvS0d8X_Mmo/VAvxIoXvasI/AAAAAAAABGk/XthYz3pjQVQ/s1600/IMG_1738.jpg)
+![](http://2.bp.blogspot.com/-uvS0d8X_Mmo/VAvxIoXvasI/AAAAAAAABGk/XthYz3pjQVQ/s2048/IMG_1738.jpg)
 
-![](http://3.bp.blogspot.com/-hARpAtf6JrE/VAvxI0ZyCyI/AAAAAAAABG4/wic__oukRwM/s1600/IMG_1739.jpg)
+![](http://3.bp.blogspot.com/-hARpAtf6JrE/VAvxI0ZyCyI/AAAAAAAABG4/wic__oukRwM/s2048/IMG_1739.jpg)
 
-![](http://3.bp.blogspot.com/-fMqFVxBZ7qE/VAvxJN_0FfI/AAAAAAAABGw/6rDKpFI1YO8/s1600/IMG_1740.jpg)
+![](http://3.bp.blogspot.com/-fMqFVxBZ7qE/VAvxJN_0FfI/AAAAAAAABGw/6rDKpFI1YO8/s2048/IMG_1740.jpg)
 
-![](http://2.bp.blogspot.com/-mDmdb3CRjQA/VAvxJhLaujI/AAAAAAAABHA/nmQ3R9PlPsM/s1600/IMG_1741.jpg)
+![](http://2.bp.blogspot.com/-mDmdb3CRjQA/VAvxJhLaujI/AAAAAAAABHA/nmQ3R9PlPsM/s2048/IMG_1741.jpg)
 
-![](http://4.bp.blogspot.com/-Hcy5g1eFPwE/VAvxJ_vu2rI/AAAAAAAABHI/8OpEseYuEE0/s1600/IMG_1742.jpg)
+![](http://4.bp.blogspot.com/-Hcy5g1eFPwE/VAvxJ_vu2rI/AAAAAAAABHI/8OpEseYuEE0/s2048/IMG_1742.jpg)
 
-![](http://2.bp.blogspot.com/-_QWf0nkPaVQ/VAvxKCz178I/AAAAAAAABHQ/d_LLaDyfAFg/s1600/IMG_1745.jpg)
+![](http://2.bp.blogspot.com/-_QWf0nkPaVQ/VAvxKCz178I/AAAAAAAABHQ/d_LLaDyfAFg/s2048/IMG_1745.jpg)
 
-![](http://1.bp.blogspot.com/-w5m0cDuTqYw/VAvxKQK10nI/AAAAAAAABHk/epRoKWf0dsI/s1600/IMG_1746.jpg)
+![](http://1.bp.blogspot.com/-w5m0cDuTqYw/VAvxKQK10nI/AAAAAAAABHk/epRoKWf0dsI/s2048/IMG_1746.jpg)
 
-![](http://1.bp.blogspot.com/-peCjt4kfltY/VAvxKqaPNkI/AAAAAAAABHg/Wzy1Y4ETocU/s1600/IMG_1747.jpg)
+![](http://1.bp.blogspot.com/-peCjt4kfltY/VAvxKqaPNkI/AAAAAAAABHg/Wzy1Y4ETocU/s2048/IMG_1747.jpg)
 
-![](http://2.bp.blogspot.com/-GciDDO4n8mo/VAvxLTwicsI/AAAAAAAABH4/urbXy0AQZdY/s1600/IMG_1748.jpg)
+![](http://2.bp.blogspot.com/-GciDDO4n8mo/VAvxLTwicsI/AAAAAAAABH4/urbXy0AQZdY/s2048/IMG_1748.jpg)
 
-![](http://2.bp.blogspot.com/-pJ8wDMKc1UE/VAvxLYfMmCI/AAAAAAAABHw/5h4_zCp_mlY/s1600/IMG_1749.jpg)
+![](http://2.bp.blogspot.com/-pJ8wDMKc1UE/VAvxLYfMmCI/AAAAAAAABHw/5h4_zCp_mlY/s2048/IMG_1749.jpg)
 
-![](http://2.bp.blogspot.com/-SNgNPWCVOoI/VAvxLy1TWcI/AAAAAAAABH8/oWkExZ2wb0U/s1600/IMG_1750.jpg)
+![](http://2.bp.blogspot.com/-SNgNPWCVOoI/VAvxLy1TWcI/AAAAAAAABH8/oWkExZ2wb0U/s2048/IMG_1750.jpg)
 
-![](http://4.bp.blogspot.com/-anMHjO2DjfQ/VAvxMGimcLI/AAAAAAAABIQ/xYeCSoZot-8/s1600/IMG_1751.jpg)
+![](http://4.bp.blogspot.com/-anMHjO2DjfQ/VAvxMGimcLI/AAAAAAAABIQ/xYeCSoZot-8/s2048/IMG_1751.jpg)
 
-![](http://4.bp.blogspot.com/-agI3sExcC0c/VAvxMaEFEFI/AAAAAAAABIM/kuVG2oz1zVg/s1600/IMG_1752.jpg)
+![](http://4.bp.blogspot.com/-agI3sExcC0c/VAvxMaEFEFI/AAAAAAAABIM/kuVG2oz1zVg/s2048/IMG_1752.jpg)
 
-![](http://1.bp.blogspot.com/-dnN-X1znzyc/VAvxM3E_UpI/AAAAAAAABIc/8e2MuG9o-SA/s1600/IMG_1754.jpg)
+![](http://1.bp.blogspot.com/-dnN-X1znzyc/VAvxM3E_UpI/AAAAAAAABIc/8e2MuG9o-SA/s2048/IMG_1754.jpg)
 
-![](http://1.bp.blogspot.com/-HcawxNSbSoQ/VAvxNKl8vNI/AAAAAAAABIs/l_e5OcepUkc/s1600/IMG_1755.jpg)
+![](http://1.bp.blogspot.com/-HcawxNSbSoQ/VAvxNKl8vNI/AAAAAAAABIs/l_e5OcepUkc/s2048/IMG_1755.jpg)
 
-![](http://3.bp.blogspot.com/-Xvyh8dDG2Hw/VAvxNCerP7I/AAAAAAAABIk/o-bkHHo0dRM/s1600/IMG_1756.jpg)
+![](http://3.bp.blogspot.com/-Xvyh8dDG2Hw/VAvxNCerP7I/AAAAAAAABIk/o-bkHHo0dRM/s2048/IMG_1756.jpg)
 
-![](http://2.bp.blogspot.com/-Mp5Cx9zuua0/VAvxNhKzEdI/AAAAAAAABIw/MBzU8GbbIcQ/s1600/IMG_1757.jpg)
+![](http://2.bp.blogspot.com/-Mp5Cx9zuua0/VAvxNhKzEdI/AAAAAAAABIw/MBzU8GbbIcQ/s2048/IMG_1757.jpg)
 
-![](http://4.bp.blogspot.com/-7huhTpxojNw/VAvxNwk4IxI/AAAAAAAABI0/UfedjWkvf_Q/s1600/IMG_1758.jpg)
+![](http://4.bp.blogspot.com/-7huhTpxojNw/VAvxNwk4IxI/AAAAAAAABI0/UfedjWkvf_Q/s2048/IMG_1758.jpg)
 
-![](http://4.bp.blogspot.com/-fFjzItQ8pe0/VAvxOEh8zeI/AAAAAAAABI4/KPnW6QAxOoE/s1600/IMG_1759.jpg)
+![](http://4.bp.blogspot.com/-fFjzItQ8pe0/VAvxOEh8zeI/AAAAAAAABI4/KPnW6QAxOoE/s2048/IMG_1759.jpg)
 
-![](http://1.bp.blogspot.com/-G5g7w7TBfEI/VAvxObWdgpI/AAAAAAAABI8/TJ3UpQd_DJI/s1600/IMG_1760.jpg)
+![](http://1.bp.blogspot.com/-G5g7w7TBfEI/VAvxObWdgpI/AAAAAAAABI8/TJ3UpQd_DJI/s2048/IMG_1760.jpg)
 
-![](http://4.bp.blogspot.com/-Ty2kaKUQF54/VAvxOa-aW8I/AAAAAAAABJo/ZjGEok0o_PE/s1600/IMG_1761.jpg)
+![](http://4.bp.blogspot.com/-Ty2kaKUQF54/VAvxOa-aW8I/AAAAAAAABJo/ZjGEok0o_PE/s2048/IMG_1761.jpg)
 
-![](http://2.bp.blogspot.com/-UVwME7YOKJE/VAvxOvh3_EI/AAAAAAAABJI/wgkMjKSY0q4/s1600/IMG_1763.jpg)
+![](http://2.bp.blogspot.com/-UVwME7YOKJE/VAvxOvh3_EI/AAAAAAAABJI/wgkMjKSY0q4/s2048/IMG_1763.jpg)
 
-![](http://2.bp.blogspot.com/-F3kmaWoBr6U/VAvxO70PqKI/AAAAAAAABJM/YVv_CPsrPOs/s1600/IMG_1766.jpg)
+![](http://2.bp.blogspot.com/-F3kmaWoBr6U/VAvxO70PqKI/AAAAAAAABJM/YVv_CPsrPOs/s2048/IMG_1766.jpg)
 
 This was our first funpack and honestly it felt like a tremendous haul. The kids and I really appreciated all the little personal touches, too — the poster, the little sticky note with the monster face, the letter; all that stuff combined made us feel like we were getting so much more than our money's worth. Matt, I'm not sure how you do it, but keep it coming, buddy!
