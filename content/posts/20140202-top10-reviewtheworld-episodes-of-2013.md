@@ -3,7 +3,7 @@ title = "Top 10 Review the World Episodes of 2013"
 date = 2014-02-02T22:30:00Z
 categories = ["Reviews"]
 tags = ["Brian Hammons","reviewtheworld.com"]
-images = ["http://2.bp.blogspot.com/-Syn1goyhkSU/USjxC7sA5-I/AAAAAAAABEQ/Wxqz6OsuFBI/s1600/bloglogo.png"]
+images = ["http://2.bp.blogspot.com/-Syn1goyhkSU/USjxC7sA5-I/AAAAAAAABEQ/Wxqz6OsuFBI/s2048/bloglogo.png"]
 +++
 
 Since Brian and Review the World were my main inspirations in starting my own blog, I figured it would be fitting to begin by introducing some of my favorite episodes from the past year. According to Brian, 2013 was one of the busiest years he's ever had on the site, and it shows. He had a ton of great content.

@@ -16,4 +16,4 @@ My intent for this site is somewhat different than Brian's for Review the World;
 
 Thank you for reading.  
 
-![](http://1.bp.blogspot.com/-NINi6nq-3-4/Uu8zF8xolxI/AAAAAAAAAN0/zGt8pKEQQt0/s1600/photo.jpg)
+![](http://1.bp.blogspot.com/-NINi6nq-3-4/Uu8zF8xolxI/AAAAAAAAAN0/zGt8pKEQQt0/s2048/photo.jpg)

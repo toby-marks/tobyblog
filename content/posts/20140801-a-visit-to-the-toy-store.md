@@ -6,7 +6,7 @@ camera = "my iPhone"
 categories = ["Journal"]
 tags = ["Halloween","Augie","Lucy"]
 +++
-![](http://3.bp.blogspot.com/-i7RaY44btHc/U9rGOaPi9sI/AAAAAAAAAtE/RLcy-43mYYw/s1600/IMG_1200.JPG)
+![](http://3.bp.blogspot.com/-i7RaY44btHc/U9rGOaPi9sI/AAAAAAAAAtE/RLcy-43mYYw/s2048/IMG_1200.JPG)
 
 The great thing about being a dad to small kids is that you always have a built-in excuse to be in the toy aisle. And if you have your kids with you then nobody looks twice at you as you gawk at all the amazing stuff on the store shelves these days. We are living in a golden age for toys and board games. Sure, there were a lot of really cool toys that I miss from the seventies and eighties that I wish my kids had a chance to experience, but today's market offers a certain quality and vast variety of toys and other amusements that the old days could never touch.
 
@@ -40,61 +40,61 @@ I admit it. I freaking **LOVE** Lite Brix, and the Moonlight Monsters line in pa
 
 ## The Beatles Yellow Submarine Building Set
 
-![](http://3.bp.blogspot.com/-vAzwxGBT6Bs/U9l6c5QN-cI/AAAAAAAAAr0/cRQRV0B3ReE/s1600/IMG_1194.JPG)
+![](http://3.bp.blogspot.com/-vAzwxGBT6Bs/U9l6c5QN-cI/AAAAAAAAAr0/cRQRV0B3ReE/s2048/IMG_1194.JPG)
 
 I noticed this primarily for its trippyness, and because it seems an odd piece of pop culture to commercialize. To a little kid coming at this with no context, it must seem like a really bizarre toy. I'm sure I would have wanted this for the strangeness factor alone.
 
 ## Fart Toys
 
-![](http://1.bp.blogspot.com/-sEqSnN7OGyo/U9p-JKrHSJI/AAAAAAAAAsI/OL-2IeLzLvA/s1600/IMG_1195.JPG)
+![](http://1.bp.blogspot.com/-sEqSnN7OGyo/U9p-JKrHSJI/AAAAAAAAAsI/OL-2IeLzLvA/s2048/IMG_1195.JPG)
 
-![](http://1.bp.blogspot.com/-ACyrUx27y4A/U9p-IrOg1pI/AAAAAAAAAsE/EebE_lqOctc/s1600/IMG_1201.JPG)
+![](http://1.bp.blogspot.com/-ACyrUx27y4A/U9p-IrOg1pI/AAAAAAAAAsE/EebE_lqOctc/s2048/IMG_1201.JPG)
 
 Never goes out of style, I guess. Except when I was a kid if you wanted to make a fart noise you had to cup your hand under your armpit and pump your arm at the shoulder. Or just actually fart. Now there's tech involved. TheVCubeSolver tried the modulator, which worked like an old moog synthesizer that only made one family of noises. It was sort of interesting to work, in a way. The "Minion" tie-in on the Fart Blaster I found infinitely more annoying than whatever sound it made at whatever high volume. Not a fan of those movies, or their omnipresent marketing.
 
 ## Game of Thrones Card Game
 
-![](http://2.bp.blogspot.com/-odnLIv3dccw/U9p_08pzWTI/AAAAAAAAAsc/HCIwV2M0bEE/s1600/IMG_1196.JPG)
+![](http://2.bp.blogspot.com/-odnLIv3dccw/U9p_08pzWTI/AAAAAAAAAsc/HCIwV2M0bEE/s2048/IMG_1196.JPG)
 
-![](http://2.bp.blogspot.com/-ucZi23xY89Y/U9p_0hwtPRI/AAAAAAAAAsY/8ZaAaszcGo0/s1600/IMG_1197.JPG)
+![](http://2.bp.blogspot.com/-ucZi23xY89Y/U9p_0hwtPRI/AAAAAAAAAsY/8ZaAaszcGo0/s2048/IMG_1197.JPG)
 
 A lot of you might find it odd that I have never seen an episode of Game of Thrones. Also never seen Walking Dead, or Breaking Bad, or True Blood, or Lost, for that matter. But I do really love card games, whether of the collectible variety or not. I am familiar with the basic storyline and some of the characters from Game of Thrones, and it strikes me that the show would translate well as a card game, perhaps something similar to [Legend of the Five Rings](http://www.l5r.com/).
 
 ## Vibrating Football Game
 
-![](http://4.bp.blogspot.com/-0Qu3ylBSzPw/U9qB4TNyv6I/AAAAAAAAAss/KbPx6FGwohQ/s1600/IMG_1198.JPG)
+![](http://4.bp.blogspot.com/-0Qu3ylBSzPw/U9qB4TNyv6I/AAAAAAAAAss/KbPx6FGwohQ/s2048/IMG_1198.JPG)
 
 Now this is a real blast from the past. I never owned one personally, but my cousin had a set. I don't recall it working all that well, and it made a hell of a racket. Since Hollywood is currently mining boardgames for new movie ideas, I wonder if anybody has a script ready for Vibrating Football The Movie?
 
 ## Monster 500 Racers
 
-![](http://2.bp.blogspot.com/-NiyvNhqb1L8/U9rGOj7vrtI/AAAAAAAAAtI/QRaxacCUEK0/s1600/IMG_1199.JPG)
+![](http://2.bp.blogspot.com/-NiyvNhqb1L8/U9rGOj7vrtI/AAAAAAAAAtI/QRaxacCUEK0/s2048/IMG_1199.JPG)
 
-![](http://3.bp.blogspot.com/-i7RaY44btHc/U9rGOaPi9sI/AAAAAAAAAtE/RLcy-43mYYw/s1600/IMG_1200.JPG)
+![](http://3.bp.blogspot.com/-i7RaY44btHc/U9rGOaPi9sI/AAAAAAAAAtE/RLcy-43mYYw/s2048/IMG_1200.JPG)
 
 These things reminded me of a certain style of artwork featured in Cracked Magazine waaaaay back in the day. All those grotesque or exaggerated characters, mouths agape, in their comically undersized hot rods, one hand raised defiantly, the other usually gripped around a gear shift, hearken back to the days when derbys and cross-country car races were an entertainment phenomenon. So much so that they almost seem archaic now. Riding hard on the (Universal) monster theme, this toy line served as yet another reminder that Halloween is just around the corner, and there were plenty of others to be found.
 
 ## Pac Man Plush Dolls
 
-![](http://4.bp.blogspot.com/-WO2h0P19ssA/U9rGPK7P3iI/AAAAAAAAAtM/pJ4QnxYLuIc/s1600/IMG_1203.JPG)
+![](http://4.bp.blogspot.com/-WO2h0P19ssA/U9rGPK7P3iI/AAAAAAAAAtM/pJ4QnxYLuIc/s2048/IMG_1203.JPG)
 
 There was tons of Nintendo merchandise of all sorts scattered throughout the store, but also a lot of Pac Man stuff. I guess the character's undergoing a resurgence. Maybe for the retro appeal? Or is it an anniversary year? At any rate, Pac Man ought to get some sort of acknowledgement for longevity, because (not counting Mario, who would only achieve real fame years after his introduction) there is no greater, more enduring icon of arcade gaming. While the Nintendo mascot still has a wide following, I have to wonder who actually plays Pac Man games these days, particularly the new ones they keep inexplicably making? How well can they really sell? I imagine they must make loads more money from merchandising than from any games. Pac Man Jr. was my favorite all time game in the series, but hard to find in an arcade. And it's still a terrific game if you can play it on an emulator.
 
-![](http://3.bp.blogspot.com/-HPyOGxUP3XE/U9rLZdGzS-I/AAAAAAAAAt0/ZI2pHj0m35Y/s1600/il_340x270.543100472_il2b.jpg)
+![](http://3.bp.blogspot.com/-HPyOGxUP3XE/U9rLZdGzS-I/AAAAAAAAAt0/ZI2pHj0m35Y/s2048/il_340x270.543100472_il2b.jpg)
 
 Something like the gold Pac Man shirt I had as a kid ^^^
 
 ## Marvel Super Hero Mashers
 
-![](http://2.bp.blogspot.com/-ni0db9LvwiU/U9rGPc2MhnI/AAAAAAAAAtQ/iqDLAkP3fBs/s1600/IMG_1204.jpg)
+![](http://2.bp.blogspot.com/-ni0db9LvwiU/U9rGPc2MhnI/AAAAAAAAAtQ/iqDLAkP3fBs/s2048/IMG_1204.jpg)
 
-![](http://3.bp.blogspot.com/-3dk7PfbQ_ic/U9rGPcapAgI/AAAAAAAAAtU/mBJUNut9xtw/s1600/IMG_1205.jpg)
+![](http://3.bp.blogspot.com/-3dk7PfbQ_ic/U9rGPcapAgI/AAAAAAAAAtU/mBJUNut9xtw/s2048/IMG_1205.jpg)
 
 Ok, I mostly noticed this because I can spot a jack-o-lantern from about 1000 yards away. When I was a kid, Green Goblin was one of my favorite comic book villains simply because of the pumpkin bombs and Goblin Glider. I used to fantasize about having a Goblin Glider of my own, which I would (amazingly) use for such boring tasks like driving to and from school, or visiting relatives. My imagination can be surprisingly dull at times. The idea of interchanging limbs among various toys in the same line is nothing new; we used to do that all the time with the arms and heads of He-Man action figures.<
 
 ## Giant Size John Cena
 
-![](http://2.bp.blogspot.com/-vU_BUr25yZw/U9rGNqfvhdI/AAAAAAAAAs8/RrrJElfH86Y/s1600/IMG_1202.jpg)
+![](http://2.bp.blogspot.com/-vU_BUr25yZw/U9rGNqfvhdI/AAAAAAAAAs8/RrrJElfH86Y/s2048/IMG_1202.jpg)
 
 Seriously, who would want this? It was like three and a half feet tall. I mean, if you were a little kid it would be like a life-size mannequin you could actually pretend-wrestle with. What would you do with this monstrosity? Can you imagine owning a whole lineup of wrestlers this size? Where would you put them? It would be like the army of clay soldiers that that Chinese emperor was buried with. Toy Cena's guns are actually bigger than my 12 year old son's! Who wants that? Toy fetishists, that's who.
 

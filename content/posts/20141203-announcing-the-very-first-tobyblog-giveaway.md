@@ -3,9 +3,9 @@ title = "Announcing the Very First Tobyblog Giveaway!"
 date = 2014-12-03T15:42:00Z
 categories = ["Journal"]
 tags = ["Halloween","tobyblog.com"]
-images = ["http://2.bp.blogspot.com/-dES21Y3gXxw/VHjUpreAJVI/AAAAAAAABnY/qgv9Zf_dOYY/s1600/DSC02792.jpg"]
+images = ["http://2.bp.blogspot.com/-dES21Y3gXxw/VHjUpreAJVI/AAAAAAAABnY/qgv9Zf_dOYY/s2048/DSC02792.jpg"]
 +++
-![](http://2.bp.blogspot.com/-dES21Y3gXxw/VHjUpreAJVI/AAAAAAAABnY/qgv9Zf_dOYY/s1600/DSC02792.jpg)
+![](http://2.bp.blogspot.com/-dES21Y3gXxw/VHjUpreAJVI/AAAAAAAABnY/qgv9Zf_dOYY/s2048/DSC02792.jpg)
 
 Would you like to win this original 8 x 10 photograph that hung in our house this past Halloween? 
 
