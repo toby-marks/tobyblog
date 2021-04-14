@@ -4,6 +4,7 @@ date = 2015-03-22T08:04:00Z
 categories = ["Journal"]
 tags = ["Brian Hammons","reviewtheworld.com"]
 minipost = "true"
+images = ["http://4.bp.blogspot.com/-_jNkX_Wn1RU/VQ7ZBI5M3kI/AAAAAAAABwM/vUXpRNftTvU/s1600/IMG_1240.JPG"]
 +++
 ![](http://4.bp.blogspot.com/-_jNkX_Wn1RU/VQ7ZBI5M3kI/AAAAAAAABwM/vUXpRNftTvU/s1600/IMG_1240.JPG)
 

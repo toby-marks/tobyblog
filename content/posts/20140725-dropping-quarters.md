@@ -7,6 +7,8 @@ images = ["http://1.bp.blogspot.com/-Jbl4GY7Jctw/U9M6_8Hpv5I/AAAAAAAAAkw/WhrAC0X
 +++
 There is a little independent retro gaming store in Plano that is the closest thing to a real arcade that I've ever experienced with the kids. There are still a lot of places you could call "arcades", mostly attached to chain family restaurants like Chuck-E-Cheese or entertainment complexes like Fun Zone or Amazing Jakes. But the key differentiator for me is that the machines take real quarters, preferably only one per play. I always hated changing tokens, and to me the idea of plopping tokens into a machine screws with the mythology somehow.
 
+<!--more-->
+
 The store is called FX Game Exchange and it's a really cool place. They have an incredible selection of games from all eras of video gaming, and not only that but rare consoles and equipment, too. They even sell hacked cartridges for old systems, the kind that you would normally only be able to get online. They hold tournaments (very well-attended) and give discounts for good grades. It's that kind of place. But best of all they also have a handful of old arcade cabinets, including this little gem
 
 ![](http://1.bp.blogspot.com/-Jbl4GY7Jctw/U9M6_8Hpv5I/AAAAAAAAAkw/WhrAC0XVP4s/s1600/IMG_1206.jpg)
