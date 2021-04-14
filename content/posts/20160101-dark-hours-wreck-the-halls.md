@@ -2,7 +2,8 @@
 title = "Dark Hour's Wreck the Halls"
 date = 2016-01-01T17:10:00Z
 categories = ["Reviews"]
-tags = ["Krampus", "Christmas", "Dark Hour Haunted House", "thevcubesolver"]
+tags = ["Dark Hour Haunted House", "Augie", "Halloween"]
+images = ["https://farm2.staticflickr.com/1695/23471270343_deab39ff5a_z.jpg"]
 +++
 
 {{< flickr "Wreck the Halls"
@@ -10,8 +11,10 @@ tags = ["Krampus", "Christmas", "Dark Hour Haunted House", "thevcubesolver"]
            "https://www.flickr.com/photos/tobyjmarks/23471270343/"
            "https://farm2.staticflickr.com/1695/23471270343_deab39ff5a_z.jpg" >}}
 
-2015 was the year I discovered [Dark Hour Haunted House](http://www.tobyblog.com/2015/09/the-dark-hour-best-haunt-ever.html), and you probably realize by now what a fan I am. We are very fortunate to live in an area with access to a year round haunt. To be able to be successful at that requires a level of quality and showmanship, frankly, above your average haunt. Not to detract from anyone else in the business (no one can do it all!), but I think it does hold true. In getting to know these guys and the haunt itself a little better over these past few months, it is becoming clear how much of an inspiration they are to other folks in the industry. And I've still not yet discovered all they have to offer!
+2015 was the year I discovered [Dark Hour Haunted House]({{< ref "20150921-the-dark-hour-best-haunt-ever.md" >}}), and you probably realize by now what a fan I am. We are very fortunate to live in an area with access to a year round haunt. To be able to be successful at that requires a level of quality and showmanship, frankly, above your average haunt. Not to detract from anyone else in the business (no one can do it all!), but I think it does hold true. In getting to know these guys and the haunt itself a little better over these past few months, it is becoming clear how much of an inspiration they are to other folks in the industry. And I've still not yet discovered all they have to offer!
+
 <!--more-->
+
 {{< flickr "Krampus greets the guests"
            "Krampus greets the guests"
            "https://www.flickr.com/photos/tobyjmarks/23481217363/"
