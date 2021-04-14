@@ -5,9 +5,11 @@ categories = ["Reviews"]
 tags = ["food"]
 images = ["https://lh3.googleusercontent.com/-rHaibYXANIw/U8_Hy4ggYiI/AAAAAAAAAio/oW6JSP1QZeQ/s640/blogger-image-1201992581.jpg"]
 +++
+![](https://lh3.googleusercontent.com/-rHaibYXANIw/U8_Hy4ggYiI/AAAAAAAAAio/oW6JSP1QZeQ/s640/blogger-image-1201992581.jpg)
+
 New Orleans is, of course, a city known for its food, home to some of the best chefs in the country. I was in town recently, so I figured I'd check out some of the local establishments and give you guys a virtual sight-tasting tour. Let's start with the hotel vending machine.
 
-![](https://lh3.googleusercontent.com/-rHaibYXANIw/U8_Hy4ggYiI/AAAAAAAAAio/oW6JSP1QZeQ/s640/blogger-image-1201992581.jpg)
+<!--more-->
 
 Hey, I hadn't eaten all day and I had a couple of hours to kill till my family showed up. This looked like it'd fill a hole. Besides, I hadn't tried these before, and they reminded me of those little cinnamon twists you get at Taco Bell.
 

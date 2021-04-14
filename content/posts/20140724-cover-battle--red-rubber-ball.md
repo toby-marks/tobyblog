@@ -5,8 +5,9 @@ date = 2014-07-24T21:58:00Z
 categories = ["Music"]
 tags = ["pop music"]
 +++
-
 I woke up this morning with this song stuck in my head, thinking about my dad and the good progress he's making recovering from a triple bypass operation.
+
+<!--more-->
 
 I probably thought of it because I noticed it was in the repertoire of local musician Bruce Wilder, who graced us at the coffee shop one evening with his guitar.
 

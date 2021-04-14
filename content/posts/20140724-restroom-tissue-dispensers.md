@@ -12,6 +12,8 @@ This keeps happening to me over and over and over again lately. I have to make u
 
 Now what is wrong with this picture? Take a look at how this works.
 
+<!--more-->
+
 ![](https://lh4.googleusercontent.com/-JCOUiFmIvJk/U9Fw4TbxbOI/AAAAAAAAAkQ/NDn5bZH8FqQ/s640/blogger-image--1827737721.jpg)
 
 You're supposed to pull the sheets from the bottom, and the angular momentum of your pull dispenses the next sheet. But what if there's no sheet? Huh? What then?!
