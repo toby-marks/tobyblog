@@ -1,8 +1,9 @@
 +++
 title = "The Dark Hour - Best Haunt Ever!"
 date = 2015-09-21T22:03:00Z
-categories = ["Journal"]
+categories = ["Reviews"]
 tags = ["Brian Hammons","Dark Hour Haunted House", "Augie", "Halloween"]
+images = ["http://2.bp.blogspot.com/-2FRIs6Ct-Fc/VgDXNDwW06I/AAAAAAAACcY/NajCMB6v3Rc/s1600/DH17.jpg"]
 +++
 ![](http://2.bp.blogspot.com/-2FRIs6Ct-Fc/VgDXNDwW06I/AAAAAAAACcY/NajCMB6v3Rc/s1600/DH17.jpg)
 
