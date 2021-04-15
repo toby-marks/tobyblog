@@ -12,7 +12,7 @@ tags = ["geocaching", "thevcubesolver", "toys", "Carl", "theponyowner"]
 
 *What the pack?!*
 
-My cousin Carl, [as previously featured on Tobyblog]({{< ref "/posts/sfanthor-house-of-wax.md" >}}), sent this to me for my birthday. Get a load. It's almost like he knows me.
+My cousin Carl, [as previously featured on Tobyblog]({{< ref "20160415-sfanthor-house-of-wax.md" >}}), sent this to me for my birthday. Get a load. It's almost like he knows me.
 <!--more-->
 
 {{< flickr "Posing, For Scale"
