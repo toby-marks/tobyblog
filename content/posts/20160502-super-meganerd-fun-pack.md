@@ -3,7 +3,7 @@ title = "Super Meganerd Fun Pack!"
 date = 2016-05-02T21:21:00Z
 updated = 2018-04-23
 categories = ["Unboxings"]
-tags = ["geocaching", "thevcubesolver", "toys", "Carl", "theponyowner"]
+tags = ["geocaching", "Augie", "Carl", "Lucy"]
 +++
 {{< flickr "The Super Meganerd Fun Pack"
            "The Super Meganerd Fun Pack"
