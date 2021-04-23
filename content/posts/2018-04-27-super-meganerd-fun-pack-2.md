@@ -43,7 +43,7 @@ Could this be the start of a grand birthday tradition? Watch me unbox the second
            "https://farm1.staticflickr.com/876/40741749734_bdc667b0c5_z.jpg" >}}
 -->
 
-Yes, in an unexpected followup to 2016's amazing [Super Meganerd Fun Pack]({{< ref  "/posts/super-meganerd-fun-pack.md" >}}), Carl completely outdid himself with a fantastic new collection of goodies for me and the kids. Once again I was completely humbled by his generosity and thoughtfulness. Carl, thanks so much. And keep them coming! After all, there are *a lot* more Super Mario Bros games you could Photoshop. Just saying.
+Yes, in an unexpected followup to 2016's amazing [Super Meganerd Fun Pack]({{< ref  "20160502-super-meganerd-fun-pack.md" >}}), Carl completely outdid himself with a fantastic new collection of goodies for me and the kids. Once again I was completely humbled by his generosity and thoughtfulness. Carl, thanks so much. And keep them coming! After all, there are *a lot* more Super Mario Bros games you could Photoshop. Just saying.
 
 {{< flickr "So excited"
            "So excited"
