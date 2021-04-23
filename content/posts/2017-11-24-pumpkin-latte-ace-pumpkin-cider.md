@@ -9,7 +9,7 @@ categories = ["Reviews"]
            "Coffee, Pumpkin Pie, and Pumpkin Latte Beer"
            "https://www.flickr.com/photos/tobyjmarks/38604886832/"
            "https://farm5.staticflickr.com/4580/38604886832_7bc4b06488_z.jpg" >}}
-This year while out shopping for turkey and wine, I discovered a couple of very fallish, and very Thanksgiving-appropriate beverages I thought I'd share with you all. One is a new seasonal coffee brew from my favorite DFW brewery [Martin House](http://martinhousebrewing.com/), and the other is a special cider I haven't seen in three years — [Ace's]({{< ref "/posts/ace-pineapple-cider--shannon-irish-red.md" >}}) own extraordinary Pumpkin Cider. Read on!
+This year while out shopping for turkey and wine, I discovered a couple of very fallish, and very Thanksgiving-appropriate beverages I thought I'd share with you all. One is a new seasonal coffee brew from my favorite DFW brewery [Martin House](http://martinhousebrewing.com/), and the other is a special cider I haven't seen in three years — [Ace's]({{< ref "20160802-ace-pineapple-cider-shannon-irish-red.md" >}}) own extraordinary Pumpkin Cider. Read on!
 <!--more-->
 
 {{< flickr "Pumpkin Latte Can"
