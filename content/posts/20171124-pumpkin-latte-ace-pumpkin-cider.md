@@ -1,21 +1,18 @@
 +++
-date = "2017-11-24T10:49:02-06:00"
 title = "Pumpkin Latte Beer and Ace Pumpkin Cider"
+date = "2017-11-24T10:49:02-06:00"
 description = "I review a couple of very fallish and Thanksgiving-appropriate beverages."
-tags = ["reviews", "beer", "cider", "Thanksgiving", "Ace", "Martin House"]
 categories = ["Reviews"]
+tags = ["alcohol","Thanksgiving"]
+images = [""]
 +++
-{{< flickr "Coffee, Pumpkin Pie, and Pumpkin Latte Beer"
-           "Coffee, Pumpkin Pie, and Pumpkin Latte Beer"
-           "https://www.flickr.com/photos/tobyjmarks/38604886832/"
-           "https://farm5.staticflickr.com/4580/38604886832_7bc4b06488_z.jpg" >}}
+![](https://live.staticflickr.com/4580/38604886832_fe51a449c7_k.jpg)
+
 This year while out shopping for turkey and wine, I discovered a couple of very fallish, and very Thanksgiving-appropriate beverages I thought I'd share with you all. One is a new seasonal coffee brew from my favorite DFW brewery [Martin House](http://martinhousebrewing.com/), and the other is a special cider I haven't seen in three years — [Ace's]({{< ref "20160802-ace-pineapple-cider-shannon-irish-red.md" >}}) own extraordinary Pumpkin Cider. Read on!
 <!--more-->
 
-{{< flickr "Pumpkin Latte Can"
-           "Pumpkin Latte Can"
-           "https://www.flickr.com/photos/tobyjmarks/37919629004/"
-           "https://farm5.staticflickr.com/4537/37919629004_7da5a44c66_z.jpg" >}}
+![](https://live.staticflickr.com/4537/37919629004_f9403092f8_k.jpg)
+
 Martin House won me over years ago with their amazing [Pretzel Stout](http://martinhousebrewing.com/the-beer/pretzel-stout/) beer and [River House](http://martinhousebrewing.com/the-beer/river-house/) saisonal ale. Very distinctive on their own, together they drew my attention to this Fort Worth brewer, and I've since tried several others of their generally outstanding beers, but I won't lie about something else that really draws me to them.
 
 ![](http://martinhousebrewing.com/wp-content/uploads/2014/01/THIS-ONE.png)
