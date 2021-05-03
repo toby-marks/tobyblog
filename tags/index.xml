@@ -116,7 +116,7 @@
     </item>
     
     <item>
-      <title>reviews</title>
+      <title>Reviews</title>
       <link>http://tobyblog.com/tags/reviews/</link>
       <pubDate>Mon, 04 May 2020 17:33:01 -0500</pubDate>
       
@@ -989,42 +989,6 @@
     </item>
     
     <item>
-      <title>Ace</title>
-      <link>http://tobyblog.com/tags/ace/</link>
-      <pubDate>Fri, 24 Nov 2017 10:49:02 -0600</pubDate>
-      
-      <guid>http://tobyblog.com/tags/ace/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>beer</title>
-      <link>http://tobyblog.com/tags/beer/</link>
-      <pubDate>Fri, 24 Nov 2017 10:49:02 -0600</pubDate>
-      
-      <guid>http://tobyblog.com/tags/beer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cider</title>
-      <link>http://tobyblog.com/tags/cider/</link>
-      <pubDate>Fri, 24 Nov 2017 10:49:02 -0600</pubDate>
-      
-      <guid>http://tobyblog.com/tags/cider/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Martin House</title>
-      <link>http://tobyblog.com/tags/martin-house/</link>
-      <pubDate>Fri, 24 Nov 2017 10:49:02 -0600</pubDate>
-      
-      <guid>http://tobyblog.com/tags/martin-house/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Thanksgiving</title>
       <link>http://tobyblog.com/tags/thanksgiving/</link>
       <pubDate>Fri, 24 Nov 2017 10:49:02 -0600</pubDate>
@@ -1052,20 +1016,20 @@
     </item>
     
     <item>
-      <title>candles</title>
-      <link>http://tobyblog.com/tags/candles/</link>
+      <title>stores</title>
+      <link>http://tobyblog.com/tags/stores/</link>
       <pubDate>Mon, 04 Sep 2017 09:41:11 -0500</pubDate>
       
-      <guid>http://tobyblog.com/tags/candles/</guid>
+      <guid>http://tobyblog.com/tags/stores/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>soda pop</title>
-      <link>http://tobyblog.com/tags/soda-pop/</link>
+      <title>reviewtheworld.com</title>
+      <link>http://tobyblog.com/tags/reviewtheworld.com/</link>
       <pubDate>Sun, 01 Jan 2017 23:24:00 +0000</pubDate>
       
-      <guid>http://tobyblog.com/tags/soda-pop/</guid>
+      <guid>http://tobyblog.com/tags/reviewtheworld.com/</guid>
       <description></description>
     </item>
     
@@ -1093,15 +1057,6 @@
       <pubDate>Sun, 11 Sep 2016 13:36:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/tags/holiday-warehouse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>stores</title>
-      <link>http://tobyblog.com/tags/stores/</link>
-      <pubDate>Sun, 11 Sep 2016 13:36:00 +0000</pubDate>
-      
-      <guid>http://tobyblog.com/tags/stores/</guid>
       <description></description>
     </item>
     
@@ -1322,15 +1277,6 @@
     </item>
     
     <item>
-      <title>reviewtheworld.com</title>
-      <link>http://tobyblog.com/tags/reviewtheworld.com/</link>
-      <pubDate>Sun, 22 Mar 2015 08:04:00 +0000</pubDate>
-      
-      <guid>http://tobyblog.com/tags/reviewtheworld.com/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>neighborhood</title>
       <link>http://tobyblog.com/tags/neighborhood/</link>
       <pubDate>Sun, 25 Jan 2015 16:40:00 +0000</pubDate>
@@ -1354,6 +1300,15 @@
       <pubDate>Wed, 01 Oct 2014 15:50:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/tags/lemax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>soda pop</title>
+      <link>http://tobyblog.com/tags/soda-pop/</link>
+      <pubDate>Wed, 01 Oct 2014 15:50:00 +0000</pubDate>
+      
+      <guid>http://tobyblog.com/tags/soda-pop/</guid>
       <description></description>
     </item>
     

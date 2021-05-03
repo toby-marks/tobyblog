@@ -1514,19 +1514,7 @@
     <loc>http://tobyblog.com/posts/2017-12-31-top-nine/</loc>
     <lastmod>2017-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/tags/ace/</loc>
-    <lastmod>2017-11-24T10:49:02-06:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/tags/beer/</loc>
-    <lastmod>2017-11-24T10:49:02-06:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/tags/cider/</loc>
-    <lastmod>2017-11-24T10:49:02-06:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/tags/martin-house/</loc>
-    <lastmod>2017-11-24T10:49:02-06:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/posts/2017-11-24-pumpkin-latte-ace-pumpkin-cider/</loc>
+    <loc>http://tobyblog.com/posts/20171124-pumpkin-latte-ace-pumpkin-cider/</loc>
     <lastmod>2017-11-24T10:49:02-06:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/tags/thanksgiving/</loc>
@@ -1553,10 +1541,10 @@
     <loc>http://tobyblog.com/photos/2017-09-07-geocaching-maxwell-creek/</loc>
     <lastmod>2017-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/tags/candles/</loc>
+    <loc>http://tobyblog.com/posts/20170904-yankee-candle-halloween/</loc>
     <lastmod>2017-09-04T09:41:11-05:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/2017-09-04-yankee-candle-halloween/</loc>
+    <loc>http://tobyblog.com/tags/stores/</loc>
     <lastmod>2017-09-04T09:41:11-05:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/photos/2017-09-02-solar-eclipse/</loc>
@@ -1574,10 +1562,10 @@
     <loc>http://tobyblog.com/videos/america-skittles-review/</loc>
     <lastmod>2017-08-13T23:07:25-05:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/tags/soda-pop/</loc>
+    <loc>http://tobyblog.com/tags/reviewtheworld.com/</loc>
     <lastmod>2017-01-01T23:24:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/top-10-review-the-world-episodes-of-2015-2016/</loc>
+    <loc>http://tobyblog.com/posts/20170101-top-10-review-the-world-episodes-of-2015-2016/</loc>
     <lastmod>2017-01-01T23:24:00+00:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/posts/20160911-august-into-december-at-the-holiday-warehouse/</loc>
@@ -1590,9 +1578,6 @@
     <lastmod>2016-09-11T13:36:00+00:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/tags/holiday-warehouse/</loc>
-    <lastmod>2016-09-11T13:36:00+00:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/tags/stores/</loc>
     <lastmod>2016-09-11T13:36:00+00:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/tags/winter/</loc>
@@ -1772,9 +1757,6 @@
     <loc>http://tobyblog.com/posts/20150322-noshing-tacos-with-review-the-world/</loc>
     <lastmod>2015-03-22T08:04:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/tags/reviewtheworld.com/</loc>
-    <lastmod>2015-03-22T08:04:00+00:00</lastmod>
-  </url><url>
     <loc>http://tobyblog.com/videos/my-first-night-cache/</loc>
     <lastmod>2015-01-25T16:40:00+00:00</lastmod>
   </url><url>
@@ -1803,6 +1785,9 @@
     <lastmod>2014-10-18T06:56:00+00:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/tags/lemax/</loc>
+    <lastmod>2014-10-01T15:50:00+00:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/tags/soda-pop/</loc>
     <lastmod>2014-10-01T15:50:00+00:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/videos/the-tobyblog-halloween-special/</loc>
