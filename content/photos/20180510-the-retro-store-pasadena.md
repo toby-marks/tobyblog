@@ -3,7 +3,9 @@ title = "The Retro Store in Pasadena, California"
 date = "2018-05-11T16:42:12-05:00"
 location = "Pasadena, California"
 camera = "iPhone 7 Plus"
-vimage = "https://farm1.staticflickr.com/946/42090262291_c42d9822cd_k.jpg"
+categories = ["Reviews"]
+tags = ["stores","toys","travel","California","Pasadena"]
+image = "https://farm1.staticflickr.com/946/42090262291_c42d9822cd_k.jpg"
 images = ["https://farm1.staticflickr.com/946/42090262291_c42d9822cd_k.jpg",
 "https://farm1.staticflickr.com/972/27220846447_89b31a5db6_k.jpg",
 "https://farm1.staticflickr.com/905/41190106495_50ac61a944_z.jpg",
@@ -27,26 +29,17 @@ images = ["https://farm1.staticflickr.com/946/42090262291_c42d9822cd_k.jpg",
 "https://farm1.staticflickr.com/904/42090256091_abb90dd6a4_k.jpg"
 ]
 +++
-{{< flickr "The Retro Store Storefront"
-           "The Retro Store Storefront"
-           "https://www.flickr.com/photos/tobyjmarks/42090262291/"
-           "https://farm1.staticflickr.com/946/42090262291_c42d9822cd_k.jpg" >}}
+![](https://live.staticflickr.com/946/42090262291_c42d9822cd_k.jpg)
 <!--more-->
 
 While in Pasadena recently I got a chance to visit [The Retro Store](http://www.retrostoreonline.com) and peruse their large and varied inventory of nostalgic comics and toys. The owners were very friendly and welcoming people, and graciously allowed me to take a few pictures of their stock. I was impressed at the variety of stuff they were able to cram into their space. Unfortunately I wasn't able to spend much time there, as they needed to close early to put up a new and largish comics display stand, but they encouraged me to drop in again next time I'm town, or to visit their [online store](http://www.retrostoreonline.com/shop.html). Give it a look yourself.
 
-{{< flickr "Comics Display Stand"
-           "Comics Display Stand"
-           "https://www.flickr.com/photos/tobyjmarks/27220846447/"
-           "https://farm1.staticflickr.com/972/27220846447_89b31a5db6_k.jpg" >}}
-{{< flickr "Batman vs The Hulk"
-           "Batman vs The Hulk"
-           "https://www.flickr.com/photos/tobyjmarks/41190106495/"
-           "https://farm1.staticflickr.com/905/41190106495_50ac61a944_z.jpg" >}}
-{{< flickr "Batman Stuff"
-           "Batman Stuff"
-           "https://www.flickr.com/photos/tobyjmarks/42045720162/"
-           "https://farm1.staticflickr.com/981/42045720162_ac0e54930e_z.jpg" >}}
+![](https://live.staticflickr.com/972/27220846447_89b31a5db6_k.jpg)
+
+![](https://live.staticflickr.com/905/41190106495_f204e7378e_k.jpg)
+
+![](https://live.staticflickr.com/981/42045720162_a9342546d8_k.jpg)
+
 {{< flickr "Dr. Dude Pinball Machine"
            "Dr. Dude Pinball Machine"
            "https://www.flickr.com/photos/tobyjmarks/42045720732/"

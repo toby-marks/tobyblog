@@ -3,7 +3,7 @@ title = "A Few of My Favorite Christmas Songs"
 Description = "Songs old and new for your holiday enjoyment, and mine."
 date = "2018-12-21T16:44:08-06:00"
 categories = ["Music"]
-tags = ["music", "YouTube", "Christmas"]
+tags = ["Christmas"]
 +++
 
 {{< youtube S6wDzvibd_Q >}}
@@ -47,14 +47,16 @@ I like to listen to Spanish guitar when I study or work. I find it both calming 
 A carol/spiritual with a strong, driving rhythm and killer vocals from Folk music's most commercially successful group. I count this one and *A Soalin'* (counted as an Advent song, it's actually a Halloween song — but that's another story) among my all time favorite Christmas tunes. The way Mary's brash voice constrasts with the studiously mellow voices of the other two is my favorite thing about that group.
 
 ### Have Yourself a Merry Little Christmas — Rod McKuen
-{{< youtube PjDXaZ-LeI4 >}}
+{{< youtube yy3Rlun8pAo >}}
 
 Rod's voice is an acquired taste. But for those who develop an appreciation for his quirky voice and raspy throat, there's probably not a better pairing of carol and singer. 
 
 ### O Holy Night — Glenn Yarbrough
-{{< youtube inJmNkPFDGc >}}
+{{< youtube NCvRC6DAkI4 >}}
 
 Glenn begins the carol with a poem, as he liked to do so often, borrowing a technique, I think, from his favorite songwriter Rod McKuen. There are a lot of really awful renditions of this song, probably because musically it's the best of the traditional carols, so many who have an overly high estimation of their own talent like to put their spin on it. It was especially popular again around 10-15 years ago. Glenn treats the work with utmost respect, and has the talent and voice to do it justice.
+
+*[Update: the original video was removed. I link to a new one where you can hear the song in the second half of the video.]*
 
 ### A Christmas Carol — from Scrooge (1970)
 {{< youtube CG7Z1AJNMCM >}}
@@ -64,7 +66,7 @@ I fell in love with this movie about 25 years ago after watching a broadcast on 
 This song opens the film and I love the triumphant tone.
 
 ### Christmas Time Is Here (Instrumental) — Vince Guaraldi
-{{< youtube RgIc51rBRxI >}}
+{{< youtube YvI_FNrczzQ >}}
 
 Nothing captures the beauty of 20th century American Christmas quite like this soft and contemplative melody from Vince Guaraldi and his Trio. When I listen to this, it's snowing in my mind. It both rings in and closes out the season for me, and as I listen here in the dark of my home, enjoying the warm, soft glow cast by the tree and a hundred other lights strung up over banisters and skirting the windows around kitchen and den, I toast it now with a frothy mug of my favorite brandied nog.
 
