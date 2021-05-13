@@ -4,9 +4,11 @@ date = "2019-09-09T20:35:46-05:00"
 location = "Grand Canyon National Park, Arizona"
 camera = "Sony A7RII, Nikon Coolpix P1000"
 series = ["2019 Summer Vacation"]
+images = ["https://live.staticflickr.com/65535/48709006971_7eb3810ac2_o.jpg"]
 +++
 <img src="https://live.staticflickr.com/65535/48709006971_7eb3810ac2_o.jpg">
 <!--more-->
+
 We took a *lot* of pics at the Canyon. *So* many. We actually took two photo tours, [Kassi](https://kassiblogtoo.blogspot.com/2019/08/2019-marks-family-vacation-part-ii.html) and I, the first at dusk and the other at dawn. I ended up spoiling some great opportunities on that first night due to a rookie equipment mistake (I'd inadvertently twisted the exposure knob to its lowest setting), but I think I was able to salvage a few satisfactory images out of it. It took a while to process all these, mostly due to the unusually large amount of panos I had to stitch together. But overall I was pleased with the results. It's a much more satisfying set than last year's, I think, where we stayed in Williams, AZ and were only in the Canyon for the early afternoon, in the harshest midday light. This year we booked a night in the park itself, and so had a little more time to explore on our own. My only regret was that I wasn't able to practice any night photography at the Canyon because of the heavy cloud cover — a not completely unwelcome  weather phenomenon that seemed to follow us from Red Rock and would accompany us the rest of the trip. 
 
 I love the Grand Canyon, though it gets dumped on by a lot of national park snobs. It has a rugged beauty and unique character all its own. No, we've not ventured *into* the Canyon just yet, not with small kids and a family of (let's face it) varying fitness levels. But one day, maybe. Kass and I are talking about training to do the hike in a few years. The main thing that concerns me are my knees. No doubt I'd need to work on conditioning those for the merciless 8-mile staircase that is the ascent out of the Canyon. But I'd so love to experience it in that way, to put feet on ground and dip my hand into the Colorado River. To get some pictures from the *inside* — and yes, that means I'd be carrying some additional weight. But I think it'd be worth it for that kind of privilege and opportunity.

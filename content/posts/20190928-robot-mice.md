@@ -3,12 +3,11 @@ title = "My Love, She Weeps At Many Things"
 description = "A poem by Ray Bradbury"
 date = "2019-02-28T01:41:02-06:00"
 categories = ["Books"]
-tags = ["Ray Bradbury", "poems"]
+tags = ["Ray Bradbury"]
+minipost = "true"
+images = ["https://live.staticflickr.com/7896/46298054945_02b92269c8_k.jpg"]
 +++
-{{< flickr "Nightstand"
-           "Nightstand"
-           "https://www.flickr.com/photos/tobyjmarks/46298054945/"
-           "https://farm8.staticflickr.com/7896/46298054945_02b92269c8_k.jpg" >}}
+![](https://live.staticflickr.com/7896/46298054945_02b92269c8_k.jpg)
 
 My love, she weeps at many things,<br>
 I would not for the world stop up her tears;<br>

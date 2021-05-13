@@ -3,12 +3,10 @@ title = "Ash Wednesday, Great Lent"
 description = "For Catholics, this is the beginning of Lent. For me, I'm already in it."
 date = "2019-03-06T23:28:11-06:00"
 categories = ["Journal"]
-tags = ["Orthodox", "Lent", "religion"]
+tags = ["religion"]
+images = ["https://live.staticflickr.com/7851/40345372543_8333c2827e_k.jpg"]
 +++
-{{< flickr "Theotokos Icon"
-           "Theotokos Icon"
-           "https://www.flickr.com/photos/tobyjmarks/40345372543/"
-           "https://farm8.staticflickr.com/7851/40345372543_3e0f96a5b4_b.jpg" >}}
+![](https://live.staticflickr.com/7851/40345372543_8333c2827e_k.jpg)
 
 Today is Ash Wednesday, the Catholic holy day that begins the penitential season of Lent. This year I will not be celebrating as a Catholic.
 
