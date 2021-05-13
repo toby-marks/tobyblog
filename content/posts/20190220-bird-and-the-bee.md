@@ -3,9 +3,9 @@ title = "I Can't Get Over This Cover Album"
 description = "Bird and the Bee have a dreamy, synth-y take on the Hall and Oates library"
 date = "2019-02-20T23:07:28-08:00"
 categories = ["Music"]
-tags = ["music", "YouTube", "covers"]
+tags = ["pop"]
 +++
-I discovered the The Bird and Bee this past December when I heard their rendition of [The Twelve Days of Christmas]({{< ref "/posts/2018-12-21-my-favorite-christmas-songs.md" >}}) at a bar in Honolulu. That led me to this album, and I've been burning it up lately on drives and at work. 
+I discovered the The Bird and Bee this past December when I heard their rendition of [The Twelve Days of Christmas]({{< ref "20181221-my-favorite-christmas-songs.md" >}}) at a bar in Honolulu. That led me to this album, and I've been burning it up lately on drives and at work. 
 
 {{< youtube V7rExwCkRYI >}}
 

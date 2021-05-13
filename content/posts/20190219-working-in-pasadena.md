@@ -3,12 +3,10 @@ title = "Out West Again"
 description = "back again"
 date = "2019-02-19T23:42:48-08:00"
 categories = ["Journal"]
-tags = ["Pasadena", "California", "jobs", "ramen", "food", "musings"]
+tags = ["Pasadena", "California", "travel", "food"]
+images = ["https://live.staticflickr.com/7877/40188168123_a9db90f2c8_o.jpg"]
 +++
-{{< flickr "Twilight Over Pasadena"
-           "The day is over. Time to return to the hotel."
-           "https://www.flickr.com/photos/tobyjmarks/46429733404/"
-           "https://farm8.staticflickr.com/7804/46429733404_b4819b49bc_k.jpg" >}}
+![](https://live.staticflickr.com/7804/46429733404_0b482a5236_o.jpg)
 
 What should I say? What can I say? Perhaps a little about where I find myself these days. What I'm up to. Best keep it brief. I want to encourage myself to update these pages a little more frequently this year. 
 <!--more-->
@@ -18,19 +16,13 @@ The part of town I'm in they call "Old Pasadena". Everything is walkable. The st
 
 But there's one or two spots I always hit up when I'm here. Because Pasadena has some of the best ramen in the country. 🍜💛
 
-{{< flickr "Hot Sake"
-           "The sake is kept warm by a kind of double-boiler pitcher. I'm sure it has a name."
-           "https://www.flickr.com/photos/tobyjmarks/46429733134/"
-           "https://farm8.staticflickr.com/7854/46429733134_dc4d514c86_k.jpg" >}}
+![](https://live.staticflickr.com/7854/46429733134_2f3650525d_o.jpg)
            
 I've featured some pics from here before. Bone Kettle. Chef owned. They do a Thai spin on ramen. I dig it. 
 
 The warm sake is expensive. But on a chill night it's so soothing. I've been into sake lately. I suppose that's something new. It's very mellowing. Very comforting on the stomach. 
 
-{{< flickr "Broth and Noodles"
-           "Bone Kettle serves my favorite broth in Old Town Pasadena."
-           "https://www.flickr.com/photos/tobyjmarks/40188167603/"
-           "https://farm8.staticflickr.com/7902/40188167603_a0587c0907_k.jpg" >}}
+![](https://live.staticflickr.com/7902/40188167603_b59d42cc16_o.jpg)
           
 I go for the ox tail broth. It's cooked for three days. So rich. Unbelievable flavor. I go for the ox tail dumplings as well. Some of the best tasting stuff I've ever eaten. That brown sauce is magic. 
 
@@ -48,7 +40,4 @@ For me, it's time for bed.
 
 Goodnight.🌛
            
-{{< flickr "C'est La Vie"
-           "That's life on the streets of Pasadena."
-           "https://www.flickr.com/photos/tobyjmarks/40188168123/"
-           "https://farm8.staticflickr.com/7877/40188168123_ccd789dead_k.jpg" >}}
+![](https://live.staticflickr.com/7877/40188168123_a9db90f2c8_o.jpg)
