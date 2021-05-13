@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>oldies on Tobyblog</title>
+    <link>http://tobyblog.com/tags/oldies/</link>
+    <description>Recent content in oldies on Tobyblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Mar 2019 23:31:51 -0700</lastBuildDate><atom:link href="http://tobyblog.com/tags/oldies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jean — Rod McKuen</title>
+      <link>http://tobyblog.com/posts/20190310-jean/</link>
+      <pubDate>Sun, 10 Mar 2019 23:31:51 -0700</pubDate>
+      
+      <guid>http://tobyblog.com/posts/20190310-jean/</guid>
+      <description>Listening.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

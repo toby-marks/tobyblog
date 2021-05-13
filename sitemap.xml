@@ -1220,16 +1220,16 @@
     <loc>http://tobyblog.com/posts/taco-libre/</loc>
     <lastmod>2019-03-14T22:57:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/a-set-of-antique-glasses/</loc>
+    <loc>http://tobyblog.com/posts/20190314-a-set-of-antique-glasses/</loc>
     <lastmod>2019-03-14T22:55:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/el-portal/</loc>
+    <loc>http://tobyblog.com/posts/20190314-el-portal/</loc>
     <lastmod>2019-03-14T22:13:00+00:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/photos/pasadena-street-musician/</loc>
     <lastmod>2019-03-14T21:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/horn-player/</loc>
+    <loc>http://tobyblog.com/posts/20190314-horn-player/</loc>
     <lastmod>2019-03-14T12:06:00+00:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/microposts/first-mulch-of-the-season/</loc>
@@ -1244,34 +1244,37 @@
     <loc>http://tobyblog.com/photos/antiques/</loc>
     <lastmod>2019-03-13T19:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/a-simple-but-powerful-prayer/</loc>
+    <loc>http://tobyblog.com/posts/20190312-a-simple-but-powerful-prayer/</loc>
     <lastmod>2019-03-12T07:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/tags/fr.-lazarus/</loc>
+    <loc>http://tobyblog.com/tags/orthodox/</loc>
     <lastmod>2019-03-12T07:00:00+00:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/photos/poke%CC%81mon-go-in-pasadena/</loc>
     <lastmod>2019-03-12T05:50:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/old-methodist-church/</loc>
+    <loc>http://tobyblog.com/posts/20190312-old-methodist-church/</loc>
     <lastmod>2019-03-12T03:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/let-s-play-poison/</loc>
+    <loc>http://tobyblog.com/posts/20190312-let-s-play-poison/</loc>
     <lastmod>2019-03-12T02:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/for-the-lightly-bosomed-woman/</loc>
+    <loc>http://tobyblog.com/tags/television/</loc>
+    <lastmod>2019-03-12T02:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/posts/20190312-for-the-lightly-bosomed-woman/</loc>
     <lastmod>2019-03-12T01:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/tags/death/</loc>
-    <lastmod>2019-03-11T08:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/posts/tombstone-ideas/</loc>
+    <loc>http://tobyblog.com/posts/20190311-tombstone-ideas/</loc>
     <lastmod>2019-03-11T08:00:00+00:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/microposts/morning-prayers/</loc>
     <lastmod>2019-03-11T07:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/2019-03-10-jean/</loc>
+    <loc>http://tobyblog.com/posts/20190310-jean/</loc>
+    <lastmod>2019-03-10T23:31:51-07:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/tags/oldies/</loc>
     <lastmod>2019-03-10T23:31:51-07:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/tags/rod-mckuen/</loc>
@@ -1286,13 +1289,13 @@
     <loc>http://tobyblog.com/photos/plano-trade-days/</loc>
     <lastmod>2019-03-09T06:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/rise-and-shine/</loc>
+    <loc>http://tobyblog.com/posts/20190309-rise-and-shine/</loc>
     <lastmod>2019-03-09T06:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/2019-03-08-brown-noise/</loc>
+    <loc>http://tobyblog.com/posts/20190308-brown-noise/</loc>
     <lastmod>2019-03-08T12:31:10-06:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/happy-spring/</loc>
+    <loc>http://tobyblog.com/posts/20190308-happy-spring/</loc>
     <lastmod>2019-03-08T06:00:00+00:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/photos/forestwood-antique-mall-artifacts/</loc>
@@ -1301,37 +1304,22 @@
     <loc>http://tobyblog.com/microposts/-mobile-site-updates-with-forestry-io-/</loc>
     <lastmod>2019-03-07T06:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/2019-03-06-ash-wednesday/</loc>
-    <lastmod>2019-03-06T23:28:11-06:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/tags/lent/</loc>
-    <lastmod>2019-03-06T23:28:11-06:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/tags/orthodox/</loc>
+    <loc>http://tobyblog.com/posts/20190306-ash-wednesday/</loc>
     <lastmod>2019-03-06T23:28:11-06:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/tags/movies/</loc>
     <lastmod>2019-03-05T23:39:44-06:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/2019-03-05-the-jerk/</loc>
+    <loc>http://tobyblog.com/posts/20190305-the-jerk/</loc>
     <lastmod>2019-03-05T23:39:44-06:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/tags/ataxx/</loc>
-    <lastmod>2019-03-04T23:29:44-06:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/tags/gaming/</loc>
     <lastmod>2019-03-04T23:29:44-06:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/tags/infexxion/</loc>
+    <loc>http://tobyblog.com/posts/20190304-infexxion/</loc>
     <lastmod>2019-03-04T23:29:44-06:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/2019-03-04-infexxion/</loc>
-    <lastmod>2019-03-04T23:29:44-06:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/posts/2019-09-28-robot-mice/</loc>
-    <lastmod>2019-02-28T01:41:02-06:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/tags/poems/</loc>
+    <loc>http://tobyblog.com/posts/20190928-robot-mice/</loc>
     <lastmod>2019-02-28T01:41:02-06:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/microposts/2019-02-28-site-updates/</loc>
@@ -1340,58 +1328,37 @@
     <loc>http://tobyblog.com/photos/2019-02-26-lax-international-terminal/</loc>
     <lastmod>2019-02-26T12:53:04-06:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/photos/2019-02-25-lovebirds/</loc>
+    <loc>http://tobyblog.com/photos/20190225-lovebirds/</loc>
     <lastmod>2019-02-25T13:27:20-06:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/2018-02-24-estate/</loc>
-    <lastmod>2019-02-24T22:43:27-06:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/tags/sonic-the-hedgehog/</loc>
+    <loc>http://tobyblog.com/posts/20190222-sonic-movie/</loc>
     <lastmod>2019-02-21T22:27:13-08:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/2019-02-22-sonic-movie/</loc>
-    <lastmod>2019-02-21T22:27:13-08:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/tags/covers/</loc>
+    <loc>http://tobyblog.com/posts/20190220-bird-and-the-bee/</loc>
     <lastmod>2019-02-20T23:07:28-08:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/2019-02-20-bird-and-the-bee/</loc>
+    <loc>http://tobyblog.com/tags/pop/</loc>
     <lastmod>2019-02-20T23:07:28-08:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/microposts/2019-02-20-leave-comments/</loc>
     <lastmod>2019-02-20T22:51:10-08:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/tags/jobs/</loc>
+    <loc>http://tobyblog.com/posts/20190219-working-in-pasadena/</loc>
     <lastmod>2019-02-19T23:42:48-08:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/tags/musings/</loc>
-    <lastmod>2019-02-19T23:42:48-08:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/posts/2019-02-19-working-in-pasadena/</loc>
-    <lastmod>2019-02-19T23:42:48-08:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/categories/endtimes/</loc>
+    <loc>http://tobyblog.com/posts/20190218-everything-ends/</loc>
     <lastmod>2019-02-18T23:11:34-08:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/tags/fr.-seraphim-rose/</loc>
-    <lastmod>2019-02-18T23:11:34-08:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/tags/memes/</loc>
-    <lastmod>2019-02-18T23:11:34-08:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/posts/2019-02-18-everything-ends/</loc>
-    <lastmod>2019-02-18T23:11:34-08:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/posts/2019-01-03-you-have-been-loved/</loc>
+    <loc>http://tobyblog.com/posts/20190103-you-have-been-loved/</loc>
     <lastmod>2019-02-08T11:11:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/tags/jazz-noir/</loc>
+    <loc>http://tobyblog.com/tags/jazz/</loc>
     <lastmod>2019-02-08T11:11:00+00:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/microposts/2019-02-07-1138-flickr-links-down/</loc>
     <lastmod>2019-02-07T11:38:56-06:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/2019-01-02-jazz-noir/</loc>
+    <loc>http://tobyblog.com/posts/20190102-jazz-noir/</loc>
     <lastmod>2019-01-02T15:33:03-06:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/microposts/2018-12-23-ghostbusters/</loc>
@@ -1454,7 +1421,7 @@
     <loc>http://tobyblog.com/tags/snacks/</loc>
     <lastmod>2018-06-25T15:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/photos/2018-05-20-pasadena-eats/</loc>
+    <loc>http://tobyblog.com/photos/20180520-pasadena-eats/</loc>
     <lastmod>2018-05-20T11:59:57-05:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/tags/stores/</loc>
@@ -1493,6 +1460,15 @@
     <loc>http://tobyblog.com/posts/20180408-history-of-mowing-lawns/</loc>
     <lastmod>2018-04-08T14:16:37-05:00</lastmod>
   </url><url>
+    <loc>http://tobyblog.com/tags/anthony/</loc>
+    <lastmod>2018-04-06T11:27:20-05:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/photos/20180406-halloween-at-joanns/</loc>
+    <lastmod>2018-04-06T11:27:20-05:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/tags/lucy/</loc>
+    <lastmod>2018-04-06T11:27:20-05:00</lastmod>
+  </url><url>
     <loc>http://tobyblog.com/photos/20180329-maneki-neko/</loc>
     <lastmod>2018-03-29T23:53:25-05:00</lastmod>
   </url><url>
@@ -1508,7 +1484,7 @@
     <loc>http://tobyblog.com/photos/20180328-oracle-headquarters/</loc>
     <lastmod>2018-03-28T15:45:32-05:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/2017-12-31-top-nine/</loc>
+    <loc>http://tobyblog.com/posts/20171231-the-year-in-pictures-2017/</loc>
     <lastmod>2017-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/posts/20171124-pumpkin-latte-ace-pumpkin-cider/</loc>
@@ -1535,13 +1511,7 @@
     <loc>http://tobyblog.com/posts/20170908-toys-r-us-run/</loc>
     <lastmod>2017-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/tags/anthony/</loc>
-    <lastmod>2017-09-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://tobyblog.com/tags/augie/</loc>
-    <lastmod>2017-09-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/tags/lucy/</loc>
     <lastmod>2017-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/tags/geocaching/</loc>
@@ -1948,9 +1918,6 @@
   </url><url>
     <loc>http://tobyblog.com/posts/20140226-taco-naan-review/</loc>
     <lastmod>2014-02-26T22:55:00+00:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/tags/jazz/</loc>
-    <lastmod>2014-02-25T15:07:00+00:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/posts/20140225-youre-getting-better-ken-nordine/</loc>
     <lastmod>2014-02-25T15:07:00+00:00</lastmod>
