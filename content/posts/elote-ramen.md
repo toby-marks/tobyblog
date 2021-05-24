@@ -12,7 +12,7 @@ I tell you, fans, I could not be *more* ready to reintroduce cheese into my diet
 
 {{< youtube y_hgv6_rfbg >}}
 
-Haters be silent. Cheese in ramen is a cheap American innovation, granted, but ramen is nothing if not versatile and accommodating. And there is surprisingly nothing wrong with the flavor, either. And it was in [Pasadena]({{< ref "/posts/three-new-pasadena-restaurants.md" >}}), no mean ramen town, that I first discovered corn in ramen, and I was surprised at how well it meshed with the flavor and texture profile of traditional ramen. 
+Haters be silent. Cheese in ramen is a cheap American innovation, granted, but ramen is nothing if not versatile and accommodating. And there is surprisingly nothing wrong with the flavor, either. And it was in [Pasadena]({{< ref "20190419-three-new-pasadena-restaurants.md" >}}), no mean ramen town, that I first discovered corn in ramen, and I was surprised at how well it meshed with the flavor and texture profile of traditional ramen. 
 
 Not to mention that I just flat out love elote. 
 

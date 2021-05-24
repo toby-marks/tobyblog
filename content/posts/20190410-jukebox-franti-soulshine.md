@@ -2,10 +2,10 @@
 title = "🎧 Soulshine"
 description = "Today's jukebox selection — Soulshine by Michael Franti"
 date = "2019-04-10T11:11:56-05:00"
-externalurl = "https://www.youtube.com/watch?v=gHXkJ6dr5xI"
+externalurl = "https://www.youtube.com/watch?v=FoI9aGEZpDE"
 categories = ["Music"]
-tags = ["music", "Michael Franti", "jukebox"]
+tags = ["pop"]
 +++
 Don't you need it?
 
-{{< youtube gHXkJ6dr5xI >}}
+{{< youtube FoI9aGEZpDE >}}
