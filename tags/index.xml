@@ -512,11 +512,20 @@
     </item>
     
     <item>
-      <title>Pikachu</title>
-      <link>http://tobyblog.com/tags/pikachu/</link>
+      <title>movies</title>
+      <link>http://tobyblog.com/tags/movies/</link>
       <pubDate>Tue, 14 May 2019 20:02:00 +0000</pubDate>
       
-      <guid>http://tobyblog.com/tags/pikachu/</guid>
+      <guid>http://tobyblog.com/tags/movies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jazz</title>
+      <link>http://tobyblog.com/tags/jazz/</link>
+      <pubDate>Sat, 04 May 2019 05:00:00 +0000</pubDate>
+      
+      <guid>http://tobyblog.com/tags/jazz/</guid>
       <description></description>
     </item>
     
@@ -548,20 +557,29 @@
     </item>
     
     <item>
-      <title>Norman Lear</title>
-      <link>http://tobyblog.com/tags/norman-lear/</link>
-      <pubDate>Sun, 21 Apr 2019 09:01:32 -0500</pubDate>
+      <title>tobybase.com</title>
+      <link>http://tobyblog.com/tags/tobybase.com/</link>
+      <pubDate>Wed, 24 Apr 2019 16:18:33 -0500</pubDate>
       
-      <guid>http://tobyblog.com/tags/norman-lear/</guid>
+      <guid>http://tobyblog.com/tags/tobybase.com/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>TV</title>
-      <link>http://tobyblog.com/tags/tv/</link>
+      <title>news</title>
+      <link>http://tobyblog.com/tags/news/</link>
       <pubDate>Sun, 21 Apr 2019 09:01:32 -0500</pubDate>
       
-      <guid>http://tobyblog.com/tags/tv/</guid>
+      <guid>http://tobyblog.com/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>television</title>
+      <link>http://tobyblog.com/tags/television/</link>
+      <pubDate>Sun, 21 Apr 2019 09:01:32 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/tags/television/</guid>
       <description></description>
     </item>
     
@@ -620,38 +638,20 @@
     </item>
     
     <item>
-      <title>jukebox</title>
-      <link>http://tobyblog.com/tags/jukebox/</link>
+      <title>pop</title>
+      <link>http://tobyblog.com/tags/pop/</link>
       <pubDate>Wed, 10 Apr 2019 11:11:56 -0500</pubDate>
       
-      <guid>http://tobyblog.com/tags/jukebox/</guid>
+      <guid>http://tobyblog.com/tags/pop/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Michael Franti</title>
-      <link>http://tobyblog.com/tags/michael-franti/</link>
-      <pubDate>Wed, 10 Apr 2019 11:11:56 -0500</pubDate>
+      <title>geocaching</title>
+      <link>http://tobyblog.com/tags/geocaching/</link>
+      <pubDate>Fri, 05 Apr 2019 14:00:00 +0000</pubDate>
       
-      <guid>http://tobyblog.com/tags/michael-franti/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>flowers</title>
-      <link>http://tobyblog.com/tags/flowers/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://tobyblog.com/tags/flowers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>spring</title>
-      <link>http://tobyblog.com/tags/spring/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://tobyblog.com/tags/spring/</guid>
+      <guid>http://tobyblog.com/tags/geocaching/</guid>
       <description></description>
     </item>
     
@@ -683,15 +683,6 @@
     </item>
     
     <item>
-      <title>television</title>
-      <link>http://tobyblog.com/tags/television/</link>
-      <pubDate>Tue, 12 Mar 2019 02:00:00 +0000</pubDate>
-      
-      <guid>http://tobyblog.com/tags/television/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>oldies</title>
       <link>http://tobyblog.com/tags/oldies/</link>
       <pubDate>Sun, 10 Mar 2019 23:31:51 -0700</pubDate>
@@ -710,38 +701,11 @@
     </item>
     
     <item>
-      <title>movies</title>
-      <link>http://tobyblog.com/tags/movies/</link>
-      <pubDate>Tue, 05 Mar 2019 23:39:44 -0600</pubDate>
-      
-      <guid>http://tobyblog.com/tags/movies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>gaming</title>
       <link>http://tobyblog.com/tags/gaming/</link>
       <pubDate>Mon, 04 Mar 2019 23:29:44 -0600</pubDate>
       
       <guid>http://tobyblog.com/tags/gaming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pop</title>
-      <link>http://tobyblog.com/tags/pop/</link>
-      <pubDate>Wed, 20 Feb 2019 23:07:28 -0800</pubDate>
-      
-      <guid>http://tobyblog.com/tags/pop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>jazz</title>
-      <link>http://tobyblog.com/tags/jazz/</link>
-      <pubDate>Fri, 08 Feb 2019 11:11:00 +0000</pubDate>
-      
-      <guid>http://tobyblog.com/tags/jazz/</guid>
       <description></description>
     </item>
     
@@ -899,6 +863,15 @@
     </item>
     
     <item>
+      <title>Redwood Shores</title>
+      <link>http://tobyblog.com/tags/redwood-shores/</link>
+      <pubDate>Wed, 28 Mar 2018 22:46:49 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/tags/redwood-shores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Thanksgiving</title>
       <link>http://tobyblog.com/tags/thanksgiving/</link>
       <pubDate>Fri, 24 Nov 2017 10:49:02 -0600</pubDate>
@@ -931,15 +904,6 @@
       <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/tags/augie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>geocaching</title>
-      <link>http://tobyblog.com/tags/geocaching/</link>
-      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://tobyblog.com/tags/geocaching/</guid>
       <description></description>
     </item>
     
