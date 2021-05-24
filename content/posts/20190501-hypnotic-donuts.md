@@ -2,8 +2,9 @@
 categories = ["Reviews"]
 date = "2019-05-01T18:01:00+00:00"
 description = "The kids and I visit Hypnotic Donuts on a rainy Saturday morning."
-tags = ["Food"]
+tags = ["food"]
 title = "Got the Munchies? Try Hypnotic Donuts."
+images = ["https://res.cloudinary.com/tobyblog/image/upload/v1558136445/img/36C549F3-4677-426F-8ECB-3E7C87F986F1.jpg"]
 +++
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1558136445/img/36C549F3-4677-426F-8ECB-3E7C87F986F1.jpg)
 

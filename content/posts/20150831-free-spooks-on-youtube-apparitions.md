@@ -1,8 +1,8 @@
 +++
 title = "Free Spooks on YouTube: Apparitions"
 date = 2015-08-31T22:06:00Z
-categories = ["Movies"]
-tags = ["Halloween"]
+categories = ["Reviews"]
+tags = ["Halloween","movies"]
 +++
 Are you looking for something spooky to watch as we wind our way down to Halloween, but find yourself bored by the usual fare of cheesy monster movies or gross slasher flicks? Maybe you're in the mood for something a little more thoughtful; a little more substantial, perhaps? Let me show you something interesting.
 
