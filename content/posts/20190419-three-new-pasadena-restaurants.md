@@ -2,9 +2,9 @@
 categories = ["Reviews"]
 date = "2019-04-19T19:00:00+00:00"
 description = "A review of three restaurants I visited in Pasadena this week."
-tags = ["Pasadena", "California", "food", "reviews"]
+tags = ["Pasadena", "California", "travel","food"]
 title = "Three New Pasadena Restaurants "
-
+images = ["https://res.cloudinary.com/tobyblog/image/upload/v1555717432/img/1EB7C2A4-80DC-416E-AC6B-3A52C50EA52B.jpg"]
 +++
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1555717674/img/ABB60CD5-A457-4710-A103-8E22A15D25DC.jpg)
 
