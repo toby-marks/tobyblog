@@ -3,9 +3,9 @@ categories = ["Journal"]
 date = "2019-08-01T13:00:00-05:00"
 description = ""
 minipost = "True"
-tags = ["vacation", "travel"]
+tags = ["travel"]
 title = "Road Trip Travel Log 01.01"
-
+images = ["https://res.cloudinary.com/tobyblog/image/upload/v1564685041/img/62A6A488-C620-4445-9B7B-705A544C99D4_fhcqzp.jpg"]
 +++
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1564685041/img/62A6A488-C620-4445-9B7B-705A544C99D4_fhcqzp.jpg)
 

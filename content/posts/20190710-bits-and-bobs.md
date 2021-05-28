@@ -3,7 +3,8 @@ title = "Bits and Bobs"
 description = ""
 date = "2019-07-09T17:33:32-05:00"
 categories = ["Journal"]
-tags = ["Pasadena","California"]
+tags = ["Pasadena","California","travel","food"]
+images = ["https://res.cloudinary.com/tobyblog/image/upload/v1562790874/img/IMG_3630.jpg"]
 +++
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1562790874/img/IMG_3630.jpg)
 
