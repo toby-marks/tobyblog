@@ -5,7 +5,7 @@ description = ""
 minipost = "true"
 tags = ["travel"]
 title = "Road Trip Travel Log 02.02"
-
+images = ["https://res.cloudinary.com/tobyblog/image/upload/v1564841595/img/47A92FAF-73D0-4418-AE30-17B5EDEA6DAF_qvusmo.jpg"]
 +++
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1564841595/img/47A92FAF-73D0-4418-AE30-17B5EDEA6DAF_qvusmo.jpg)
 
