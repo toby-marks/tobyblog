@@ -3,9 +3,9 @@ categories = ["Journal"]
 date = "2019-08-09T10:00:00-05:00"
 description = ""
 minipost = "true"
-tags = ["travel"]
+tags = ["travel","Telluride","Colorado","vacation","Arizona","Grand Canyon","Zion","Arches","Utah","Moab"]
 title = "Road Trip Travel Log 09.01"
-
+images = ["https://res.cloudinary.com/tobyblog/image/upload/a_0/v1565366894/img/FB465A3F-24CB-4DBA-83F1-3BEFBD3C3FEE_l5z2mj.jpg"]
 +++
 ![](https://res.cloudinary.com/tobyblog/image/upload/a_0/v1565366894/img/FB465A3F-24CB-4DBA-83F1-3BEFBD3C3FEE_l5z2mj.jpg)
 

@@ -3,7 +3,7 @@ categories = ["Journal"]
 date = "2019-08-03T01:00:00-05:00"
 description = ""
 minipost = "true"
-tags = ["travel"]
+tags = ["travel","vacation","Red Rock State Park","Arizona","Sedona","Williams","Grand Canyon"]
 title = "Road Trip Travel Log 02.02"
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1564841595/img/47A92FAF-73D0-4418-AE30-17B5EDEA6DAF_qvusmo.jpg"]
 +++
