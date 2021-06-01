@@ -3,7 +3,7 @@ categories = ["Journal"]
 date = "2019-08-01T23:00:00-05:00"
 description = ""
 minipost = "true"
-tags = ["travel"]
+tags = ["travel","vacation","Texas","Albuquerque","New Mexico"]
 title = "Road Trip Travel Log 01.02"
 images = ["https://res.cloudinary.com/tobyblog/image/upload/a_0/v1564718661/img/64476DE9-F842-4C3E-A5FA-B9D13A537604_fjccxc.jpg"]
 +++
