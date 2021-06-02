@@ -1,9 +1,10 @@
 +++
-camera = ["iPhone XS"]
+camera = "iPhone XS"
 date = "2019-03-15T10:00:00+00:00"
 location = "Pasadena, CA"
 title = "A Half-Price Books?"
-tags = ["Pasadena","California"]
+categories = ["Journal"]
+tags = ["Pasadena","California","travel"]
 image = "https://res.cloudinary.com/tobyblog/image/upload/v1552685065/img/7F654D75-901B-4DAA-A5BB-BDBAA3935BC1.jpg"
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1552685065/img/7F654D75-901B-4DAA-A5BB-BDBAA3935BC1.jpg",
 "https://res.cloudinary.com/tobyblog/image/upload/v1552685102/img/7ACB3F8F-4F1A-411C-B4FC-0A5F0CC21CDB.jpg",

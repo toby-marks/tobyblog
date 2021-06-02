@@ -1,10 +1,10 @@
 +++
-camera = ["iPhone XS"]
+camera = "my iPhone"
 date = "2019-03-14T21:00:00+00:00"
 location = "Pasadena, CA"
 title = "Pasadena Street Musician"
-tags = ["Pasadena","California"]
-
+tags = ["Pasadena","California","travel"]
+categories = ["Journal"]
 +++
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1552625025/img/461E69A7-8660-433A-8938-D64C51FC300F.jpg)
 <!--more-->
