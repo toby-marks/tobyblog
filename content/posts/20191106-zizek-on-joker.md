@@ -3,8 +3,8 @@ title = "Slavoj Zizek on The Joker"
 description = ""
 date = "2019-11-06T18:03:06-06:00"
 externalurl = "https://www.youtube.com/watch?v=UXfLafgzoX0"
-categories = ["News"]
-tags = []
+categories = ["Journal"]
+tags = ["news"]
 +++
 He's not a fan of the new Joker, though he greatly admires Nolan's version. 
 
@@ -19,4 +19,3 @@ His point, based in some psychological theory, is that our plain faces are the r
 Zizek is at his most entertaining and thought provoking when doing this kind of movie criticism, IMO. 
 
 {{< youtube "UXfLafgzoX0" >}}
-

@@ -1,9 +1,10 @@
 +++
-camera = ["iPhone XS"]
+camera = "iPhone XS"
 date = "2019-03-12T05:50:00+00:00"
 location = "Pasadena, CA"
 title = "Pokémon Go In Pasadena "
-tags = ["Pasadena","California"]
+categories = ["Journal"]
+tags = ["Pasadena","California","travel","video games"]
 +++
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1552368385/img/DB43AC67-39AA-4FD9-9C90-2B861549B6D4.jpg)
 <!--more-->
@@ -29,5 +30,6 @@ Hatched Ho-Oh from an egg.
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1552368549/img/1BC4706F-1382-41D8-B373-4CF65B89923A.jpg)
 
 I can't believe I haven't even made it to level 30 yet. 🤦🏻‍♂️
+
 
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1552368569/img/745770F6-F373-4598-A15B-9B37C3BF1619.jpg)
