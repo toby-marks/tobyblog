@@ -5,6 +5,7 @@ date = "2019-12-30T16:21:55-06:00"
 categories = ["Photoblog"]
 tags = ["photolog"]
 minipost = "true"
+images = ["https://live.staticflickr.com/65535/49279052183_db733eb29d_k.jpg"]
 +++
 [![](https://live.staticflickr.com/65535/49279052183_db733eb29d_k.jpg)](https://www.flickr.com/photos/tobyjmarks/albums/72157712375623937)
 

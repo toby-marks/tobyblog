@@ -1,9 +1,11 @@
 +++
-camera = ["iPhone XS"]
+camera = "my iPhone"
 date = "2019-03-09T06:00:00+00:00"
 location = "Plano, TX"
 title = "Plano Trade Days"
-
+categories = ["Journal"]
+tags = ["Halloween","antiques","toys"]
+images = ["https://res.cloudinary.com/tobyblog/image/upload/a_0/v1552180710/img/3092C5EB-BFB7-4C74-9522-63A923D64E83.jpg"]
 +++
 ![](https://res.cloudinary.com/tobyblog/image/upload/a_0/v1552180710/img/3092C5EB-BFB7-4C74-9522-63A923D64E83.jpg)
 <!--more-->
