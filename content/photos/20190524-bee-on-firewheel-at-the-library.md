@@ -1,8 +1,9 @@
 +++
-camera = "iPhone XS"
+camera = "my Nikon Coolpix p1000"
 date = "2019-05-24T16:00:00+00:00"
-location = "Dallas, TX"
+location = "Dallas, Texas"
 title = "Bee on a Firewheel"
+categories = ["Journal"]
 image = "https://res.cloudinary.com/tobyblog/image/upload/v1558733963/img/A731EFAA-1843-4280-A7E4-FCECDEEFDE3B.jpg"
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1558733963/img/A731EFAA-1843-4280-A7E4-FCECDEEFDE3B.jpg",
 "https://res.cloudinary.com/tobyblog/image/upload/v1558734009/img/B178CAC6-5CF0-47EE-900A-60E23B20A418.jpg",
