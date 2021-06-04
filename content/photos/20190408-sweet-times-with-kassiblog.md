@@ -1,10 +1,12 @@
 +++
-camera = "IPhone XS"
+camera = "iPhone XS"
 date = "2019-04-08T15:00:00+00:00"
 draft = false
 location = "Dallas, TX"
 title = "Sweet Times with @Kassiblog"
-
+categories = ["Journal"]
+tags = ["Kassi"]
+images = ["https://res.cloudinary.com/tobyblog/image/upload/v1554756919/img/IMG_1565.jpg"]
 +++
 ![@Kassiblog](https://res.cloudinary.com/tobyblog/image/upload/v1554756919/img/IMG_1565.jpg)
 <!--more-->
