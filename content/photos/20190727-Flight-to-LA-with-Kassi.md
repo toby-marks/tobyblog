@@ -3,12 +3,14 @@ title = "Flight to LA With Kassi"
 date = "2019-07-27T13:07:04-05:00"
 location = "Los Angeles, California"
 camera = "iPhone Xs"
-tags = ["Pasadena","California","LAX","Los Angeles"]
+tags = ["Pasadena","California","LAX","Los Angeles","travel","Kassi"]
+categories = ["Journal"]
+images = ["https://live.staticflickr.com/65535/48359898937_4876587de0_b.jpg"]
 +++
 <img src="https://live.staticflickr.com/65535/48359898937_4876587de0_b.jpg">
 <!--more-->
 
-Last week I left for what may well be my [last trip out to Pasadena]({{< ref "/photos/farewell-pasadena.md" >}}), and I took my wife along with me for a short couple’s working vacation. I wanted her to experience some of the good life I’d enjoyed there these many months, and I had in mind for us to do some things together I wouldn’t have been able to do on my own. I hate to rush a post like this, but there’ll be plenty more (and better) pics to follow soon that I thought would merit a fuller treatment, so I’ll just set the stage by posting some photos of us setting out on our journey. Most of these were taken on my iPhone through the rental car window, so excuse the weird color cast. I assure you those hills were a bright golden yellow!
+Last week I left for what may well be my [last trip out to Pasadena]({{< ref "20190718-farewell-pasadena.md" >}}), and I took my wife along with me for a short couple’s working vacation. I wanted her to experience some of the good life I’d enjoyed there these many months, and I had in mind for us to do some things together I wouldn’t have been able to do on my own. I hate to rush a post like this, but there’ll be plenty more (and better) pics to follow soon that I thought would merit a fuller treatment, so I’ll just set the stage by posting some photos of us setting out on our journey. Most of these were taken on my iPhone through the rental car window, so excuse the weird color cast. I assure you those hills were a bright golden yellow!
 
 <div class="container-fluid">
 <div class="demo-gallery dark mrb35">

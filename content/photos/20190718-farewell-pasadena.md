@@ -3,8 +3,9 @@ camera = "iPhone XS"
 date = "2019-07-18T20:00:00-05:00"
 location = "Pasadena, CA"
 title = "Farewell Pasadena"
-tags = ["Pasadena","California"]
-
+tags = ["Pasadena","California","travel"]
+categories = ["Journal"]
+images = ["https://res.cloudinary.com/tobyblog/image/upload/v1563498929/img/9BB85DBB-962B-418A-A3F9-6956D7B716E5.jpg"]
 +++
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1563498929/img/9BB85DBB-962B-418A-A3F9-6956D7B716E5.jpg)
 <!--more-->
