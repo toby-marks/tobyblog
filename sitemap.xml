@@ -833,7 +833,7 @@
     <loc>http://tobyblog.com/microposts/all-new-photo-galleries/</loc>
     <lastmod>2019-07-27T14:17:42-05:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/photos/flight-to-la-with-kassi/</loc>
+    <loc>http://tobyblog.com/photos/20190727-flight-to-la-with-kassi/</loc>
     <lastmod>2019-07-27T13:07:04-05:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/tags/lax/</loc>
@@ -848,7 +848,7 @@
     <loc>http://tobyblog.com/microposts/halloween-hits-the-shelves/</loc>
     <lastmod>2019-07-22T19:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/photos/farewell-pasadena/</loc>
+    <loc>http://tobyblog.com/photos/20190718-farewell-pasadena/</loc>
     <lastmod>2019-07-18T20:00:00-05:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/posts/20190715-flushing-drugs-could-create-meth-gators/</loc>
@@ -863,10 +863,25 @@
     <loc>http://tobyblog.com/microposts/guns-n-roses/</loc>
     <lastmod>2019-07-11T12:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/photos/4th-of-july-2019/</loc>
+    <loc>http://tobyblog.com/tags/4th-of-july/</loc>
     <lastmod>2019-07-10T16:57:59-05:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/photos/bolin-park/</loc>
+    <loc>http://tobyblog.com/tags/anthony/</loc>
+    <lastmod>2019-07-10T16:57:59-05:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/tags/augie/</loc>
+    <lastmod>2019-07-10T16:57:59-05:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/photos/20190710-4th-of-july-2019/</loc>
+    <lastmod>2019-07-10T16:57:59-05:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/tags/lucy/</loc>
+    <lastmod>2019-07-10T16:57:59-05:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/photos/20190710-bolin-park/</loc>
+    <lastmod>2019-07-10T16:55:24-05:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/tags/parks/</loc>
     <lastmod>2019-07-10T16:55:24-05:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/posts/20190710-bits-and-bobs/</loc>
@@ -884,9 +899,6 @@
     <loc>http://tobyblog.com/microposts/some-classic-80s-for-sale/</loc>
     <lastmod>2019-07-05T12:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/tags/4th-of-july/</loc>
-    <lastmod>2019-07-04T11:00:00-05:00</lastmod>
-  </url><url>
     <loc>http://tobyblog.com/posts/20190604-independence-day-2019/</loc>
     <lastmod>2019-07-04T11:00:00-05:00</lastmod>
   </url><url>
@@ -896,7 +908,7 @@
     <loc>http://tobyblog.com/microposts/-site-update-fullscreen-galleries/</loc>
     <lastmod>2019-06-28T17:32:30-05:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/photos/bunny-run/</loc>
+    <loc>http://tobyblog.com/photos/20190628-bunny-run/</loc>
     <lastmod>2019-06-28T16:06:38-05:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/microposts/where-o-conner-ends/</loc>
@@ -914,10 +926,10 @@
     <loc>http://tobyblog.com/posts/20190621-bird-and-the-bee-at-trees/</loc>
     <lastmod>2019-06-21T21:33:03-05:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/photos/things-to-see-on-a-lunchtime-walk/</loc>
+    <loc>http://tobyblog.com/photos/20190621-things-to-see-on-a-lunchtime-walk/</loc>
     <lastmod>2019-06-21T16:46:36-05:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/photos/old-photos-and-re-edits/</loc>
+    <loc>http://tobyblog.com/photos/20190621-old-photos-and-re-edits/</loc>
     <lastmod>2019-06-21T13:50:55-05:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/microposts/yo-mama/</loc>
@@ -929,13 +941,7 @@
     <loc>http://tobyblog.com/microposts/kodachrome/</loc>
     <lastmod>2019-06-20T12:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/photos/20190619-p1000-at-the-library/</loc>
-    <lastmod>2019-06-19T23:25:18-05:00</lastmod>
-  </url><url>
     <loc>http://tobyblog.com/photos/20190615-rcp-walk/</loc>
-    <lastmod>2019-06-15T15:21:57-05:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/tags/parks/</loc>
     <lastmod>2019-06-15T15:21:57-05:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/photos/20190615-p1000-moon-shots/</loc>
@@ -1439,13 +1445,7 @@
     <loc>http://tobyblog.com/posts/20180408-history-of-mowing-lawns/</loc>
     <lastmod>2018-04-08T14:16:37-05:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/tags/anthony/</loc>
-    <lastmod>2018-04-06T11:27:20-05:00</lastmod>
-  </url><url>
     <loc>http://tobyblog.com/photos/20180406-halloween-at-joanns/</loc>
-    <lastmod>2018-04-06T11:27:20-05:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/tags/lucy/</loc>
     <lastmod>2018-04-06T11:27:20-05:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/photos/20180329-maneki-neko/</loc>
@@ -1491,9 +1491,6 @@
     <lastmod>2017-09-09T15:21:05-05:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/posts/20170908-toys-r-us-run/</loc>
-    <lastmod>2017-09-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/tags/augie/</loc>
     <lastmod>2017-09-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/photos/20170907-geocaching-maxwell-creek/</loc>
