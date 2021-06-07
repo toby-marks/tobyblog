@@ -6451,7 +6451,7 @@ Ernest Goes To The Gym FTW&lt;/p&gt;
         <pubDate>Sat, 27 Jul 2019 14:17:42 -0500</pubDate>
         <author>Toby Marks</author>
         <guid>http://tobyblog.com/microposts/all-new-photo-galleries/</guid>
-        <description>&lt;p&gt;It took a bit of effort to get everything tweaked just right for mobile, but I&amp;rsquo;m happy to announce that I&amp;rsquo;ve upgraded my photo galleries to use the popular &amp;ldquo;lightbox&amp;rdquo; style layout. There&amp;rsquo;s of course some Javascript overhead that I regret, but I think that&amp;rsquo;s offset somewhat by lazy loading and the use of thumbnails. See whether you think response time has improved. It&amp;rsquo;s not everywhere yet, just on recent galleries like &lt;a href=&#34;http://tobyblog.com/photos/flight-to-la-with-kassi/&#34;&gt;Flight to LA&lt;/a&gt; and probably all stuff going forward from that, unless I&amp;rsquo;m posting from my phone. The old stuff should work the same. Best experienced on a laptop or desktop, of course, where you get the nice grid layout with all the thumbnails. I like that you can get a real sense of everything all at once, and then start exploring where you wish, vs being forced to scroll past photos in order to take everything in. Hopefully that leads to a more intentional viewing experience. Enjoy.&lt;/p&gt;
+        <description>&lt;p&gt;It took a bit of effort to get everything tweaked just right for mobile, but I&amp;rsquo;m happy to announce that I&amp;rsquo;ve upgraded my photo galleries to use the popular &amp;ldquo;lightbox&amp;rdquo; style layout. There&amp;rsquo;s of course some Javascript overhead that I regret, but I think that&amp;rsquo;s offset somewhat by lazy loading and the use of thumbnails. See whether you think response time has improved. It&amp;rsquo;s not everywhere yet, just on recent galleries like &lt;a href=&#34;http://tobyblog.com/photos/20190727-flight-to-la-with-kassi/&#34;&gt;Flight to LA&lt;/a&gt; and probably all stuff going forward from that, unless I&amp;rsquo;m posting from my phone. The old stuff should work the same. Best experienced on a laptop or desktop, of course, where you get the nice grid layout with all the thumbnails. I like that you can get a real sense of everything all at once, and then start exploring where you wish, vs being forced to scroll past photos in order to take everything in. Hopefully that leads to a more intentional viewing experience. Enjoy.&lt;/p&gt;
 </description>
       </item>
       
@@ -6459,12 +6459,12 @@ Ernest Goes To The Gym FTW&lt;/p&gt;
       
       <item>
       	
-        <link>http://tobyblog.com/photos/flight-to-la-with-kassi/</link>
+        <link>http://tobyblog.com/photos/20190727-flight-to-la-with-kassi/</link>
         <pubDate>Sat, 27 Jul 2019 13:07:04 -0500</pubDate>
         <author>Toby Marks</author>
-        <guid>http://tobyblog.com/photos/flight-to-la-with-kassi/</guid>
+        <guid>http://tobyblog.com/photos/20190727-flight-to-la-with-kassi/</guid>
         <description>&lt;img src=&#34;https://live.staticflickr.com/65535/48359898937_4876587de0_b.jpg&#34;&gt;
-&lt;p&gt;Last week I left for what may well be my &lt;a href=&#34;http://tobyblog.com/photos/farewell-pasadena/&#34;&gt;last trip out to Pasadena&lt;/a&gt;, and I took my wife along with me for a short couple’s working vacation. I wanted her to experience some of the good life I’d enjoyed there these many months, and I had in mind for us to do some things together I wouldn’t have been able to do on my own. I hate to rush a post like this, but there’ll be plenty more (and better) pics to follow soon that I thought would merit a fuller treatment, so I’ll just set the stage by posting some photos of us setting out on our journey. Most of these were taken on my iPhone through the rental car window, so excuse the weird color cast. I assure you those hills were a bright golden yellow!&lt;/p&gt;
+&lt;p&gt;Last week I left for what may well be my &lt;a href=&#34;http://tobyblog.com/photos/20190718-farewell-pasadena/&#34;&gt;last trip out to Pasadena&lt;/a&gt;, and I took my wife along with me for a short couple’s working vacation. I wanted her to experience some of the good life I’d enjoyed there these many months, and I had in mind for us to do some things together I wouldn’t have been able to do on my own. I hate to rush a post like this, but there’ll be plenty more (and better) pics to follow soon that I thought would merit a fuller treatment, so I’ll just set the stage by posting some photos of us setting out on our journey. Most of these were taken on my iPhone through the rental car window, so excuse the weird color cast. I assure you those hills were a bright golden yellow!&lt;/p&gt;
 &lt;div class=&#34;container-fluid&#34;&gt;
 &lt;div class=&#34;demo-gallery dark mrb35&#34;&gt;
 	&lt;ul id=&#34;lightgallery&#34; class=&#34;list-unstyled row&#34;&gt;
@@ -6539,10 +6539,10 @@ Ernest Goes To The Gym FTW&lt;/p&gt;
       
       <item>
       	
-        <link>http://tobyblog.com/photos/farewell-pasadena/</link>
+        <link>http://tobyblog.com/photos/20190718-farewell-pasadena/</link>
         <pubDate>Thu, 18 Jul 2019 20:00:00 -0500</pubDate>
         <author>Toby Marks</author>
-        <guid>http://tobyblog.com/photos/farewell-pasadena/</guid>
+        <guid>http://tobyblog.com/photos/20190718-farewell-pasadena/</guid>
         <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1563498929/img/9BB85DBB-962B-418A-A3F9-6956D7B716E5.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1563498963/img/3265F85C-7D15-4A9D-AE96-0A57469F0F78.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1563498993/img/BB2C993C-F66F-4575-9619-CAD0C291C6E7.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -6618,332 +6618,59 @@ Ernest Goes To The Gym FTW&lt;/p&gt;
       
       <item>
       	
-        <link>http://tobyblog.com/photos/4th-of-july-2019/</link>
+        <link>http://tobyblog.com/photos/20190710-4th-of-july-2019/</link>
         <pubDate>Wed, 10 Jul 2019 16:57:59 -0500</pubDate>
         <author>Toby Marks</author>
-        <guid>http://tobyblog.com/photos/4th-of-july-2019/</guid>
-        <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214822416_5b6695e00c_k.jpg&#34; alt=&#34;Uncle Sam at the Mall&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Uncle Sam at the Mall — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214822416/&#34; title=&#34;Uncle Sam at the Mall&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;p&gt;&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214819506_4fd2507781_k.jpg&#34; alt=&#34;My Helper&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;My Helper — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214819506/&#34; title=&#34;My Helper&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214871952_1f0540357d_k.jpg&#34; alt=&#34;Uncle Sam Strides Atop the Mall&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Uncle Sam Strides Atop the Mall — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214871952/&#34; title=&#34;Uncle Sam Strides Atop the Mall&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214819121_74d8928502_k.jpg&#34; alt=&#34;On our Way to the Party&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;On our Way to the Party — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214819121/&#34; title=&#34;On our Way to the Party&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214869737_71dd5f9458_k.jpg&#34; alt=&#34;Crossing the Bridge&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Crossing the Bridge — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214869737/&#34; title=&#34;Crossing the Bridge&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214870127_c3cf8c260d_k.jpg&#34; alt=&#34;Entering the Mall&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Entering the Mall — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214870127/&#34; title=&#34;Entering the Mall&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214877167_d8f2820599_k.jpg&#34; alt=&#34;Garland Texas People&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Garland Texas People — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214877167/&#34; title=&#34;Garland Texas People&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214817506_186c4ec9ea_k.jpg&#34; alt=&#34;Right On, Uncle Sam&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Right On, Uncle Sam — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214817506/&#34; title=&#34;Right On, Uncle Sam&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214817906_1f576b6b65_k.jpg&#34; alt=&#34;Augie&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Augie — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214817906/&#34; title=&#34;Augie&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214875422_ad90118a6b_k.jpg&#34; alt=&#34;Getting His Face Painted&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Getting His Face Painted — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214875422/&#34; title=&#34;Getting His Face Painted&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214871352_f773c6af8d_k.jpg&#34; alt=&#34;Festival Food&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Festival Food — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214871352/&#34; title=&#34;Festival Food&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214876247_2c90bda5de_k.jpg&#34; alt=&#34;Crowd Around The Fountain&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Crowd Around The Fountain — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214876247/&#34; title=&#34;Crowd Around The Fountain&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214877497_1234e485d2_k.jpg&#34; alt=&#34;Photos With Uncle Sam&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Photos With Uncle Sam — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214877497/&#34; title=&#34;Photos With Uncle Sam&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214876947_09dec5e498_k.jpg&#34; alt=&#34;Juggling Uncle Sam&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Juggling Uncle Sam — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214876947/&#34; title=&#34;Juggling Uncle Sam&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214818881_46b690b57d_k.jpg&#34; alt=&#34;Uncle Sam with Obviously Drunk Guy&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Uncle Sam with Obviously Drunk Guy — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214818881/&#34; title=&#34;Uncle Sam with Obviously Drunk Guy&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214874312_716ac0b48f_k.jpg&#34; alt=&#34;Family Photo With Uncle Sam&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Family Photo With Uncle Sam — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214874312/&#34; title=&#34;Family Photo With Uncle Sam&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214874882_3211b03bbb_k.jpg&#34; alt=&#34;Singing&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Singing — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214874882/&#34; title=&#34;Singing&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214871577_c77af5b117_k.jpg&#34; alt=&#34;Guitar Guy Shredding&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Guitar Guy Shredding — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214871577/&#34; title=&#34;Guitar Guy Shredding&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214821406_5a0c836c58_k.jpg&#34; alt=&#34;Wailing&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Wailing — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214821406/&#34; title=&#34;Wailing&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214820951_23a2c448cc_k.jpg&#34; alt=&#34;Grooving&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Grooving — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214820951/&#34; title=&#34;Grooving&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214820756_ea2175372f_k.jpg&#34; alt=&#34;Jamming&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Jamming — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214820756/&#34; title=&#34;Jamming&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214820546_7a406a6cc4_k.jpg&#34; alt=&#34;Fireworks 01&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Fireworks 01 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214820546/&#34; title=&#34;Fireworks 01&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214872827_8e02acc7ba_k.jpg&#34; alt=&#34;Fireworks 02&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Fireworks 02 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214872827/&#34; title=&#34;Fireworks 02&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214873382_3cdd2cfde6_k.jpg&#34; alt=&#34;Fireworks 03&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Fireworks 03 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214873382/&#34; title=&#34;Fireworks 03&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214873667_ce42833006_k.jpg&#34; alt=&#34;Fireworks 04&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Fireworks 04 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214873667/&#34; title=&#34;Fireworks 04&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214874562_060e4a5c20_k.jpg&#34; alt=&#34;Fireworks 05&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Fireworks 05 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214874562/&#34; title=&#34;Fireworks 05&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214823431_be2a2be265_k.jpg&#34; alt=&#34;Fireworks 06&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Fireworks 06 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214823431/&#34; title=&#34;Fireworks 06&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214875237_cdbfe8a0a0_k.jpg&#34; alt=&#34;Fireworks 07&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Fireworks 07 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214875237/&#34; title=&#34;Fireworks 07&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214875727_655045d7d3_k.jpg&#34; alt=&#34;Fireworks 08&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Fireworks 08 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214875727/&#34; title=&#34;Fireworks 08&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214876512_bade72f0f4_k.jpg&#34; alt=&#34;Fireworks 09&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Fireworks 09 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214876512/&#34; title=&#34;Fireworks 09&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-&lt;/p&gt;</description>
+        <guid>http://tobyblog.com/photos/20190710-4th-of-july-2019/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214822416_5b6695e00c_k.jpg&#34; alt=&#34;Uncle Sam at the Mall&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214819506_4fd2507781_k.jpg&#34; alt=&#34;My Helper&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214871952_1f0540357d_k.jpg&#34; alt=&#34;Uncle Sam Strides Atop the Mall&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214819121_74d8928502_k.jpg&#34; alt=&#34;On our Way to the Party&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214869737_71dd5f9458_k.jpg&#34; alt=&#34;Crossing the Bridge&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214870127_c3cf8c260d_k.jpg&#34; alt=&#34;Entering the Mall&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214877167_d8f2820599_k.jpg&#34; alt=&#34;Garland Texas People&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214817506_186c4ec9ea_k.jpg&#34; alt=&#34;Right On, Uncle Sam&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214817906_1f576b6b65_k.jpg&#34; alt=&#34;Augie&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214875422_ad90118a6b_k.jpg&#34; alt=&#34;Getting His Face Painted&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214871352_f773c6af8d_k.jpg&#34; alt=&#34;Festival Food&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214876247_2c90bda5de_k.jpg&#34; alt=&#34;Crowd Around The Fountain&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214877497_1234e485d2_k.jpg&#34; alt=&#34;Photos With Uncle Sam&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214876947_09dec5e498_k.jpg&#34; alt=&#34;Juggling Uncle Sam&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214818881_46b690b57d_k.jpg&#34; alt=&#34;Uncle Sam with Obviously Drunk Guy&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214874312_716ac0b48f_k.jpg&#34; alt=&#34;Family Photo With Uncle Sam&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214874882_3211b03bbb_k.jpg&#34; alt=&#34;Singing&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214871577_c77af5b117_k.jpg&#34; alt=&#34;Guitar Guy Shredding&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214821406_5a0c836c58_k.jpg&#34; alt=&#34;Wailing&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214820951_23a2c448cc_k.jpg&#34; alt=&#34;Grooving&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214820756_ea2175372f_k.jpg&#34; alt=&#34;Jamming&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214820546_7a406a6cc4_k.jpg&#34; alt=&#34;Fireworks 01&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214872827_8e02acc7ba_k.jpg&#34; alt=&#34;Fireworks 02&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214873382_3cdd2cfde6_k.jpg&#34; alt=&#34;Fireworks 03&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214873667_ce42833006_k.jpg&#34; alt=&#34;Fireworks 04&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214874562_060e4a5c20_k.jpg&#34; alt=&#34;Fireworks 05&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214823431_be2a2be265_k.jpg&#34; alt=&#34;Fireworks 06&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214875237_cdbfe8a0a0_k.jpg&#34; alt=&#34;Fireworks 07&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214875727_655045d7d3_k.jpg&#34; alt=&#34;Fireworks 08&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214876512_bade72f0f4_k.jpg&#34; alt=&#34;Fireworks 09&#34;&gt;&lt;/p&gt;</description>
       </item>
       
     
       
       <item>
       	
-        <link>http://tobyblog.com/photos/bolin-park/</link>
+        <link>http://tobyblog.com/photos/20190710-bolin-park/</link>
         <pubDate>Wed, 10 Jul 2019 16:55:24 -0500</pubDate>
         <author>Toby Marks</author>
-        <guid>http://tobyblog.com/photos/bolin-park/</guid>
-        <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214659381_59469a8b9d_k.jpg&#34; alt=&#34;Kassi Spotted a Gecko&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Kassi Spotted a Gecko — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214659381/&#34; title=&#34;Kassi Spotted a Gecko&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;p&gt;&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214711542_0afdcf8086_k.jpg&#34; alt=&#34;Woodear Mushrooms&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Woodear Mushrooms — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214711542/&#34; title=&#34;Woodear Mushrooms&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214658866_8870bff4eb_k.jpg&#34; alt=&#34;Old Lady Doesn&amp;#39;t Want Her Picture Taken&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Old Lady Doesn&amp;#39;t Want Her Picture Taken — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214658866/&#34; title=&#34;Old Lady Doesn&amp;#39;t Want Her Picture Taken&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214659061_803c3a53b7_k.jpg&#34; alt=&#34;Dragonfly&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Dragonfly — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214659061/&#34; title=&#34;Dragonfly&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214659446_3b0d92afc6_k.jpg&#34; alt=&#34;Ant On A Mushroom&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Ant On A Mushroom — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214659446/&#34; title=&#34;Ant On A Mushroom&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214659176_49b08baae8_k.jpg&#34; alt=&#34;Atmospheric Bridge&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Atmospheric Bridge — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214659176/&#34; title=&#34;Atmospheric Bridge&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214710712_ce86d20a8b_k.jpg&#34; alt=&#34;Firewheels Along The Trail&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Firewheels Along The Trail — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214710712/&#34; title=&#34;Firewheels Along The Trail&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214659286_71dbb9e910_k.jpg&#34; alt=&#34;Grasshopper On A Plant&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Grasshopper On A Plant — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214659286/&#34; title=&#34;Grasshopper On A Plant&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48214659591_c2c4101078_k.jpg&#34; alt=&#34;Who Are You?&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Who Are You? — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48214659591/&#34; title=&#34;Who Are You?&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-&lt;/p&gt;</description>
+        <guid>http://tobyblog.com/photos/20190710-bolin-park/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214659381_59469a8b9d_k.jpg&#34; alt=&#34;Kassi Spotted a Gecko&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214711542_0afdcf8086_k.jpg&#34; alt=&#34;Woodear Mushrooms&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214658866_8870bff4eb_k.jpg&#34; alt=&#34;Old Lady Doesn&amp;rsquo;t Want Her Picture Taken&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214659061_803c3a53b7_k.jpg&#34; alt=&#34;Dragonfly&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214659446_3b0d92afc6_k.jpg&#34; alt=&#34;Ant On A Mushroom&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214659176_49b08baae8_k.jpg&#34; alt=&#34;Atmospheric Bridge&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214710712_ce86d20a8b_k.jpg&#34; alt=&#34;Firewheels Along The Trail&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214659286_71dbb9e910_k.jpg&#34; alt=&#34;Grasshopper On A Plant&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48214659591_c2c4101078_k.jpg&#34; alt=&#34;Who Are You?&#34;&gt;&lt;/p&gt;</description>
       </item>
       
     
@@ -6957,7 +6684,7 @@ Ernest Goes To The Gym FTW&lt;/p&gt;
         <description>&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1562790874/img/IMG_3630.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I made a promise to myself that I would never waste time on this blog apologizing for sporadic posting. So instead of doing that, I think I&amp;rsquo;ll do that other thing where I throw a few pictures at you and catch you up on recent developments.&lt;/p&gt;
 &lt;p&gt;☝🏻&lt;/p&gt;
-&lt;p&gt;First off, how about those eggs, am I right? That was breakfast this past Saturday morning after &lt;a href=&#34;https://kassiblogtoo.blogspot.com/2019/07/saturday-morning-walk-along-rowlett.html&#34;&gt;our walk at Bolin Park in Plano&lt;/a&gt;. Credit goes to Kassi for the avocado and tomato, but more especially for discovering such a great little park and trail system. The walk took us along ponds and tracked a golf course for most of the way, providing us with some nice urban-pastoral views. I had a great time &lt;a href=&#34;http://tobyblog.com/photos/bolin-park/&#34;&gt;playing with my P1000&lt;/a&gt;, of course. I&amp;rsquo;ve quite fallen in love with it. The long range zoom is just fun to use, and the picture quality is somewhat better than I expected given the predominantly cautionary reviews.&lt;/p&gt;
+&lt;p&gt;First off, how about those eggs, am I right? That was breakfast this past Saturday morning after &lt;a href=&#34;https://kassiblogtoo.blogspot.com/2019/07/saturday-morning-walk-along-rowlett.html&#34;&gt;our walk at Bolin Park in Plano&lt;/a&gt;. Credit goes to Kassi for the avocado and tomato, but more especially for discovering such a great little park and trail system. The walk took us along ponds and tracked a golf course for most of the way, providing us with some nice urban-pastoral views. I had a great time &lt;a href=&#34;http://tobyblog.com/photos/20190710-bolin-park/&#34;&gt;playing with my P1000&lt;/a&gt;, of course. I&amp;rsquo;ve quite fallen in love with it. The long range zoom is just fun to use, and the picture quality is somewhat better than I expected given the predominantly cautionary reviews.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/LvMzhhKCFYM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -7064,91 +6791,21 @@ Ernest Goes To The Gym FTW&lt;/p&gt;
       
       <item>
       	
-        <link>http://tobyblog.com/photos/bunny-run/</link>
+        <link>http://tobyblog.com/photos/20190628-bunny-run/</link>
         <pubDate>Fri, 28 Jun 2019 16:06:38 -0500</pubDate>
         <author>Toby Marks</author>
-        <guid>http://tobyblog.com/photos/bunny-run/</guid>
-        <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48140229827_bea0fb69d6_k.jpg&#34; alt=&#34;Digging&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Digging — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48140229827/&#34; title=&#34;Digging&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
+        <guid>http://tobyblog.com/photos/20190628-bunny-run/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48140229827_bea0fb69d6_k.jpg&#34; alt=&#34;Digging&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Some evening portrait photos taken at a new, magical little park the kids and I discovered while out geocaching.&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48140230177_44738d282e_k.jpg&#34; alt=&#34;Stones&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Stones — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48140230177/&#34; title=&#34;Stones&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48140137471_a7c21afbf7_k.jpg&#34; alt=&#34;Grass&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Grass — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48140137471/&#34; title=&#34;Grass&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48140166118_c23bdeb782_k.jpg&#34; alt=&#34;Cat&amp;#39;s Tail&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Cat&amp;#39;s Tail — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48140166118/&#34; title=&#34;Cat&amp;#39;s Tail&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48140229957_8b2db82334_k.jpg&#34; alt=&#34;Road&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Road — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48140229957/&#34; title=&#34;Road&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48140229942_c04eca2ba1_k.jpg&#34; alt=&#34;Looking&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Looking — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48140229942/&#34; title=&#34;Looking&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48140137446_644ca4bbb4_k.jpg&#34; alt=&#34;Wildflower&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Wildflower — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48140137446/&#34; title=&#34;Wildflower&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48140137156_650f96cd9f_k.jpg&#34; alt=&#34;Pellets&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Pellets — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48140137156/&#34; title=&#34;Pellets&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48140166148_4528f304bf_k.jpg&#34; alt=&#34;Peeking&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Peeking — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48140166148/&#34; title=&#34;Peeking&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48140137226_6f4d48f77a_k.jpg&#34; alt=&#34;Bench&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Bench — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48140137226/&#34; title=&#34;Bench&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-&lt;/p&gt;</description>
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48140230177_44738d282e_k.jpg&#34; alt=&#34;Stones&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48140137471_a7c21afbf7_k.jpg&#34; alt=&#34;Grass&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48140166118_c23bdeb782_k.jpg&#34; alt=&#34;Cat&amp;rsquo;s Tail&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48140229957_8b2db82334_k.jpg&#34; alt=&#34;Road&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48140229942_c04eca2ba1_k.jpg&#34; alt=&#34;Looking&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48140137446_644ca4bbb4_k.jpg&#34; alt=&#34;Wildflower&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48140137156_650f96cd9f_k.jpg&#34; alt=&#34;Pellets&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48140166148_4528f304bf_k.jpg&#34; alt=&#34;Peeking&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48140137226_6f4d48f77a_k.jpg&#34; alt=&#34;Bench&#34;&gt;&lt;/p&gt;</description>
       </item>
       
     
@@ -7222,153 +6879,41 @@ Ernest Goes To The Gym FTW&lt;/p&gt;
       
       <item>
       	
-        <link>http://tobyblog.com/photos/things-to-see-on-a-lunchtime-walk/</link>
+        <link>http://tobyblog.com/photos/20190621-things-to-see-on-a-lunchtime-walk/</link>
         <pubDate>Fri, 21 Jun 2019 16:46:36 -0500</pubDate>
         <author>Toby Marks</author>
-        <guid>http://tobyblog.com/photos/things-to-see-on-a-lunchtime-walk/</guid>
-        <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48105199446_52d47b8718_k.jpg&#34; alt=&#34;Leaf Beetle&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Leaf Beetle — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48105199446/&#34; title=&#34;Leaf Beetle&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
+        <guid>http://tobyblog.com/photos/20190621-things-to-see-on-a-lunchtime-walk/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48105199446_52d47b8718_k.jpg&#34; alt=&#34;Leaf Beetle&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Taking a midday walk can be therapeutic. On that day I took my P1000 along to test the zoom on any interesting wildlife I encountered. Got a fairly decent dragonfly pic, and those leaf beetles were new to me. I thought they were bees at first, golden colored and buzzing about above my head.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://www.geocaching.com/&#34;&gt;Geocaching.com&lt;/a&gt; just announced the August challenge for this year. It occurs to me that that area is in desparate need of a geocache…&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48105249228_6bdab47234_k.jpg&#34; alt=&#34;Hay Bales&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Hay Bales — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48105249228/&#34; title=&#34;Hay Bales&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48105316477_e7eba48d12_k.jpg&#34; alt=&#34;A Bale of Hay&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;A Bale of Hay — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48105316477/&#34; title=&#34;A Bale of Hay&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48105316597_250c716749_k.jpg&#34; alt=&#34;Gathering Pollen&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Gathering Pollen — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48105316597/&#34; title=&#34;Gathering Pollen&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48105199376_adc20dfa0f_k.jpg&#34; alt=&#34;Bee Buried in a Flower&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Bee Buried in a Flower — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48105199376/&#34; title=&#34;Bee Buried in a Flower&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48105199681_cc44ee4991_k.jpg&#34; alt=&#34;Blue Dragonfly&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Blue Dragonfly — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48105199681/&#34; title=&#34;Blue Dragonfly&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48105199841_ff9df5961b_k.jpg&#34; alt=&#34;Leaf Beetles Having Lunch&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Leaf Beetles Having Lunch — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48105199841/&#34; title=&#34;Leaf Beetles Having Lunch&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48105249348_a20b19e6cf_k.jpg&#34; alt=&#34;Dandelion&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Dandelion — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48105249348/&#34; title=&#34;Dandelion&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48105199316_3f60163712_k.jpg&#34; alt=&#34;A Very Little Spider&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;A Very Little Spider — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48105199316/&#34; title=&#34;A Very Little Spider&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-&lt;/p&gt;</description>
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48105249228_6bdab47234_k.jpg&#34; alt=&#34;Hay Bales&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48105316477_e7eba48d12_k.jpg&#34; alt=&#34;A Bale of Hay&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48105316597_250c716749_k.jpg&#34; alt=&#34;Gathering Pollen&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48105199376_adc20dfa0f_k.jpg&#34; alt=&#34;Bee Buried in a Flower&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48105199681_cc44ee4991_k.jpg&#34; alt=&#34;Blue Dragonfly&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48105199841_ff9df5961b_k.jpg&#34; alt=&#34;Leaf Beetles Having Lunch&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48105249348_a20b19e6cf_k.jpg&#34; alt=&#34;Dandelion&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48105199316_3f60163712_k.jpg&#34; alt=&#34;A Very Little Spider&#34;&gt;&lt;/p&gt;</description>
       </item>
       
     
       
       <item>
       	
-        <link>http://tobyblog.com/photos/old-photos-and-re-edits/</link>
+        <link>http://tobyblog.com/photos/20190621-old-photos-and-re-edits/</link>
         <pubDate>Fri, 21 Jun 2019 13:50:55 -0500</pubDate>
         <author>Toby Marks</author>
-        <guid>http://tobyblog.com/photos/old-photos-and-re-edits/</guid>
-        <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48103978738_96e77b0280_k.jpg&#34; alt=&#34;Runway Model&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Runway Model — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48103978738/&#34; title=&#34;Runway Model&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
+        <guid>http://tobyblog.com/photos/20190621-old-photos-and-re-edits/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48103978738_96e77b0280_k.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Some old photos I re-edited for a photography Facebook group I belonged to.&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48104041482_3734886fa3_k.jpg&#34; alt=&#34;Gumballs!&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Gumballs! — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48104041482/&#34; title=&#34;Gumballs!&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48103929541_f348b8b4db_k.jpg&#34; alt=&#34;Really Want a Gumball&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Really Want a Gumball — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48103929541/&#34; title=&#34;Really Want a Gumball&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48104041527_19cd3a831a_k.jpg&#34; alt=&#34;Swarovski Cinderella&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Swarovski Cinderella — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48104041527/&#34; title=&#34;Swarovski Cinderella&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48104041482_3734886fa3_k.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48103929541_f348b8b4db_k.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48104041527_19cd3a831a_k.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The Cinderella photo was popular with the group, because it &amp;ldquo;tells a story&amp;rdquo;. The actual story was of a daddy-daughter day at the mall, a tradition to which we&amp;rsquo;ve kept far less often than I&amp;rsquo;d want. The Cinderella and Glass Slipper crystal pieces were promotional tie-ins for the live-action movie, which I&amp;rsquo;d taken the kids to see a few months prior. It was the first of those reboots, including Beauty and the Beast, that would gradually degenerate to the point of featuring Will Smith as a blue-skinned rapping genie.&lt;/p&gt;
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48104041387_b10f547988_k.jpg&#34; alt=&#34;Statue in Repose&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Statue in Repose — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48104041387/&#34; title=&#34;Statue in Repose&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48104041387_b10f547988_k.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;One of my personal favorites, taken at the Dallas Museum of Art. My main re-edit was to re-crop the image to focus on the hands and overall graceful posture of the statue, and I&amp;rsquo;m pleased with how it turned out. Focus is everything. You have to be brave enough to peel away everything that is not at the core of an image.&lt;/p&gt;
-&lt;p&gt;&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48103978683_2e05661766_k.jpg&#34; alt=&#34;Wedding Ring&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;Wedding Ring — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48103978683/&#34; title=&#34;Wedding Ring&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48103929516_9fdea1f3e8_k.jpg&#34; alt=&#34;On the Road in Colorado&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;On the Road in Colorado — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48103929516/&#34; title=&#34;On the Road in Colorado&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48103978683_2e05661766_k.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48103929516_9fdea1f3e8_k.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;This one is also one of my favorites. The color palette is harmonious and earthy. Taken through the window of our SUV on a trip to Colorado, I think I captured the fading light of the setting sun in very even tones, and I like the way my edits brought out the color and texture of the road.&lt;/p&gt;</description>
       </item>
       
@@ -7408,168 +6953,6 @@ Ernest Goes To The Gym FTW&lt;/p&gt;
         <description>&lt;p&gt;Been reading a bit about Kodachrome film processing since I saw this picture on a photo forum. Those vivid, deep colors really get to me. I’m trying to understand the color principles well enough to reproduce something like that in my own photo processing.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1561055189/img/79AA56A0-8945-449C-A4F9-826B1B9457C5.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
-      </item>
-      
-    
-      
-      <item>
-      	
-        <link>http://tobyblog.com/photos/20190619-p1000-at-the-library/</link>
-        <pubDate>Wed, 19 Jun 2019 23:25:18 -0500</pubDate>
-        <author>Toby Marks</author>
-        <guid>http://tobyblog.com/photos/20190619-p1000-at-the-library/</guid>
-        <description>&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48088771232_f126384254_k.jpg&#34; alt=&#34;DSCN0489&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;DSCN0489 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48088771232/&#34; title=&#34;DSCN0489&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;p&gt;&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48088777377_63ac463344_k.jpg&#34; alt=&#34;DSCN0531&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;DSCN0531 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48088777377/&#34; title=&#34;DSCN0531&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48088770722_ca90e80ae7_k.jpg&#34; alt=&#34;DSCN0477&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;DSCN0477 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48088770722/&#34; title=&#34;DSCN0477&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48088718903_6c2ffe5f20_k.jpg&#34; alt=&#34;DSCN0446&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;DSCN0446 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48088718903/&#34; title=&#34;DSCN0446&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48088776902_a13cd11330_k.jpg&#34; alt=&#34;DSCN0451&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;DSCN0451 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48088776902/&#34; title=&#34;DSCN0451&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48088678451_66d9d44f46_k.jpg&#34; alt=&#34;DSCN0468&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;DSCN0468 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48088678451/&#34; title=&#34;DSCN0468&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48088772187_f485d35876_k.jpg&#34; alt=&#34;DSCN0505&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;DSCN0505 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48088772187/&#34; title=&#34;DSCN0505&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48088716043_5ba749a9b7_k.jpg&#34; alt=&#34;DSCN0534&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;DSCN0534 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48088716043/&#34; title=&#34;DSCN0534&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48088678151_ac4ac0f383_k.jpg&#34; alt=&#34;DSCN0497&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;DSCN0497 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48088678151/&#34; title=&#34;DSCN0497&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48088770892_ead01a7127_k.jpg&#34; alt=&#34;DSCN0463&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;DSCN0463 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48088770892/&#34; title=&#34;DSCN0463&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48088772427_e4098ce79d_k.jpg&#34; alt=&#34;DSCN0466&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;DSCN0466 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48088772427/&#34; title=&#34;DSCN0466&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48088712393_f8e113a93c_k.jpg&#34; alt=&#34;DSCN0461&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;DSCN0461 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48088712393/&#34; title=&#34;DSCN0461&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48088773652_fc94557fae_k.jpg&#34; alt=&#34;DSCN0523&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;DSCN0523 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48088773652/&#34; title=&#34;DSCN0523&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48088714633_cfe6d29a6e_k.jpg&#34; alt=&#34;DSCN0509&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;DSCN0509 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48088714633/&#34; title=&#34;DSCN0509&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48088773362_99fc586229_k.jpg&#34; alt=&#34;DSCN0457&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;DSCN0457 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48088773362/&#34; title=&#34;DSCN0457&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48088777697_668af3d566_k.jpg&#34; alt=&#34;DSCN0533&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;DSCN0533 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48088777697/&#34; title=&#34;DSCN0533&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-&lt;figure class=&#34;wp-caption alignnone&#34;&gt;
-
-  &lt;img src=&#34;https://live.staticflickr.com/65535/48088713278_ba3399bcd4_k.jpg&#34; alt=&#34;DSCN0480&#34;&gt;
-  &lt;figcaption class=&#34;wp-caption-text&#34;&gt;DSCN0480 — Photo by &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/&#34;&gt;Tobyblog&lt;/a&gt; on &lt;a href=&#34;https://www.flickr.com/photos/tobyjmarks/48088713278/&#34; title=&#34;DSCN0480&#34;&gt;Flickr&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-![](&lt;a data-flickr-embed=&#34;true&#34; href=&#34;https://www.flickr.com/photos/tobyjmarks/48088775432/&#34; title=&#34;DSCN0520&#34;&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48088775432_a45de03f47_k.jpg&#34; width=&#34;2048&#34; height=&#34;1537&#34; alt=&#34;DSCN0520&#34;&gt;&lt;/a&gt;&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;)&lt;/p&gt;
-&lt;p&gt;![](&lt;a data-flickr-embed=&#34;true&#34; href=&#34;https://www.flickr.com/photos/tobyjmarks/48088779002/&#34; title=&#34;DSCN0543&#34;&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48088779002_c1783a60bf_k.jpg&#34; width=&#34;2048&#34; height=&#34;1537&#34; alt=&#34;DSCN0543&#34;&gt;&lt;/a&gt;&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;)&lt;/p&gt;
-&lt;p&gt;![](&lt;a data-flickr-embed=&#34;true&#34; href=&#34;https://www.flickr.com/photos/tobyjmarks/48088770257/&#34; title=&#34;DSCN0503&#34;&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48088770257_7b9ac21072_k.jpg&#34; width=&#34;2048&#34; height=&#34;1537&#34; alt=&#34;DSCN0503&#34;&gt;&lt;/a&gt;&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;)&lt;/p&gt;
-&lt;p&gt;![]( &lt;a data-flickr-embed=&#34;true&#34; href=&#34;https://www.flickr.com/photos/tobyjmarks/48088683226/&#34; title=&#34;DSCN0545&#34;&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48088683226_26e5c2feb4_k.jpg&#34; width=&#34;2048&#34; height=&#34;1537&#34; alt=&#34;DSCN0545&#34;&gt;&lt;/a&gt;&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;)&lt;/p&gt;
-&lt;p&gt;![](&lt;a data-flickr-embed=&#34;true&#34; href=&#34;https://www.flickr.com/photos/tobyjmarks/48088681026/&#34; title=&#34;DSCN0525&#34;&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48088681026_12153e70cb_k.jpg&#34; width=&#34;2048&#34; height=&#34;1537&#34; alt=&#34;DSCN0525&#34;&gt;&lt;/a&gt;&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;)&lt;/p&gt;
-&lt;p&gt;![](&lt;a data-flickr-embed=&#34;true&#34; href=&#34;https://www.flickr.com/photos/tobyjmarks/48088773967/&#34; title=&#34;DSCN0521&#34;&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48088773967_988b460ade_k.jpg&#34; width=&#34;2048&#34; height=&#34;1537&#34; alt=&#34;DSCN0521&#34;&gt;&lt;/a&gt;&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;)&lt;/p&gt;
-&lt;p&gt;![](&lt;a data-flickr-embed=&#34;true&#34; href=&#34;https://www.flickr.com/photos/tobyjmarks/48088715383/&#34; title=&#34;DSCN0440&#34;&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48088715383_120d1f91b6_k.jpg&#34; width=&#34;2048&#34; height=&#34;1537&#34; alt=&#34;DSCN0440&#34;&gt;&lt;/a&gt;&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;)&lt;/p&gt;
-&lt;p&gt;![](&lt;a data-flickr-embed=&#34;true&#34; href=&#34;https://www.flickr.com/photos/tobyjmarks/48088771597/&#34; title=&#34;DSCN0514&#34;&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48088771597_6797f574ef_k.jpg&#34; width=&#34;2048&#34; height=&#34;1537&#34; alt=&#34;DSCN0514&#34;&gt;&lt;/a&gt;&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;)&lt;/p&gt;
-&lt;p&gt;![](&lt;a data-flickr-embed=&#34;true&#34; href=&#34;https://www.flickr.com/photos/tobyjmarks/48088778352/&#34; title=&#34;DSCN0491&#34;&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48088778352_95b0e4f0ae_k.jpg&#34; width=&#34;2048&#34; height=&#34;1537&#34; alt=&#34;DSCN0491&#34;&gt;&lt;/a&gt;&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;)&lt;/p&gt;
-&lt;p&gt;![](&lt;a data-flickr-embed=&#34;true&#34; href=&#34;https://www.flickr.com/photos/tobyjmarks/48088676941/&#34; title=&#34;DSCN0494&#34;&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48088676941_0f2495e5d2_k.jpg&#34; width=&#34;2048&#34; height=&#34;1537&#34; alt=&#34;DSCN0494&#34;&gt;&lt;/a&gt;&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;)&lt;/p&gt;
-&lt;p&gt;![](&lt;a data-flickr-embed=&#34;true&#34; href=&#34;https://www.flickr.com/photos/tobyjmarks/48088683031/&#34; title=&#34;DSCN0433&#34;&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48088683031_14fbad8b9f_k.jpg&#34; width=&#34;2048&#34; height=&#34;1537&#34; alt=&#34;DSCN0433&#34;&gt;&lt;/a&gt;&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;)&lt;/p&gt;
-&lt;p&gt;![](&lt;a data-flickr-embed=&#34;true&#34; href=&#34;https://www.flickr.com/photos/tobyjmarks/48088679986/&#34; title=&#34;DSCN0530&#34;&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48088679986_04baea4f18_k.jpg&#34; width=&#34;2048&#34; height=&#34;1537&#34; alt=&#34;DSCN0530&#34;&gt;&lt;/a&gt;&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48088680271_c4d10e9f72_k.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48088772662_9452020437_k.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48088717018_c7331021af_k.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/48105199446_52d47b8718_k.jpg&#34; alt=&#34;Leaf Beetle&#34;&gt;&lt;/p&gt;</description>
       </item>
       
     
