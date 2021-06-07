@@ -659,16 +659,40 @@
     <loc>http://tobyblog.com/microposts/gone-cachin/</loc>
     <lastmod>2019-10-23T11:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/photos/pumpkin-hollow-2019/</loc>
+    <loc>http://tobyblog.com/tags/anthony/</loc>
     <lastmod>2019-10-19T10:38:39-05:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/photos/a-day-in-october/</loc>
+    <loc>http://tobyblog.com/tags/festivals/</loc>
+    <lastmod>2019-10-19T10:38:39-05:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/tags/lucy/</loc>
+    <lastmod>2019-10-19T10:38:39-05:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/photos/20191019-pumpkin-hollow-2019/</loc>
+    <lastmod>2019-10-19T10:38:39-05:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/photos/20191015-a-day-in-october/</loc>
     <lastmod>2019-10-15T17:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/photos/downtown-fever-on-stage-at-the-plano-balloon-festival/</loc>
+    <loc>http://tobyblog.com/categories/anthony/</loc>
+    <lastmod>2019-10-15T17:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/categories/kassi/</loc>
+    <lastmod>2019-10-15T17:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/photos/20191012-downtown-fever-on-stage-at-the-plano-balloon-festival/</loc>
     <lastmod>2019-10-12T11:59:42-05:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/photos/seeing-zion-national-park/</loc>
+    <loc>http://tobyblog.com/tags/national-parks/</loc>
+    <lastmod>2019-09-20T11:51:57-05:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/photos/20190920-seeing-zion-national-park/</loc>
+    <lastmod>2019-09-20T11:51:57-05:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/tags/travel/</loc>
+    <lastmod>2019-09-20T11:51:57-05:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/tags/utah/</loc>
     <lastmod>2019-09-20T11:51:57-05:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/posts/20190910-an-album-for-september/</loc>
@@ -686,7 +710,10 @@
     <loc>http://tobyblog.com/posts/20100910-love-is-a-many-splendored-thing/</loc>
     <lastmod>2019-09-10T12:49:17-05:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/photos/grand-canyon-2019/</loc>
+    <loc>http://tobyblog.com/tags/arizona/</loc>
+    <lastmod>2019-09-09T20:35:46-05:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/photos/20190909-grand-canyon-2019/</loc>
     <lastmod>2019-09-09T20:35:46-05:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/microposts/never-sit-on-a-lonely-bench/</loc>
@@ -694,9 +721,6 @@
   </url><url>
     <loc>http://tobyblog.com/posts/20190830-faces/</loc>
     <lastmod>2019-08-30T15:33:44-05:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/tags/arizona/</loc>
-    <lastmod>2019-08-25T17:32:25-05:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/posts/20190825-grand-canyon-crow/</loc>
     <lastmod>2019-08-25T17:32:25-05:00</lastmod>
@@ -722,7 +746,10 @@
     <loc>http://tobyblog.com/microposts/closet-re-org-has-begun/</loc>
     <lastmod>2019-08-17T14:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/photos/red-rock-state-park/</loc>
+    <loc>http://tobyblog.com/photos/20190817-red-rock-state-park/</loc>
+    <lastmod>2019-08-17T12:44:32-05:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/tags/state-parks/</loc>
     <lastmod>2019-08-17T12:44:32-05:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/microposts/vacation-pics-coming-soon/</loc>
@@ -737,11 +764,11 @@
     <loc>http://tobyblog.com/microposts/awkward-elevator-moments/</loc>
     <lastmod>2019-08-13T22:44:16-05:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/photos/frank-rip/</loc>
+    <loc>http://tobyblog.com/tags/frank/</loc>
     <lastmod>2019-08-13T22:08:42-05:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/tags/frank/</loc>
-    <lastmod>2019-08-13T12:03:00-05:00</lastmod>
+    <loc>http://tobyblog.com/photos/20190813-frank-rip/</loc>
+    <lastmod>2019-08-13T22:08:42-05:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/posts/20190813-rip-frank-dog-2013-2019/</loc>
     <lastmod>2019-08-13T12:03:00-05:00</lastmod>
@@ -762,12 +789,6 @@
     <lastmod>2019-08-09T10:00:00-05:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/tags/telluride/</loc>
-    <lastmod>2019-08-09T10:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/tags/travel/</loc>
-    <lastmod>2019-08-09T10:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/tags/utah/</loc>
     <lastmod>2019-08-09T10:00:00-05:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/tags/zion/</loc>
@@ -818,10 +839,10 @@
     <loc>http://tobyblog.com/tags/pasadena/</loc>
     <lastmod>2019-07-31T17:34:22-05:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/photos/pasadena-tour/</loc>
+    <loc>http://tobyblog.com/photos/20190731-pasadena-tour/</loc>
     <lastmod>2019-07-31T17:34:22-05:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/photos/taking-kassi-to-the-channel-islands/</loc>
+    <loc>http://tobyblog.com/photos/20190731-taking-kassi-to-the-channel-islands/</loc>
     <lastmod>2019-07-31T17:04:06-05:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/microposts/work-day-with-my-son/</loc>
@@ -866,16 +887,10 @@
     <loc>http://tobyblog.com/tags/4th-of-july/</loc>
     <lastmod>2019-07-10T16:57:59-05:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/tags/anthony/</loc>
-    <lastmod>2019-07-10T16:57:59-05:00</lastmod>
-  </url><url>
     <loc>http://tobyblog.com/tags/augie/</loc>
     <lastmod>2019-07-10T16:57:59-05:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/photos/20190710-4th-of-july-2019/</loc>
-    <lastmod>2019-07-10T16:57:59-05:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/tags/lucy/</loc>
     <lastmod>2019-07-10T16:57:59-05:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/photos/20190710-bolin-park/</loc>
@@ -991,9 +1006,6 @@
   </url><url>
     <loc>http://tobyblog.com/microposts/alyssa-stank/</loc>
     <lastmod>2019-05-22T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/tags/festivals/</loc>
-    <lastmod>2019-05-21T15:00:00-05:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/posts/20190521-cottonwood-art-fest-2019/</loc>
     <lastmod>2019-05-21T15:00:00-05:00</lastmod>
