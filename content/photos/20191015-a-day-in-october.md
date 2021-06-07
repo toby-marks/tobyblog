@@ -3,6 +3,8 @@ camera = "iPhone Xs"
 date = "2019-10-15T17:00:00-05:00"
 location = "Texas"
 title = "A Day in October"
+categories = ["Journal","Kassi","Anthony"]
+tags = ["Halloween"]
 image = "https://res.cloudinary.com/tobyblog/image/upload/v1571179206/img/50068482-648F-4B67-A050-24F92CF5254C_lzimja.jpg"
 images = [
 "https://res.cloudinary.com/tobyblog/image/upload/v1571179206/img/50068482-648F-4B67-A050-24F92CF5254C_lzimja.jpg",
