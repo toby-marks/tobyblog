@@ -641,11 +641,11 @@
     <loc>http://tobyblog.com/microposts/november-2019-arbor-hills/</loc>
     <lastmod>2019-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/photos/happy-halloween-2019/</loc>
+    <loc>http://tobyblog.com/tags/halloween/</loc>
     <lastmod>2019-11-01T03:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/tags/halloween/</loc>
-    <lastmod>2019-10-29T23:00:00-05:00</lastmod>
+    <loc>http://tobyblog.com/photos/20191101-happy-halloween-2019/</loc>
+    <lastmod>2019-11-01T03:00:00+00:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/posts/20191029-nine-useless-jack-o-lantern-templates/</loc>
     <lastmod>2019-10-29T23:00:00-05:00</lastmod>
@@ -653,7 +653,13 @@
     <loc>http://tobyblog.com/microposts/forgotten-brand-mascots/</loc>
     <lastmod>2019-10-24T14:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/photos/happy-halloween-hide-dnf/</loc>
+    <loc>http://tobyblog.com/tags/geocaching/</loc>
+    <lastmod>2019-10-23T14:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/photos/20191023-happy-halloween-hide-dnf/</loc>
+    <lastmod>2019-10-23T14:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/categories/hobbies/</loc>
     <lastmod>2019-10-23T14:00:00-05:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/microposts/gone-cachin/</loc>
@@ -1162,12 +1168,6 @@
   </url><url>
     <loc>http://tobyblog.com/posts/20190406-flip-wilson/</loc>
     <lastmod>2019-04-06T20:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/tags/geocaching/</loc>
-    <lastmod>2019-04-05T14:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/categories/hobbies/</loc>
-    <lastmod>2019-04-05T14:00:00+00:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/posts/20190405-time-to-start-it-up-again/</loc>
     <lastmod>2019-04-05T14:00:00+00:00</lastmod>
