@@ -1,6 +1,8 @@
 +++
 title = "The Death of Ivan Ilyich"
 date = "2018-10-24T02:11:48-05:00"
+categories = ["Books"]
+tags = []
 +++
 # The Death of Ivan Ilyich, Leo Tolstoy. Chapter XII
 

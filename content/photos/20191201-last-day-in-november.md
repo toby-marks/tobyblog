@@ -3,7 +3,9 @@ camera = "iPhone XS"
 date = 2019-12-01T21:00:00Z
 location = "Dallas, TX"
 title = "Last Day in November"
-
+categories = ["Journal"]
+tags = ["parks","Kassi","Anthony"]
+images = ["https://res.cloudinary.com/tobyblog/image/upload/a_0/v1575234725/img/4A0FCF8F-BDD1-4BDE-98CA-101C3247DE2B_kh9ew2.jpg"]
 +++
 ![](https://res.cloudinary.com/tobyblog/image/upload/a_0/v1575234725/img/4A0FCF8F-BDD1-4BDE-98CA-101C3247DE2B_kh9ew2.jpg)  
 <!--more-->

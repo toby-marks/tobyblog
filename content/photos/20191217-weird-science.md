@@ -3,7 +3,9 @@ camera = "(screen capture)"
 date = 2019-12-17T22:00:00Z
 location = "Instagram"
 title = "Weird Science"
-
+categories = ["Journal"]
+tags = ["news"]
+images = ["https://res.cloudinary.com/tobyblog/image/upload/v1576621853/img/8BEA474A-4654-489B-B1DB-13372C5437E4_nowtjo.jpg"]
 +++
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1576621818/img/015B9C56-7A29-4D3C-86D1-F5FA1EB41DFD_j1r9ib.jpg)
 <!--more-->

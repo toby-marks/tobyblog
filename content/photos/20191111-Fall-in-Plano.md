@@ -4,7 +4,7 @@ date = 2019-11-11T18:30:09Z
 location = "Plano, TX"
 title = "Fall in Plano"
 categories = ["Journal"]
-tags = ["parks","Kassi","Anthony"]
+tags = []
 images = ["https://live.staticflickr.com/65535/49051417028_03d12ac5f0_o.jpg"]
 +++
 ![](https://live.staticflickr.com/65535/49051417028_03d12ac5f0_o.jpg)
