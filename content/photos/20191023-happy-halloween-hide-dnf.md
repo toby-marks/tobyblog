@@ -3,7 +3,9 @@ camera = "iPhone XS"
 date = "2019-10-23T14:00:00-05:00"
 location = "Las Colinas, Texas"
 title = "Happy Halloween Hide DNF"
-
+categories = ["Hobbies"]
+tags = ["geocaching","Halloween"]
+images = ["https://res.cloudinary.com/tobyblog/image/upload/v1571856012/img/Screen_Shot_2019-10-23_at_1.36.14_PM.png"]
 +++
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1571856012/img/Screen_Shot_2019-10-23_at_1.36.14_PM.png)
 <!--more--> 
