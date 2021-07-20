@@ -647,11 +647,29 @@
     </item>
     
     <item>
+      <title>rock</title>
+      <link>http://tobyblog.com/tags/rock/</link>
+      <pubDate>Thu, 11 Jul 2019 12:00:00 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/tags/rock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>4th of July</title>
       <link>http://tobyblog.com/tags/4th-of-july/</link>
       <pubDate>Wed, 10 Jul 2019 16:57:59 -0500</pubDate>
       
       <guid>http://tobyblog.com/tags/4th-of-july/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>soul</title>
+      <link>http://tobyblog.com/tags/soul/</link>
+      <pubDate>Tue, 02 Jul 2019 19:00:00 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/tags/soul/</guid>
       <description></description>
     </item>
     
@@ -665,11 +683,11 @@
     </item>
     
     <item>
-      <title>ramen</title>
-      <link>http://tobyblog.com/tags/ramen/</link>
-      <pubDate>Thu, 16 May 2019 21:00:00 +0000</pubDate>
+      <title>nature</title>
+      <link>http://tobyblog.com/tags/nature/</link>
+      <pubDate>Wed, 22 May 2019 13:00:00 +0000</pubDate>
       
-      <guid>http://tobyblog.com/tags/ramen/</guid>
+      <guid>http://tobyblog.com/tags/nature/</guid>
       <description></description>
     </item>
     
@@ -679,6 +697,15 @@
       <pubDate>Tue, 14 May 2019 20:02:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/tags/movies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nostalgia</title>
+      <link>http://tobyblog.com/tags/nostalgia/</link>
+      <pubDate>Tue, 14 May 2019 20:01:00 +0000</pubDate>
+      
+      <guid>http://tobyblog.com/tags/nostalgia/</guid>
       <description></description>
     </item>
     
