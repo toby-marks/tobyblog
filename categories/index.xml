@@ -163,9 +163,27 @@
     <item>
       <title>Admin</title>
       <link>http://tobyblog.com/categories/admin/</link>
-      <pubDate>Thu, 11 Apr 2019 17:44:34 -0500</pubDate>
+      <pubDate>Sat, 27 Jul 2019 14:17:42 -0500</pubDate>
       
       <guid>http://tobyblog.com/categories/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movies</title>
+      <link>http://tobyblog.com/categories/movies/</link>
+      <pubDate>Fri, 05 Jul 2019 12:00:00 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/categories/movies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Television</title>
+      <link>http://tobyblog.com/categories/television/</link>
+      <pubDate>Tue, 14 May 2019 20:01:00 +0000</pubDate>
+      
+      <guid>http://tobyblog.com/categories/television/</guid>
       <description></description>
     </item>
     
@@ -175,15 +193,6 @@
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/categories/unboxings/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Television</title>
-      <link>http://tobyblog.com/categories/television/</link>
-      <pubDate>Tue, 24 Apr 2018 20:37:11 -0500</pubDate>
-      
-      <guid>http://tobyblog.com/categories/television/</guid>
       <description></description>
     </item>
     

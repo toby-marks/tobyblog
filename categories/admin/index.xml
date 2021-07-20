@@ -6,7 +6,25 @@
     <description>Recent content in Admin on Tobyblog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Apr 2019 17:44:34 -0500</lastBuildDate><atom:link href="http://tobyblog.com/categories/admin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Jul 2019 14:17:42 -0500</lastBuildDate><atom:link href="http://tobyblog.com/categories/admin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All New Photo Galleries</title>
+      <link>http://tobyblog.com/microposts/20190727-all-new-photo-galleries/</link>
+      <pubDate>Sat, 27 Jul 2019 14:17:42 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/microposts/20190727-all-new-photo-galleries/</guid>
+      <description>It took a bit of effort to get everything tweaked just right for mobile, but I&amp;rsquo;m happy to announce that I&amp;rsquo;ve upgraded my photo galleries to use the popular &amp;ldquo;lightbox&amp;rdquo; style layout. There&amp;rsquo;s of course some Javascript overhead that I regret, but I think that&amp;rsquo;s offset somewhat by lazy loading and the use of thumbnails. See whether you think response time has improved. It&amp;rsquo;s not everywhere yet, just on recent galleries like Flight to LA and probably all stuff going forward from that, unless I&amp;rsquo;m posting from my phone.</description>
+    </item>
+    
+    <item>
+      <title>🛠 Site Update: Fullscreen Photo Galleries</title>
+      <link>http://tobyblog.com/microposts/20190628-site-update-fullscreen-galleries/</link>
+      <pubDate>Fri, 28 Jun 2019 17:32:30 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/microposts/20190628-site-update-fullscreen-galleries/</guid>
+      <description>Update: Fullscreen Photo Galleries Announcing a significant new site update: photo galleries are now displayed in fullscreen format for the best possible viewing experience. Try it out for yourself. Best experienced on a widescreen monitor.</description>
+    </item>
+    
     <item>
       <title>🛠 Major Site Updates 👨🏻‍💻</title>
       <link>http://tobyblog.com/microposts/20190411-major-site-updates/</link>
