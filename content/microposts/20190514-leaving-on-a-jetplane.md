@@ -1,7 +1,8 @@
 +++
 date = "2019-05-14T20:00:00+00:00"
 title = "Leaving On A Jetplane"
-
+categories = ["Journal","Music"]
+tags = ["pop"]
 +++
 🛫🌃
 
