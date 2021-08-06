@@ -1,4 +1,5 @@
 +++
+draft = "true"
 title = "The Year in Pictures — 2015 Edition"
 description = ""
 date = "2015-12-30T15:27:46-06:00"
