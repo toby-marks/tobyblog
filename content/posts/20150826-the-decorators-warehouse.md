@@ -5,17 +5,13 @@ categories = ["Reviews"]
 tags = ["Christmas","Lucy","Augie","stores"]
 images = ["http://1.bp.blogspot.com/-IzcLhpsB2mo/VcvRu9_LdII/AAAAAAAACWA/4snJIiSjyBQ/s2048/DSC04578.jpg"]
 +++
-![](http://2.bp.blogspot.com/-ZCuBzQTTObM/VcvU75Xsg-I/AAAAAAAACYM/sSR3itUXXhw/s2048/DSC04629.jpg)
+![](http://1.bp.blogspot.com/-qpeZXgKa9cM/VcvUoyR-aJI/AAAAAAAACX0/cV2Hn4jOi9I/s2048/DSC04571.jpg)
 
 The Decorator's Warehouse, located in Arlington, Texas, bills itself as Texas's largest Christmas store. And it *is* very large. But what really impresses you upon entering the place is just how jam-packed it is with holiday and seasonal baubles, as if despite its football-field size floor space they still did not have quite enough room to fit everything. 
 
 <!--more-->
 
-![](http://2.bp.blogspot.com/-9klDoEJoZpI/VcvU5OLx-cI/AAAAAAAACYA/IrbnSH4toFU/s2048/DSC04625.jpg)
-
 As soon as you walk in the door you're assaulted with holiday cheer; the entrance is rather elaborately decorated and serves as both a picture station and portal of sorts into this alternate dimension that feels something like Santa's attic.
-
-![](http://1.bp.blogspot.com/-qpeZXgKa9cM/VcvUoyR-aJI/AAAAAAAACX0/cV2Hn4jOi9I/s2048/DSC04571.jpg)
 
 Their stock ranges from the interesting and obscure to frou-frou items for fancy lovers of antiques. One thing for certain is that you won't find any of it at your local Target. The inventory is stacked so high above your heads it can make you feel like a child at times.
 
@@ -26,8 +22,6 @@ The forest themes that predominate in part of the store have an almost Narnia-li
 ![](http://4.bp.blogspot.com/-dhye47rfEJ0/VcvRnZQUL_I/AAAAAAAACVk/2R2YujsSHUc/s2048/DSC04572.jpg)
 
 Angels with their lamps announce the birth of the Christ-child. December is in the very wood and mortar of this place.
-
-![](http://2.bp.blogspot.com/-TXAicRUNrSM/VcvU6H1FchI/AAAAAAAACYE/7uZyxsLAHBw/s2048/IMG_4076.jpg)
 
 *Ah!* 
 
@@ -62,8 +56,6 @@ I was shattered.
 ![](http://2.bp.blogspot.com/-0hF2uI5gO_I/VcvRzjW2StI/AAAAAAAACWk/MHDxZ0RHLMU/s2048/DSC04592.jpg)
 
 One of the main reasons we visited was the promise of a Halloween collection unparalleled in the city. They still had pictures online from last year, and it was pretty breathtaking. This little picture was illuminated by hidden lights, and was about the only true Halloween item in the place.
-
-![](http://1.bp.blogspot.com/-NY-4XUVsIfM/VcvR0KnLq5I/AAAAAAAACWo/cgaj7ntLRCo/s2048/DSC04596.jpg)
 
 ![](http://3.bp.blogspot.com/-sGDXzzhNBD8/VcvR1rxn7GI/AAAAAAAACW0/uCPgOo0Vcak/s2048/DSC04601.jpg)
 

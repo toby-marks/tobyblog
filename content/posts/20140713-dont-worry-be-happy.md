@@ -1,4 +1,5 @@
 +++
+draft = "true"
 title = "Don't Worry, Be Happy"
 date = 2014-07-13T16:06:00Z
 categories = ["Journal"]

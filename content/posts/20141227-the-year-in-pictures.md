@@ -1,4 +1,5 @@
 +++
+draft = "true"
 title = "The Year in Pictures"
 date = 2014-12-27T21:48:00Z
 categories = ["Journal"]

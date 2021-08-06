@@ -4,12 +4,14 @@ date = 2014-09-07
 location = "Dallas, TX"
 camera = "my Sony DSC RX-100"
 categories = ["Reviews"]
-tags = ["Dinosaur Dracula","Lucy","Augie"]
+tags = ["Dinosaur Dracula","Augie"]
 images = ["http://2.bp.blogspot.com/-JB9vI3k6VSA/VAv1DnbERKI/AAAAAAAABKE/dpcrYsI7IsA/s2048/DSC01899.jpg"]
 +++
-![](http://2.bp.blogspot.com/-JB9vI3k6VSA/VAv1DnbERKI/AAAAAAAABKE/dpcrYsI7IsA/s2048/DSC01899.jpg)
+![](http://4.bp.blogspot.com/-eJtzOcWGoH0/VAv1ERbJbhI/AAAAAAAABKQ/1KHejU1g0GU/s2048/DSC01904.jpg)
 
 <!--more-->
+
+[//]: # (http://2.bp.blogspot.com/-JB9vI3k6VSA/VAv1DnbERKI/AAAAAAAABKE/dpcrYsI7IsA/s2048/DSC01899.jpg)
 
 September has arrived, and it's time to open another funpack from Dinosaur Dracula!
 
@@ -19,13 +21,9 @@ This year Matt has decided to establish a special monthly subscription program t
 
 Here's what we got for September:
 
-![](http://4.bp.blogspot.com/-b45AmIhziD0/VAv1DnPdpdI/AAAAAAAABKA/3RxSb6K_wo8/s2048/DSC01901.jpg)
-
-![](http://1.bp.blogspot.com/-8xx_vzO2E5U/VAv1DiGI_DI/AAAAAAAABJ8/udjfj4fWYV8/s2048/DSC01902.jpg)
-
-Could she be any more excited?
-
-![](http://4.bp.blogspot.com/-eJtzOcWGoH0/VAv1ERbJbhI/AAAAAAAABKQ/1KHejU1g0GU/s2048/DSC01904.jpg)
+[//]: # (http://4.bp.blogspot.com/-b45AmIhziD0/VAv1DnPdpdI/AAAAAAAABKA/3RxSb6K_wo8/s2048/DSC01901.jpg)
+[//]: # (http://1.bp.blogspot.com/-8xx_vzO2E5U/VAv1DiGI_DI/AAAAAAAABJ8/udjfj4fWYV8/s2048/DSC01902.jpg)
+[//]: # (Could she be any more excited?)
 
 ![](http://2.bp.blogspot.com/-lzWWtICXxnU/VAv1EpUhwrI/AAAAAAAABKc/wPj2zEgInzM/s2048/DSC01905.jpg)
 

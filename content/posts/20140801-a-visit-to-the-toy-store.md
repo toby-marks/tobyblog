@@ -1,4 +1,5 @@
 +++
+draft = "true"
 date = 2014-08-01
 title = "A Visit To The Toy Store"
 location = "Dallas, TX"

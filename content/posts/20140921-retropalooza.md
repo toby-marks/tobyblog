@@ -33,19 +33,19 @@ The Star Wars dealer table got a little more love than usual thanks to the buzz 
 
 ![](http://2.bp.blogspot.com/-795g_9-tShE/VB9B_q_h_HI/AAAAAAAABTM/HLCZUXZcwY4/s2048/IMG_2109.JPG)
 
-![](http://3.bp.blogspot.com/-Dlw8CDRJ-cg/VB9B7-aWCXI/AAAAAAAABSI/pN7CPkkprW4/s2048/IMG_2090.jpg)
+[//]: # (![](http://3.bp.blogspot.com/-Dlw8CDRJ-cg/VB9B7-aWCXI/AAAAAAAABSI/pN7CPkkprW4/s2048/##IMG_2090.jpg))
 
-ThePonyOwner is a HUGE Zelda fan.
+[//]: # (ThePonyOwner is a HUGE Zelda fan.)
 
 ![](http://2.bp.blogspot.com/-Zefy2bOcdwk/VB9CBKPkYbI/AAAAAAAABT0/6UsH8jMLLNU/s2048/IMG_2114.JPG)
 
 Came with an old record!
 
-![](http://2.bp.blogspot.com/-1qfJMcs3v7M/VB9B8tLO2FI/AAAAAAAABSU/IqphpXucSUY/s2048/IMG_2095.jpg)
+[//]: # (![](http://2.bp.blogspot.com/-1qfJMcs3v7M/VB9B8tLO2FI/AAAAAAAABSU/IqphpXucSUY/s2048/IMG_2095.jpg))
 
-![](http://1.bp.blogspot.com/-vBgZ93wJ-E4/VB9B9XqVd1I/AAAAAAAABSs/-ApAInJTpZM/s2048/IMG_2096.JPG)
+[//]: # (![](http://1.bp.blogspot.com/-vBgZ93wJ-E4/VB9B9XqVd1I/AAAAAAAABSs/-ApAInJTpZM/s2048/IMG_2096.JPG))
 
-ThePonyOwner showing off her new Princess Peach necklace.
+[//]: # (ThePonyOwner showing off her new Princess Peach necklace.)
 
 ![](http://1.bp.blogspot.com/-jE5iNQ7FICY/VB9CHoBRyMI/AAAAAAAABVc/o4BKXjvNCSQ/s2048/IMG_2141.JPG)
 
@@ -101,7 +101,7 @@ TheVCubeSolver meets one of his favorite YouTube celebs, Norman Caruso aka The G
 
 ![](http://4.bp.blogspot.com/-15ezjDpKbnw/VB9B6ZsBSYI/AAAAAAAABR4/iydZZt5E2wE/s2048/DSC02121.jpg)
 
-![](http://2.bp.blogspot.com/-0dt7gETHeX8/VB9B-HJ6JeI/AAAAAAAABTE/lD97GvROEbA/s2048/IMG_2104.JPG)
+[//]: # (![](http://2.bp.blogspot.com/-0dt7gETHeX8/VB9B-HJ6JeI/AAAAAAAABTE/lD97GvROEbA/s2048/IMG_2104.JPG))
 
 I recommend you check out his [YouTube channel](https://www.youtube.com/user/mcfrosticles/). His videos are very well produced and educational, to boot, which is not surprising as he's a history teacher in real life!
 
@@ -133,9 +133,9 @@ Time for some action. TheVCubeSolver warms up before the Mario Kart tournament.
 
 ![](http://3.bp.blogspot.com/-Tm9C32C9J0g/VB9CHKsy19I/AAAAAAAABVg/bHTmaLm9b14/s2048/IMG_2136.JPG)
 
-![](http://3.bp.blogspot.com/-30V63ZXsQb4/VB9CIgOMBhI/AAAAAAAABV0/AZ6436aIFOs/s2048/IMG_2154.JPG)
+[//]: # (![](http://3.bp.blogspot.com/-30V63ZXsQb4/VB9CIgOMBhI/AAAAAAAABV0/AZ6436aIFOs/s2048/IMG_2154.JPG))
 
-I heard about this back when Wreck It Ralph was in theaters. They released a version of the Fix It Felix game featured in the movie for the Sega Genesis. Think about that for a minute.
+[//]: # (I heard about this back when Wreck It Ralph was in theaters. They released a version of the Fix It Felix game featured in the movie for the Sega Genesis. Think about that for a minute.)
 
 ![](http://3.bp.blogspot.com/-n6SnZVF6BM0/VB9CHUgVBxI/AAAAAAAABVY/3_is_jsrufg/s2048/IMG_2137.JPG)
 
@@ -151,7 +151,7 @@ Head to head Mario Kart 64 action.
 
 Both kids competed in the Double Dash tournament.
 
-![](http://4.bp.blogspot.com/-4vhYqVLIgXE/VB9CKVjuuJI/AAAAAAAABWM/BbDpfvG9Qko/s2048/IMG_2166.JPG)
+[//]: # (![](http://4.bp.blogspot.com/-4vhYqVLIgXE/VB9CKVjuuJI/AAAAAAAABWM/BbDpfvG9Qko/s2048/IMG_2166.JPG))
 
 Unfortunately, they lost that one, despite TheVCubeSolver clearly being the better driver in the race. Got torpedoed by a red shell right before the finish line. That's how it goes in Mario Kart…
 
@@ -161,6 +161,6 @@ Still, though, he won the Mario Kart 64 tourney. I was proud, he was excited. Fo
 
 (If you're interested he got Chrystalis for the Game Boy Color and Noddy: Adventures in Toyland for the Gameboy Advance, which was something of a nostalgia item for him. He loved that show when he was little. I even dressed him up as Noddy one Halloween.)
 
-![](http://1.bp.blogspot.com/-NbEzgR3HDgs/VB9CoBzh8mI/AAAAAAAABXI/BsqgCKPepuI/s2048/IMG_2177.JPG)
+[//]: # (![](http://1.bp.blogspot.com/-NbEzgR3HDgs/VB9CoBzh8mI/AAAAAAAABXI/BsqgCKPepuI/s2048/IMG_2177.JPG))
 
-You know ThePonyOwner wasn't leaving without some horse with a horn in its head. She really fell in love with this pixel Twilight Sparkle, which is hanging in a place of honor in her room even now…
+[//]: # (You know ThePonyOwner wasn't leaving without some horse with a horn in its head. She really fell in love with this pixel Twilight Sparkle, which is hanging in a place of honor in her room even now…)
