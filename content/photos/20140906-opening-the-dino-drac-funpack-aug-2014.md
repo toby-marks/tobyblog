@@ -4,12 +4,13 @@ date = 2014-09-06
 location = "Dallas, TX"
 camera = "my Sony DSC RX-100"
 categories = ["Reviews"]
-tags = ["Dinosaur Dracula","Augie","Lucy"]
+tags = ["Dinosaur Dracula","Augie"]
 images = ["http://3.bp.blogspot.com/-mbZzgxeWocg/VAvxF5TPerI/AAAAAAAABFk/V625KbgIXYo/s2048/IMG_1721.jpg"]
 +++
-![](http://3.bp.blogspot.com/-mbZzgxeWocg/VAvxF5TPerI/AAAAAAAABFk/V625KbgIXYo/s2048/IMG_1721.jpg)
-
+![](http://4.bp.blogspot.com/-IYv6uEVZdEY/VAvxIKOraoI/AAAAAAAABGc/RrYVW7CQyUw/s2048/IMG_1735.jpg)
 <!--more-->
+
+[//]: # (http://3.bp.blogspot.com/-mbZzgxeWocg/VAvxF5TPerI/AAAAAAAABFk/V625KbgIXYo/s2048/IMG_1721.jpg)
 
 Most of you may already recognize [Dinosaur Dracula](http://dinosaurdracula.com/) as the preeminent nostalgia blog on the web. (If not, you may recall its previous incarnation, [X-Entertainment](http://x-entertainment.com/)) Matt, the guy that runs the site, puts on quite a show every year for the Halloween season, and I must say 2014 is already off to a great start! Watching his videos and reading his reviews has become sort of a Halloween tradition in our family, something we look forward to every year.
 
@@ -21,7 +22,7 @@ Here's what we got for August:
 
 ![](http://3.bp.blogspot.com/-sv64Rgc0HxM/VAvxF2yVXmI/AAAAAAAABFs/3QZDWHClyoM/s2048/IMG_1723.jpg)
 
-![](http://2.bp.blogspot.com/-MGTU4efoFrU/VAvxGVNgXfI/AAAAAAAABFw/V2LTI3MuuHc/s2048/IMG_1724.jpg)
+[//]: # (http://2.bp.blogspot.com/-MGTU4efoFrU/VAvxGVNgXfI/AAAAAAAABFw/V2LTI3MuuHc/s2048/IMG_1724.jpg)
 
 ![](http://3.bp.blogspot.com/-xF2ivENTeNo/VAvxGl-29RI/AAAAAAAABF0/O5jiCVEIFZI/s2048/IMG_1725.jpg)
 
@@ -38,8 +39,6 @@ Here's what we got for August:
 ![](http://2.bp.blogspot.com/-nBrncySUqVY/VAvxHhTmOhI/AAAAAAAABGM/y6Lptvs8VvI/s2048/IMG_1732.jpg)
 
 ![](http://3.bp.blogspot.com/-9QM764-UNW4/VAvxHx7KLkI/AAAAAAAABGU/Hauok9NaFes/s2048/IMG_1733.jpg)
-
-![](http://4.bp.blogspot.com/-IYv6uEVZdEY/VAvxIKOraoI/AAAAAAAABGc/RrYVW7CQyUw/s2048/IMG_1735.jpg)
 
 ![](http://3.bp.blogspot.com/-jtzXKqEjl3c/VAvxIV9ZpxI/AAAAAAAABGg/RTzWsRz8LuQ/s2048/IMG_1737.jpg)
 
@@ -85,7 +84,7 @@ Here's what we got for August:
 
 ![](http://4.bp.blogspot.com/-Ty2kaKUQF54/VAvxOa-aW8I/AAAAAAAABJo/ZjGEok0o_PE/s2048/IMG_1761.jpg)
 
-![](http://2.bp.blogspot.com/-UVwME7YOKJE/VAvxOvh3_EI/AAAAAAAABJI/wgkMjKSY0q4/s2048/IMG_1763.jpg)
+[//]: # (http://2.bp.blogspot.com/-UVwME7YOKJE/VAvxOvh3_EI/AAAAAAAABJI/wgkMjKSY0q4/s2048/IMG_1763.jpg)
 
 ![](http://2.bp.blogspot.com/-F3kmaWoBr6U/VAvxO70PqKI/AAAAAAAABJM/YVv_CPsrPOs/s2048/IMG_1766.jpg)
 
