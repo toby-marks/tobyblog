@@ -701,9 +701,6 @@
     <loc>http://tobyblog.com/tags/festivals/</loc>
     <lastmod>2019-10-19T10:38:39-05:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/tags/lucy/</loc>
-    <lastmod>2019-10-19T10:38:39-05:00</lastmod>
-  </url><url>
     <loc>http://tobyblog.com/photos/20191019-pumpkin-hollow-2019/</loc>
     <lastmod>2019-10-19T10:38:39-05:00</lastmod>
   </url><url>
@@ -734,7 +731,7 @@
     <loc>http://tobyblog.com/microposts/michael-vs-michael/</loc>
     <lastmod>2019-09-10T13:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/20100910-love-is-a-many-splendored-thing/</loc>
+    <loc>http://tobyblog.com/posts/20190910-love-is-a-many-splendored-thing/</loc>
     <lastmod>2019-09-10T12:49:17-05:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/tags/arizona/</loc>
@@ -1523,6 +1520,9 @@
     <loc>http://tobyblog.com/posts/20170908-toys-r-us-run/</loc>
     <lastmod>2017-09-08T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://tobyblog.com/tags/lucy/</loc>
+    <lastmod>2017-09-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://tobyblog.com/photos/20170907-geocaching-maxwell-creek/</loc>
     <lastmod>2017-09-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -1652,9 +1652,6 @@
     <loc>http://tobyblog.com/posts/20160101-dark-hours-wreck-the-halls/</loc>
     <lastmod>2016-01-01T17:10:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/20151230-the-year-in-pictures-2015/</loc>
-    <lastmod>2015-12-30T15:27:46-06:00</lastmod>
-  </url><url>
     <loc>http://tobyblog.com/tags/home/</loc>
     <lastmod>2015-11-29T14:03:00+00:00</lastmod>
   </url><url>
@@ -1738,9 +1735,6 @@
   </url><url>
     <loc>http://tobyblog.com/posts/top-10-review-the-world-episodes-of-2014/</loc>
     <lastmod>2015-01-01T23:03:00+00:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/posts/20141227-the-year-in-pictures/</loc>
-    <lastmod>2014-12-27T21:48:00+00:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/posts/20141203-super-chix-review/</loc>
     <lastmod>2014-12-03T22:28:00+00:00</lastmod>
@@ -1835,9 +1829,6 @@
     <loc>http://tobyblog.com/posts/20140802-spirit-halloween-store-opening-soon/</loc>
     <lastmod>2014-08-02T11:06:00+00:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/posts/20140801-a-visit-to-the-toy-store/</loc>
-    <lastmod>2014-08-01T00:00:00-05:00</lastmod>
-  </url><url>
     <loc>http://tobyblog.com/posts/20140726-halloween-has-arrived-at-at-home/</loc>
     <lastmod>2014-07-26T00:00:00-05:00</lastmod>
   </url><url>
@@ -1855,9 +1846,6 @@
   </url><url>
     <loc>http://tobyblog.com/posts/20140721-baker-street/</loc>
     <lastmod>2014-07-21T14:05:00+00:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/posts/20140713-dont-worry-be-happy/</loc>
-    <lastmod>2014-07-13T16:06:00+00:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/posts/20140712-first-halloween-merch-of-the-year/</loc>
     <lastmod>2014-07-12T06:52:00+00:00</lastmod>
@@ -1927,9 +1915,6 @@
   </url><url>
     <loc>http://tobyblog.com/posts/20140220-geocaching-explained/</loc>
     <lastmod>2014-02-20T21:46:00+00:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/posts/20140219-suncreek-park-more-than-meets-the-eye/</loc>
-    <lastmod>2014-02-19T20:48:00+00:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/videos/20140211-coming-soon-houston-winter-open/</loc>
     <lastmod>2014-02-11T21:37:00+00:00</lastmod>
