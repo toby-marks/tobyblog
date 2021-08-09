@@ -39,7 +39,7 @@ The quality of the pieces was generally pretty amazing, and there were some real
 
 ![](http://4.bp.blogspot.com/-HACXPobGdhA/U9SEQHd4adI/AAAAAAAAAl8/-wl07pN4Nxc/s2048/IMG_1430.jpg)
 
-![](http://2.bp.blogspot.com/-wWKEhKr0AKw/U9SEQDaQxsI/AAAAAAAAAl4/vVB8opAc8N0/s2048/IMG_1432.jpg)
+[//]: # "![](http://2.bp.blogspot.com/-wWKEhKr0AKw/U9SEQDaQxsI/AAAAAAAAAl4/vVB8opAc8N0/s2048/IMG_1432.jpg)"
 
 Mixed in among the Halloween merch at the front of the store were a few token pieces offering a nod to that oft-neglected and under-appreciated other fall holiday, Thanksgiving.
 
@@ -95,9 +95,9 @@ Love the distorted facial features my pano shot gave TheVCubeSolver in this one.
 
 ![](http://1.bp.blogspot.com/-7z3KAOmqB7Y/U9SF6m0Ui7I/AAAAAAAAAo8/_N5atfBvAo8/s2048/IMG_1467.jpg)
 
-Baby A was admittedly a little freaked out!
+[//]: # "Baby A was admittedly a little freaked out!"
 
-![](http://1.bp.blogspot.com/-cvWej_Dh6kU/U9SF679vNnI/AAAAAAAAApA/r8s_KWm4I7c/s2048/IMG_1469.jpg)
+[//]: # "![](http://1.bp.blogspot.com/-cvWej_Dh6kU/U9SF679vNnI/AAAAAAAAApA/r8s_KWm4I7c/s2048/IMG_1469.jpg)"
 
 ![](http://4.bp.blogspot.com/-uIpOohKsTHM/U9SF69c9EdI/AAAAAAAAApg/uQ63gmBjHs0/s2048/IMG_1470.jpg)
 

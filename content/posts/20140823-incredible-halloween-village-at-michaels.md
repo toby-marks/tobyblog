@@ -4,7 +4,7 @@ date = 2014-08-23
 location = "Dallas, TX"
 camera = "my iPhone"
 categories = ["Reviews"]
-tags = ["geocaching","Halloween","Augie","Lucy","stores"]
+tags = ["geocaching","Halloween","stores"]
 images = ["http://1.bp.blogspot.com/-9EU7kxb09Y0/U_YwFMV_fLI/AAAAAAAAA6Q/EEIYtDJvZ4s/s2048/IMG_1667.jpg"]
 +++
 ![](http://1.bp.blogspot.com/-9EU7kxb09Y0/U_YwFMV_fLI/AAAAAAAAA6Q/EEIYtDJvZ4s/s2048/IMG_1667.jpg)
@@ -83,7 +83,7 @@ Second, the drunk skeleton seated in the lower right hand corner kind of reminds
 
 Some of the low cost accessories are cool, too, like the purple spotlights that I used to make an Enderman costume for TheVCubeSolver last year. I think it came out quite well.
 
-![](http://1.bp.blogspot.com/-ZE_DVsXN7YU/U_mBNridcII/AAAAAAAAA8I/hE3rTNED_Wk/s2048/DSC07532.jpg)
+[//]: # "![](http://1.bp.blogspot.com/-ZE_DVsXN7YU/U_mBNridcII/AAAAAAAAA8I/hE3rTNED_Wk/s2048/DSC07532.jpg)"
 
 The larger pieces in the set all have moving parts and lights. They're really a trip to see activated. Be sure to watch the video at the end!
 
