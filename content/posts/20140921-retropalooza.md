@@ -4,7 +4,7 @@ date = 2014-09-21T15:46:00Z
 location = "Dallas, TX"
 camera = "my iPhone"
 categories = ["Journal"]
-tags = ["Retropalooza","Augie","Lucy","conventions"]
+tags = ["Retropalooza","Augie","conventions"]
 images = ["http://3.bp.blogspot.com/-D2XQdnzfZA4/VB9B7YWZp3I/AAAAAAAABSA/OaMXv3ESdSo/s2048/IMG_2087.jpg"]
 +++
 ![](http://3.bp.blogspot.com/-D2XQdnzfZA4/VB9B7YWZp3I/AAAAAAAABSA/OaMXv3ESdSo/s2048/IMG_2087.jpg)
