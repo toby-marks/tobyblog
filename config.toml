@@ -1,4 +1,4 @@
-DisqusShortname = "tobyblog-com"
+#DisqusShortname = "tobyblog-com"
 Paginate = 5
 SectionPagesMenu = "Main"
 baseURL = "http://tobyblog.com/"

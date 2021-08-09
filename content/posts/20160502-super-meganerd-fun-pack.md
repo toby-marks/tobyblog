@@ -3,7 +3,7 @@ title = "Super Meganerd Fun Pack!"
 date = 2016-05-02T21:21:00Z
 updated = 2018-04-23
 categories = ["Unboxings"]
-tags = ["geocaching", "Augie", "Carl", "Lucy"]
+tags = ["geocaching", "Carl", "Augie"]
 +++
 ![The Super Meganerd Fun Pack](https://live.staticflickr.com/1507/26490173342_f99108d292_k.jpg)
 
@@ -28,7 +28,7 @@ Right off we had two monumental presents for ThePonyOwner and VCubeSolver.
 
 *Anything* MLP related was destined to be a hit, but he managed somehow to score things she doesn't already have. No small feat! 
 
-![My Little Sanic](https://live.staticflickr.com/1518/26473712802_0892eebbc8_k.jpg)
+![My Little Sanic](https://live.staticflickr.com/1518/26473712802_e8d9d33b3b_k.jpg)
 
 TheVCubeSolver informed me that this wasn't just *any* Sonic headpiece, but an officially licensed Sega product released as a tie-in with Sonic Colors, one his favorites in the franchise! It's loads better in quality and material than the headpiece that came with the Halloween costume he wore last year. 
 

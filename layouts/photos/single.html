@@ -1,17 +1,5 @@
 {{ partial "photos_header.html" . }}
 
-<script src="{{ .Site.BaseURL }}js/jquery-3.4.1.slim.min.js"></script>
-
-<!-- A jQuery plugin that adds cross-browser mouse wheel support. (Optional) -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"></script>
-
-<script src="{{ .Site.BaseURL }}js/lightgallery.js"></script>
-
-<!-- lightgallery plugins -->
-<script src="{{ .Site.BaseURL }}js/lg-zoom.min.js"></script>
-<script src="{{ .Site.BaseURL }}js/lg-thumbnail.min.js"></script>
-<script src="{{ .Site.BaseURL }}js/lg-fullscreen.min.js"></script>
-
 <header class="photo">
 {{ partial "page_header_min.html" . }}
 </header>
@@ -33,11 +21,12 @@
   </main>
 
 <script type="text/javascript">
-    $(document).ready(function() {
-        $("#lightgallery").lightGallery({
-        	showThumbByDefault: false
-        }); 
-    });
+	jQuery(document).ready(function(){ 
+		$("#gallery").unitegallery({
+			tiles_type:"nested",
+			tiles_nested_optimal_tile_width: 250
+		}); 
+	}); 
 </script>
 
 {{ partial "page_footer.html" . }}
