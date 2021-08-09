@@ -11,9 +11,13 @@
     {{ $.Scratch.Add "title" .Site.Title }}
     <title>{{ with .Title }}{{ if ne . ($.Scratch.Get "title") }}{{ . }} &middot; {{ end }}{{ end }}@{{ .Site.Author.handle }}’s {{ .Site.Title }}</title>
 
-    <link type="text/css" rel="stylesheet" href="{{ .Site.BaseURL }}css/lightgallery.css" />
-    <link type="text/css" rel="stylesheet" href="{{ .Site.BaseURL }}css/gallery.css" />
-    <link type="text/css" rel="stylesheet" href="{{ .Site.BaseURL }}css/flexbin.css" />
+	<script type="text/javascript" src="{{ .Site.BaseURL }}unitegallery/js/jquery-11.0.min.js"></script>
+	<script type="text/javascript" src="{{ .Site.BaseURL }}unitegallery/js/unitegallery.min.js" type="text/javascript"></script> 
+	
+	<link rel="stylesheet" href="{{ .Site.BaseURL }}unitegallery/css/unite-gallery.css" type="text/css" /> 
+	<script type="text/javascript" src="{{ .Site.BaseURL }}unitegallery/themes/tiles/ug-theme-tiles.js" type="text/javascript"></script> 
+	<link rel="stylesheet" href="{{ .Site.BaseURL }}unitegallery/themes/default/ug-theme-default.css" type="text/css" /> 
+
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/weblog.css" media="screen" charset="utf-8" />
     
     {{ partial "custom_stylesheets.html" . }}
