@@ -5,7 +5,7 @@ location = "Oak Cliff"
 camera = "my old Sony DSC RX-100"
 categories = ["Reviews"]
 tags = ["Collector's Crypt", "Texas Frightmare Weekend", "Dallas", "Halloween"]
-images = ["https://live.staticflickr.com/1666/23960351439_f598ce7688_k.jpg"]
+images = ["https://live.staticflickr.com/1666/23960351439_7b05ad37c0_k.jpg"]
 +++
 ![](https://live.staticflickr.com/1666/23960351439_7b05ad37c0_k.jpg)
 
