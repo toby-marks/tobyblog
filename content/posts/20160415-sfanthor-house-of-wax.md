@@ -3,9 +3,9 @@ title = "Sfanthor! House of Wax"
 date = 2016-04-15T16:12:00Z
 categories = ["Reviews"]
 tags = ["stores","Austin","Carl","Halloween"]
-images = [""]
+images = ["https://live.staticflickr.com/1549/25950434656_93b18a4748_o.jpg"]
 +++
-![](https://live.staticflickr.com/1482/25343644294_3dd104ff5e_h.jpg)
+![Tobyblog and creep](https://live.staticflickr.com/1549/25950434656_93b18a4748_o.jpg)
 
 Here in North Texas the sun is shining. The weather is warming up. The world outside is getting brighter. The Texas wildflowers are already in bloom, thanks to a mild and soggy winter. In the woods, things are moving. The itchy season is upon us, and the window of opportunity for a lot of local geocaches is closing, as the casual players tend to steer clear of anything that might put them in the way of tall grass, poison ivy, or the dreaded tick.
 
@@ -13,19 +13,21 @@ Here in North Texas the sun is shining. The weather is warming up. The world out
 
 It is a season I have grown to love. Especially because it heralds the return of my beloved firewheels, the wonderful gaillardias that blanket the countryside around these parts, that channel the power and living energy of the Texas sun into something beautiful and delicate — as delicate and precious as life. That's a sense that perhaps only the very young, and the older, possess. I'm not that old, but I look forward.
 
+![Sfanthor banner](https://live.staticflickr.com/1482/25343644294_a490f07243_o.jpg)
+
 And perhaps that is why a guy like me is never far from thoughts of fall, and pumpkins, and cool night winds. So it is no surprise that in the middle of all this awakening spring glory I find myself back in the shadows, on a quest to discover if in the heart of Texas something is still left of the spirit of the bizarre, the otherwordly, and the mysterious.
 
-![](https://live.staticflickr.com/1532/25950456836_8bbecc2d91_h.jpg)
+![Games](https://live.staticflickr.com/1670/25347627913_ed3d71042b_o.jpg)
 
 It was almost a year ago that I first blogged about [Collector's Crypt]({{< ref "20150410-a-visit-to-collectors-crypt.md" >}}) in Oak Cliff. The Crypt is gone now, lost to the real-world horror of [neighborhood gentrification]({{< ref "20160121-lights-out-for-collectors-crypt.md" >}}). (I will have more to say about that later on.) I've kept in touch with the owners, my friends Andrea and Kathy, and they will be making an appearance at the upcoming [Texas Frightmare Weekend](http://www.texasfrightmareweekend.com/) convention in April. They will have a booth and will be selling lots of curious items under the Collector's Crypt banner. I would encourage all of you to attend and buy lots from them. Many of their items will surely be one of a kind. And you can even tell them Tobyblog sent you. Who knows what might happen?
 
 They tell me their plan is to take the store online, and I genuinely hope that they are able to do that, as I'm sure I'm not finished giving them money yet.
 
-![](https://live.staticflickr.com/1448/25950454746_ceb15c9a86_h.jpg)
+![Comic rack](https://live.staticflickr.com/1680/25675800020_cd2f863389_o.jpg)
 
 But still, I'm sorry for the loss. It was a unique place. Maybe a little too unique. I used to wonder if it could really be possible that there was nothing else like it outside of California (that was the line I would use). But did I really believe that? Surely there had to be others. Texas is a big state, after all. And there are pockets of weirdness everywhere, especially in college towns, or sometimes in little places you wouldn't expect. I'm not particularly well traveled, either, so what do I know? Anything could be out there. Maybe right around the corner. And so I began to look for signs of life…
 
-![](https://live.staticflickr.com/1672/25675806150_12fa3482d7_h.jpg)
+![Games](https://live.staticflickr.com/1653/25347628603_35e9725eb2_o.jpg)
 
 I believe it was right around the time of Texas Frightmare Weekend 2015, as I was investigating some of the various merchants and attendees, that I ran across mention of [Sfanthor!](http://sfanthor.bustis.com/), thanks to the horror blog [Blood Over Texas](http://www.bloodovertexas.com/).
 
@@ -33,86 +35,92 @@ I would suggest you link on over and [read that now](http://bloodovertexas.com/?
 
 > "The castle is, Sfanthor, a shop celebrating sci-fi, fantasy and horror — the name is a mashup of those three genres and is full of everything your dark heart desires. Vintage comics, toys, jewelry, collectibles and T-shirts, including horror shirts by local company, Pallbearer Press. Created by one of the coolest, weird shops in town, Museum of the Weird on 6th street (downtown Austin), Sfanthor is following in it’s predecessors footsteps by adding a cool museum to the mix."
 
-![](https://live.staticflickr.com/1569/25675806600_c340e48bb1_k.jpg)
+![The Bride of Frankenstein](https://live.staticflickr.com/1532/25950456836_6d9c470326_o.jpg)
 
 I did not need to read on, but of course I did! It sounded a lot like the Crypt, but with a bonafide wax museum attached?! This was a promising place, and so I told myself I'd need to get down there one day soon and check it out.
 
+![Models](https://live.staticflickr.com/1569/25675806600_debdef1b4e_o.jpg)
+
 Well, somehow that turned into a year. Such is life. But an opportunity recently arose to make the trip with my bold cousin Carl (with whom I am planning some surprising new projects, friends!), and so I was finally able to make good on my promise.
 
-![](https://live.staticflickr.com/1462/25343660184_4ced583207_k.jpg)
+![Where the Weird Things Are](https://live.staticflickr.com/1449/25675809350_b69990865a_o.jpg)
 
 This was a couple of weeks ago during Austin's notorious SXSW festival. Like Mardi Gras in New Orleans, the festival is compromised of a ton of little venues and events that happen all throughout the city. It brings in a lot of folks from out of town, and as a result all traffic on the main arteries pretty much grinds to a halt. Nevertheless, we somehow managed to navigate our way around much of that as we made our way down to Congress Avenue.
 
-![](https://live.staticflickr.com/1641/25950450886_116b4082da_k.jpg)
+![Hulk TP](https://live.staticflickr.com/1448/25950454746_614432e01c_o.jpg)
 
 The castle (and it *does* look from the outside like a small castle) is located along a trendy downtown strip among exotic food trailers and local boutiques. I recommend street viewing the place. There is a lot of foot traffic. Austin is a fashionable, hipster-ish college town, sort of like Texas's version of Portland, with its own reputation for weirdness — "Keep Austin Weird" is a popular commercial slogan — and is known for having a lively music scene. Back in the heyday of the Outlaw movement in country music, there was a show on PBS called Austin City Limits which generally bored the hell out of me. I'd probably have a much better appreciation for it now. To my surprise it's still taping and airing uninterrupted after 40 years. My point is that it's a hip town, much more so than Dallas, and if a place like Sfanthor! were going to make it in Texas, Austin seems like it would be a safe bet.
 
+![I Was a Teenage Frankenstein](https://live.staticflickr.com/1641/25855565842_25774901a2_o.jpg)
+
 But I dunno. When you consider the runaway popularity of places like Dark Hour and the ridiculously huge Texas Frightmare Weekend, the freak population may be more slanted towards North Texas than is at first apparent.
 
-![](https://live.staticflickr.com/1697/25881404361_66781a9f78_k.jpg)
+![Demon baby](https://live.staticflickr.com/1672/25675806150_923dbe6f7c_o.jpg)
 
 After declining a chicken burrito from nextdoor Mrs. P's, Carl and I crossed the portcullis and entered the gift shop, which is mainly what I had come for. A friendly guy behind the counter greeted us as we walked in, which turned out to be proprietor Dave Bustis. Remarkable guy. Turns out Sfanthor! is just the newest of his contributions to Austin's cultural scene, his best known being the Museum of the Weird. He has another little shop selling oddities called The Lizard Lounge. You should check it out in person or online, because he has some neat things over there.
 
-![](https://live.staticflickr.com/1666/25675802480_82d05a2384_k.jpg)
+![Frankenstein model](https://live.staticflickr.com/1627/25976354435_ab2c9c19f9_o.jpg)
 
 I asked if I could take some pics for publicity purposes and he graciously obliged.
 
 I stopped a bit just to let my eyes wander around the place. There were so many things to look at, my head was spinning. I recalled that feeling from somewhere before…
 
-![](https://live.staticflickr.com/1680/25675800020_86900f965a_k.jpg)
+![Robots](https://live.staticflickr.com/1499/25976352895_40fe75693e_o.jpg)
 
 I instantly knew my four hours on the road had not been wasted. I came looking for a successor to Collector's Crypt, and what I found was something different; a new experience, but satisfying in the same way. What shone out to me was the tremendous labor of love that was evident in everything from the selection to the displays to the structure of the building itself; things that made the Crypt so special. Bustis has really put his heart and soul into the place, and who knows how much time and money. Along that bustling Austin pavement he somehow lowered a drawbridge into an extraordinary world.
 
-![](https://live.staticflickr.com/1685/25855557092_56cb297924_k.jpg)
+![King Kong](https://live.staticflickr.com/1691/25950438726_ce2dc6ec4a_o.jpg)
 
 The gift shop portion of Sfanthor! is not as large as Collector's Crypt, nor the inventory as extensive, but what they do carry is all highly desirable stuff. There are the models, collector's pieces, toys, books, DVDs, masks, and games I remember from the old store — but added to that are postcards, posters, t-shirts, pins, and novelty items. It has a heavy emphasis on t-shirts, comics, and magazines — particularly Famous Monsters of Filmland — which sell for what seemed to me like frustratingly high prices.
 
-![](https://live.staticflickr.com/1670/25347627913_7022f9dabc_k.jpg)
+![Frankenstein](https://live.staticflickr.com/1630/25347624213_a3f7bef6dd_o.jpg)
 
 Among my favorite items in the store were the tourist-friendly postcards and mini-movie posters celebrating the Universal Monsters pantheon. There were some really good ones.
 
-![](https://live.staticflickr.com/1557/25675793050_fe9c3d1c53_k.jpg)
+![Karloff and Lugosi](https://live.staticflickr.com/1542/25343649514_94fd86961c_o.jpg)
 
 There were some very nicely painted models as well. Did I mention the Universal Monsters tribute? That was a theme that played heavily throughout the store.
 
 The masks were really top-notch. Detailed and well painted, they were very eye-catching. Reminded me of something you might find at the Monsterpalooza convention.
 
-![](https://live.staticflickr.com/1630/25347624213_02411841ee_k.jpg)
+![The Phantom](https://live.staticflickr.com/1593/25855553092_5987fd1f3c_o.jpg)
 
 While we were looking around Mr. Bustis explained that the deal on for that day was free tickets to the attached museum with the purchase of a t-shirt. We didn't want to pass up that offer, so we each picked out one for ourselves. Carl got a Bigfoot shirt, I believe, and I chose a nice red one advertising the Museum of the Weird. The shirts were good material and fit well. I felt like that was a score.
 
-![](https://live.staticflickr.com/1542/25343649514_d095f252fa_k.jpg)
+![The Mummy](https://live.staticflickr.com/1567/25950439786_cbaed13ef0_o.jpg)
 
 There was such a large variety of comics I couldn't help but peruse them a bit, even though my collecting days are long since over. I noticed they had a nice Transformers #1 UK edition that were I twenty years younger I would have insisted upon. I once owned a random issue of the US comic where they "guest starred" the UK storyline for some unknown reason. I remember the British story being far, far more entertaining than the American one, and having something to do with time-traveling Autobots.
 
-![](https://live.staticflickr.com/1567/25950439786_38d2b70ea4_k.jpg)
+![The Wolf Man](https://live.staticflickr.com/1473/25881391331_6d2554e6ff_o.jpg)
 
 I kept an eye out for the odd affordable (and therefore overlooked) issue of Famous Monsters, but alas found none that interested me in my price range. I suppose collectors have driven the price up in the last few years.
 
-![](https://live.staticflickr.com/1691/25950438726_d3dd2dc39b_k.jpg)
+![Gill Man](https://live.staticflickr.com/1643/25881390971_42f9cfa6a2_o.jpg)
 
 At some point we agreed it was time to take our goods up to the register and settle our business so we could try the museum. That's when I became better acquainted with the owner. He saw that I had picked up a copy of his Museum of the Weird comic, something that looked like a Tales from the Crypt knock-off made for advertising the museum, and offered to sign it for me. I thought it was a strange offer, but decided why not, sure. It was only later that I discovered that he owned both museums, and had actually written and drawn the first comic strip in the book! Not only that, but of the four stories presented in the comic his was far and away the best, in my opinion. Not only was the story creepy and intelligent, but the tone and style was a spot-on homage to Jack Chick and his Chick tracts. In retrospect I think I'm as impressed by my signed comic, picked up on a whim because it matched my shirt, as I was by the rest of the experience. A truly great find!
 
-![](https://live.staticflickr.com/1693/25950436496_b9e8e22b80_k.jpg)
+![It Came From Outer Space](https://live.staticflickr.com/1539/25675789820_2622029c61_o.jpg)
 
 The little winding path of the museum is entered by stepping into the hall just off to the right of where you enter the gift shop. It is devoted to the Golden and Silver ages of horror film, from the Silent Era to the advent of Hammer and Christopher Lee. It is more or less divided into sections covering each decade from the 1910s to the 1970s, with breakout sections dedicated to certain films or actors. Information is conveyed through plaques that hang on the walls, and illustrated by wax sculptures depicting many classic monsters from film history.
 
-![](https://live.staticflickr.com/1539/25675789820_772a20fda4_k.jpg)
+![Mr. Hyde](https://live.staticflickr.com/1557/25675793050_d5e8124bdf_o.jpg)
 
 It's worth taking your time there, as the museum is not all that large. This is not a Madame Tussaud's, but it is nonetheless impressive, and moreover, fun. It's like they carved out all the cruft from a full-sized wax museum, all the slightly off renditions of James Dean and Marilyn Monroe and George W. Bush, and just got straight to the good stuff. The only stuff most of you guys care about, anyway. And a few of the figures are particularly well done. That Mr. Hyde, for instance — how creepy is that? And Lon Chaney's character from London After Midnight, with that maniacal smile, sets the tone perfectly for the entire collection. I can't say enough how satisfied I was with the tour.
 
-![](https://live.staticflickr.com/1543/25347616643_bd5bfe9c1e_k.jpg)
+![Restroom door](https://live.staticflickr.com/1712/25950440726_e5bb78a4d4_o.jpg)
 
 And get a load of the facilities.
 
 Located about halfway through the museum is one of the nicest public bathrooms you'll ever run across, and matches the interior quite well. Not that it's decked out with fake webbing or gargoyle toilets, but the heavy doors and dark wood do give it something of a gothic effect. I'd highly recommend you take advantage of the toilet while you're there.
 
-![](https://live.staticflickr.com/1712/25950440726_070ee43883_k.jpg)
+![London After Midnight](https://live.staticflickr.com/1579/25976343605_2e7a74c458_o.jpg)
 
 The back half of the tour covers the later years of the classic horror era, and includes life-sized figures of The Wolf Man and The Creature from the Black Lagoon, along with assorted aliens, including, as you round the final corner, what appeared to be the big showpiece of the museum, which I'll leave as a surprise for those who venture out there. Needless to say is was an outstanding model, very nicely displayed.
 
-![](https://live.staticflickr.com/1549/25950434656_d3929a9edc_k.jpg)
+![Bud](https://live.staticflickr.com/1543/25347616643_07fd4e6309_o.jpg)
 
 As we said our goodbyes and thanked the owner Mr. Busti, I told him the story of Collector's Crypt in Oak Cliff, and what he had to say just floored me. Turns out Sfanthor! also faces similar issues with developers who want to renovate the area. It was the same sad story all over again. He wasn't sure if Sfanthor! would be around at that location next Halloween, but we encouraged him to try to hold out as long as he could, and not give up on the place. He does have the option of expanding his Museum of the Weird to accommodate at least some of the pieces. Hopefully one way or another it works out for him and for all of us, and Texas doesn't lose yet another of these places.
 
 That's all for now, folks. May have more on this place later. I've been researching the goings on at the MotW and have uncovered some pretty interesting things. Stay tuned!
+
+![Comic rack](https://live.staticflickr.com/1516/25855566802_def176dcee_o.jpg)
