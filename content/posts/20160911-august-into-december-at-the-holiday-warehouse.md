@@ -91,13 +91,15 @@ Back out in the hall I had a stop and gawk at Mr. Pumpkin for a bit. It's a litt
 
 And lest you think old Tom Turkey gets slighted, forget it. He was there in many manifestations, in all his November glory. This particular model cost over a thousand dollars and stood about three feet tall. He was obviously some sort of table centerpiece and looked so grand I had to take a selfie with him. (Selfie not shown).
 
+![St. Joseph and Wise Man](https://live.staticflickr.com/8200/29218417611_05fe93eb16_o.jpg)
+
 On the way back out of the store we traveled quickly from November to December, where we stopped for a minute to admire the selection of enormous and truly beautiful nativity sets on display.
 
 ![Fontanini](https://live.staticflickr.com/8156/29218425201_48bb612493_o.jpg)
 
 We were informed that the Pope owns this very set, and displays it at the Vatican in Rome. I'm not sure which pope, but presumably Pope Francis. Honestly, it looked good enough.
 
-![St. Joseph and Wise Man](https://live.staticflickr.com/8200/29218417611_05fe93eb16_o.jpg)
+![Wise Man](https://live.staticflickr.com/8874/29218418251_69921c5476_o.jpg)
 
 The figures were all incredibly life-like, and bore varying expressions of nobility, joy, and a kind of worshipful purpose.
 
@@ -130,13 +132,13 @@ Goodbye for now! Hope reading through all this has given you a little taste of h
 ![Tom Turkey](https://live.staticflickr.com/8492/29188951282_894cf9cbc0_o.jpg)
 ![Mr. Pumpkin](https://live.staticflickr.com/8449/28674407714_7f7d53a860_o.jpg)
 ![Bowl of Skulls](https://live.staticflickr.com/8270/29263056496_8ca6304cce_o.jpg)
+![Stuffed Animals](https://live.staticflickr.com/8692/28676037643_96eb88659c_o.jpg)
 ![Halloween Yard Decorations](https://live.staticflickr.com/8446/29218370941_d6e293a1e7_o.jpg)
 ![Halloween Yard Decorations](https://live.staticflickr.com/8004/29218362871_ea790d8bf3_o.jpg)
 ![Graveyard Altar](https://live.staticflickr.com/8286/29218358491_8fa62dc31e_o.jpg)
 ![Los Muertos](https://live.staticflickr.com/8568/29218353831_8b77dd724e_o.jpg)
 ![Skeleton Señora](https://live.staticflickr.com/8633/28676047953_a117b6369e_o.jpg)
 ![Goth Mannequin](https://live.staticflickr.com/8294/29296839525_aa2d534cfd_o.jpg)
-![Stuffed Animals](https://live.staticflickr.com/8692/28676037643_96eb88659c_o.jpg)
 ![Winged Skull](https://live.staticflickr.com/8010/29218354721_5779e6402a_o.jpg)
 ![The Living Tree](https://live.staticflickr.com/8517/29218426471_d83c5d03d5_o.jpg)
 ![Vampire](https://live.staticflickr.com/8859/28676047493_b1a01af06b_o.jpg)
@@ -149,7 +151,6 @@ Goodbye for now! Hope reading through all this has given you a little taste of h
 ![Jack O' Lantern Tins](https://live.staticflickr.com/8212/29263061436_0b8c075610_o.jpg)
 ![Graveyard Saint](https://live.staticflickr.com/8342/29218357601_5419d177dd_o.jpg)
 ![Black Cat Harlequin](https://live.staticflickr.com/8186/29263064056_5d58ef179b_o.jpg)
-![Wise Man](https://live.staticflickr.com/8874/29218418251_69921c5476_o.jpg)
 ![Skeleton Party Dress](https://live.staticflickr.com/8084/28674413064_5b5f829b11_o.jpg)
 ![Weird Crow](https://live.staticflickr.com/8041/29263066936_e252a6f970_o.jpg)
 ![Pumpkin Lighted Decoration](https://live.staticflickr.com/8559/28676041033_e62842c2fd_o.jpg)
