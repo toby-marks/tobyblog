@@ -5,16 +5,10 @@
     <loc>http://tobyblog.com/categories/</loc>
     <lastmod>2020-12-30T16:36:14-06:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/categories/photoblog/</loc>
-    <lastmod>2020-12-30T16:36:14-06:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/tags/photolog/</loc>
+    <loc>http://tobyblog.com/categories/journal/</loc>
     <lastmod>2020-12-30T16:36:14-06:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/posts/</loc>
-    <lastmod>2020-12-30T16:36:14-06:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/tags/</loc>
     <lastmod>2020-12-30T16:36:14-06:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/posts/the-year-in-pictures-2020/</loc>
@@ -36,6 +30,9 @@
     <lastmod>2020-12-04T15:00:40-06:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/tags/music/</loc>
+    <lastmod>2020-12-04T15:00:40-06:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/tags/</loc>
     <lastmod>2020-12-04T15:00:40-06:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/categories/music/</loc>
@@ -106,9 +103,6 @@
   </url><url>
     <loc>http://tobyblog.com/photos/springtime-at-ranch-111/</loc>
     <lastmod>2020-06-27T13:32:44-05:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/categories/journal/</loc>
-    <lastmod>2020-06-25T18:04:39-05:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/tags/pokemon/</loc>
     <lastmod>2020-06-25T18:04:39-05:00</lastmod>
@@ -342,6 +336,9 @@
     <lastmod>2020-03-18T23:00:00+00:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/posts/corned-beef-and-cabbage/</loc>
+    <lastmod>2020-03-18T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/categories/photoblog/</loc>
     <lastmod>2020-03-18T01:00:00+00:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/microposts/is-amazon-a-corona-vector/</loc>
