@@ -2,12 +2,11 @@
 title = "The Year in Pictures — 2020 Edition"
 description = ""
 date = "2020-12-30T16:36:14-06:00"
-categories = ["Photoblog"]
-tags = ["photolog"]
-images = ["https://live.staticflickr.com/65535/50764080916_0cc83fe5ff_k.jpg"]
+categories = ["Journal"]
+images = ["https://live.staticflickr.com/65535/50764080916_a1f2d536bc_k.jpg"]
 minipost = "true"
 +++
-[![](https://live.staticflickr.com/65535/50764080916_0cc83fe5ff_k.jpg)](https://www.flickr.com/photos/tobyjmarks/sets/72157717556840877/)
+[![](https://live.staticflickr.com/65535/50764080916_a1f2d536bc_k.jpg)](https://www.flickr.com/photos/tobyjmarks/albums/72157717556840877/)
 
 This year was different. 
 
