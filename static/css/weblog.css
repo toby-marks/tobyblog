@@ -320,6 +320,9 @@ article.photo img[alt="stnicholas"] {
 article.photo img[alt="onthebridge"] {
   margin-top: -90px;
 }
+article.photo img[alt="Oracle Headquarters"] {
+  margin-top: -400px;
+}
 
 
 article.photo img.flickr-embed-frame,
@@ -718,6 +721,9 @@ Special rules for small screen devices
 	}
 	article.photo img[alt="onthebridge"] {
 	  margin-top: 0px;
+	}
+	article.photo img[alt="Oracle Headquarters"] {
+	  margin-top: -200px;
 	}
 
 
