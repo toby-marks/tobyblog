@@ -5,40 +5,28 @@ location = "San Francisco, California"
 camera = "iPhone 7 Plus"
 categories = ["Journal"]
 tags = ["travel","San Francisco", "California"]
-image = "https://farm1.staticflickr.com/794/40412447885_7f28497c59_z.jpg"
-images = ["https://farm1.staticflickr.com/794/40412447885_7f28497c59_z.jpg",
-"https://farm1.staticflickr.com/813/41265429672_dff5c4bf4a_z.jpg",
-"https://farm1.staticflickr.com/800/39498627680_3ff19f4dd8_z.jpg",
-"https://farm1.staticflickr.com/881/39498627130_d920672ef8_z.jpg",
-"https://farm1.staticflickr.com/891/41265429142_71902c0720_z.jpg",
-"https://farm1.staticflickr.com/784/27435673638_23c3409100_z.jpg",
-"https://farm1.staticflickr.com/879/40594421104_8eb90e13b9_z.jpg",
-"https://farm1.staticflickr.com/811/27435673628_689decf65d_z.jpg",
-"https://farm1.staticflickr.com/899/39498628240_80f1ca0bc8_z.jpg",
-"https://farm1.staticflickr.com/816/39498627210_16694c8522_z.jpg",
-"https://farm1.staticflickr.com/813/41265426732_db28558b3b_z.jpg"
-]
+images = ["https://live.staticflickr.com/794/40412447885_b376e4f0ec_o.jpg"]
 +++
-![](https://live.staticflickr.com/794/40412447885_e7631aa6e2_k.jpg)
+![Maneki Neko Signage](https://live.staticflickr.com/794/40412447885_b376e4f0ec_o.jpg)
 <!--more-->
 
-![](https://live.staticflickr.com/813/41265429672_1ed55a1ac0_k.jpg)
+![Maneki Neko #1](https://live.staticflickr.com/813/41265429672_5b07ce71c8_o.jpg)
 
-![](https://live.staticflickr.com/800/39498627680_0cf34fb1d6_k.jpg)
+![Maneki Neko #9](https://live.staticflickr.com/816/39498627210_0a8466d8f9_o.jpg)
 
-![](https://live.staticflickr.com/881/39498627130_3747c0a612_k.jpg)
+![Maneki Neko #5](https://live.staticflickr.com/784/27435673638_c2f496ff48_o.jpg)
 
-![](https://live.staticflickr.com/891/41265429142_81e153779b_k.jpg)
+![Maneki Neko #7](https://live.staticflickr.com/811/27435673628_4748a5e91c_o.jpg)
 
-![](https://live.staticflickr.com/784/27435673638_c4058bdaa4_k.jpg)
+![Maneki Neko #3](https://live.staticflickr.com/881/39498627130_3997d4484e_o.jpg)
 
-![](https://live.staticflickr.com/879/40594421104_2858fb5a16_k.jpg)
+![Maneki Neko #4](https://live.staticflickr.com/891/41265429142_bb5d5847a8_o.jpg)
 
-![](https://live.staticflickr.com/811/27435673628_41796282c3_k.jpg)
+![Maneki Neko #2](https://live.staticflickr.com/800/39498627680_844eb38e69_o.jpg)
 
-![](https://live.staticflickr.com/899/39498628240_f1ce68b43c_k.jpg)
+![Maneki Neko #10](https://live.staticflickr.com/813/41265426732_66587b6f59_o.jpg)
 
-![](https://live.staticflickr.com/816/39498627210_dbc899c1e4_k.jpg)
+![Maneki Neko #8](https://live.staticflickr.com/899/39498628240_db9a6dd25d_o.jpg)
 
-![](https://live.staticflickr.com/813/41265426732_0d6a57cb71_h.jpg)
+![Maneki Neko #6](https://live.staticflickr.com/879/40594421104_240d59c402_o.jpg)
 
