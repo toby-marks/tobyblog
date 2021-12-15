@@ -2,12 +2,11 @@
 title = "The Year in Pictures — 2019 Edition"
 description = ""
 date = "2019-12-30T16:21:55-06:00"
-categories = ["Photoblog"]
-tags = ["photolog"]
+categories = ["Journal"]
 minipost = "true"
-images = ["https://live.staticflickr.com/65535/49279052183_db733eb29d_k.jpg"]
+images = ["https://live.staticflickr.com/65535/49279052183_2e46df5081_k.jpg"]
 +++
-[![](https://live.staticflickr.com/65535/49279052183_db733eb29d_k.jpg)](https://www.flickr.com/photos/tobyjmarks/albums/72157712375623937)
+[![](https://live.staticflickr.com/65535/49279052183_2e46df5081_k.jpg)](https://www.flickr.com/photos/tobyjmarks/albums/72157712375623937/with/49279052183/)
 
 *You have unlocked bonus content!*
 
