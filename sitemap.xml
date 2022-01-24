@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://tobyblog.com/microposts/</loc>
+    <lastmod>2022-01-24T13:53:23-06:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/</loc>
+    <lastmod>2022-01-24T13:53:23-06:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/microposts/20220124-1353/</loc>
+    <lastmod>2022-01-24T13:53:23-06:00</lastmod>
+  </url><url>
     <loc>http://tobyblog.com/categories/</loc>
     <lastmod>2022-01-11T16:36:14-06:00</lastmod>
   </url><url>
@@ -12,9 +21,6 @@
     <lastmod>2022-01-11T16:36:14-06:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/posts/20220111-the-year-in-pictures-2021/</loc>
-    <lastmod>2022-01-11T16:36:14-06:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/</loc>
     <lastmod>2022-01-11T16:36:14-06:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/tags/adventure-king-1000/</loc>
@@ -48,9 +54,6 @@
     <lastmod>2020-12-04T15:00:40-06:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/tags/blossom-dearie/</loc>
-    <lastmod>2020-12-04T15:00:40-06:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/microposts/</loc>
     <lastmod>2020-12-04T15:00:40-06:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/tags/music/</loc>
