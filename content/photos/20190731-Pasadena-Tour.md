@@ -5,70 +5,73 @@ location = "Pasadena, California"
 camera = "Nikon Coolpix P1000, Sony A7Rii"
 tags = ["Pasadena","California","travel","Kassi"]
 categories = ["Journal"]
-images = ["https://live.staticflickr.com/65535/48426533512_b6464a1f29_o.jpg"]
+images = ["https://live.staticflickr.com/65535/48426390296_fa22e073bb_k.jpg"]
 +++
-<img src="https://live.staticflickr.com/65535/48426533512_b6464a1f29_o.jpg">
+<img src="https://live.staticflickr.com/65535/48426390296_fa22e073bb_k.jpg">
 <!--more-->
 
 Although it was a standard work week for the both of us, we made the best of the Old Town nightlife. One evening as we walked home we witnessed an accident in the street, and I took the opportunity to do some journalistic photography. I enjoy that. Pretty much the only time I indulge in "people watching", as they say. The Pasadena food is out of this world, but I'm sure by now you already knew that. We did it up bigger than ever, with visits to Roys Hawaiian Fusion, Sage, Santorini's Italian Bistro, and The Mixx, where we caught an amazing cover band called [Jump City](http://jumpcity.rocks) that gave us a wonderful night's entertainment. And that was probably the most I ever drank while out.
 
 I'm gonna miss Pasadena. 
 
-<div class="container-fluid">
-<div class="demo-gallery dark mrb35">
-	<ul id="lightgallery" class="list-unstyled row">
-		<li data-sub-html="<h4>DSCN1981</h4><p>          </p>" data-src="https://live.staticflickr.com/65535/48426389536_c420a2b667_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426389536_e26216bcc2.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>DSCN1981</h4><p>          </p></div></li>
-		<li data-sub-html="<h4>Pasadena Tour</h4><p></p>" data-src="https://live.staticflickr.com/65535/48426390296_b729f7c0e8_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426390296_80db48957b.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>Pasadena Tour</h4><p></p></div></li>
-		<li data-sub-html="<h4>Pasadena Tour</h4><p></p>" data-src="https://live.staticflickr.com/65535/48426533122_48bf746977_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426533122_15f8a6cd2d.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>Pasadena Tour</h4><p></p></div></li>
-		<li data-sub-html="<h4>DSCN2083</h4><p></p>" data-src="https://live.staticflickr.com/65535/48426388886_7bba41c06c_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426388886_275be882b6.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>DSCN2083</h4><p></p></div></li>
-		<li data-sub-html="<h4>DSCN2018</h4><p>          </p>" data-src="https://live.staticflickr.com/65535/48426390011_c010c58223_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426390011_2f2b614037.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>DSCN2018</h4><p>          </p></div></li>
-		<li data-sub-html="<h4>DSCN2094</h4><p></p>" data-src="https://live.staticflickr.com/65535/48426530792_d099179f11_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426530792_c8b1704af3.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>DSCN2094</h4><p></p></div></li>
-		<li data-sub-html="<h4>IMG_3792</h4><p></p>" data-src="https://live.staticflickr.com/65535/48426531002_1961163591_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426531002_b0be412cb7.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>IMG_3792</h4><p></p></div></li>
-		<li data-sub-html="<h4>Pasadena Tour</h4><p></p>" data-src="https://live.staticflickr.com/65535/48426390596_74c5586558_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426390596_aee68c7f72.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>Pasadena Tour</h4><p></p></div></li>
-		<li data-sub-html="<h4>DSCN2032</h4><p>          </p>" data-src="https://live.staticflickr.com/65535/48426532377_255d274719_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426532377_856f3a0077.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>DSCN2032</h4><p>          </p></div></li>
-		<li data-sub-html="<h4>DSCN1962</h4><p>          </p>" data-src="https://live.staticflickr.com/65535/48426387631_e97df7b1e5_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426387631_8869afce78.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>DSCN1962</h4><p>          </p></div></li>
-		<li data-sub-html="<h4>IMG_3764</h4><p></p>" data-src="https://live.staticflickr.com/65535/48426528667_fcf654272c_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426528667_3ec23e5aa5.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>IMG_3764</h4><p></p></div></li>
-		<li data-sub-html="<h4>Pasadena Tour</h4><p></p>" data-src="https://live.staticflickr.com/65535/48426533512_b6464a1f29_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426533512_a36d5ea42f.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>Pasadena Tour</h4><p></p></div></li>
-		<li data-sub-html="<h4>Pasadena Tour</h4><p></p>" data-src="https://live.staticflickr.com/65535/48426390166_972ced7243_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426390166_380438ff68.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>Pasadena Tour</h4><p></p></div></li>
-		<li data-sub-html="<h4>IMG_3770</h4><p></p>" data-src="https://live.staticflickr.com/65535/48426385766_08e7bd424c_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426385766_aa3c8efe9a.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>IMG_3770</h4><p></p></div></li>
-		<li data-sub-html="<h4>IMG_3773</h4><p></p>" data-src="https://live.staticflickr.com/65535/48426529537_a1d2713542_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426529537_8e3ce17088.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>IMG_3773</h4><p></p></div></li>
-		<li data-sub-html="<h4>DSCN2097</h4><p></p>" data-src="https://live.staticflickr.com/65535/48426531317_36c8005657_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426531317_24acf0db8b.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>DSCN2097</h4><p></p></div></li>
-		<li data-sub-html="<h4>DSCN2112</h4><p>          </p>" data-src="https://live.staticflickr.com/65535/48426530507_dce8c99e2a_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426530507_eb8d2883fd.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>DSCN2112</h4><p>          </p></div></li>
-		<li data-sub-html="<h4>IMG_3766</h4><p></p>" data-src="https://live.staticflickr.com/65535/48426528977_f3f145b69b_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426528977_a624cc89aa.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>IMG_3766</h4><p></p></div></li>
-		<li data-sub-html="<h4>IMG_3765</h4><p></p>" data-src="https://live.staticflickr.com/65535/48426385116_40dd79d3a8_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426385116_5c5d2a357a.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>IMG_3765</h4><p></p></div></li>
-		<li data-sub-html="<h4>DSCN1993</h4><p>          </p>" data-src="https://live.staticflickr.com/65535/48426389076_21038c9be1_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426389076_1bd81373fe.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>DSCN1993</h4><p>          </p></div></li>
-		<li data-sub-html="<h4>IMG_3762</h4><p></p>" data-src="https://live.staticflickr.com/65535/48426530017_1f56f22daa_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426530017_08cb558873.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>IMG_3762</h4><p></p></div></li>
-		<li data-sub-html="<h4>DSCN1966</h4><p>          </p>" data-src="https://live.staticflickr.com/65535/48426528032_95f0099773_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426528032_d463d28b7e.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>DSCN1966</h4><p>          </p></div></li>
-		<li data-sub-html="<h4>IMG_3763</h4><p></p>" data-src="https://live.staticflickr.com/65535/48426387206_c2c57067c5_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426387206_94c9b40aee.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>IMG_3763</h4><p></p></div></li>
-		<li data-sub-html="<h4>DSCN1995</h4><p>          </p>" data-src="https://live.staticflickr.com/65535/48426389271_f8f4e49d20_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426389271_7627140491.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>DSCN1995</h4><p>          </p></div></li>
-		<li data-sub-html="<h4>DSCN2049</h4><p>          </p>" data-src="https://live.staticflickr.com/65535/48426529247_7b7e822444_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426529247_0762b51a69.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>DSCN2049</h4><p>          </p></div></li>
-		<li data-sub-html="<h4>DSCN2028</h4><p>          </p>" data-src="https://live.staticflickr.com/65535/48426384711_0dff8e19e3_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426384711_762181f361.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"><h4>DSCN2028</h4><p>          </p></div></li>
-	</ul>
+<div id="gallery">
+		<img alt="IMG_3765" src="https://live.staticflickr.com/65535/48426385116_608d58c5fc.jpg"
+			data-image="https://live.staticflickr.com/65535/48426385116_0aedaef32c_k.jpg">
+		<img alt="DSCN1962" src="https://live.staticflickr.com/65535/48426387631_3b2166fd3b.jpg"
+			data-image="https://live.staticflickr.com/65535/48426387631_8734ad9a27_k.jpg">
+		<img alt="DSCN2028" src="https://live.staticflickr.com/65535/48426384711_4b7478e4fc.jpg"
+			data-image="https://live.staticflickr.com/65535/48426384711_6c3f68ccaf_k.jpg">
+		<img alt="DSCN1981" src="https://live.staticflickr.com/65535/48426389536_436fc13879.jpg"
+			data-image="https://live.staticflickr.com/65535/48426389536_f5430fa335_k.jpg">
+		<img alt="Pasadena Tour" src="https://live.staticflickr.com/65535/48426390596_38b85a9ef3.jpg"
+			data-image="https://live.staticflickr.com/65535/48426390596_be70e86a7b_k.jpg">
+		<img alt="DSCN2094" src="https://live.staticflickr.com/65535/48426530792_07a4004630.jpg"
+			data-image="https://live.staticflickr.com/65535/48426530792_919a833423_k.jpg">
+		<img alt="IMG_3792" src="https://live.staticflickr.com/65535/48426531002_cf5ac494ac.jpg"
+			data-image="https://live.staticflickr.com/65535/48426531002_d8e9fa3de1_k.jpg">
+		<img alt="Pasadena Tour" src="https://live.staticflickr.com/65535/48426533122_b206a47ae1.jpg"
+			data-image="https://live.staticflickr.com/65535/48426533122_06c515e302_k.jpg">
+		<img alt="DSCN2049" src="https://live.staticflickr.com/65535/48426529247_ac6866efcd.jpg"
+			data-image="https://live.staticflickr.com/65535/48426529247_1b753ad022_k.jpg">
+		<img alt="Pasadena Tour" src="https://live.staticflickr.com/65535/48426390166_92c4000ee7.jpg"
+			data-image="https://live.staticflickr.com/65535/48426390166_4baa094cb1_k.jpg">
+		<img alt="DSCN1995" src="https://live.staticflickr.com/65535/48426389271_c115abd7db.jpg"
+			data-image="https://live.staticflickr.com/65535/48426389271_8cb74a6a6d_k.jpg">
+		<img alt="IMG_3763" src="https://live.staticflickr.com/65535/48426387206_e7a2f4bf07.jpg"
+			data-image="https://live.staticflickr.com/65535/48426387206_b8cdfe301e_k.jpg">
+		<img alt="DSCN2097" src="https://live.staticflickr.com/65535/48426531317_10f065e34c.jpg"
+			data-image="https://live.staticflickr.com/65535/48426531317_931e0ea8c6_k.jpg">
+		<img alt="DSCN1993" src="https://live.staticflickr.com/65535/48426389076_8f8d7b2814.jpg"
+			data-image="https://live.staticflickr.com/65535/48426389076_d0c3282e20_k.jpg">
+		<img alt="IMG_3762" src="https://live.staticflickr.com/65535/48426530017_89092b0d55.jpg"
+			data-image="https://live.staticflickr.com/65535/48426530017_638b5498b2_k.jpg">
+		<img alt="Pasadena Tour" src="https://live.staticflickr.com/65535/48426533512_5158c8f96b.jpg"
+			data-image="https://live.staticflickr.com/65535/48426533512_21dc7a2fb8_k.jpg">
+		<img alt="DSCN1966" src="https://live.staticflickr.com/65535/48426528032_c8689c9d75.jpg"
+			data-image="https://live.staticflickr.com/65535/48426528032_64196ed8b9_k.jpg">
+		<img alt="IMG_3770" src="https://live.staticflickr.com/65535/48426385766_0a03d371f5.jpg"
+			data-image="https://live.staticflickr.com/65535/48426385766_4cfbb6f92c_k.jpg">
+		<img alt="DSCN2112" src="https://live.staticflickr.com/65535/48426530507_3aa2f40277.jpg"
+			data-image="https://live.staticflickr.com/65535/48426530507_56cbd30898_k.jpg">
+		<img alt="IMG_3773" src="https://live.staticflickr.com/65535/48426529537_9d0189bfa1.jpg"
+			data-image="https://live.staticflickr.com/65535/48426529537_3a43a8067f_k.jpg">
+		<img alt="DSCN2032" src="https://live.staticflickr.com/65535/48426532377_1fcfb71715.jpg"
+			data-image="https://live.staticflickr.com/65535/48426532377_26dca126fc_k.jpg">
+		<img alt="DSCN2083" src="https://live.staticflickr.com/65535/48426388886_ae54343245.jpg"
+			data-image="https://live.staticflickr.com/65535/48426388886_8204c0118c_k.jpg">
+		<img alt="DSCN2018" src="https://live.staticflickr.com/65535/48426390011_091a2dc2a2.jpg"
+			data-image="https://live.staticflickr.com/65535/48426390011_331477b312_k.jpg">
+		<img alt="IMG_3764" src="https://live.staticflickr.com/65535/48426528667_38626eb2e7.jpg"
+			data-image="https://live.staticflickr.com/65535/48426528667_7a345cda5b_k.jpg">
+		<img alt="IMG_3766" src="https://live.staticflickr.com/65535/48426528977_0801d5e997.jpg"
+			data-image="https://live.staticflickr.com/65535/48426528977_16d4b59f79_k.jpg">
 </div>
-</div>
+
+<script type="text/javascript">
+	jQuery(document).ready(function(){
+		jQuery("#gallery").unitegallery({
+			gallery_theme: "tiles",
+			tiles_type: "nested"						
+		});
+	});
+</script>
