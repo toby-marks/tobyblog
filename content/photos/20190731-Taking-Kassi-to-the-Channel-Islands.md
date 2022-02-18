@@ -5,193 +5,197 @@ location = "Channel Islands National Park"
 camera = "Nikon and Sony"
 tags = ["Pasadena","California","travel","Kassi"]
 categories = ["Journal"]
-images = ["https://live.staticflickr.com/65535/48426181736_e29b8dd2ec_o.jpg"]
+images = ["https://live.staticflickr.com/65535/48426181736_531271204d_k.jpg"]
 +++
-<img src="https://live.staticflickr.com/65535/48426181736_e29b8dd2ec_o.jpg">
+<img src="https://live.staticflickr.com/65535/48426181736_531271204d_k.jpg">
 <!--more-->
+
 The next day after visiting Sequoia we headed out from Oxnard via charter boat to the Channel Islands. That was a trip I'd been anticipating for quite some time, as Kassi's been a near daily viewer of [the webcam](https://www.nps.gov/chis/learn/photosmultimedia/anacapa-landing-cove-webcam.htm) for years now. It seemed fortuitous that circumstances aligned to allow us to make the trip together. *#workingout*, as we like to say. I really wish I had to give you the lowdown on all the little details, but with more pics to post and yet another trip coming up, I'll let the pictures speak for themselves. Suffice it to say it was a wonderful day, even more enjoyable than Sequoia, which surprised me. Maybe it was the salty sea air. I hadn't been out on a boat in years. 
 
 **Enjoy.**
 
-<div class="container-fluid">
-<div class="demo-gallery dark mrb35">
-	<ul id="lightgallery" class="list-unstyled row">
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426322092_aae931f54f_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426322092_a7170fbfdc.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426328042_b02e880760_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426328042_6c5185411e.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426181736_e29b8dd2ec_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426181736_6e930756c2.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426179911_9bf5541b71_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426179911_0041511056.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426320757_a0b217fce0_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426320757_841fcc1cf5.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426323397_a697c3f1d2_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426323397_bcd61974dd.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426328367_9a32b9eb22_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426328367_72e93f8196.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426321797_4747060e01_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426321797_89e27e2cb7.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426180266_ffc681841d_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426180266_474ac1b833.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426183971_aa92182d04_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426183971_3dcbe6b8d8.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426181191_166c84d417_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426181191_1f9b202436.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426327662_9835387059_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426327662_596e20a41d.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426322617_1de19d7baa_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426322617_3c9dfb343b.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426182006_482a3b195f_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426182006_ec01b5ce37.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426173521_8e27a963e3_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426173521_b2f8191afb.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426318392_82afb618ab_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426318392_bd245cc164.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426185791_eb92f055cb_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426185791_becc3c855c.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426315902_8a5eac3af1_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426315902_37ecd3a402.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426317602_465c4581f6_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426317602_d385e2d5a9.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426179266_62393efbe7_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426179266_9c880b7019.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426176781_54244b852d_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426176781_d39edf2acf.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426327312_453304f975_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426327312_d84173c45b.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426315347_4d6e63feaf_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426315347_b7f5d64c33.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426316727_3d5b6b7c92_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426316727_779b07a251.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426176936_e9c864489f_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426176936_4012d78071.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426166621_c4529631ff_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426166621_dc1b687958.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426315057_3a0508e044_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426315057_c3036f773e.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426183636_042961f4fc_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426183636_bf89e9a57f.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426325572_307b0438a1_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426325572_47d4f1e2c3.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426185466_04593259d4_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426185466_ce2f5142dd.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426315117_91d7e63d40_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426315117_1f00c4fa9a.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426311447_dd3f12ede9_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426311447_530094ff13.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426316482_ed0433ebd2_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426316482_b814a1f965.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426309477_2ac7988428_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426309477_42bc7e3061.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426327457_80b7503b67_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426327457_b0ba5f90eb.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426171706_162d1b4530_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426171706_16a446fcca.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426319997_8d62c6e668_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426319997_203b627509.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426313927_2eef0de493_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426313927_296007e565.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426317222_edbfb37882_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426317222_86d8e7b229.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426167771_3ffbdafc5f_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426167771_5b836ccfcc.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426173351_600d365246_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426173351_5980511875.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426324697_0df957c089_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426324697_9407ae7c54.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426165916_02a740f33b_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426165916_37df1cf02c.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426305017_d1fe17fdf2_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426305017_45888a2db1.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426308322_2c206c42b2_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426308322_4783b80770.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426167121_05136e816a_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426167121_38f61bd11e.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426185046_99177ecc49_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426185046_ed64b6be25.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426171461_3a7828215e_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426171461_ecdc15e8eb.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426170956_48c11c0bb2_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426170956_eb4e22dab6.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426324502_e2f23182c5_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426324502_b752a1bfc6.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426326627_8a625359ee_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426326627_56a6032305.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426310772_3de105ee99_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426310772_f7cfe20d9a.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426307697_507b105285_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426307697_0636e1fa56.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426304837_aa87f840e0_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426304837_21246186d4.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426317017_85a9632b6f_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426317017_a94a23fef5.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426182891_b7f0fac057_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426182891_6787a5e78e.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426312272_70f0064273_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426312272_977d6aab68.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426305897_22825ef3ac_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426305897_32d6bc8f8d.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426168856_54c6baa652_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426168856_848d397c59.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426311672_de82cf1e08_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426311672_c2df5d24fe.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426164546_b5c23c9ef7_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426164546_4d0422f71a.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426311072_c6e20aa95e_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426311072_a40bfe0f65.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426307047_29d2a1db0d_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426307047_5432305a12.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426184186_05238339c2_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426184186_eedd5da2d1.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426178141_6c9a7a932f_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426178141_475587cc45.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426182536_35bbca0b88_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426182536_89039701dd.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426325757_d8b0f21bd3_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426325757_f855a2882f.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426312947_4a96d4883d_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426312947_c37d51fc3a.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426316182_ceb0913258_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426316182_b001a67955.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426325977_71a0497e28_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426325977_199747b046.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426323807_20ddf3c6b8_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426323807_23ec484e7d.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426309992_0129fc5598_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426309992_5af998b2df.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426319667_406352857b_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426319667_7bfa660beb.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426166076_57a4ec56c0_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426166076_aca7dc40b5.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426172631_ff3cbc8bec_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426172631_2e0189d2ff.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426309197_e24acfa1fd_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426309197_21d1d4e2a6.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426172416_d18f2902ca_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426172416_7b5763f06b.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426310557_06d1fbcdd0_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426310557_ccb83cfb8e.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426172206_429cb695a9_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426172206_68ccc20477.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426314197_c777366cbb_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426314197_01a484919c.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426307262_d5b46a40a9_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426307262_4c7c109a47.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426165431_0f01d80eea_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426165431_4f588f93a7.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426305587_cb1da93928_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426305587_9186684b78.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426309022_da250414d5_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426309022_b38d5e0f6f.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426183071_4136e5836b_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426183071_75b8170248.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426311847_23cbd4fedd_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426311847_dd2a042b76.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426325627_2edbbfd626_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426325627_8e6cd2ecb5.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-		<li data-sub-html="" data-src="https://live.staticflickr.com/65535/48426169276_630d03fc17_o.jpg" class="col-xs-6 col-sm-4 col-md-3">
-			<a href><img class="img-responsive" src="https://live.staticflickr.com/65535/48426169276_f5fe118f6b.jpg"><div class="demo-gallery-poster"><img src="/img/zoom.png"></div></a><div class="wp-caption-text"></div></li>
-	</ul>
+<div id="gallery">
+		<img alt="Anacapa Island" src="https://live.staticflickr.com/65535/48426327312_9211768c9a.jpg"
+			data-image="https://live.staticflickr.com/65535/48426327312_cf2400c9e0_k.jpg">
+		<img alt="IMG_3751" src="https://live.staticflickr.com/65535/48426173521_d16aa10acf.jpg"
+			data-image="https://live.staticflickr.com/65535/48426173521_c7a3c47ee3_k.jpg">
+		<img alt="DSCN1405" src="https://live.staticflickr.com/65535/48426316727_6537c7e85e.jpg"
+			data-image="https://live.staticflickr.com/65535/48426316727_e13b1376dc_k.jpg">
+		<img alt="DSCN1406" src="https://live.staticflickr.com/65535/48426318392_3aa42a0bbb.jpg"
+			data-image="https://live.staticflickr.com/65535/48426318392_e6ce71f4e1_k.jpg">
+		<img alt="DSCN1205" src="https://live.staticflickr.com/65535/48426173351_5fff4f4161.jpg"
+			data-image="https://live.staticflickr.com/65535/48426173351_99676fa2c9_k.jpg">
+		<img alt="DSCN1458" src="https://live.staticflickr.com/65535/48426181191_b4d21a53cb.jpg"
+			data-image="https://live.staticflickr.com/65535/48426181191_78fefdcefe_k.jpg">
+		<img alt="DSCN1511" src="https://live.staticflickr.com/65535/48426182006_7b460a0874.jpg"
+			data-image="https://live.staticflickr.com/65535/48426182006_f79971571d_k.jpg">
+		<img alt="cliffs" src="https://live.staticflickr.com/65535/48426322092_4e32f6b245.jpg"
+			data-image="https://live.staticflickr.com/65535/48426322092_83604d0ba3_k.jpg">
+		<img alt="DSCN1427" src="https://live.staticflickr.com/65535/48426172631_6a4d760aed.jpg"
+			data-image="https://live.staticflickr.com/65535/48426172631_a8077183a4_k.jpg">
+		<img alt="DSCN1802" src="https://live.staticflickr.com/65535/48426313927_bafdbc5bd3.jpg"
+			data-image="https://live.staticflickr.com/65535/48426313927_6352b0b7bf_k.jpg">
+		<img alt="DSCN1411" src="https://live.staticflickr.com/65535/48426317017_025e2880a2.jpg"
+			data-image="https://live.staticflickr.com/65535/48426317017_1199fbc37b_k.jpg">
+		<img alt="DSCN1138" src="https://live.staticflickr.com/65535/48426319997_b7aa1d8f33.jpg"
+			data-image="https://live.staticflickr.com/65535/48426319997_39832b7c7b_k.jpg">
+		<img alt="Anacapa Island" src="https://live.staticflickr.com/65535/48426185046_bb44e61a3c.jpg"
+			data-image="https://live.staticflickr.com/65535/48426185046_621b330ffd_k.jpg">
+		<img alt="Anacapa Island" src="https://live.staticflickr.com/65535/48426185466_099f20c42d.jpg"
+			data-image="https://live.staticflickr.com/65535/48426185466_bdadef50c4_k.jpg">
+		<img alt="DSCN1531" src="https://live.staticflickr.com/65535/48426309022_c041559dab.jpg"
+			data-image="https://live.staticflickr.com/65535/48426309022_e83cd5e752_k.jpg">
+		<img alt="DSCN1561" src="https://live.staticflickr.com/65535/48426315347_b2bacf9b3d.jpg"
+			data-image="https://live.staticflickr.com/65535/48426315347_d7db796ae9_k.jpg">
+		<img alt="DSCN1849" src="https://live.staticflickr.com/65535/48426309477_dbfc3b27b5.jpg"
+			data-image="https://live.staticflickr.com/65535/48426309477_2fab2e11ea_k.jpg">
+		<img alt="DSCN1747" src="https://live.staticflickr.com/65535/48426172206_ca10b04d42.jpg"
+			data-image="https://live.staticflickr.com/65535/48426172206_90963dd307_k.jpg">
+		<img alt="DSCN1852" src="https://live.staticflickr.com/65535/48426179266_cc305f6506.jpg"
+			data-image="https://live.staticflickr.com/65535/48426179266_b592d09cd3_k.jpg">
+		<img alt="Anacapa Island" src="https://live.staticflickr.com/65535/48426184186_e32a28cebb.jpg"
+			data-image="https://live.staticflickr.com/65535/48426184186_f6550e0c95_k.jpg">
+		<img alt="DSCN1734" src="https://live.staticflickr.com/65535/48426165916_fefdd964ef.jpg"
+			data-image="https://live.staticflickr.com/65535/48426165916_399033ac02_k.jpg">
+		<img alt="IMG_3729" src="https://live.staticflickr.com/65535/48426166621_02364e7e7b.jpg"
+			data-image="https://live.staticflickr.com/65535/48426166621_0ec01e5556_k.jpg">
+		<img alt="DSCN1667" src="https://live.staticflickr.com/65535/48426182536_76bf9f7111.jpg"
+			data-image="https://live.staticflickr.com/65535/48426182536_f0d8bc5100_k.jpg">
+		<img alt="DSCN1721" src="https://live.staticflickr.com/65535/48426165431_393aae16a9.jpg"
+			data-image="https://live.staticflickr.com/65535/48426165431_8ec4a41a33_k.jpg">
+		<img alt="DSCN1864" src="https://live.staticflickr.com/65535/48426305587_27e2389d1e.jpg"
+			data-image="https://live.staticflickr.com/65535/48426305587_fde245a379_k.jpg">
+		<img alt="DSCN1602" src="https://live.staticflickr.com/65535/48426315902_b6f9311ce7.jpg"
+			data-image="https://live.staticflickr.com/65535/48426315902_36cf6d8307_k.jpg">
+		<img alt="Anacapa Island" src="https://live.staticflickr.com/65535/48426183071_c5d551b5a5.jpg"
+			data-image="https://live.staticflickr.com/65535/48426183071_121e47fb6e_k.jpg">
+		<img alt="DSCN1617" src="https://live.staticflickr.com/65535/48426315117_4286090e84.jpg"
+			data-image="https://live.staticflickr.com/65535/48426315117_091b0e415d_k.jpg">
+		<img alt="DSCN1148" src="https://live.staticflickr.com/65535/48426316482_70353bbfae.jpg"
+			data-image="https://live.staticflickr.com/65535/48426316482_55d8b553a2_k.jpg">
+		<img alt="DSCN1494" src="https://live.staticflickr.com/65535/48426305897_44c107cdd4.jpg"
+			data-image="https://live.staticflickr.com/65535/48426305897_79993b198d_k.jpg">
+		<img alt="DSCN1665" src="https://live.staticflickr.com/65535/48426179911_a2b3cfc84c.jpg"
+			data-image="https://live.staticflickr.com/65535/48426179911_a82aef6e30_k.jpg">
+		<img alt="DSCN1454" src="https://live.staticflickr.com/65535/48426304837_e82ebab550.jpg"
+			data-image="https://live.staticflickr.com/65535/48426304837_ff36d297b4_k.jpg">
+		<img alt="DSCN1113" src="https://live.staticflickr.com/65535/48426320757_6daa362874.jpg"
+			data-image="https://live.staticflickr.com/65535/48426320757_a5757399e3_k.jpg">
+		<img alt="Anacapa Island" src="https://live.staticflickr.com/65535/48426327457_f1874bc67f.jpg"
+			data-image="https://live.staticflickr.com/65535/48426327457_4c22385331_k.jpg">
+		<img alt="DSCN1134" src="https://live.staticflickr.com/65535/48426309992_723b59d551.jpg"
+			data-image="https://live.staticflickr.com/65535/48426309992_97e319d2ba_k.jpg">
+		<img alt="Anacapa Island" src="https://live.staticflickr.com/65535/48426185791_39c32391ee.jpg"
+			data-image="https://live.staticflickr.com/65535/48426185791_6d5d7ae887_k.jpg">
+		<img alt="DSCN1448" src="https://live.staticflickr.com/65535/48426319667_9874a7d35e.jpg"
+			data-image="https://live.staticflickr.com/65535/48426319667_7b4aa08fdf_k.jpg">
+		<img alt="IMG_3723" src="https://live.staticflickr.com/65535/48426323397_86b10ab29a.jpg"
+			data-image="https://live.staticflickr.com/65535/48426323397_bea7e729b5_k.jpg">
+		<img alt="Anacapa Island" src="https://live.staticflickr.com/65535/48426326627_7d88be3884.jpg"
+			data-image="https://live.staticflickr.com/65535/48426326627_0625df47b3_k.jpg">
+		<img alt="DSCN1301" src="https://live.staticflickr.com/65535/48426180266_3221d1c4e3.jpg"
+			data-image="https://live.staticflickr.com/65535/48426180266_2eedce8821_k.jpg">
+		<img alt="kassi on the cliff" src="https://live.staticflickr.com/65535/48426171461_1947d85b95.jpg"
+			data-image="https://live.staticflickr.com/65535/48426171461_b875fd7373_k.jpg">
+		<img alt="DSCN1163" src="https://live.staticflickr.com/65535/48426317222_e6776cba2c.jpg"
+			data-image="https://live.staticflickr.com/65535/48426317222_2964d8c3c7_k.jpg">
+		<img alt="DSCN1393" src="https://live.staticflickr.com/65535/48426311447_8fda2c5b91.jpg"
+			data-image="https://live.staticflickr.com/65535/48426311447_582fd7411a_k.jpg">
+		<img alt="DSCN1378" src="https://live.staticflickr.com/65535/48426311672_d22c57ee88.jpg"
+			data-image="https://live.staticflickr.com/65535/48426311672_9b378560ee_k.jpg">
+		<img alt="DSCN1691" src="https://live.staticflickr.com/65535/48426168856_430ffe751e.jpg"
+			data-image="https://live.staticflickr.com/65535/48426168856_429de02475_k.jpg">
+		<img alt="Anacapa Island" src="https://live.staticflickr.com/65535/48426325572_a50675e896.jpg"
+			data-image="https://live.staticflickr.com/65535/48426325572_0f5f6c392c_k.jpg">
+		<img alt="DSCN1456" src="https://live.staticflickr.com/65535/48426166076_86da569368.jpg"
+			data-image="https://live.staticflickr.com/65535/48426166076_7b2e949f2d_k.jpg">
+		<img alt="DSCN1141" src="https://live.staticflickr.com/65535/48426312947_ce3d7d7135.jpg"
+			data-image="https://live.staticflickr.com/65535/48426312947_e2e6012012_k.jpg">
+		<img alt="IMG_3759" src="https://live.staticflickr.com/65535/48426169276_e6b5fcedfc.jpg"
+			data-image="https://live.staticflickr.com/65535/48426169276_0070f0c2c5_k.jpg">
+		<img alt="Anacapa Island" src="https://live.staticflickr.com/65535/48426328042_383e1cdee4.jpg"
+			data-image="https://live.staticflickr.com/65535/48426328042_c0b7909e5f_k.jpg">
+		<img alt="DSCN1486" src="https://live.staticflickr.com/65535/48426167771_11bf05268a.jpg"
+			data-image="https://live.staticflickr.com/65535/48426167771_7df285c5ce_k.jpg">
+		<img alt="DSCN1160" src="https://live.staticflickr.com/65535/48426316182_1529fe8cbd.jpg"
+			data-image="https://live.staticflickr.com/65535/48426316182_ebb4fc14e8_k.jpg">
+		<img alt="anacapa" src="https://live.staticflickr.com/65535/48426170956_4ca81068e6.jpg"
+			data-image="https://live.staticflickr.com/65535/48426170956_83e5d9978c_k.jpg">
+		<img alt="island" src="https://live.staticflickr.com/65535/48426176936_7671ff5992.jpg"
+			data-image="https://live.staticflickr.com/65535/48426176936_74b7bce84d_k.jpg">
+		<img alt="Anacapa Island" src="https://live.staticflickr.com/65535/48426325757_86c3a65ee5.jpg"
+			data-image="https://live.staticflickr.com/65535/48426325757_f830985196_k.jpg">
+		<img alt="DSCN1375" src="https://live.staticflickr.com/65535/48426317602_d1f915161f.jpg"
+			data-image="https://live.staticflickr.com/65535/48426317602_08f1fdb0d5_k.jpg">
+		<img alt="DSCN1191" src="https://live.staticflickr.com/65535/48426311847_b4c6792a85.jpg"
+			data-image="https://live.staticflickr.com/65535/48426311847_f954c3ba98_k.jpg">
+		<img alt="DSCN1384" src="https://live.staticflickr.com/65535/48426171706_b7b50b3d7d.jpg"
+			data-image="https://live.staticflickr.com/65535/48426171706_948aa1c610_k.jpg">
+		<img alt="Anacapa Island" src="https://live.staticflickr.com/65535/48426323807_90f2269fbb.jpg"
+			data-image="https://live.staticflickr.com/65535/48426323807_35a86b4381_k.jpg">
+		<img alt="DSCN1356" src="https://live.staticflickr.com/65535/48426172416_cb575dbbe7.jpg"
+			data-image="https://live.staticflickr.com/65535/48426172416_5de3b058aa_k.jpg">
+		<img alt="Anacapa Island" src="https://live.staticflickr.com/65535/48426324697_8bf9f00cc2.jpg"
+			data-image="https://live.staticflickr.com/65535/48426324697_416627d2e7_k.jpg">
+		<img alt="DSCN1650" src="https://live.staticflickr.com/65535/48426307262_4c36983175.jpg"
+			data-image="https://live.staticflickr.com/65535/48426307262_498f63367e_k.jpg">
+		<img alt="Anacapa Island" src="https://live.staticflickr.com/65535/48426328367_55cc7cac88.jpg"
+			data-image="https://live.staticflickr.com/65535/48426328367_c3aa528337_k.jpg">
+		<img alt="DSCN1743" src="https://live.staticflickr.com/65535/48426312272_94e83b638b.jpg"
+			data-image="https://live.staticflickr.com/65535/48426312272_d717608501_k.jpg">
+		<img alt="DSCN1201" src="https://live.staticflickr.com/65535/48426176781_8b87c920d5.jpg"
+			data-image="https://live.staticflickr.com/65535/48426176781_91d1b03e81_k.jpg">
+		<img alt="DSCN1479" src="https://live.staticflickr.com/65535/48426308322_e34c74c040.jpg"
+			data-image="https://live.staticflickr.com/65535/48426308322_23aa219e5f_k.jpg">
+		<img alt="IMG_3735" src="https://live.staticflickr.com/65535/48426321797_cd68ae6519.jpg"
+			data-image="https://live.staticflickr.com/65535/48426321797_3b41b12107_k.jpg">
+		<img alt="IMG_3712" src="https://live.staticflickr.com/65535/48426305017_284d52ba32.jpg"
+			data-image="https://live.staticflickr.com/65535/48426305017_2081acfa60_k.jpg">
+		<img alt="Anacapa Island" src="https://live.staticflickr.com/65535/48426325977_4a52e0ba90.jpg"
+			data-image="https://live.staticflickr.com/65535/48426325977_76b3099949_k.jpg">
+		<img alt="rock" src="https://live.staticflickr.com/65535/48426315057_56c7ab0a1d.jpg"
+			data-image="https://live.staticflickr.com/65535/48426315057_762c3cb833_k.jpg">
+		<img alt="Anacapa Island" src="https://live.staticflickr.com/65535/48426327662_0dc384e5e8.jpg"
+			data-image="https://live.staticflickr.com/65535/48426327662_89a6069b55_k.jpg">
+		<img alt="DSCN1132" src="https://live.staticflickr.com/65535/48426307047_efef35c37a.jpg"
+			data-image="https://live.staticflickr.com/65535/48426307047_3f86cb5e94_k.jpg">
+		<img alt="DSCN1524" src="https://live.staticflickr.com/65535/48426309197_c603c09bcf.jpg"
+			data-image="https://live.staticflickr.com/65535/48426309197_b87d4ae291_k.jpg">
+		<img alt="Anacapa Island" src="https://live.staticflickr.com/65535/48426182891_776221a39e.jpg"
+			data-image="https://live.staticflickr.com/65535/48426182891_cfeefe468c_k.jpg">
+		<img alt="sealions" src="https://live.staticflickr.com/65535/48426178141_2f92f8e9c5.jpg"
+			data-image="https://live.staticflickr.com/65535/48426178141_bced9f4e32_k.jpg">
+		<img alt="DSCN1224" src="https://live.staticflickr.com/65535/48426311072_9a6a74e58b.jpg"
+			data-image="https://live.staticflickr.com/65535/48426311072_6eb564107e_k.jpg">
+		<img alt="Anacapa Island" src="https://live.staticflickr.com/65535/48426183636_8621bf5320.jpg"
+			data-image="https://live.staticflickr.com/65535/48426183636_52d5472d3d_k.jpg">
+		<img alt="DSCN1755" src="https://live.staticflickr.com/65535/48426310772_b520372d7a.jpg"
+			data-image="https://live.staticflickr.com/65535/48426310772_98d06cf219_k.jpg">
+		<img alt="DSCN1538" src="https://live.staticflickr.com/65535/48426322617_56d5e59f31.jpg"
+			data-image="https://live.staticflickr.com/65535/48426322617_cd6f91df15_k.jpg">
+		<img alt="DSCN1204" src="https://live.staticflickr.com/65535/48426314197_b98a2730e8.jpg"
+			data-image="https://live.staticflickr.com/65535/48426314197_911b4a5c03_k.jpg">
+		<img alt="DSCN1453" src="https://live.staticflickr.com/65535/48426307697_b903bac6f1.jpg"
+			data-image="https://live.staticflickr.com/65535/48426307697_13509de26f_k.jpg">
+		<img alt="Anacapa Island" src="https://live.staticflickr.com/65535/48426183971_b35e9f836b.jpg"
+			data-image="https://live.staticflickr.com/65535/48426183971_4a788ca7a3_k.jpg">
+		<img alt="DSCN1455" src="https://live.staticflickr.com/65535/48426164546_a92648738c.jpg"
+			data-image="https://live.staticflickr.com/65535/48426164546_a3d802b8d4_k.jpg">
+		<img alt="Anacapa Island" src="https://live.staticflickr.com/65535/48426325627_ed97acbfcc.jpg"
+			data-image="https://live.staticflickr.com/65535/48426325627_af5ff4c72d_k.jpg">
+		<img alt="Anacapa Island" src="https://live.staticflickr.com/65535/48426324502_41b845d7b7.jpg"
+			data-image="https://live.staticflickr.com/65535/48426324502_030aa80a4d_k.jpg">
+		<img alt="DSCN1594" src="https://live.staticflickr.com/65535/48426310557_fae3c6c4fd.jpg"
+			data-image="https://live.staticflickr.com/65535/48426310557_06afac09ef_k.jpg">
+		<img alt="DSCN1445" src="https://live.staticflickr.com/65535/48426167121_23fe14bf71.jpg"
+			data-image="https://live.staticflickr.com/65535/48426167121_0bb476d14b_k.jpg">
 </div>
-</div>
+
+<script type="text/javascript">
+	jQuery(document).ready(function(){
+		jQuery("#gallery").unitegallery({
+			gallery_theme: "tiles",
+			tiles_type: "nested"						
+		});
+	});
+</script>
