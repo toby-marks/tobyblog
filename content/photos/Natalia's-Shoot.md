@@ -6,6 +6,7 @@ camera = "Sony A7RII, Nikon Coolpix P1000"
 +++
 <img src="https://live.staticflickr.com/65535/49763396657_fcaa0d75fe_o.jpg">
 <!--more-->
+
 Pictures from my very first professional product shoot back in March. She was going for an outdoors, naturalistic look.
 
 <!--
