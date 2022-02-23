@@ -404,13 +404,16 @@
     <loc>http://tobyblog.com/series/</loc>
     <lastmod>2020-02-15T20:10:05-06:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/photos/sunset-in-mckinney/</loc>
+    <loc>http://tobyblog.com/photos/20200209-sunset-in-mckinney/</loc>
     <lastmod>2020-02-09T17:27:04-06:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/photos/saturday-morning-at-maxwell-creek/</loc>
+    <loc>http://tobyblog.com/photos/20200201-saturday-morning-at-maxwell-creek/</loc>
     <lastmod>2020-02-01T15:58:28-06:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/photos/breakfast-lunch/</loc>
+    <loc>http://tobyblog.com/photos/20200201-breakfast-lunch/</loc>
+    <lastmod>2020-02-01T10:05:53-06:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/tags/food/</loc>
     <lastmod>2020-02-01T10:05:53-06:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/posts/grocery_store_asmr/</loc>
@@ -446,7 +449,13 @@
     <loc>http://tobyblog.com/microposts/new-rap-name/</loc>
     <lastmod>2020-01-11T23:22:06-06:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/photos/sunset-on-oahu/</loc>
+    <loc>http://tobyblog.com/tags/hawaii/</loc>
+    <lastmod>2020-01-11T20:19:03-06:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/photos/20200111-sunset-on-oahu/</loc>
+    <lastmod>2020-01-11T20:19:03-06:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/tags/travel/</loc>
     <lastmod>2020-01-11T20:19:03-06:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/microposts/20200110-0534/</loc>
@@ -470,10 +479,10 @@
     <loc>http://tobyblog.com/posts/crows-are-pretty-smart/</loc>
     <lastmod>2020-01-06T14:26:52-06:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/photos/the-wild-part-of-breckinridge-park/</loc>
+    <loc>http://tobyblog.com/photos/20200104-the-wild-part-of-breckinridge-park/</loc>
     <lastmod>2020-01-04T14:10:34-06:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/photos/birds/</loc>
+    <loc>http://tobyblog.com/photos/20200101-birds/</loc>
     <lastmod>2020-01-01T14:12:56-06:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/microposts/happy/</loc>
@@ -493,9 +502,6 @@
   </url><url>
     <loc>http://tobyblog.com/photos/20191217-weird-science/</loc>
     <lastmod>2019-12-17T22:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/tags/food/</loc>
-    <lastmod>2019-12-16T18:00:00+00:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/photos/20191216-playing-kitchen-and-bar/</loc>
     <lastmod>2019-12-16T18:00:00+00:00</lastmod>
@@ -552,9 +558,6 @@
     <lastmod>2019-11-26T17:16:43-06:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/tags/national-parks/</loc>
-    <lastmod>2019-11-26T17:16:43-06:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/tags/travel/</loc>
     <lastmod>2019-11-26T17:16:43-06:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/tags/utah/</loc>
