@@ -1,8 +1,10 @@
 +++
 title = "A Breakfast, A Lunch"
 date = "2020-02-01T10:05:53-06:00"
-location = "<Enter Location, (e.g. NYC)>"
-camera = "<Enter Camera, (e.g. iPhone X)>"
+location = "various locations"
+camera = "my iPhone"
+categories = ["Journal"]
+tags = ["food"]
 +++
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1580573144/img/IMG_6123.jpg)
 <!--more-->
