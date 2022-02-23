@@ -215,11 +215,38 @@
     </item>
     
     <item>
+      <title>food</title>
+      <link>http://tobyblog.com/tags/food/</link>
+      <pubDate>Sat, 01 Feb 2020 10:05:53 -0600</pubDate>
+      
+      <guid>http://tobyblog.com/tags/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>lifehacks</title>
       <link>http://tobyblog.com/tags/lifehacks/</link>
       <pubDate>Thu, 16 Jan 2020 11:02:11 -0600</pubDate>
       
       <guid>http://tobyblog.com/tags/lifehacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hawaii</title>
+      <link>http://tobyblog.com/tags/hawaii/</link>
+      <pubDate>Sat, 11 Jan 2020 20:19:03 -0600</pubDate>
+      
+      <guid>http://tobyblog.com/tags/hawaii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>travel</title>
+      <link>http://tobyblog.com/tags/travel/</link>
+      <pubDate>Sat, 11 Jan 2020 20:19:03 -0600</pubDate>
+      
+      <guid>http://tobyblog.com/tags/travel/</guid>
       <description></description>
     </item>
     
@@ -265,15 +292,6 @@
       <pubDate>Tue, 17 Dec 2019 22:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/tags/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>food</title>
-      <link>http://tobyblog.com/tags/food/</link>
-      <pubDate>Mon, 16 Dec 2019 18:00:00 +0000</pubDate>
-      
-      <guid>http://tobyblog.com/tags/food/</guid>
       <description></description>
     </item>
     
@@ -328,15 +346,6 @@
       <pubDate>Tue, 26 Nov 2019 17:16:43 -0600</pubDate>
       
       <guid>http://tobyblog.com/tags/national-parks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>travel</title>
-      <link>http://tobyblog.com/tags/travel/</link>
-      <pubDate>Tue, 26 Nov 2019 17:16:43 -0600</pubDate>
-      
-      <guid>http://tobyblog.com/tags/travel/</guid>
       <description></description>
     </item>
     
