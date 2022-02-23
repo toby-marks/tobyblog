@@ -62,8 +62,6 @@ images = ["https://live.staticflickr.com/65535/49101789021_46f854edac_k.jpg"]
 
 ![Pied Piper Stein](https://live.staticflickr.com/65535/49101278143_2e1ecf69ab_k.jpg)
 
-![The Monster Times](https://live.staticflickr.com/65535/49101792011_1a9dc02d4d_o.jpg)
-
 ![Halloween Cookie Cutters](https://live.staticflickr.com/65535/49101792526_6587f6044a_k.jpg)
 
 ![All's Well That Ends Well](https://live.staticflickr.com/65535/49101986332_8c08bc4b3a_k.jpg)
