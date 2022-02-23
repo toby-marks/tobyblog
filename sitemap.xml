@@ -398,10 +398,16 @@
     <loc>http://tobyblog.com/series/2019-summer-vacation/</loc>
     <lastmod>2020-02-15T20:10:05-06:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/photos/ending-the-trip-in-mountain-village-colorado/</loc>
+    <loc>http://tobyblog.com/tags/colorado/</loc>
+    <lastmod>2020-02-15T20:10:05-06:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/photos/20200215-ending-the-trip-in-mountain-village-colorado/</loc>
     <lastmod>2020-02-15T20:10:05-06:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/series/</loc>
+    <lastmod>2020-02-15T20:10:05-06:00</lastmod>
+  </url><url>
+    <loc>http://tobyblog.com/tags/travel/</loc>
     <lastmod>2020-02-15T20:10:05-06:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/photos/20200209-sunset-in-mckinney/</loc>
@@ -453,9 +459,6 @@
     <lastmod>2020-01-11T20:19:03-06:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/photos/20200111-sunset-on-oahu/</loc>
-    <lastmod>2020-01-11T20:19:03-06:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/tags/travel/</loc>
     <lastmod>2020-01-11T20:19:03-06:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/microposts/20200110-0534/</loc>
@@ -810,9 +813,6 @@
     <lastmod>2019-08-09T10:58:48-05:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/tags/arches/</loc>
-    <lastmod>2019-08-09T10:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://tobyblog.com/tags/colorado/</loc>
     <lastmod>2019-08-09T10:00:00-05:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/tags/moab/</loc>
