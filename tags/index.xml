@@ -404,18 +404,9 @@
     </item>
     
     <item>
-      <title>Augie</title>
-      <link>http://tobyblog.com/tags/augie/</link>
-      <pubDate>Fri, 08 Nov 2019 22:29:51 +0000</pubDate>
-      
-      <guid>http://tobyblog.com/tags/augie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Halloween</title>
       <link>http://tobyblog.com/tags/halloween/</link>
-      <pubDate>Fri, 08 Nov 2019 22:29:51 +0000</pubDate>
+      <pubDate>Fri, 01 Nov 2019 03:00:00 +0000</pubDate>
       
       <guid>http://tobyblog.com/tags/halloween/</guid>
       <description></description>
@@ -616,6 +607,15 @@
       <pubDate>Wed, 31 Jul 2019 17:34:22 -0500</pubDate>
       
       <guid>http://tobyblog.com/tags/pasadena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Augie</title>
+      <link>http://tobyblog.com/tags/augie/</link>
+      <pubDate>Mon, 29 Jul 2019 10:00:00 -0500</pubDate>
+      
+      <guid>http://tobyblog.com/tags/augie/</guid>
       <description></description>
     </item>
     
