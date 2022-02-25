@@ -3,6 +3,9 @@ title = "Cold Afternoon Walk at Audubon Park"
 date = "2022-01-03T15:56:01-06:00"
 location = "Audubon Park"
 camera = "Sony RX-100 V"
+categories = ["Journal"]
+tags = ["parks"]
+images = ["https://live.staticflickr.com/65535/51798246235_8158143a5d_k.jpg"]
 +++
 ![A little dog having fun in the park](https://live.staticflickr.com/65535/51798246235_8158143a5d_k.jpg)
 <!--more-->
@@ -41,3 +44,12 @@ camera = "Sony RX-100 V"
 		<img alt="Some interesting graffitti. The Instagram account appears inactive." src="https://live.staticflickr.com/65535/51798247245_3cc0985be4.jpg"
 			data-image="https://live.staticflickr.com/65535/51798247245_181122ffa2_k.jpg">
 </div>
+
+<script type="text/javascript">
+	jQuery(document).ready(function(){
+		jQuery("#gallery").unitegallery({
+			gallery_theme: "tiles",
+			tiles_type: "nested"						
+		});
+	});
+</script>
