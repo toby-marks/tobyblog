@@ -3,7 +3,8 @@ camera = "iPhone"
 date = 2020-02-27T23:00:00Z
 location = "Irving, TX"
 title = "Circumnavigating Lake Carolyn"
-
+categories = ["Journal"]
+images = ["https://res.cloudinary.com/tobyblog/image/upload/v1582844462/img/C302ACD4-4B4A-46C1-864C-3F86887F3F04_csttru.jpg"]
 +++
 ![](https://res.cloudinary.com/tobyblog/image/upload/v1582844462/img/C302ACD4-4B4A-46C1-864C-3F86887F3F04_csttru.jpg)
 <!--more-->
