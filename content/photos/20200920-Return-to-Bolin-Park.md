@@ -15,7 +15,7 @@ Kassi took a number of fine pictures herself and was kind enough to model for me
 
 All considered, it was a fine morning. 
 
-<div id="gallery">
+<div id="gallery" style="display:none;">
 		<img alt="" src="https://live.staticflickr.com/65535/50364895522_8d9b05e6a6.jpg"
 			data-image="https://live.staticflickr.com/65535/50364895522_749b12ae48_k.jpg">
 		<img alt="" src="https://live.staticflickr.com/65535/50364038033_3584d42448.jpg"
