@@ -11,19 +11,13 @@ images = ["https://live.staticflickr.com/5714/23469822034_1c729f586f_k.jpg"]
 
 <!--more-->
 
-![Wreck the Halls](https://live.staticflickr.com/5741/24071970216_965aff2b99_k.jpg)
-
 Wreck the Halls is the big Christmas show, and I say big because it is festive, grand, and apparently very popular. We attended on the opening night of Star Wars The Force Awakens, and the place was packed. That surprised me somewhat because I expected the target audiences to overlap. All of TheVCubeSolver's friends were at the movies that night, and a few of mine as well for that matter.
 
-![DSC05199](https://live.staticflickr.com/5659/23481217363_2bdcdc7e1e_k.jpg)
- 
 We were greeted in the parking lot by an oversized and formidable looking Krampus, who when asked proceeded to mime the essentials of the Krampus legend, which is that Krampus knocks bad kids over the head with his Krampus stick, and tosses them in his Krampus basket which he carries on his back. TheVCubeSolver narrowly escaped that fate, as we wondered over to a goblin who explained to us how he and his crew had taken over the Christmas operation this year — or something to that effect — and we saw more evidence of that part of the story once inside the haunt.
 
 ![Wreck the Halls](https://live.staticflickr.com/1695/23471270343_6bc33d0b4d_k.jpg)
 
 A friend described the Wreck the Halls show to me as "lighthearted", and that was pretty accurate. The usual moldy and spooky atmosphere in the lobby and waiting area was transformed by seasonal lights and decorations. Things felt cozy and cheerful. I guessed that the cyclopean witch in the lobby was brewing up a mammoth kettle of egg nog.
-
-![Wreck the Halls](https://live.staticflickr.com/5809/24071970966_356b50bac8_k.jpg)
 
 Sirena came out to greet us, and I eventually worked up the nerve to ask her and Buddy to do a rendition of That Old Black Magic, a request that I unapologetically admit was inspired by Florence Henderson's cover from the old Paul Lynde Halloween Special. Regardless, this should definitely be in one or both of their repertoires.
 
@@ -73,12 +67,6 @@ Sirena comes off as sort of a comical vamp. It looks like she was having some fu
 
 The show ended with a bang as Sirena did her best to crack my glasses with her voice. By that point we were almost at the front of the line, and I felt completely primed for the haunt. Dark Hour does not allow pictures on the inside, for obvious reasons, and I wholeheartedly agree with the policy. Still, though, I always wish I could sneak a few photos just to share with you guys, because the haunt itself is an incredible piece of work. I always marvel at how they're able to keep it fresh month after month, but the ingenuity and imagination that goes into these haunts is terrific. We had snow! We had snow in the haunt, along the graveyard path leading up to Coven Manor. Jacob Marley himself was there to present the haunt to us, and direct us on our Merry Christmas way. As were all three of Dickens' Christmas ghosts, Grampuses galore, wicked elves, characters from Tim Burton's Nightmare Before Christmas, puking snowmen, and poor St. Nick in chains! Elf on the Shelf danced over our heads, and there was even an appearance from Rudolph's Abominable Snowman in one of my favorite parts of the haunt. We had the ghost of Christmas Yet To Come usher us to our graves, and got stuffed in Krampus's sack! There was even a curious bit where we found ourselves seemingly caught up in a gigantic crane game full of stuffed Christmas toys. And of course, the ever present jack o' lanterns reminding us of Halloweens past and future. All in all, it was a great and magical time full of Christmas cheer, Dark Hour style.
 
-![Jack Frost](https://live.staticflickr.com/1548/23802390040_b81514ee7f_k.jpg)
-
-![Santa Carl Close](https://live.staticflickr.com/5764/23469827754_62d9d2f80a_k.jpg)
-
 While I was puttering around the lobby looking like a dork gaping at all the amazing merchandise and spooky decoration, TheVCubeSolver was busy getting next year's Christmas card pictures taken.
-
-![Our Souvenir Photo](https://live.staticflickr.com/1695/24098062955_58a914d4b3_k.jpg)
 
 I for one, though, prefer this 3D souvenir pic of us getting bagged by Krampus. A perfect takeaway.

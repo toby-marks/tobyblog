@@ -4,10 +4,7 @@ description = "For Catholics, this is the beginning of Lent. For me, I'm already
 date = "2019-03-06T23:28:11-06:00"
 categories = ["Journal"]
 tags = ["religion"]
-images = ["https://live.staticflickr.com/7851/40345372543_8333c2827e_k.jpg"]
 +++
-![](https://live.staticflickr.com/7851/40345372543_8333c2827e_k.jpg)
-
 Today is Ash Wednesday, the Catholic holy day that begins the penitential season of Lent. This year I will not be celebrating as a Catholic.
 
 Last year on September 1st Kassi and I, after a long season of spiritual apathy and suffering, took our first steps into the Russian Orthodox Church. There were private reasons, of course. Personal reasons that are always at the core of any conversion; but also open reasons. We did not take the step lightly. 
