@@ -10,4 +10,4 @@ minipost = "true"
 
 And here we go
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/tobyjmarks/49901210393/in/dateposted-public/" title="Getting up from prone position"><img src="https://live.staticflickr.com/31337/49901210393_8edfa9e304_k.jpg" width="1920" height="1080" alt="Getting up from prone position"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/tobyjmarks/49901210393/in/photolist-2j2AKjr" title="Getting up from prone position"><img src="https://live.staticflickr.com/31337/49901210393_8979760a9a_o.jpg" width="1920" height="1080" alt="Getting up from prone position"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
