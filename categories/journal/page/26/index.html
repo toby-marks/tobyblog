@@ -13,7 +13,7 @@
 
     <link rel="stylesheet" href="http://tobyblog.com/css/weblog.css" media="screen" charset="utf-8" />
     <link rel="stylesheet" href="http://tobyblog.com/css/tobyblog.css" media="screen" charset="utf-8" />
-    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.2.14/css/lightgallery.min.css" type="text/css" />
     
 
 
@@ -249,7 +249,7 @@
       </div>
       
       <div>
-          <h3><a href="https://www.flickr.com/photos/tobyjmarks/">My Photography</a></h3>
+          <h3><a href="https://www.flickr.com/photos/75738497@N00/">My Photography</a></h3>
           <div id="photos"></div>
       </div>
       
@@ -264,6 +264,8 @@
   
 </footer>
 
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery/2.2.0/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.2.14/js/lightgallery-all.min.js" charset="utf-8"></script>
     <script src="/js/weblog.js" charset="utf-8"></script>
     
 
@@ -272,13 +274,14 @@
   
   $(function() {
     
-    $.getJSON("https://api.flickr.com/services/feeds/photos_public.gne?id=tobyjmarks&format=json&jsoncallback=?", function(data) {
+    $.getJSON("https://api.flickr.com/services/feeds/photos_public.gne?id=75738497@N00&format=json&jsoncallback=?", function(data) {
       iweblog.application.displayImages(data, 8);
     });
   });
 
 </script>
 
+    
   </body>
 </html>
 
