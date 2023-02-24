@@ -1,6 +1,11 @@
 <header>
   <nav>
-    <h1><a href="{{ .Site.Author.socialurl }}">@{{ .Site.Author.handle }}’s</a> <a href="/">{{ .Site.Title }}</a>.</h1>
+    <div class="banner">
+      <a href="{{ .Site.BaseURL }}"><img src="/img/tobyblog_logo.png" alt="Welcome to my blog" height=270px></a>
+    </div>
+    <div class="site-info podcast-info">
+    	<a href="https://soundcloud.com/toby-marks-1">Visit my Soundcloud</a> <img src="/img/soundcloud-512.png"> <a href="http://feeds.soundcloud.com/users/soundcloud:users:46374114/sounds.rss">Subscribe to the podcast</a>
+    </div>
     <div class="menu">
 		{{ if isset .Site.Params "rsssections" }}
 			{{ $.Scratch.Add "sections" .Site.Params.rsssections }}
@@ -9,7 +14,9 @@
 				<li>
 					<a href="{{.URL}}">{{ .Name }}</a>
 					{{ if in ($.Scratch.Get "sections") .Name }}
+<!--
 						<a href="{{.URL}}index.xml"><img src="/img/rss.svg" class="rss-icon" /></a>
+-->
 					{{ end }}
 				</li>
 				{{ end }}

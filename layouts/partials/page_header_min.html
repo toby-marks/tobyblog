@@ -1,7 +1,5 @@
   <nav>
-    <div class="banner">
-      <a href="{{ .Site.BaseURL }}"><img src="/img/tobyblog_logo.png" alt="Welcome to my blog" height=270px></a>
-    </div>
+    <h1><a href="{{ .Site.Author.socialurl }}">@{{ .Site.Author.handle }}’s</a> <a href="/">{{ .Site.Title }}</a>.</h1>
     <div class="menu">
       {{ $.Scratch.Add "sections" .Site.Params.rsssections }}
       <ul>
@@ -9,7 +7,7 @@
             <li>
               <a href="{{ .URL }}">{{ .Name }}</a>
               {{ if in ($.Scratch.Get "sections") .Name }}
-<!--                <a href="{{ .URL }}index.xml"><img src="/img/rss.svg" class="rss-icon" /></a>  -->
+                  <a href="{{ .URL }}index.xml"><img src="/img/rss.svg" class="rss-icon" /></a>
               {{ end }}
             </li>
         {{ end }}

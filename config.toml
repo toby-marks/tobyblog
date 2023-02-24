@@ -5,7 +5,7 @@ baseURL = "http://tobyblog.com/"
 languageCode = "en-us"
 publishDir = "public"
 theme = "internet-weblog"
-title = "Tobyblog"
+title = "~ The Tobyblog 📝"
 
 [author]
 	FirstName = "Toby"
@@ -13,6 +13,7 @@ title = "Tobyblog"
 	Handle = "tobyblog"
 	LastName = "Marks"
 	Location = "Dallas, TX"
+	SocialURL = "https://mastodon.social/@tobyblog"
 
 [[menu.main]]
 	identifier = "videos"
