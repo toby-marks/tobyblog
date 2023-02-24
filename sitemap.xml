@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://tobyblog.com/microposts/</loc>
+    <loc>http://tobyblog.com/</loc>
     <lastmod>2022-01-24T13:53:23-06:00</lastmod>
   </url><url>
-    <loc>http://tobyblog.com/</loc>
+    <loc>http://tobyblog.com/microposts/</loc>
     <lastmod>2022-01-24T13:53:23-06:00</lastmod>
   </url><url>
     <loc>http://tobyblog.com/microposts/20220124-1353/</loc>

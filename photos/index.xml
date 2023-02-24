@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Photos on Tobyblog</title>
+    <title>Photos on ~ The Tobyblog 📝</title>
     <link>http://tobyblog.com/photos/</link>
-    <description>Recent content in Photos on Tobyblog</description>
+    <description>Recent content in Photos on ~ The Tobyblog 📝</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Jan 2022 15:56:01 -0600</lastBuildDate><atom:link href="http://tobyblog.com/photos/index.xml" rel="self" type="application/rss+xml" />
