@@ -105,7 +105,7 @@ Yet there it is, in perfect condition. Double-boxed, dry, with a full log and co
       </div>
       
       <div>
-          <h3><a href="https://www.flickr.com/photos/75738497@N00/">My Photography</a></h3>
+          <h3><a href="https://www.flickr.com/photos/tobyjmarks/">My Photography</a></h3>
           <div id="photos"></div>
       </div>
       
@@ -128,7 +128,7 @@ Yet there it is, in perfect condition. Double-boxed, dry, with a full log and co
   
   $(function() {
     
-    $.getJSON("https://api.flickr.com/services/feeds/photos_public.gne?id=75738497@N00&format=json&jsoncallback=?", function(data) {
+    $.getJSON("https://api.flickr.com/services/feeds/photos_public.gne?id=tobyjmarks&format=json&jsoncallback=?", function(data) {
       iweblog.application.displayImages(data, 8);
     });
   });

@@ -187,7 +187,7 @@ This year I attended Texas Frightmare Weekend for the first time. By now it seem
       </div>
       
       <div>
-          <h3><a href="https://www.flickr.com/photos/75738497@N00/">My Photography</a></h3>
+          <h3><a href="https://www.flickr.com/photos/tobyjmarks/">My Photography</a></h3>
           <div id="photos"></div>
       </div>
       
@@ -210,7 +210,7 @@ This year I attended Texas Frightmare Weekend for the first time. By now it seem
   
   $(function() {
     
-    $.getJSON("https://api.flickr.com/services/feeds/photos_public.gne?id=75738497@N00&format=json&jsoncallback=?", function(data) {
+    $.getJSON("https://api.flickr.com/services/feeds/photos_public.gne?id=tobyjmarks&format=json&jsoncallback=?", function(data) {
       iweblog.application.displayImages(data, 8);
     });
   });
