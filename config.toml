@@ -9,8 +9,8 @@ title = "~ The Tobyblog 📝"
 
 [author]
 	FirstName = "Toby"
-#	FlickrID = "75738497@N00"
-	FlickrID = "tobyjmarks"
+	FlickrID = "75738497@N00"
+#	FlickrID = "tobyjmarks"
 	Handle = "tobyblog"
 	LastName = "Marks"
 	Location = "Dallas, TX"
