@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gaming on ~ The Tobyblog 📝</title>
+    <link>https://tobyblog.com/categories/gaming/</link>
+    <description>Recent content in Gaming on ~ The Tobyblog 📝</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Apr 2016 16:10:00 +0000</lastBuildDate>
+    <atom:link href="https://tobyblog.com/categories/gaming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>We Play Mario Party 10</title>
+      <link>https://tobyblog.com/videos/we-play-mario-party-10/</link>
+      <pubDate>Fri, 15 Apr 2016 16:10:00 +0000</pubDate>
+      <guid>https://tobyblog.com/videos/we-play-mario-party-10/</guid>
+      <description>The kids and I play Mario Party 10, the most inexplicably hated Mario Party of them all!</description>
+    </item>
+    <item>
+      <title>Conversations 2 – Thoughts on the Wii U</title>
+      <link>https://tobyblog.com/posts/20160415-conversations-2-thoughts-on-the-wii-u/</link>
+      <pubDate>Fri, 15 Apr 2016 16:04:00 +0000</pubDate>
+      <guid>https://tobyblog.com/posts/20160415-conversations-2-thoughts-on-the-wii-u/</guid>
+      <description>TheVCubeSolver and I talk about the things we love about the Nintendo Wii U on a long drive home.</description>
+    </item>
+    <item>
+      <title>We Play Wii Play Playthrough</title>
+      <link>https://tobyblog.com/videos/we-play-wii-play-playthrough/</link>
+      <pubDate>Sun, 06 Mar 2016 12:20:00 +0000</pubDate>
+      <guid>https://tobyblog.com/videos/we-play-wii-play-playthrough/</guid>
+      <description>TheVCubeSolver and I team up in this playthrough vid to reintroduce you to a seriously underrated classic on the Wii.</description>
+    </item>
+    <item>
+      <title>Conversations Series: The Nintendo NX</title>
+      <link>https://tobyblog.com/videos/conversations-series-the-nintendo-nx/</link>
+      <pubDate>Tue, 21 Apr 2015 10:12:00 +0000</pubDate>
+      <guid>https://tobyblog.com/videos/conversations-series-the-nintendo-nx/</guid>
+      <description>Join TheVCubeSolver and I as we discuss the recently announced NX project from Nintendo, a new and novel system that could be the successor to the beleaguered Wii U. But what exactly is it? For the moment, all we can do is guess. But I think we have some good ideas.</description>
+    </item>
+  </channel>
+</rss>
