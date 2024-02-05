@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sounds on ~ The Tobyblog 📝</title>
-    <link>http://tobyblog.com/categories/sounds/</link>
+    <link>https://tobyblog.com/categories/sounds/</link>
     <description>Recent content in Sounds on ~ The Tobyblog 📝</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Jul 2020 13:19:32 -0500</lastBuildDate>
-    <atom:link href="http://tobyblog.com/categories/sounds/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tobyblog.com/categories/sounds/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Neighborhood Noise</title>
-      <link>http://tobyblog.com/posts/lunchtime-walk-audio/</link>
+      <link>https://tobyblog.com/posts/lunchtime-walk-audio/</link>
       <pubDate>Tue, 28 Jul 2020 13:19:32 -0500</pubDate>
-      <guid>http://tobyblog.com/posts/lunchtime-walk-audio/</guid>
+      <guid>https://tobyblog.com/posts/lunchtime-walk-audio/</guid>
       <description>Come along with me on one of my daily quarantine walks, from the moment I step out my front door to my daily visit to the neighborhood Pokéstop; around the back side of the neighborhood past the park and near the woods, then along the road past the gun range to the creek overlook and back.</description>
     </item>
     <item>
       <title>Running Errands After Work</title>
-      <link>http://tobyblog.com/posts/grocery_store_asmr/</link>
+      <link>https://tobyblog.com/posts/grocery_store_asmr/</link>
       <pubDate>Fri, 31 Jan 2020 16:59:22 -0600</pubDate>
-      <guid>http://tobyblog.com/posts/grocery_store_asmr/</guid>
+      <guid>https://tobyblog.com/posts/grocery_store_asmr/</guid>
       <description>Grabbing groceries after work.</description>
     </item>
     <item>
       <title>Exploring the Secret Exits Behind the Stores</title>
-      <link>http://tobyblog.com/posts/20190711-mall-asmr/</link>
+      <link>https://tobyblog.com/posts/20190711-mall-asmr/</link>
       <pubDate>Fri, 31 Jan 2020 16:52:13 -0600</pubDate>
-      <guid>http://tobyblog.com/posts/20190711-mall-asmr/</guid>
+      <guid>https://tobyblog.com/posts/20190711-mall-asmr/</guid>
       <description>Not many people know about those places.</description>
     </item>
     <item>
       <title>Community Theater Presents: The Rat Pack</title>
-      <link>http://tobyblog.com/posts/the-rat-pack-podcast/</link>
+      <link>https://tobyblog.com/posts/the-rat-pack-podcast/</link>
       <pubDate>Thu, 30 Jan 2020 12:00:00 -0600</pubDate>
-      <guid>http://tobyblog.com/posts/the-rat-pack-podcast/</guid>
+      <guid>https://tobyblog.com/posts/the-rat-pack-podcast/</guid>
       <description>Recorded on an evening out with Kass. Not the best recording, but then again, not the best performance. They tried, though. Sammy and Dean were pretty good, I thought.</description>
     </item>
   </channel>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Utah on ~ The Tobyblog 📝</title>
-    <link>http://tobyblog.com/tags/utah/</link>
+    <link>https://tobyblog.com/tags/utah/</link>
     <description>Recent content in Utah on ~ The Tobyblog 📝</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Nov 2019 17:16:43 -0600</lastBuildDate>
-    <atom:link href="http://tobyblog.com/tags/utah/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tobyblog.com/tags/utah/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arches National Park</title>
-      <link>http://tobyblog.com/photos/20191126-arches-national-park/</link>
+      <link>https://tobyblog.com/photos/20191126-arches-national-park/</link>
       <pubDate>Tue, 26 Nov 2019 17:16:43 -0600</pubDate>
-      <guid>http://tobyblog.com/photos/20191126-arches-national-park/</guid>
+      <guid>https://tobyblog.com/photos/20191126-arches-national-park/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://live.staticflickr.com/65535/49129310703_5ce7adc236_k.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Seeing Zion National Park</title>
-      <link>http://tobyblog.com/photos/20190920-seeing-zion-national-park/</link>
+      <link>https://tobyblog.com/photos/20190920-seeing-zion-national-park/</link>
       <pubDate>Fri, 20 Sep 2019 11:51:57 -0500</pubDate>
-      <guid>http://tobyblog.com/photos/20190920-seeing-zion-national-park/</guid>
+      <guid>https://tobyblog.com/photos/20190920-seeing-zion-national-park/</guid>
       <description>&lt;img src=&#34;https://live.staticflickr.com/65535/48760860313_9cda9414be_k.jpg&#34;&gt;</description>
     </item>
     <item>
       <title>Road Trip Travel Log 09.01</title>
-      <link>http://tobyblog.com/posts/20190809-road-trip-travel-log-09-01/</link>
+      <link>https://tobyblog.com/posts/20190809-road-trip-travel-log-09-01/</link>
       <pubDate>Fri, 09 Aug 2019 10:00:00 -0500</pubDate>
-      <guid>http://tobyblog.com/posts/20190809-road-trip-travel-log-09-01/</guid>
+      <guid>https://tobyblog.com/posts/20190809-road-trip-travel-log-09-01/</guid>
       <description>Arrived in beautiful Telluride, Colorado, and yes, this is my first update since day #2 of vacation. So much for my Travel Log. Between lack of cell signal and surrendering my phone to the kid, and straight up being too busy and/or exhausted, I haven’t had much opportunity for posting.&#xA;We’ve been busy!&#xA;Back to the Grand Canyon this year, and this time we got to spend a night in the park, with a chance to do some dawn/dusk shots of the canyon itself.</description>
     </item>
   </channel>
