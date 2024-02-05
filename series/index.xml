@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on ~ The Tobyblog 📝</title>
-    <link>http://tobyblog.com/series/</link>
+    <link>https://tobyblog.com/series/</link>
     <description>Recent content in Series on ~ The Tobyblog 📝</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Feb 2020 20:10:05 -0600</lastBuildDate>
-    <atom:link href="http://tobyblog.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tobyblog.com/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2019 Summer Vacation</title>
-      <link>http://tobyblog.com/series/2019-summer-vacation/</link>
+      <link>https://tobyblog.com/series/2019-summer-vacation/</link>
       <pubDate>Sat, 15 Feb 2020 20:10:05 -0600</pubDate>
-      <guid>http://tobyblog.com/series/2019-summer-vacation/</guid>
+      <guid>https://tobyblog.com/series/2019-summer-vacation/</guid>
       <description></description>
     </item>
     <item>
       <title>RtW Top 10s</title>
-      <link>http://tobyblog.com/series/rtw-top-10s/</link>
+      <link>https://tobyblog.com/series/rtw-top-10s/</link>
       <pubDate>Thu, 01 Jan 2015 23:03:00 +0000</pubDate>
-      <guid>http://tobyblog.com/series/rtw-top-10s/</guid>
+      <guid>https://tobyblog.com/series/rtw-top-10s/</guid>
       <description></description>
     </item>
   </channel>
