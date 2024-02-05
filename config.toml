@@ -1,7 +1,7 @@
 #DisqusShortname = "tobyblog-com"
 Paginate = 5
 SectionPagesMenu = "Main"
-baseURL = "http://tobyblog.com/"
+baseURL = "https://tobyblog.com/"
 languageCode = "en-us"
 publishDir = "public"
 theme = "internet-weblog"
