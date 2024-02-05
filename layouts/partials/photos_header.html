@@ -24,7 +24,7 @@
     {{ partial "custom_stylesheets.html" . }}
 
     {{ if .Site.Params.rssenabled }}
-	<link href="{{ .OutputFormats.Get "rss" .Permalink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+	<link href="{{ with .OutputFormats.Get "RSS" }}{{ .Permalink }}{{ end }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
 	{{ end }}
 
 	{{ template "_internal/opengraph.html" . }}
