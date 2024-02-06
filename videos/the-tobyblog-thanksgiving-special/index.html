@@ -181,6 +181,17 @@ In truth October is always a busy month for us and I don&rsquo;t have much spare
 </script>
 
     
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>    
   </body>
 </html>
 

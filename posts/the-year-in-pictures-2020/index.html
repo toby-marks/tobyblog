@@ -158,6 +158,17 @@ News of the virus in China had already begun to circulate late last year. The vi
 </script>
 
     
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>    
   </body>
 </html>
 

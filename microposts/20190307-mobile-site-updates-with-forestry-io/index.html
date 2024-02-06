@@ -143,6 +143,17 @@ Hopefully that&rsquo;ll allow me to do something from time to time that I&rsquo;
 </script>
 
     
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>    
   </body>
 </html>
 

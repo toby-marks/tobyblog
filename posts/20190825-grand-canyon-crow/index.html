@@ -157,6 +157,17 @@ You can count me in, though I&rsquo;m not sure &ldquo;ready&rdquo; is the best w
 </script>
 
     
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>    
   </body>
 </html>
 

@@ -416,6 +416,17 @@ Collector&rsquo;s Crypt is a boutique shop in Dallas specializing in horror and 
 </script>
 
     
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>    
   </body>
 </html>
 
