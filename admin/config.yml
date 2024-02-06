@@ -1,0 +1,50 @@
+backend:
+  name: github
+  repo: toby-marks/tobyblog # Path to your GitHub repository
+  # optional, defaults to master
+  # branch: main
+
+# These lines should *not* be indented
+media_folder: "static/img/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/img/uploads" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  - name: "posts" # Used in routes, e.g., /admin/collections/blog
+    label: "Post" # Used in the UI
+    folder: "content/posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}{{month}}{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "string", default: "blog"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Categories", name: "categories", widget: "list", default: ["Journal"]}
+      - {label: "Tags", name: "tags", widget: "list", default: ["stuff"]}
+  - name: "microposts" # Used in routes, e.g., /admin/collections/blog
+    label: "Micropost" # Used in the UI
+    folder: "content/microposts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}{{month}}{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+  - name: "photos" # Used in routes, e.g., /admin/collections/blog
+    label: "Photo Album" # Used in the UI
+    folder: "content/photos" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}{{month}}{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Location", name: "location", widget: "string", default: "<Enter Location, (e.g. NYC)>"}
+      - {label: "Camera", name: "camera", widget: "string", default: "<Enter Camera, (e.g. iPhone X)>"}
+  - name: "videos" # Used in routes, e.g., /admin/collections/blog
+    label: "Video" # Used in the UI
+    folder: "content/videos" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}{{month}}{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Categories", name: "categories", widget: "list", default: ["Reviews"]}
+      - {label: "Tags", name: "tags", widget: "list", default: ["food"]}
