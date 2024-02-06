@@ -154,6 +154,17 @@ I&rsquo;m gonna go ahead and say that I am the NUMBER ONE Blossom Dearie fan on 
 </script>
 
     
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>    
   </body>
 </html>
 
