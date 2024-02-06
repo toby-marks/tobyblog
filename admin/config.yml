@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: toby-marks/tobyblog # Path to your GitHub repository
   # optional, defaults to master
   # branch: main
