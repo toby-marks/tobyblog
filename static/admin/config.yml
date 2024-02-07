@@ -2,11 +2,11 @@ backend:
   name: git-gateway
   repo: toby-marks/tobyblog # Path to your GitHub repository
   # optional, defaults to master
-  # branch: main
+  branch: master
 
 # These lines should *not* be indented
-media_folder: "static/img/uploads" # Media files will be stored in the repo under static/images/uploads
-public_folder: "/img/uploads" # The src attribute for uploaded media will begin with /images/uploads
+media_folder: "static/img" # Media files will be stored in the repo under static/images/uploads
+public_folder: "img" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
