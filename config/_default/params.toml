@@ -1,0 +1,9 @@
+Description = "The personal blog and home page of one of the web's many Tobys. What distinguishes me is that I own the domain. To you I say welcome(!) in the grand old tradition of proto-websites of the nineties. The place where I deposit the overflow of my time, mind, and labors, Tobyblog is my refuge from the coming social media apocalypse."
+RSSEnabled = false
+RSSMicropostTitles = false
+RSSSections = []
+ShowCopyright = true
+SummarizeMicroposts = false
+YearlyMicroposts = true
+images = ["img/tobyblog-site-cover.jpg"]
+
