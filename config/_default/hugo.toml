@@ -2,6 +2,7 @@ title = "~ The Tobyblog 📝"
 baseURL = "/"
 sectionPagesMenu = "Main"  #CAPITALIZE. must match capitalization in menus.toml
 paginate = 5
+languageLang = "en"
 languageCode = "en-us"
 publishDir = "public"
 theme = "internet-weblog"
