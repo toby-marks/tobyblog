@@ -1,0 +1,19 @@
+[[Main]]
+	name = "Posts"
+	pageRef = "/posts"
+	weight = 1
+
+[[Main]]
+	name = "Microposts"
+	pageRef = "/microposts"
+	weight = 2
+
+[[Main]]
+	name = "Photos"
+	pageRef = "/photos"
+	weight = 3
+
+[[Main]]
+	name = "Videos"
+	pageRef = "/videos"
+	weight = 4
