@@ -6,7 +6,7 @@ categories = ["Journal"]
 tags = ["prophecy","religion","Catholic"]
 images = ["https://upload.wikimedia.org/wikipedia/commons/d/da/Burgkmair_whore_babylon_color.jpg"]
 +++
-![](https://upload.wikimedia.org/wikipedia/commons/d/da/Burgkmair_whore_babylon_color.jpg)
+{{< img alt="" src="https://upload.wikimedia.org/wikipedia/commons/d/da/Burgkmair_whore_babylon_color.jpg" >}}
 
 ## A meditation on a figure of the last days.
 

@@ -7,7 +7,7 @@ tags = ["murder"]
 minipost=true
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1573682807/img/Screen_Shot_2019-11-13_at_4.05.48_PM.jpg"]
 +++
-![](https://res.cloudinary.com/tobyblog/image/upload/v1573682807/img/Screen_Shot_2019-11-13_at_4.05.48_PM.jpg)
+{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1573682807/img/Screen_Shot_2019-11-13_at_4.05.48_PM.jpg" >}}
 
 An investigation into the disappearance of Kristal Reisinger from Crestone, Colorado. 
 

@@ -7,7 +7,7 @@ tags = ["corvids", "Grand Canyon", "vacation", "Arizona"]
 minipost = true
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1566837042/img/October-small-vignette.jpg"]
 +++
-![](https://res.cloudinary.com/tobyblog/image/upload/v1566837042/img/October-small-vignette.jpg)
+{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1566837042/img/October-small-vignette.jpg" >}}
 
 ***Who's ready for fall?***
 

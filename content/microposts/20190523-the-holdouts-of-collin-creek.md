@@ -10,4 +10,4 @@ The mall is being razed to build a new billion dollar open air, multi-use develo
 
 I've heard they're going to excavate the drainage tunnels under the mall in order to expose the creek that runs under the parking lot. They say there are homeless folks that live down there, underground. And criminals have been known to dart into those tunnels when being chased by the cops. There's a geocache down there, placed by one of the founding members of the Texas Geocaching Association, a guy who goes by the online handle of 9key, a legend among Texas geocachers. I suppose I missed my chance to find it.
 
-![](https://res.cloudinary.com/tobyblog/image/upload/v1558640532/img/E3A48F5F-4F41-4B3F-B65A-2361AFB957C3.jpg)
+{{< img src="https://res.cloudinary.com/tobyblog/image/upload/v1558640532/img/E3A48F5F-4F41-4B3F-B65A-2361AFB957C3.jpg" >}}

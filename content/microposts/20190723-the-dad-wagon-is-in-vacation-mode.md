@@ -9,4 +9,4 @@ Must be time for a road trip, because I find myself wondering what the wagon wou
 
 🚙⛰🏜
 
-![](https://res.cloudinary.com/tobyblog/image/upload/v1563921348/img/24F8E31B-2C8E-423B-AFDC-98D4B3DF7AD8.jpg)
+{{< img src="https://res.cloudinary.com/tobyblog/image/upload/v1563921348/img/24F8E31B-2C8E-423B-AFDC-98D4B3DF7AD8.jpg" >}}

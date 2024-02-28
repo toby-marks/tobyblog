@@ -9,4 +9,4 @@ It's summer vacation time again, and I'm as excited as if I were returning to Ho
 
 Stay tuned!
 
-![](https://res.cloudinary.com/tobyblog/image/upload/v1564613290/img/potter.jpg)
+{{< img src="https://res.cloudinary.com/tobyblog/image/upload/v1564613290/img/potter.jpg" >}}

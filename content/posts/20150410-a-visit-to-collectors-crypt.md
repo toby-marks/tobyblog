@@ -147,10 +147,10 @@ Collector's Crypt is a spectacular place. There is nothing else even remotely li
 
 *GO!*
 
-![](http://1.bp.blogspot.com/--l7W9jxGV9Y/VReIEq4-KDI/AAAAAAAAB6w/kAeDM7Me9tQ/s2048/77259c_c0c5d7dce0db40828b6997da652f2a36.jpg_srb_p_492_492_75_22_0.50_1.20_0.jpg)
+{{< img alt="" src="http://1.bp.blogspot.com/--l7W9jxGV9Y/VReIEq4-KDI/AAAAAAAAB6w/kAeDM7Me9tQ/s2048/77259c_c0c5d7dce0db40828b6997da652f2a36.jpg_srb_p_492_492_75_22_0.50_1.20_0.jpg" >}}
 
 **CRAWL!**
 
-[![](http://4.bp.blogspot.com/-e_nnCgkTpN8/VReKUaDddfI/AAAAAAAAB68/rhB7H511tUY/s2048/Screen%2BShot%2B2015-03-29%2Bat%2B12.14.36%2BAM.png)](https://www.facebook.com/CollectorsCrypt/)
+[{{< img alt="" src="http://4.bp.blogspot.com/-e_nnCgkTpN8/VReKUaDddfI/AAAAAAAAB68/rhB7H511tUY/s2048/Screen%2BShot%2B2015-03-29%2Bat%2B12.14.36%2BAM.png" >}}](https://www.facebook.com/CollectorsCrypt/)
 
 ***LIKE!***

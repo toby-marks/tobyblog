@@ -1,9 +1,41 @@
 title = "~ The Tobyblog 📝"
-baseURL = "/"
+baseURL = "https://tobyblog.com/"
+canonifyURLs = false
+disableAliases = true
+disableHugoGeneratorInject = false
+#disableKinds = ["taxonomy", "term"]
+enableEmoji = true
+enableRobotsTXT = true
 sectionPagesMenu = "Main"  #CAPITALIZE. must match capitalization in menus.toml
 paginate = 5
 languageLang = "en"
 languageCode = "en-us"
 publishDir = "public"
 theme = "internet-weblog"
+rssLimit = 10
+summarylength = 70 # 70 (default)
 #DisqusShortname = "tobyblog-com"
+
+copyRight = "Copyright 2024 (c) Toby Marks"
+
+[social]
+	twitter = "tobyblog"
+	
+[outputs]
+	home = ["HTML"]
+	
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[minify.tdewolff.html]
+  keepWhitespace = false
+
+[imaging]
+  anchor = "Center"
+  bgColor = "#ffffff"
+  hint = "photo"
+  quality = 90
+#   resampleFilter = "Lanczos"
+  resampleFilter = "MitchellNetravali"

@@ -7,4 +7,5 @@ tags = ["religion","Orthodox"]
 images = ["/img/IMG_1698.JPG"]
 minipost = "true"
 +++
-![](/img/IMG_1698.JPG)
+
+{{< img src="images/IMG_1698.jpg" >}}
