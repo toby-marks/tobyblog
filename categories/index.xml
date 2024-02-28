@@ -6,6 +6,7 @@
     <description>Recent content in Categories on ~ The Tobyblog 📝</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright 2024 (c) Toby Marks</copyright>
     <lastBuildDate>Tue, 11 Jan 2022 16:36:14 -0600</lastBuildDate>
     <atom:link href="https://tobyblog.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -76,111 +77,6 @@
       <link>https://tobyblog.com/categories/food/</link>
       <pubDate>Mon, 04 May 2020 17:33:01 -0500</pubDate>
       <guid>https://tobyblog.com/categories/food/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Photoblog</title>
-      <link>https://tobyblog.com/categories/photoblog/</link>
-      <pubDate>Wed, 18 Mar 2020 01:00:00 +0000</pubDate>
-      <guid>https://tobyblog.com/categories/photoblog/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>FoundFootage</title>
-      <link>https://tobyblog.com/categories/foundfootage/</link>
-      <pubDate>Mon, 16 Mar 2020 12:23:27 -0500</pubDate>
-      <guid>https://tobyblog.com/categories/foundfootage/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Podcasts</title>
-      <link>https://tobyblog.com/categories/podcasts/</link>
-      <pubDate>Wed, 13 Nov 2019 16:07:43 -0600</pubDate>
-      <guid>https://tobyblog.com/categories/podcasts/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hobbies</title>
-      <link>https://tobyblog.com/categories/hobbies/</link>
-      <pubDate>Wed, 23 Oct 2019 14:00:00 -0500</pubDate>
-      <guid>https://tobyblog.com/categories/hobbies/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Anthony</title>
-      <link>https://tobyblog.com/categories/anthony/</link>
-      <pubDate>Tue, 15 Oct 2019 17:00:00 -0500</pubDate>
-      <guid>https://tobyblog.com/categories/anthony/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kassi</title>
-      <link>https://tobyblog.com/categories/kassi/</link>
-      <pubDate>Tue, 15 Oct 2019 17:00:00 -0500</pubDate>
-      <guid>https://tobyblog.com/categories/kassi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Audio</title>
-      <link>https://tobyblog.com/categories/audio/</link>
-      <pubDate>Tue, 10 Sep 2019 17:52:50 -0500</pubDate>
-      <guid>https://tobyblog.com/categories/audio/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Admin</title>
-      <link>https://tobyblog.com/categories/admin/</link>
-      <pubDate>Sat, 27 Jul 2019 14:17:42 -0500</pubDate>
-      <guid>https://tobyblog.com/categories/admin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Movies</title>
-      <link>https://tobyblog.com/categories/movies/</link>
-      <pubDate>Fri, 05 Jul 2019 12:00:00 -0500</pubDate>
-      <guid>https://tobyblog.com/categories/movies/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Television</title>
-      <link>https://tobyblog.com/categories/television/</link>
-      <pubDate>Tue, 14 May 2019 20:01:00 +0000</pubDate>
-      <guid>https://tobyblog.com/categories/television/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Unboxings</title>
-      <link>https://tobyblog.com/categories/unboxings/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://tobyblog.com/categories/unboxings/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Specials</title>
-      <link>https://tobyblog.com/categories/specials/</link>
-      <pubDate>Mon, 11 Jul 2016 10:35:00 +0000</pubDate>
-      <guid>https://tobyblog.com/categories/specials/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Geocaching</title>
-      <link>https://tobyblog.com/categories/geocaching/</link>
-      <pubDate>Mon, 30 May 2016 11:26:00 +0000</pubDate>
-      <guid>https://tobyblog.com/categories/geocaching/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gaming</title>
-      <link>https://tobyblog.com/categories/gaming/</link>
-      <pubDate>Fri, 15 Apr 2016 16:10:00 +0000</pubDate>
-      <guid>https://tobyblog.com/categories/gaming/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ReviewTheWorld</title>
-      <link>https://tobyblog.com/categories/reviewtheworld/</link>
-      <pubDate>Wed, 12 Mar 2014 23:05:38 -0700</pubDate>
-      <guid>https://tobyblog.com/categories/reviewtheworld/</guid>
       <description></description>
     </item>
   </channel>
