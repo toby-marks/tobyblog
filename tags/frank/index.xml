@@ -6,6 +6,7 @@
     <description>Recent content in Frank on ~ The Tobyblog 📝</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright 2024 (c) Toby Marks</copyright>
     <lastBuildDate>Tue, 13 Aug 2019 22:08:42 -0500</lastBuildDate>
     <atom:link href="https://tobyblog.com/tags/frank/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,7 +14,7 @@
       <link>https://tobyblog.com/photos/20190813-frank-rip/</link>
       <pubDate>Tue, 13 Aug 2019 22:08:42 -0500</pubDate>
       <guid>https://tobyblog.com/photos/20190813-frank-rip/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;</description>
+      <description>&lt;img src=&#34;https://res.cloudinary.com/tobyblog/image/upload/v1565673092/img/kassi.jpg&#34;&gt;</description>
     </item>
     <item>
       <title>RIP Frank Dog, 2013 – 2019</title>
