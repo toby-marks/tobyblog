@@ -6,6 +6,6 @@ categories = ["Journal"]
 minipost = "true"
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1555879858/img/chubby.jpg"]
 +++
-![](https://res.cloudinary.com/tobyblog/image/upload/v1555879858/img/chubby.jpg)
+{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1555879858/img/chubby.jpg" >}}
 
 What exactly are you trying to tell me, Facebook?

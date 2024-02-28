@@ -5,7 +5,7 @@ categories = ["Reviews"]
 tags = ["food"]
 images = ["http://1.bp.blogspot.com/-kOWZdp1hKUM/Uw7fZHHQ_MI/AAAAAAAAASo/PaKzZurs9tA/s2048/Screen+Shot+2014-02-27+at+12.45.36+AM.png"]
 +++
-![](http://1.bp.blogspot.com/-kOWZdp1hKUM/Uw7fZHHQ_MI/AAAAAAAAASo/PaKzZurs9tA/s2048/Screen+Shot+2014-02-27+at+12.45.36+AM.png)
+{{< img src="http://1.bp.blogspot.com/-kOWZdp1hKUM/Uw7fZHHQ_MI/AAAAAAAAASo/PaKzZurs9tA/s2048/Screen+Shot+2014-02-27+at+12.45.36+AM.png" >}}
 
 Go back, right now, and take a look at my [Zyka India Food restaurant review.]({{< ref "/videos/zyka-indian-food-review.md" >}}) Notice anything suspicious about the Chicken 65? Take a closer look at those ingredients.   
 
@@ -21,25 +21,25 @@ I recall thinking to myself that this could work — not the tunnel thing, but t
 
 Enter Taco Naan.  
 
-![](http://2.bp.blogspot.com/-s1FCfqq7-us/Uw7ftS5FUzI/AAAAAAAAASw/6I8C4JytHmY/s2048/images.jpeg)
+{{< img process="fill 200x200" src="http://2.bp.blogspot.com/-s1FCfqq7-us/Uw7ftS5FUzI/AAAAAAAAASw/6I8C4JytHmY/s2048/images.jpeg" >}}
 
 Located in Coppell, Texas, Taco Naan is the realization of my old dream. I first ran across it while scouting a nearby geocache. The storefront is pretty unassuming — even verging on the dive-y. My geocaching buddy Jambone was hesitant to step in to the place, but I didn’t think it looked that bad. I’ve certainly had good food at worse looking places. Still, it gave the overall impression of a newish restaurant gone a little to seed. Once inside I noticed a back door behind the register that opened directly into the alley, which reinforced the impression that the building itself was cheaply constructed, one of those steel frame boxes that people like to turn into pre-fab houses for a few thousand bucks.
 
-![](http://4.bp.blogspot.com/-ZiGD7cVQXhU/Uw7gLThxA2I/AAAAAAAAAS4/4DwoMN8mQS8/s400/taco-naan-storefront-200x300.jpg)
+{{< img process="fill 200x300" src="http://4.bp.blogspot.com/-ZiGD7cVQXhU/Uw7gLThxA2I/AAAAAAAAAS4/4DwoMN8mQS8/s400/taco-naan-storefront-200x300.jpg" >}}
 
 The seating area was small, but adequate for the business. I think there were two or three other people eating lunch. The register and menu stood opposite the entrance. Jambone and I walked up to place our orders. I was curious to get a look at what they offered, at the kinds of dishes and combinations they imagined.
 
 Judge for yourself. Here’s the menu.  
 
-![](http://4.bp.blogspot.com/-6oqomFPbORk/Uw7gamN8ssI/AAAAAAAAATA/hkNW1bUMqIs/s2048/DSC09308.jpg)
+{{< img src="http://4.bp.blogspot.com/-6oqomFPbORk/Uw7gamN8ssI/AAAAAAAAATA/hkNW1bUMqIs/s2048/DSC09308.jpg" >}}
 
-![](http://1.bp.blogspot.com/-3Dhd-o7nYC4/Uw7gcy33DQI/AAAAAAAAATI/jIX_XzsZmlk/s2048/DSC09309.jpg)
+{{< img src="http://1.bp.blogspot.com/-3Dhd-o7nYC4/Uw7gcy33DQI/AAAAAAAAATI/jIX_XzsZmlk/s2048/DSC09309.jpg" >}}
 
 The slogan is apparently “Delicious Tacos in Town!”, which is (perhaps unintentionally) modest. I was disappointed on reading the menu that it was basically a pretty standard taco shop, with a few Indian influenced offerings. One item that immediately stood out to me on the menu was the Lengua Taco, which is beef tongue. This was a dish I am well familiar with, having grown up in South Louisiana. My dad makes an excellent beef tongue gravy that I fondly remember from childhood, though he and I were the only ones that ever ate it. I understand it’s popular with Hispanic cultures, too, so this is definitely one item that I was interested in trying. The Bagara Bowl seemed tasty, but it was more of a straight-up Indian dish and I wanted to get a real sense of the culinary fusion. In the end I asked for a recommendation from the helpful and courteous lady at the counter, and she suggested the daily special, the Chicken Naan taco, which I ordered with Chicken 65 and a side of rice and beans.  
 
 While filling up my soda I noticed something like a buffet bar behind a counter overlooking the kitchen filled with Indian dishes of various sorts. Everything looked and smelled wonderful. By now my appetite was whetted, and Jambone and I shot the breeze while we waited for our orders to come up, which didn’t take long given the lack of crowds.   
 
-![](http://3.bp.blogspot.com/-nXqWDUftc-A/Uw7glgN7nAI/AAAAAAAAATQ/2N5eNq_iuH0/s2048/IMG_4500.jpg)
+{{< img src="http://3.bp.blogspot.com/-nXqWDUftc-A/Uw7glgN7nAI/AAAAAAAAATQ/2N5eNq_iuH0/s2048/IMG_4500.jpg" >}}
 
 Mine arrived first, and after removing the tin foil wrapper from my taco I studied the plate. I was a little disappointed. The naan bread appeared to be nothing more than a pita, and the large slice of tomato added to the impression that I was going to be eating a Mexified gyro. The rice looked clumpy and unevenly colored. The refried beans lacked the topping of shredded cheese shown in the pictures, and while they never look all that appetizing under the best of circumstances, these seemed particularly gloppish.   
 

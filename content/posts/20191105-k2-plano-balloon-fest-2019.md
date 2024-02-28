@@ -9,4 +9,4 @@ images = ["https://1.bp.blogspot.com/-L-u_MScQaLY/XcHJ8KEWBhI/AAAAAAAADgs/ISJVh1
 +++
 Because I wanted to share her picture of me stuffing my face with a gigantic turkey leg. Also, 'Murica.
 
-![](https://1.bp.blogspot.com/-L-u_MScQaLY/XcHJ8KEWBhI/AAAAAAAADgs/ISJVh1mfm4wsYqNzO0kaLJ00HYZXccrogCEwYBhgL/s640/IMG_5220.jpg)
+{{< img alt="" src="https://1.bp.blogspot.com/-L-u_MScQaLY/XcHJ8KEWBhI/AAAAAAAADgs/ISJVh1mfm4wsYqNzO0kaLJ00HYZXccrogCEwYBhgL/s640/IMG_5220.jpg" >}}

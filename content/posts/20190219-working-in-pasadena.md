@@ -6,7 +6,7 @@ categories = ["Journal"]
 tags = ["Pasadena", "California", "travel", "food"]
 images = ["https://live.staticflickr.com/7804/46429733404_1bd5a93d55_k.jpg"]
 +++
-![Twilight Over Pasadena](https://live.staticflickr.com/7804/46429733404_1bd5a93d55_k.jpg)
+{{< img alt="Twilight Over Pasadena" src="https://live.staticflickr.com/7804/46429733404_1bd5a93d55_k.jpg" >}}
 
 What should I say? What can I say? Perhaps a little about where I find myself these days. What I'm up to. Best keep it brief. I want to encourage myself to update these pages a little more frequently this year. 
 <!--more-->
@@ -16,13 +16,13 @@ The part of town I'm in they call "Old Pasadena". Everything is walkable. The st
 
 But there's one or two spots I always hit up when I'm here. Because Pasadena has some of the best ramen in the country. 🍜💛
 
-![Hot Sake](https://live.staticflickr.com/7854/46429733134_df6195974c_k.jpg)
+{{< img alt="Hot Sake" src="https://live.staticflickr.com/7854/46429733134_df6195974c_k.jpg" >}}
            
 I've featured some pics from here before. Bone Kettle. Chef owned. They do a Thai spin on ramen. I dig it. 
 
 The warm sake is expensive. But on a chill night it's so soothing. I've been into sake lately. I suppose that's something new. It's very mellowing. Very comforting on the stomach. 
 
-![Broth and Noodles](https://live.staticflickr.com/7902/40188167603_1c2a8529a1_k.jpg)
+{{< img alt="Broth and Noodles" src="https://live.staticflickr.com/7902/40188167603_1c2a8529a1_k.jpg" >}}
           
 I go for the ox tail broth. It's cooked for three days. So rich. Unbelievable flavor. I go for the ox tail dumplings as well. Some of the best tasting stuff I've ever eaten. That brown sauce is magic. 
 
@@ -40,4 +40,4 @@ For me, it's time for bed.
 
 Goodnight.🌛
            
-![C'est La Vie](https://live.staticflickr.com/7877/40188168123_36521b8e28_k.jpg)
+{{< img alt="C'est La Vie" src="https://live.staticflickr.com/7877/40188168123_36521b8e28_k.jpg" >}}

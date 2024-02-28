@@ -6,5 +6,5 @@ title = "Old Tree Off Rowlett Creek"
 categories = ["Journal"]
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1574112756/img/oldtree.jpg"]
 +++
-![](https://res.cloudinary.com/tobyblog/image/upload/v1574112756/img/oldtree.jpg)
+{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1574112756/img/oldtree.jpg" >}}
 <!--more-->

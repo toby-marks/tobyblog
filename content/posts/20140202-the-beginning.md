@@ -15,4 +15,4 @@ My intent for this site is somewhat different than Brian's for Review the World;
 
 Thank you for reading.  
 
-![](http://1.bp.blogspot.com/-NINi6nq-3-4/Uu8zF8xolxI/AAAAAAAAAN0/zGt8pKEQQt0/s2048/photo.jpg)
+{{< img src="http://1.bp.blogspot.com/-NINi6nq-3-4/Uu8zF8xolxI/AAAAAAAAAN0/zGt8pKEQQt0/s2048/photo.jpg" alt="The sun, seen from ground level, dipping toward the horizon on an early spring evening on the American prairie, its rays illuminating a small patch of grass in the foreground, with a line of denuded trees in the background." >}}

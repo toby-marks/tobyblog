@@ -9,4 +9,4 @@ I've picked out a nice one or two to start with. In addition to _Happy Halloween
 
 Gonna have some fun today. 🍁🎃
 
-![](https://res.cloudinary.com/tobyblog/image/upload/v1571849617/img/geocaching_lake_carolyn.jpg)
+{{< img src="https://res.cloudinary.com/tobyblog/image/upload/v1571849617/img/geocaching_lake_carolyn.jpg" >}}

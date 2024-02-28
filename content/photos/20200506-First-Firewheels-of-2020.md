@@ -6,14 +6,14 @@ camera = "Nikon Coolpix P1000"
 categories = ["Journal"]
 images = ["https://live.staticflickr.com/65535/49864147138_28d83775dd_k.jpg"]
 +++
-![firewheels1](https://live.staticflickr.com/65535/49864147138_28d83775dd_k.jpg)
+{{< img alt="firewheels1" src="https://live.staticflickr.com/65535/49864147138_28d83775dd_k.jpg" >}}
 <!--more-->
 One single plant, not too far from my house. Well into maturity. The very first I've spotted this year, outside of the one potted plant I saw at the nursery. Why such a lonely crop?
 
-![firewheels5](https://live.staticflickr.com/65535/49864147698_cac8e516f1_k.jpg)
+{{< img alt="firewheels5" src="https://live.staticflickr.com/65535/49864147698_cac8e516f1_k.jpg" >}}
 
-![firewheels2](https://live.staticflickr.com/65535/49864147363_dbe9f9f4b7_k.jpg)
+{{< img alt="firewheels2" src="https://live.staticflickr.com/65535/49864147363_dbe9f9f4b7_k.jpg" >}}
 
-![firewheels3](https://live.staticflickr.com/65535/49864992382_b03e390b41_k.jpg)
+{{< img alt="firewheels3" src="https://live.staticflickr.com/65535/49864992382_b03e390b41_k.jpg" >}}
 
-![firewheels4](https://live.staticflickr.com/65535/49864992552_ca8f3190ce_k.jpg)
+{{< img alt="firewheels4" src="https://live.staticflickr.com/65535/49864992552_ca8f3190ce_k.jpg" >}}

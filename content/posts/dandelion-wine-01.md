@@ -6,7 +6,7 @@ categories = ["Books"]
 tags = ["Ray Bradbury"]
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1589491164/img/dandelion-small.jpg"]
 +++
-![](https://res.cloudinary.com/tobyblog/image/upload/v1589491164/img/dandelion-small.jpg)
+{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1589491164/img/dandelion-small.jpg" >}}
 
 > What you have here in this book then is a gathering of dandelions from all those years. The wine metaphor which appears again and again in these pages is wonderfully apt. I was gathering images all of my life, storing them away, and forgetting them. Somehow I had to send myself back, with words as catalysts to open the memories out and see what they had to offer.
 > 

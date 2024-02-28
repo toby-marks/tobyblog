@@ -7,4 +7,4 @@ images = ["https://res.cloudinary.com/tobyblog/image/upload/v1557018766/img/E6D9
 +++
 It feels like a good night for a drink.
 
-![](https://res.cloudinary.com/tobyblog/image/upload/v1557018766/img/E6D95B17-AED9-4271-A308-71BBC05A5C85.jpg)
+{{< img src="https://res.cloudinary.com/tobyblog/image/upload/v1557018766/img/E6D95B17-AED9-4271-A308-71BBC05A5C85.jpg" >}}

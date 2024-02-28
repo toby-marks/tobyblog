@@ -7,21 +7,21 @@ categories = ["Hobbies"]
 tags = ["geocaching","Halloween"]
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1571856012/img/Screen_Shot_2019-10-23_at_1.36.14_PM.png"]
 +++
-![](https://res.cloudinary.com/tobyblog/image/upload/v1571856012/img/Screen_Shot_2019-10-23_at_1.36.14_PM.png)
+{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1571856012/img/Screen_Shot_2019-10-23_at_1.36.14_PM.png" >}}
 <!--more--> 
 No luck today, but man did I enjoy getting out in the woods again. It seems like it's been forever since that was a regular thing in my life. It's especially awesome in the fall when the weather cools down and the wind blows through the trees. Not much fall color yet, but it's coming.
 
-![](https://res.cloudinary.com/tobyblog/image/upload/v1571857226/img/lb_houston_trail_geo2.jpg)
+{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1571857226/img/lb_houston_trail_geo2.jpg" >}}
 
-![](https://res.cloudinary.com/tobyblog/image/upload/v1571857227/img/lb_houston_trail_geo12.jpg)
+{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1571857227/img/lb_houston_trail_geo12.jpg" >}}
 
-![](https://res.cloudinary.com/tobyblog/image/upload/v1571857228/img/lb_houston_trail_geo1.jpg)
+{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1571857228/img/lb_houston_trail_geo1.jpg" >}}
 
-![](https://res.cloudinary.com/tobyblog/image/upload/v1571857227/img/lb_houston_trail_geo11.jpg)
+{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1571857227/img/lb_houston_trail_geo11.jpg" >}}
 
-![](https://res.cloudinary.com/tobyblog/image/upload/v1571857226/img/lb_houston_trail_geo9.jpg)
+{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1571857226/img/lb_houston_trail_geo9.jpg" >}}
 
-![](https://res.cloudinary.com/tobyblog/image/upload/v1571857227/img/lb_houston_trail_geo5.jpg)
+{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1571857227/img/lb_houston_trail_geo5.jpg" >}}
 
 This is about where I think it should be, based on the posted posted coordinates. I checked all around there, for as much time as I had to give. There were so many recently downed trees because of all the storms and flooding in this area over the summer.
 

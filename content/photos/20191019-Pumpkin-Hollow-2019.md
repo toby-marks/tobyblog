@@ -7,7 +7,7 @@ categories = ["Journal"]
 tags = ["Halloween","festivals"]
 images = ["https://live.staticflickr.com/65535/48924284687_101bae46e7_k.jpg"]
 +++
-![Pumpkin Hollow - 27 of 29](https://live.staticflickr.com/65535/48924284687_101bae46e7_k.jpg)
+{{< img alt="Pumpkin Hollow - 27 of 29" src="https://live.staticflickr.com/65535/48924284687_101bae46e7_k.jpg" >}}
 <!--more-->
 
 The Pumpkin Hollow Halloween Carnival in Little Elm is one of my favorite fall family traditions. I was wondering this year at the fact that after all this time it's still retained the small town carnival charm that made it so special for us the year we discovered it. I featured it in my [Halloween Special]({{< ref "/videos/the-tobyblog-halloween-special.md" >}}), and about the only thing that's changed since then is that the little haunted trail they put on gets better every year.

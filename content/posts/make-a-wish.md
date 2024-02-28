@@ -10,4 +10,4 @@ Go ahead, now's your chance.
 
 *It's the season.*
 
-![](https://res.cloudinary.com/tobyblog/image/upload/v1584487034/img/EmptyName.jpg)
+{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1584487034/img/EmptyName.jpg" >}}

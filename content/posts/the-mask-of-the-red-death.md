@@ -3,7 +3,7 @@ title = "The Mask of the Red Death"
 date = 2014-10-18T06:56:00Z
 categories = ["Books"]
 +++
-![](http://4.bp.blogspot.com/-LG5tJUTc_xU/VEJuvEURinI/AAAAAAAABis/MisjKk3frhA/s2048/IMG_2405.JPG)
+{{< img alt="" src="http://4.bp.blogspot.com/-LG5tJUTc_xU/VEJuvEURinI/AAAAAAAABis/MisjKk3frhA/s2048/IMG_2405.JPG" >}}
 
 > The 'Red Death' had long devastated the country. No pestilence had ever been so fatal, or so hideous. Blood was its Avatar and its seal — the redness and the horror of blood. There were sharp pains, and sudden dizziness, and then profuse bleeding at the pores, with dissolution.
 

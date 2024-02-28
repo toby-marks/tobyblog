@@ -3,6 +3,7 @@ title = "Kranky Coffee"
 date = 2015-04-27T22:21:00Z
 categories = ["Reviews"]
 tags = ["reviews", "review the world", "thevcubesolver", "candy"]
+externalurl = "https://www.youtube.com/watch?v=h3W97HQWuEo"
 +++
 Straight off a Dollar Store shelf at the lovely Grapevine Mills Mall in Grapevine, Texas, and stocked just a few bins over from the storied [Orchard Skittles](http://www.reviewtheworld.com/2015/04/skittles-four-ways.html), comes Kranky Candy, the coffee dusted confection you will soon come to know and love. Is it an afternoon snack? A breakfast substitute? Repurposed industrial by-product? You decide.
 
