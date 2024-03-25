@@ -20,16 +20,17 @@ titleAddition = "Homepage of Toby"
     decoding = "async" # sync, async, or auto (default)
     fetchpriority = "auto" # high, low, or auto (default) 
     loading = "lazy" # eager or lazy (default)
-    widths = [390, 585, 780, 975, 1170, 1365] # [640, 768, 1024, 1366, 1600, 1920] for example
-    sizes = "100vw" # 100vw (default), 75vw, or auto for example
-    process = "fill 780x585" #"fill 780x520" # "fill 1600x900" or "fill 2100x900" for example
-    lqip = "780x webp q90" # "16x webp q20" or "21x webp q20" for example
-  [hyas_images.landscape]
-    normalize = "780x585" # "1600x900" (default)
-    lqip = "4x3" # "16x9" (default)
-    widths = [480, 640, 800, 1024]
-  [hyas_images.portrait]
-    normalize = "780x1040" # "900x1600" (default)
-    lqip = "3x4" # "9x16" (default)
-    widths = [480, 640, 800, 1024]
+    widths = [350, 400, 780] # for example
+#     sizes = "auto" # 100vw (default), 75vw, or auto for example
+    formats = "webp, jpeg"
+#     process = "fill 780x585" #"fill 780x520" # "fill 1600x900" or "fill 2100x900" for example
+    lqip = "780x webp q90" # "21x webp q20" for example
+#   [hyas_images.landscape]
+#     normalize = "780x585" # "1600x900" (default)
+#     lqip = "4x3" # "16x9" (default)
+#     widths = [480, 640, 800, 1024]
+#   [hyas_images.portrait]
+#     normalize = "780x1040" # "900x1600" (default)
+#     lqip = "3x4" # "9x16" (default)
+#     widths = [480, 640, 800, 1024]
 

@@ -12,4 +12,4 @@ Infexxion is an iPhone game based on the old arcade game [Attax](https://en.wiki
 
 Not a single time. 
 
-{{< img alt="Infexxion" src="https://live.staticflickr.com/7825/46298055565_76fe293a6c_k.jpg" >}}
+{{< picture alt="Infexxion" src="https://live.staticflickr.com/7825/46298055565_76fe293a6c_k.jpg" >}}

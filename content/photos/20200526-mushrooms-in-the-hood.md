@@ -6,19 +6,19 @@ camera = "my phone cam"
 categories = ["Journal"]
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1590535456/img/IMG_7183.jpg"]
 +++
-{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1590535456/img/IMG_7183.jpg" >}}
+{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1590535456/img/IMG_7183.jpg" >}}
 <!--more-->
 
-{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1590535456/img/IMG_7170.jpg" >}}
+{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1590535456/img/IMG_7170.jpg" >}}
 
-{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1590535459/img/IMG_7175.jpg" >}}
+{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1590535459/img/IMG_7175.jpg" >}}
 
-{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1590535454/img/IMG_7191.jpg" >}}
+{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1590535454/img/IMG_7191.jpg" >}}
 
-{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1590535459/img/IMG_7184.jpg" >}}
+{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1590535459/img/IMG_7184.jpg" >}}
 
-{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1590535459/img/IMG_7167.jpg" >}}
+{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1590535459/img/IMG_7167.jpg" >}}
 
-{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1590535459/img/IMG_7194.jpg" >}}
+{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1590535459/img/IMG_7194.jpg" >}}
 
-{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1590535455/img/IMG_7168.jpg" >}}
+{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1590535455/img/IMG_7168.jpg" >}}

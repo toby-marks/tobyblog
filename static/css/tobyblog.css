@@ -1,4 +1,3 @@
-
 /* Page */
 
 body {
@@ -97,6 +96,15 @@ article.photo img[alt="Oracle Headquarters"] {
 
 .post-group-item:hover {
   background-color: rgb(33,19,11); 
+}
+
+img {
+	height: auto;
+	max-width: 100%;
+}
+
+img, picture {
+	font-size: 0;
 }
 
 @media screen

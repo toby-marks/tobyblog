@@ -6,11 +6,11 @@ camera = "my iPhone"
 categories = ["Journal"]
 tags = ["food"]
 +++
-{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1580573144/img/IMG_6123.jpg" >}}
+{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1580573144/img/IMG_6123.jpg" >}}
 <!--more-->
 
-{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1580573144/img/IMG_6115.jpg" >}}
+{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1580573144/img/IMG_6115.jpg" >}}
 
-{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1580573144/img/IMG_6128.jpg" >}}
+{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1580573144/img/IMG_6128.jpg" >}}
 
-{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1580573144/img/IMG_6130.jpg" >}}
+{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1580573144/img/IMG_6130.jpg" >}}

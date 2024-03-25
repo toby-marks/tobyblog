@@ -7,7 +7,7 @@ images = ["https://live.staticflickr.com/65535/51800482455_e3e94eb67a_k.jpg"]
 minipost = "true"
 +++
 
-[{{< img src="https://live.staticflickr.com/65535/51800482455_e3e94eb67a_k.jpg" alt="My best photos of 2021" >}}](https://www.flickr.com/photos/tobyjmarks/albums/72177720295729758/)
+[{{< img src="images/51800482455_e3e94eb67a_k.jpg" alt="My best photos of 2021" >}}](https://www.flickr.com/photos/tobyjmarks/albums/72177720295729758/)
 
 The general consensus is that all time, day, and season since the announcement of the pandemic and the beginning of "these unprecedented times" has flowed together, coagulating into a formless lump of frustrated expectation. The expectation is that life will at any point now return to normal, or at least how we thought of that word prior to March 2020, when it seems that the powers of the world at last conspired to draw their net around the mass of us privileged, who up until that point had managed to eke out our lives in this place without more than the ordinary lot of troubles, looking on more or less helplessly as the "others" of the world suffered for our comfort, and perhaps, in our place. 
 

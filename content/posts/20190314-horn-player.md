@@ -6,6 +6,6 @@ tags = ["travel","Pasadena","California"]
 minipost = true
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1552602904/img/25A20639-6AB5-428E-B013-951140B9B004.jpg"]
 +++
-{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1552602904/img/25A20639-6AB5-428E-B013-951140B9B004.jpg" >}}
+{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1552602904/img/25A20639-6AB5-428E-B013-951140B9B004.jpg" >}}
 
 A street musician doing his thing in Old Town Pasadena.

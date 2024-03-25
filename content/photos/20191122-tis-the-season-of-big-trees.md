@@ -7,5 +7,5 @@ categories = ["Journal"]
 tags = ["Christmas"]
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1574450899/img/FBF5EBC1-03FA-4453-A3BF-9A93E5DA9FBD_pugfgp.jpg"]
 +++
-{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1574450899/img/FBF5EBC1-03FA-4453-A3BF-9A93E5DA9FBD_pugfgp.jpg" >}}
+{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1574450899/img/FBF5EBC1-03FA-4453-A3BF-9A93E5DA9FBD_pugfgp.jpg" >}}
 <!--more-->
