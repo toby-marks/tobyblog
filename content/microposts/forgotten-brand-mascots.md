@@ -5,4 +5,4 @@ title = "Forgotten Brand Mascots"
 +++
 How my six-year old identifies the McDonaldland Gang —
 
-{{< img src="https://res.cloudinary.com/tobyblog/image/upload/v1571945941/img/mcdonaldland_ganga.jpg" >}}
+{{< picture src="https://res.cloudinary.com/tobyblog/image/upload/v1571945941/img/mcdonaldland_ganga.jpg" >}}

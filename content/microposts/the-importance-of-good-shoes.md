@@ -7,4 +7,4 @@ images = ["https://res.cloudinary.com/tobyblog/image/upload/a_0/v1565789544/img/
 +++
 Never forget your good business shoes on a business trip. #roadwarrior #protip
 
-{{< img src="https://res.cloudinary.com/tobyblog/image/upload/a_0/v1565789544/img/B3041253-4CFC-487E-89BF-64FEFBF9A466_cnwrgx.jpg" >}}
+{{< picture src="https://res.cloudinary.com/tobyblog/image/upload/a_0/v1565789544/img/B3041253-4CFC-487E-89BF-64FEFBF9A466_cnwrgx.jpg" >}}

@@ -6,4 +6,4 @@ images = ["https://res.cloudinary.com/tobyblog/image/upload/a_0/v1562350559/img/
 +++
 These were like 10 cents a piece before Ready Player One came out. #classic80s
 
-{{< img src="https://res.cloudinary.com/tobyblog/image/upload/a_0/v1562350559/img/A4811F09-5996-4798-861A-68A49253B836.jpg" >}}
+{{< picture src="https://res.cloudinary.com/tobyblog/image/upload/a_0/v1562350559/img/A4811F09-5996-4798-861A-68A49253B836.jpg" >}}

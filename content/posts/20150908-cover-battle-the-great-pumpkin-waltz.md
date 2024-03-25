@@ -35,4 +35,4 @@ Enjoy. Show these guys some support by liking and/or subscribing to their stuff.
 
 {{< youtube 20RkSotA8sg >}}
 
-{{< img alt="" src="http://2.bp.blogspot.com/-3PtiI6xegg4/Ve8kc-vbvGI/AAAAAAAACZ0/plak79_-DLk/s2048/Unknown.jpeg" >}}
+{{< picture alt="" src="http://2.bp.blogspot.com/-3PtiI6xegg4/Ve8kc-vbvGI/AAAAAAAACZ0/plak79_-DLk/s2048/Unknown.jpeg" >}}

@@ -5,7 +5,7 @@ categories = ["Reviews"]
 tags = ["food"]
 images = ["http://3.bp.blogspot.com/-amX4B6z6bBM/VH_u7e2JqGI/AAAAAAAABpo/Lvwkw1Duirg/s2048/IMG_0346.JPG"]
 +++
-{{< img alt="" src="http://3.bp.blogspot.com/-amX4B6z6bBM/VH_u7e2JqGI/AAAAAAAABpo/Lvwkw1Duirg/s2048/IMG_0346.JPG" >}}
+{{< picture alt="" src="http://3.bp.blogspot.com/-amX4B6z6bBM/VH_u7e2JqGI/AAAAAAAABpo/Lvwkw1Duirg/s2048/IMG_0346.JPG" >}}
 
 We have reached "Peak Blogger" in this society, folks. If the existence of Tobyblog was not proof of that already, take a look at the above picture. It was a cold, blustery Saturday afternoon and I was visiting nearby Arlington. It was around lunchtime and I had some time to kill, so I decided to walk over to the nearby strip mall and scope out the restaurants. There were a surprising number of cuisines on offer for such a small area, but this place caught my eye. [Brian Hammons](http://www.reviewtheworld.com/) had mentioned to me recently how his buddy Nick Van Bever is a fan of chicken strips and fries. I figured I'd do some recon for Nick, in case he ever makes his way down to Dallas.
 
@@ -13,25 +13,25 @@ We have reached "Peak Blogger" in this society, folks. If the existence of Tobyb
 
 As I was walking up I notice this guy standing out in front of the place taking pictures of the storefront with his DSLR camera, and I instantly recognized what was happening. I was being scooped! I have no idea who this guy was or what exactly he was doing, as I didn't care to introduce myself, but I'd like to imagine he was just another hipster blogger, and that half the people there that day were just working on their blogs. [Or maybe he was a reporter](https://www.dallasnews.com/food/2016/08/23/make-room-chick-fil-a-new-chicken-restaurant-expands-in-d-fw/). At any rate, it made everything I did from that point forward seem weird and superfluous, especially since he had a much better camera rig than mine, and was waaaay more forward about whipping it out to get shots of the employees and in-store signage and such, with all these closeups and weird angles and multiple shots. I figured it would be best not to draw attention to myself.
 
-{{< img alt="" src="http://2.bp.blogspot.com/-vi0HTYPVrtI/VH_tqlhYtJI/AAAAAAAABpc/x1yC3ACBSK0/s2048/IMG_0347.jpg" >}}
+{{< picture alt="" src="http://2.bp.blogspot.com/-vi0HTYPVrtI/VH_tqlhYtJI/AAAAAAAABpc/x1yC3ACBSK0/s2048/IMG_0347.jpg" >}}
 
 I don't know for sure, but I'd bet my pics are not quite as interesting as his.
 
-{{< img alt="" src="http://1.bp.blogspot.com/-Rei1w_0OewU/VH_tqsZ2saI/AAAAAAAABo0/YYt0DL1JckY/s2048/IMG_0348.jpg" >}}
+{{< picture alt="" src="http://1.bp.blogspot.com/-Rei1w_0OewU/VH_tqsZ2saI/AAAAAAAABo0/YYt0DL1JckY/s2048/IMG_0348.jpg" >}}
 
 The place was smallish, clean, and efficient. The prices were pretty decent. I got the 4 piece tender combo with fries, house dipping sauce, and a fresh-squeezed lemonade plus a frozen custard for dessert, which I assure you I did only for review purposes. It was cold that day! All of that for around $10, which as I said was not bad because the portions were easily generous enough to fill me up. 
 
 The lemonade was fresh squeezed and delicious, and left none of that film on the tongue that Chik-Fil-A's version is notorious for. 
 
-{{< img alt="" src="http://4.bp.blogspot.com/-b_yzOd_IeuQ/VH_traHUJdI/AAAAAAAABpA/7rJFfJShCdk/s2048/IMG_0349.jpg" >}}
+{{< picture alt="" src="http://4.bp.blogspot.com/-b_yzOd_IeuQ/VH_traHUJdI/AAAAAAAABpA/7rJFfJShCdk/s2048/IMG_0349.jpg" >}}
 
 The fries were like a weird hybrid that hit the sweet spot between McDonald's classic shoestring style and Arby's curly fries. They were delicious and had a great texture. The house dipping sauce (they offered several other traditional sauces) was similarly a mix between honey mustard and barbecue. It wasn't bad, but I wasn't really blown away by it. I stopped using it about five or six bites in. 
 
-{{< img alt="" src="http://1.bp.blogspot.com/-1RXNbEAvUUs/VH_trqqlQ2I/AAAAAAAABpE/aHeQunVg88w/s2048/IMG_0350.jpg" >}}
+{{< picture alt="" src="http://1.bp.blogspot.com/-1RXNbEAvUUs/VH_trqqlQ2I/AAAAAAAABpE/aHeQunVg88w/s2048/IMG_0350.jpg" >}}
 
 The chicken! Man, oh man, was that good stuff. Imagine the subtle battery coating of a Chik-Fil-A chicken tender, but with some sort of millimeter-thin invisible candy shell around it. I recall the effect being something similar to the waffle tenders at Popeye's. The chicken inside was consistently tender, moist, and flavorful. A+
 
-{{< img alt="" src="http://4.bp.blogspot.com/-STxGLPI1KG0/VH_tsMRVNpI/AAAAAAAABpI/gzSZ83YJUYY/s2048/IMG_0351.jpg" >}}
+{{< picture alt="" src="http://4.bp.blogspot.com/-STxGLPI1KG0/VH_tsMRVNpI/AAAAAAAABpI/gzSZ83YJUYY/s2048/IMG_0351.jpg" >}}
 
 Last of all I tried the custard. Lemon-meringue flavor. They offer a large variety of flavors, around 10 as I recall, but if you want a small cup with your meal you'll have to settle for one of the two flavors that they keep on hand, vanilla or lemon. To get one of their more exotic flavors you need to buy it by the pint. Although it was way too cold for frozen custard, I'm glad I decided to try it because they knocked it out of the park. So much better than soft serve, and I'm a huge fan of soft serve ice cream. Not only was the flavor rich and spot on (it tasted like they used Meyer lemons when making it), but they actually crumbled up bits of vanilla wafer in there that somehow managed to retain their crunchiness and individual flavor. So, so good.
 

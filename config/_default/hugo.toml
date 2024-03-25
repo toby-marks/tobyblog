@@ -1,5 +1,5 @@
 title = "~ The Tobyblog 📝"
-baseURL = "https://tobyblog.com/"
+baseURL = "//tobyblog.com"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = false
