@@ -19,6 +19,14 @@ blockquote p {
   font-style: italic !important;
 }
 
+figcaption {
+	font: 0.7rem "PT Serif Caption", cursive;
+	color: #eeeeee;
+	padding: 5px 0px;
+	color: rgba(auto,auto,auto,.5);
+	text-align: center;
+}
+
 /* Articles */
 
 .micropost {
@@ -37,9 +45,13 @@ blockquote p {
 
 .post, .page, .post-groups, .video {   
   background-color: rgb(33,19,11); 
+  max-width: 740px;
   padding: 20px;
-  max-width: 780px;
   margin: 40px auto;
+}
+
+.post > figure {
+  margin: 40px -20px;
 }
 
 .post > p, .page > p, .video > p {
