@@ -5,6 +5,6 @@ categories = ["Journal"]
 minipost = true
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1552144461/img/E0C070CB-7236-4E3F-A4D4-DA887152DB73.jpg"]
 +++
-{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1552144461/img/E0C070CB-7236-4E3F-A4D4-DA887152DB73.jpg" >}}
+{{< figure class= "wp-caption alignnone" alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1552144461/img/E0C070CB-7236-4E3F-A4D4-DA887152DB73.jpg" >}}
 
 Rise and shine, people. 

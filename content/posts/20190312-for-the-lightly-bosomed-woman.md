@@ -6,7 +6,7 @@ minipost = true
 tags = ["Pasadena","California","travel"]
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1552355838/img/57486611-8A6E-47AB-8CD0-2A4C024C8D1F.jpg"]
 +++
-{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1552355838/img/57486611-8A6E-47AB-8CD0-2A4C024C8D1F.jpg" >}}
+{{< figure class= "wp-caption alignnone" alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1552355838/img/57486611-8A6E-47AB-8CD0-2A4C024C8D1F.jpg" >}}
 
 I see what you did there, Flattery. And for the moderately bosomed woman? Out of luck, I suppose… 👙
 

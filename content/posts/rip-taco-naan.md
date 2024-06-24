@@ -9,7 +9,7 @@ tags = [""]
 
 Damn you, covid. And damn the lockdowns.
 
-{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1607180380/img/Screen_Shot_2020-12-03_at_5.11.58_PM.jpg" >}}
+{{< figure class= "wp-caption alignnone" alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1607180380/img/Screen_Shot_2020-12-03_at_5.11.58_PM.jpg" >}}
 
 Small businesses are an unaccounted for casualty of 2020. The vast majority cannot survive indefinite periods of marginal revenue due to generalized fear or service restrictions. The money that would have gone to them are instead funneled to large businesses and the mega-rich like Bezos. At least there has been some kickback with regards to people being put out of their homes because of an inability to pay rent (and that may change). But not much has been offered to small businesses except for loans — there is no serious talk of debt relief for them or for people put out of work by the virus. So the best case scenario is to emerge from a couple of years of reduced earnings with a mountain of crushing debt. 
 

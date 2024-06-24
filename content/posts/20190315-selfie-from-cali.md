@@ -6,7 +6,7 @@ tags = ["Pasadena","California","travel"]
 minipost = true
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1552689639/img/0A272D54-E957-4306-A48E-23424F70F28F.jpg"]
 +++
-{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1552689639/img/0A272D54-E957-4306-A48E-23424F70F28F.jpg" >}}
+{{< figure class= "wp-caption alignnone" alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1552689639/img/0A272D54-E957-4306-A48E-23424F70F28F.jpg" >}}
 
 That’s a wrap for this trip. It’s been fun trying a new hotel and exploring a different part of the city. Perhaps next time I’ll try to take in more of the cultural life. There’s always something going on in Pasadena.
 
