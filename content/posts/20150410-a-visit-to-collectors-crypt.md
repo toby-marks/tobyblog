@@ -21,9 +21,9 @@ Collector's Crypt is located not so much in a traditional storefront as in an ol
 
 As I stepped in the door I was greeted by a gnarled old butler who took my hat and coat as my eyes adjusted to the dim light of what I slowly realized was a **hall of dark wonders.**
 
-{{< figure class= "wp-caption alignnone" src="http://2.bp.blogspot.com/-oauvvNCubWs/VRbDPDZ__gI/AAAAAAAABz8/fpj89W9jc8Y/s2048/FullSizeRender%2B6.jpg" caption="&quot;The doctor is in.&quot;" >}}
+{{< figure class= "wp-caption alignnone" src="http://2.bp.blogspot.com/-oauvvNCubWs/VRbDPDZ__gI/AAAAAAAABz8/fpj89W9jc8Y/s2048/FullSizeRender%2B6.jpg" caption="The doctor is in." >}}
 
-{{< figure class= "wp-caption alignnone" src="http://1.bp.blogspot.com/-mbXqjTf7DRg/VRbDFPOJUhI/AAAAAAAABxQ/1Cpib5wWGWU/s2048/FullSizeRender%2B15.jpg" caption="&quot;I RECOMMEND… AMPUTATION!&quot;" >}}
+{{< figure class= "wp-caption alignnone" src="http://1.bp.blogspot.com/-mbXqjTf7DRg/VRbDFPOJUhI/AAAAAAAABxQ/1Cpib5wWGWU/s2048/FullSizeRender%2B15.jpg" caption="I RECOMMEND… AMPUTATION!" >}}
 
 My eyes were immediately drawn to the centerpiece of the room, and maybe even the whole store — an exquisitely carved, two foot resin model of Dr. Channard, the Johnny-come-lately Cenobite from Hellraiser II who somehow managed to kick the collective asses of all the established monsters in the movie. The detail on the piece is just incredible. You can hardly help gawking at it. I was doing just that when one of the friendly proprietresses noticed me. She introduced herself and explained that the piece comes with two interchangeable heads (one having a more placid, and one a more exercised expression) and is of the highest craftsmanship. She also gave me a little walkthrough of the store. I felt comfortable enough to ask her if I could snap some pictures, and she graciously allowed it.
 
@@ -147,10 +147,10 @@ Collector's Crypt is a spectacular place. There is nothing else even remotely li
 
 *GO!*
 
-{{< picture alt="" src="http://1.bp.blogspot.com/--l7W9jxGV9Y/VReIEq4-KDI/AAAAAAAAB6w/kAeDM7Me9tQ/s2048/77259c_c0c5d7dce0db40828b6997da652f2a36.jpg_srb_p_492_492_75_22_0.50_1.20_0.jpg" >}}
+{{< figure class= "wp-caption alignnone" alt="" src="http://1.bp.blogspot.com/--l7W9jxGV9Y/VReIEq4-KDI/AAAAAAAAB6w/kAeDM7Me9tQ/s2048/77259c_c0c5d7dce0db40828b6997da652f2a36.jpg_srb_p_492_492_75_22_0.50_1.20_0.jpg" >}}
 
 **CRAWL!**
 
-[{{< picture alt="" src="http://4.bp.blogspot.com/-e_nnCgkTpN8/VReKUaDddfI/AAAAAAAAB68/rhB7H511tUY/s2048/Screen%2BShot%2B2015-03-29%2Bat%2B12.14.36%2BAM.png" >}}](https://www.facebook.com/CollectorsCrypt/)
+[{{< figure class= "wp-caption alignnone" alt="" src="http://4.bp.blogspot.com/-e_nnCgkTpN8/VReKUaDddfI/AAAAAAAAB68/rhB7H511tUY/s2048/Screen%2BShot%2B2015-03-29%2Bat%2B12.14.36%2BAM.png" >}}](https://www.facebook.com/CollectorsCrypt/)
 
 ***LIKE!***

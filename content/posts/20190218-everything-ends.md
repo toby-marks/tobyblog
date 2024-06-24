@@ -8,4 +8,4 @@ images = ["/img/IMG_1698.JPG"]
 minipost = "true"
 +++
 
-{{< picture src="images/IMG_1698.jpg" >}}
+{{< figure src="images/IMG_1698.jpg" >}}

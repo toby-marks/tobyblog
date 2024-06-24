@@ -7,7 +7,7 @@ categories = ["Journal"]
 images = ["https://live.staticflickr.com/5706/23706289739_3ca2619b2a_k.jpg"]
 minipost = "true"
 +++
-[{{< picture alt="" src="https://live.staticflickr.com/5706/23706289739_3ca2619b2a_k.jpg" >}}](https://www.flickr.com/photos/tobyjmarks/sets/72157662813734772/)
+[{{< figure class= "wp-caption alignnone" alt="" src="https://live.staticflickr.com/5706/23706289739_3ca2619b2a_k.jpg" >}}](https://www.flickr.com/photos/tobyjmarks/sets/72157662813734772/)
 
 *You have unlocked secret bonus content!*
 

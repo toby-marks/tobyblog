@@ -6,7 +6,7 @@ categories = ["Journal"]
 images = ["https://live.staticflickr.com/65535/50764080916_a1f2d536bc_k.jpg"]
 minipost = "true"
 +++
-[{{< picture alt="" src="https://live.staticflickr.com/65535/50764080916_a1f2d536bc_k.jpg" >}}](https://www.flickr.com/photos/tobyjmarks/albums/72157717556840877/)
+[{{< figure class= "wp-caption alignnone" alt="" src="https://live.staticflickr.com/65535/50764080916_a1f2d536bc_k.jpg" >}}](https://www.flickr.com/photos/tobyjmarks/albums/72157717556840877/)
 
 This year was different. 
 

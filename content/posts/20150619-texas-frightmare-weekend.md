@@ -7,7 +7,7 @@ categories = ["Journal"]
 tags = ["Collector's Crypt","Dark Hour Haunted House","Halloween","conventions"]
 images = ["http://2.bp.blogspot.com/-Cf5LWcH-Ju8/VX2Z96oW_eI/AAAAAAAACGw/u6YmEVmlPlg/s2048/IMG_2778.jpg"]
 +++
-{{< picture alt="" src="http://2.bp.blogspot.com/-Cf5LWcH-Ju8/VX2Z96oW_eI/AAAAAAAACGw/u6YmEVmlPlg/s2048/IMG_2778.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://2.bp.blogspot.com/-Cf5LWcH-Ju8/VX2Z96oW_eI/AAAAAAAACGw/u6YmEVmlPlg/s2048/IMG_2778.jpg" >}}
 
 This year I attended Texas Frightmare Weekend for the first time. By now it seems like forever ago. But lucky you — I saved all the pictures! So here they are without much verbal adornment, or it'd probably take me another month and a half to get this up.
 
@@ -17,7 +17,7 @@ I suggest you **take your time** with this post. It's a big one. Really savor th
 
 And oh, by the way, I met that guy in the picture above. Father Evil. He's from New Jersey and travels the country attending all the big horror conventions. He was one of the first "cosplayers" I came across. [Check out his website.](http://www.fatherevil.com/)
 
-{{< picture alt="" src="http://3.bp.blogspot.com/-DN5mbQKZaNQ/VX2Z_H4uleI/AAAAAAAACJU/9JAxT2DzTFI/s2048/IMG_2780.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://3.bp.blogspot.com/-DN5mbQKZaNQ/VX2Z_H4uleI/AAAAAAAACJU/9JAxT2DzTFI/s2048/IMG_2780.jpg" >}}
 
 The line on the right was for Elvira. It's really incredible the crowds she draws. And I am told by my friends at [Collector's Crypt](http://www.collectors-crypt.com/#!about/cazn) that she is a genuinely nice person. I didn't meet her, though.
 
@@ -25,95 +25,95 @@ Incidentally — I have no celeb pictures. The costs were pretty outrageous and 
 
 Instead, enjoy some of those curious folks who like to dress up in costume and attend horror conventions.
 
-{{< picture alt="" src="http://1.bp.blogspot.com/-aN8Op7do390/VX2aAQgAcWI/AAAAAAAACJM/O0Z51BRo73Q/s2048/IMG_2791.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://1.bp.blogspot.com/-aN8Op7do390/VX2aAQgAcWI/AAAAAAAACJM/O0Z51BRo73Q/s2048/IMG_2791.jpg" >}}
 
-{{< picture alt="" src="http://1.bp.blogspot.com/-hJEqPj1kLIs/VX2aAXkJYzI/AAAAAAAACHk/LuI0_gu3wmc/s2048/IMG_2790.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://1.bp.blogspot.com/-hJEqPj1kLIs/VX2aAXkJYzI/AAAAAAAACHk/LuI0_gu3wmc/s2048/IMG_2790.jpg" >}}
 
-{{< picture alt="" src="http://2.bp.blogspot.com/-2rkvLtiEJ0w/VX2aH3X5fTI/AAAAAAAACKg/mi2SvCMk7ag/s2048/IMG_2823.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://2.bp.blogspot.com/-2rkvLtiEJ0w/VX2aH3X5fTI/AAAAAAAACKg/mi2SvCMk7ag/s2048/IMG_2823.jpg" >}}
 
-{{< picture alt="" src="http://1.bp.blogspot.com/-v3AU9QKcp10/VX2aH_wzzCI/AAAAAAAACLE/oHMnwqHQuVM/s2048/IMG_2824.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://1.bp.blogspot.com/-v3AU9QKcp10/VX2aH_wzzCI/AAAAAAAACLE/oHMnwqHQuVM/s2048/IMG_2824.jpg" >}}
 
 These guys were genuinely creepy. Played a nice accordion, though.
 
-{{< picture alt="" src="http://3.bp.blogspot.com/-r9YKUrmLSZ4/VX2aLf2pbdI/AAAAAAAACLk/-zyqTyNBPb8/s2048/IMG_2831.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://3.bp.blogspot.com/-r9YKUrmLSZ4/VX2aLf2pbdI/AAAAAAAACLk/-zyqTyNBPb8/s2048/IMG_2831.jpg" >}}
 
 The convention floor was packed, but still spacious enough that you had room to move around without too much difficulty. I was able to take my time at the many interesting dealer booths.
 
-{{< picture alt="" src="http://1.bp.blogspot.com/-VMWlyfmrNSU/VX2Z-lp4MDI/AAAAAAAACHA/7hFcl5pK6CU/s2048/IMG_2782.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://1.bp.blogspot.com/-VMWlyfmrNSU/VX2Z-lp4MDI/AAAAAAAACHA/7hFcl5pK6CU/s2048/IMG_2782.jpg" >}}
 
 This magnificent piece, among many others, was from the folks at Collector's Crypt. [Take a look at my recent blog]({{< ref "20150410-a-visit-to-collectors-crypt.md" >}}) about their store. Such a wonderful place. 
 
-{{< picture alt="" src="http://4.bp.blogspot.com/-_vjD_MCc41w/VX2ZpGj7Y7I/AAAAAAAACGs/sDXVDM4r0xo/s2048/IMG_2784.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://4.bp.blogspot.com/-_vjD_MCc41w/VX2ZpGj7Y7I/AAAAAAAACGs/sDXVDM4r0xo/s2048/IMG_2784.jpg" >}}
 
-{{< picture alt="" src="http://4.bp.blogspot.com/-9vzFzae_90k/VX2Z-xP2GyI/AAAAAAAACHM/KQ7kmelugrU/s2048/IMG_2785.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://4.bp.blogspot.com/-9vzFzae_90k/VX2Z-xP2GyI/AAAAAAAACHM/KQ7kmelugrU/s2048/IMG_2785.jpg" >}}
 
-{{< picture alt="" src="http://4.bp.blogspot.com/-LUsnuCSJfvE/VX2Z_fv0MqI/AAAAAAAACHU/z7gZ1N5WRyk/s2048/IMG_2787.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://4.bp.blogspot.com/-LUsnuCSJfvE/VX2Z_fv0MqI/AAAAAAAACHU/z7gZ1N5WRyk/s2048/IMG_2787.jpg" >}}
 
 A creep from one of my favorite places, [Dark Hour Haunted House.](http://darkhourhauntedhouse.com/)
 
-{{< picture alt="" src="http://1.bp.blogspot.com/-Sp8Qu0qbDPg/VX2aALQ_hCI/AAAAAAAACJQ/MneAJcpi5zA/s2048/IMG_2789.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://1.bp.blogspot.com/-Sp8Qu0qbDPg/VX2aALQ_hCI/AAAAAAAACJQ/MneAJcpi5zA/s2048/IMG_2789.jpg" >}}
 
 Oddities of all sorts abounded, for sure.
 
-{{< picture alt="" src="http://2.bp.blogspot.com/-a-zu-DCsTtI/VX2aLK0guzI/AAAAAAAACLU/E856DkvLRMc/s2048/IMG_2833.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://2.bp.blogspot.com/-a-zu-DCsTtI/VX2aLK0guzI/AAAAAAAACLU/E856DkvLRMc/s2048/IMG_2833.jpg" >}}
 
-{{< picture alt="" src="http://2.bp.blogspot.com/-ypk-e1RF7es/VX2aLfiW9zI/AAAAAAAACLY/1IAYOAhTk84/s2048/IMG_2834.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://2.bp.blogspot.com/-ypk-e1RF7es/VX2aLfiW9zI/AAAAAAAACLY/1IAYOAhTk84/s2048/IMG_2834.jpg" >}}
 
 From a curious book called "South Texas Legends" that I should have bought as a gift for my wife, in retrospect. Not too late!
 
-{{< picture alt="" src="http://4.bp.blogspot.com/-vs_kUTlCsZ0/VX2aMLNaXvI/AAAAAAAACL8/k28V0egb-uk/s2048/IMG_2835.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://4.bp.blogspot.com/-vs_kUTlCsZ0/VX2aMLNaXvI/AAAAAAAACL8/k28V0egb-uk/s2048/IMG_2835.jpg" >}}
 
 Although I had all evening to look around and play, unbelievably I ran out of time before getting a chance to explore the dark art exhibit. TFW is a huge show. The picture above is from an art dealer's booth on the main floor. 
 
-{{< picture alt="" src="http://4.bp.blogspot.com/-odqrGAnYVp0/VX2aIc4D_mI/AAAAAAAACK4/inAF_74qfB4/s2048/IMG_2825.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://4.bp.blogspot.com/-odqrGAnYVp0/VX2aIc4D_mI/AAAAAAAACK4/inAF_74qfB4/s2048/IMG_2825.jpg" >}}
 
 *[The Pyramid Gallery](http://www.pyramid-gallery.com/)*
 
 Easily one of my favorite dealers from the show. This guy's workmanship is just incredible. So singular are his replicas, in fact, that I had already discovered them by reputation on the internet some time ago. I was pleased to get a chance to see his little gallery in person. And his pieces are *impressive.* Worth every penny.
 
-{{< picture alt="" src="http://1.bp.blogspot.com/-bwKdoFcndbk/VX2aI8zlmRI/AAAAAAAACKo/_2vjz08QMBQ/s2048/IMG_2826.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://1.bp.blogspot.com/-bwKdoFcndbk/VX2aI8zlmRI/AAAAAAAACKo/_2vjz08QMBQ/s2048/IMG_2826.jpg" >}}
 
-{{< picture alt="" src="http://4.bp.blogspot.com/-E3v4W_cyNuY/VX2aJA7eFxI/AAAAAAAACK0/EZHN_cTuHg8/s2048/IMG_2827.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://4.bp.blogspot.com/-E3v4W_cyNuY/VX2aJA7eFxI/AAAAAAAACK0/EZHN_cTuHg8/s2048/IMG_2827.jpg" >}}
 
-{{< picture alt="" src="http://2.bp.blogspot.com/-ukMFJ1DbN8M/VX2aJugBr8I/AAAAAAAACK8/aZ1nYiU6p34/s2048/IMG_2828.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://2.bp.blogspot.com/-ukMFJ1DbN8M/VX2aJugBr8I/AAAAAAAACK8/aZ1nYiU6p34/s2048/IMG_2828.jpg" >}}
 
 The pictures below are from an unknown dealer in punks and oddities. Had I not already spent my allotted budget by then, I surely would have picked up something from this table.
 
-{{< picture alt="" src="http://3.bp.blogspot.com/-GAQnKPd8qh4/VX2aA3I2WRI/AAAAAAAACJI/wtL4VjEgX_g/s2048/IMG_2792.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://3.bp.blogspot.com/-GAQnKPd8qh4/VX2aA3I2WRI/AAAAAAAACJI/wtL4VjEgX_g/s2048/IMG_2792.jpg" >}}
 
-{{< picture alt="" src="http://1.bp.blogspot.com/-nwi6_ESLy7M/VX2aBKsWubI/AAAAAAAACH4/v3jZ_gSmMGw/s2048/IMG_2793.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://1.bp.blogspot.com/-nwi6_ESLy7M/VX2aBKsWubI/AAAAAAAACH4/v3jZ_gSmMGw/s2048/IMG_2793.jpg" >}}
 
-{{< picture alt="" src="http://2.bp.blogspot.com/-m2ahjVeVFZQ/VX2aBe9fdAI/AAAAAAAACH8/hYlOR_xQmD8/s2048/IMG_2794.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://2.bp.blogspot.com/-m2ahjVeVFZQ/VX2aBe9fdAI/AAAAAAAACH8/hYlOR_xQmD8/s2048/IMG_2794.jpg" >}}
 
-{{< picture alt="" src="http://4.bp.blogspot.com/-4Tthwhoeuz0/VX2aBS-gGsI/AAAAAAAACJE/G9W8RUpYnF4/s2048/IMG_2795.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://4.bp.blogspot.com/-4Tthwhoeuz0/VX2aBS-gGsI/AAAAAAAACJE/G9W8RUpYnF4/s2048/IMG_2795.jpg" >}}
 
-{{< picture alt="" src="http://2.bp.blogspot.com/-GXDgPwikqtM/VX2aBwxGIzI/AAAAAAAACIE/iQCLqfUvlxg/s2048/IMG_2796.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://2.bp.blogspot.com/-GXDgPwikqtM/VX2aBwxGIzI/AAAAAAAACIE/iQCLqfUvlxg/s2048/IMG_2796.jpg" >}}
 
-{{< picture alt="" src="http://2.bp.blogspot.com/-0Ee50nz9IJk/VX2aCKS0N7I/AAAAAAAACIM/M-O-LhwdecY/s2048/IMG_2798.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://2.bp.blogspot.com/-0Ee50nz9IJk/VX2aCKS0N7I/AAAAAAAACIM/M-O-LhwdecY/s2048/IMG_2798.jpg" >}}
 
-{{< picture alt="" src="http://3.bp.blogspot.com/-nfl1-GvqdeY/VX2aCaci0YI/AAAAAAAACIc/vX5awx_Dm-s/s2048/IMG_2799.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://3.bp.blogspot.com/-nfl1-GvqdeY/VX2aCaci0YI/AAAAAAAACIc/vX5awx_Dm-s/s2048/IMG_2799.jpg" >}}
 
 Reminds me of the old king's ring from The Beastmaster.
 
-{{< picture alt="" src="http://4.bp.blogspot.com/-mpRLyxDaUp8/VX2aCUBFmmI/AAAAAAAACJA/p6J32TQ0V4o/s2048/IMG_2800.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://4.bp.blogspot.com/-mpRLyxDaUp8/VX2aCUBFmmI/AAAAAAAACJA/p6J32TQ0V4o/s2048/IMG_2800.jpg" >}}
 
 A parrot's head. Why?
 
-{{< picture alt="" src="http://2.bp.blogspot.com/-fIsfDdoHQjY/VX2aC_9HMYI/AAAAAAAACIk/VHE6Y9bkDVk/s2048/IMG_2801.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://2.bp.blogspot.com/-fIsfDdoHQjY/VX2aC_9HMYI/AAAAAAAACIk/VHE6Y9bkDVk/s2048/IMG_2801.jpg" >}}
 
-{{< picture alt="" src="http://2.bp.blogspot.com/-b3zGfHh0aMQ/VX2aDF0QDuI/AAAAAAAACI0/xZdGjLEZVis/s2048/IMG_2804.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://2.bp.blogspot.com/-b3zGfHh0aMQ/VX2aDF0QDuI/AAAAAAAACI0/xZdGjLEZVis/s2048/IMG_2804.jpg" >}}
 
-{{< picture alt="" src="http://4.bp.blogspot.com/-ad4DHySr4qc/VX2aDTGVW1I/AAAAAAAACIw/Z9Lv8UiPqRM/s2048/IMG_2805.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://4.bp.blogspot.com/-ad4DHySr4qc/VX2aDTGVW1I/AAAAAAAACIw/Z9Lv8UiPqRM/s2048/IMG_2805.jpg" >}}
 
-{{< picture alt="" src="http://1.bp.blogspot.com/-WeTucZG1vUA/VX2aDkvU6kI/AAAAAAAACI4/_pTSguoQwYc/s2048/IMG_2806.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://1.bp.blogspot.com/-WeTucZG1vUA/VX2aDkvU6kI/AAAAAAAACI4/_pTSguoQwYc/s2048/IMG_2806.jpg" >}}
 
 There were *lots* of bats.
 
-{{< picture alt="" src="http://3.bp.blogspot.com/-PH1E9MDpNSg/VX2aD1JVB4I/AAAAAAAACI8/HikzEOVHOs4/s2048/IMG_2807.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://3.bp.blogspot.com/-PH1E9MDpNSg/VX2aD1JVB4I/AAAAAAAACI8/HikzEOVHOs4/s2048/IMG_2807.jpg" >}}
 
 ...*and pickled animals of assorted descriptions.*
 
-{{< picture alt="" src="http://3.bp.blogspot.com/-NKKrhis-p20/VX2aFoZps8I/AAAAAAAACJ4/wj7i-OEiioo/s2048/IMG_2811.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://3.bp.blogspot.com/-NKKrhis-p20/VX2aFoZps8I/AAAAAAAACJ4/wj7i-OEiioo/s2048/IMG_2811.jpg" >}}
 
 *[The Texas Triffid Ranch](http://www.txtriffidranch.com/)*
 
@@ -123,31 +123,31 @@ But was he high?
 
 My buddy seemed to think so, but I didn't get that to be honest.
 
-{{< picture alt="" src="http://1.bp.blogspot.com/-ZNdAcC62oys/VYTgJHQIvfI/AAAAAAAACMw/kfdfAt-h-2U/s2048/DSC04371.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://1.bp.blogspot.com/-ZNdAcC62oys/VYTgJHQIvfI/AAAAAAAACMw/kfdfAt-h-2U/s2048/DSC04371.jpg" >}}
 
 I tell you, if they sold this as a t-shirt I'd buy ten of them.
 
-{{< picture alt="" src="http://4.bp.blogspot.com/-9ETw93gNCaM/VX2aFQ37IOI/AAAAAAAACJk/2c65HXK8hTI/s2048/IMG_2812.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://4.bp.blogspot.com/-9ETw93gNCaM/VX2aFQ37IOI/AAAAAAAACJk/2c65HXK8hTI/s2048/IMG_2812.jpg" >}}
 
-{{< picture alt="" src="http://4.bp.blogspot.com/-5_LGTMcOpi0/VX2aFoBk8KI/AAAAAAAACJo/ft7_hpXGOmg/s2048/IMG_2814.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://4.bp.blogspot.com/-5_LGTMcOpi0/VX2aFoBk8KI/AAAAAAAACJo/ft7_hpXGOmg/s2048/IMG_2814.jpg" >}}
 
-{{< picture alt="" src="http://1.bp.blogspot.com/-WBHi-V98WIU/VX2aGU1W1II/AAAAAAAACKI/_-AnutyW_DI/s2048/IMG_2815.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://1.bp.blogspot.com/-WBHi-V98WIU/VX2aGU1W1II/AAAAAAAACKI/_-AnutyW_DI/s2048/IMG_2815.jpg" >}}
 
-{{< picture alt="" src="http://3.bp.blogspot.com/-meRGf82yzOE/VX2aGX1D1sI/AAAAAAAACKE/avNAk955KYk/s2048/IMG_2817.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://3.bp.blogspot.com/-meRGf82yzOE/VX2aGX1D1sI/AAAAAAAACKE/avNAk955KYk/s2048/IMG_2817.jpg" >}}
 
-{{< picture alt="" src="http://3.bp.blogspot.com/-rJVX8vGa_3s/VX2aGn8EDYI/AAAAAAAACJ8/tB9c0ghvzUU/s2048/IMG_2819.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://3.bp.blogspot.com/-rJVX8vGa_3s/VX2aGn8EDYI/AAAAAAAACJ8/tB9c0ghvzUU/s2048/IMG_2819.jpg" >}}
 
-{{< picture alt="" src="http://4.bp.blogspot.com/-mY9T3WZB1Zg/VX2aHRdwnnI/AAAAAAAACKQ/nqDoH1LCVqA/s2048/IMG_2820.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://4.bp.blogspot.com/-mY9T3WZB1Zg/VX2aHRdwnnI/AAAAAAAACKQ/nqDoH1LCVqA/s2048/IMG_2820.jpg" >}}
 
-{{< picture alt="" src="http://2.bp.blogspot.com/-piTA5eSd26E/VX2aJhBghcI/AAAAAAAACLA/4Ul1pfLmt8A/s2048/IMG_2830.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://2.bp.blogspot.com/-piTA5eSd26E/VX2aJhBghcI/AAAAAAAACLA/4Ul1pfLmt8A/s2048/IMG_2830.jpg" >}}
 
 Later that night it was time for the "Phantasm Ball" that I wrote about in my [Phantasm Screening blog]({{< ref "20150610-screening-phantasm-with-the-tall-man.md" >}}). Although I didn't get to see Phantasm stars Reggie Bannister and Bill Thornbury perform their classic song Sittin' Here at Midnight from the movie, I *did* get to see Freddie and Jason getting down on the dance floor, so there's that.
 
-{{< picture alt="" src="http://2.bp.blogspot.com/-LuY1-Yx8LBU/VX2aMDFm2qI/AAAAAAAACLo/4RX2kQYxYhg/s2048/IMG_2836.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://2.bp.blogspot.com/-LuY1-Yx8LBU/VX2aMDFm2qI/AAAAAAAACLo/4RX2kQYxYhg/s2048/IMG_2836.jpg" >}}
 
-{{< picture alt="" src="http://2.bp.blogspot.com/-ISPwCVyYP1s/VX2aMc_s96I/AAAAAAAACLw/mI2EbZlno14/s2048/IMG_2843.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://2.bp.blogspot.com/-ISPwCVyYP1s/VX2aMc_s96I/AAAAAAAACLw/mI2EbZlno14/s2048/IMG_2843.jpg" >}}
 
-{{< picture alt="" src="http://3.bp.blogspot.com/-kXMjrDtLREE/VX2aNCFVVcI/AAAAAAAACL4/otE4-dbYwSY/s2048/IMG_2848.jpg" >}}
+{{< figure class="wp-caption alignnone" alt="" src="http://3.bp.blogspot.com/-kXMjrDtLREE/VX2aNCFVVcI/AAAAAAAACL4/otE4-dbYwSY/s2048/IMG_2848.jpg" >}}
 
 Here's to [Texas Frightmare Weekend!](http://www.texasfrightmareweekend.com/) It'll be interesting to see what 2016 is like, as I heard it's set to take place the week after Wrestlemania. 
 

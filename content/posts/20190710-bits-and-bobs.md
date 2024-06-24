@@ -6,7 +6,7 @@ categories = ["Journal"]
 tags = ["Pasadena","California","travel","food"]
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1562790874/img/IMG_3630.jpg"]
 +++
-{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1562790874/img/IMG_3630.jpg" >}}
+{{< figure class= "wp-caption alignnone" alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1562790874/img/IMG_3630.jpg" >}}
 
 I made a promise to myself that I would never waste time on this blog apologizing for sporadic posting. So instead of doing that, I think I'll do that other thing where I throw a few pictures at you and catch you up on recent developments.
 <!--more-->
@@ -29,25 +29,25 @@ Also, as a side note — Groupon "deals" are nothing of the sort. Don't think yo
 
 I'm excited about all this. Who knows? Maybe it'll pay off. 
 
-{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1562790875/img/IMG_3617.jpg" >}}
+{{< figure class= "wp-caption alignnone" alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1562790875/img/IMG_3617.jpg" >}}
 
 Look at this crazy crap Kassi and I ran into on the way home after an evening run. We assumed it was a caterpillar, cocooning itself to begin its metamorphosis into some beautiful, or even pedestrian, butterfly. We were wrong.
 
-{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1562790874/img/IMG_3625.jpg" >}}
+{{< figure class= "wp-caption alignnone" alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1562790874/img/IMG_3625.jpg" >}}
 
 The nearby juniper bush was littered with those things. There must have been hundreds, all along the trunk and covering every branch.
 
-{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1562790874/img/IMG_3623.jpg" >}}
+{{< figure class= "wp-caption alignnone" alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1562790874/img/IMG_3623.jpg" >}}
 
 It looked like they were using dead juniper leaves to somehow coat the outside of their cocoon. Not sure how that works. The little sacs were jiggling on the branches. After looking at them for a few seconds, it kind of turned your stomach. Turns out they're some kind of harmful parasite that kills juniper trees, and that one was surely dead, as infested as it was. They turn into moths, not butterflies. 
 
 So much for the nature show.
 
-{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1562790874/img/IMG_3641.jpg" >}}
+{{< figure class= "wp-caption alignnone" alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1562790874/img/IMG_3641.jpg" >}}
 
 Back home we ended with a scrumptious dinner of white fish and brussels sprouts. I've become a huge fan of brussels sprouts since my dinner at [Sage in Pasadena]({{< ref "20190419-three-new-pasadena-restaurants.md" >}}), and these were likewise delicious. 
 
-{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1562790874/img/IMG_3633.jpg" >}}
+{{< figure class= "wp-caption alignnone" alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1562790874/img/IMG_3633.jpg" >}}
 
 Afterwards I whipped up a coconut daiquiri for Kassi, served on the half shell. I believe it was her first. And not bad, if I do say so myself. Here she is asking me to please not show our dirty dishes. I told her I'd edit that bit out, but I guess my skills are not up to par yet. Oh well.
 
