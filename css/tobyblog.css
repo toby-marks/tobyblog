@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
+
 /* Page */
 
 body {
-  font: 16px/22px "STIX Two Text", Palatino, Georgia, Garamond, "Big Caslon", "Times New Roman", serif;
+  font: 16px/22px "Lora", Palatino, Georgia, Garamond, "Big Caslon", "Times New Roman", serif;
 /*  background-color: rgb(33,19,11); */
   background: black url("/img/field.jpg") no-repeat fixed top left; 
   background-size: cover; 
@@ -20,7 +22,7 @@ blockquote p {
 }
 
 figcaption {
-	font: 0.7rem "PT Serif Caption", cursive;
+	font: 1rem "Impact", sans serif;
 	color: #eeeeee;
 	padding: 5px 0px;
 	color: rgba(auto,auto,auto,.5);
@@ -31,33 +33,43 @@ figcaption {
 
 .micropost {
   background-color: rgba(215, 225, 242, 0.75); 
+  max-width: 780px;
+  padding: 0.5em 0;
 }
 
 .micropost a {
   color: #333;
 }
 
-.micropost > p {
+.micropost p, .micropost h1, .micropost h2, .micropost h3, .micropost h4, .micropost aside {
   font-size: inherit;
   line-height: inherit;
   text-align: left;
+  margin: 0.5em 40px;
+}
+
+.micropost > picture > img, .post > picture > img {
+  max-width: calc(100%);
+  margin: 0px 0px;
+}
+
+.micropost > p > img, .post > p > img {
+  max-width: calc(100% = 80px);
+  margin: 0px -40px;
 }
 
 .post, .page, .post-groups, .video {   
   background-color: rgb(33,19,11); 
-  max-width: 740px;
-  padding: 20px;
-  margin: 40px auto;
+  max-width: 780px;
+  padding: 20px 0;
+  margin: 0px auto;
 }
 
-.post > figure {
-  margin: 40px -20px;
-}
-
-.post > p, .page > p, .video > p {
+.post p, .page p, .video p {
   font-size: inherit;
   line-height: inherit;
   color: rgb(211,162,8);
+  margin: 20px 40px;
   text-align: left;
 }
 
@@ -76,6 +88,7 @@ article.photo a {
 
 article.photo img {
   margin-top: -150px;
+  margin-left: 0;
 }
 
 article.photo img[alt="Lovebirds"] {
@@ -112,7 +125,8 @@ article.photo img[alt="Oracle Headquarters"] {
 
 img {
 	height: auto;
-	max-width: 100%;
+	max-width: calc(100% + 80px);
+	margin: 0 -40px;
 }
 
 img, picture {
