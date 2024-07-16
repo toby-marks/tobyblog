@@ -31,6 +31,10 @@ figcaption {
 
 /* Articles */
 
+article h1, article h2, article h3, article h4, article .postmeta {
+  padding-left: 20px;
+}
+
 .micropost {
   background-color: rgba(215, 225, 242, 0.75); 
   max-width: 780px;
@@ -45,6 +49,12 @@ figcaption {
   font-size: inherit;
   line-height: inherit;
   text-align: left;
+}
+
+.micropost h1, .micropost aside {
+  margin: 0 20px;
+}
+.micropost p {
   margin: 0.5em 40px;
 }
 
@@ -61,7 +71,7 @@ figcaption {
 .post, .page, .post-groups, .video {   
   background-color: rgb(33,19,11); 
   max-width: 780px;
-  padding: 20px 0;
+  padding: 20px 0px;
   margin: 0px auto;
 }
 
@@ -78,12 +88,13 @@ article.photo {
 }
 
 article.photo .title {
-  background-color: rgba(215, 225, 242, 0.75); 
+  background-color: rgba(126,71,9,0.6); 
   font-weight: bold;
+  line-height: 2rem;
 }
 
 article.photo a {
-  color: #666;
+  color: rgba(239,211,32,0.6);
 }
 
 article.photo img {
@@ -157,5 +168,17 @@ and (max-width: 780px) {
 
   .post, .page, .post-groups {
     margin: 0;
+  }
+  
+  article {
+    margin: 10px 0;
+    padding: 0;
+  }
+  article.photo {
+    margin-top: 10px;
+    margin-bottom: -90px;
+  }
+  article.photo img {
+    height: 400px;
   }
 }
