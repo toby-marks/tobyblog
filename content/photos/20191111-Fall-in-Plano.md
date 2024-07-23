@@ -55,4 +55,4 @@ Pictures from a fall walk along the Chisholm Trail in Plano, Texas with Kassi an
 
 {{< picture alt="Bridge" src="https://live.staticflickr.com/65535/49051416918_410cefeeb9_k.jpg" >}}
 
-{{< picture process="fill 780x402" lqip="780x webp q90" alt="Stone" src="https://live.staticflickr.com/65535/49051925406_5d2fc62ac9_k.jpg" >}}
+{{< picture alt="Stone" src="https://live.staticflickr.com/65535/49051925406_5d2fc62ac9_k.jpg" >}}

@@ -10,7 +10,7 @@ The morning started out with a trip to the Trinity Trails in Wylie, Texas for so
 
 There was a little marina at the trailhead.
 
-{{< figure process="fill 1040x780" lqip="1040x webp q90" src="http://1.bp.blogspot.com/-Ndc6OU8p1_s/U5zURuTgYDI/AAAAAAAAAaU/XaWaY5wtPtY/s2048/IMG_1051.jpg" >}}
+{{< figure src="http://1.bp.blogspot.com/-Ndc6OU8p1_s/U5zURuTgYDI/AAAAAAAAAaU/XaWaY5wtPtY/s2048/IMG_1051.jpg" >}}
 
 <!--more-->
 

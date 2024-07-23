@@ -4,6 +4,6 @@ title = "Arbor Hills Switchback"
 
 +++
 
-{{< picture process="fill 780x334" lqip="780x webp q90" 
+{{< picture 
         src="https://live.staticflickr.com/65535/49014177622_4ac2290781_6k.jpg" 
         alt="Arbor Hills in Plano" >}}

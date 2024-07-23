@@ -25,8 +25,8 @@
   "author": "Toby Marks",
   "license": "ISC",
   "dependencies": {
-    "@hyas/images": "^3.1.0",
+    "@hyas/images": "^3.2.0",
     "exec-bin": "^1.0.0",
-    "gethyas": "^2.2.2"
+    "gethyas": "^2.4.2"
   }
 }
