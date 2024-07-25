@@ -12,18 +12,16 @@
     
     <title>Pasadena Tour &middot; @tobyblog’s ~ The Tobyblog 📝</title>
 
-	<script type="text/javascript" src="https://cdn.jsdelivr.net/jquery/2.2.0/jquery.min.js"></script>
-
-	<script type="text/javascript" src="https://tobyblog.com/unitegallery/js/unitegallery.min.js" type="text/javascript"></script> 
+	<script type="text/javascript" src="/unitegallery/js/jquery-11.0.min.js"></script>
+	<script type="text/javascript" src="/unitegallery/js/unitegallery.min.js" type="text/javascript"></script> 
 	
-	<link rel="stylesheet" href="https://tobyblog.com/unitegallery/css/unite-gallery.css" type="text/css" /> 
-	<script type="text/javascript" src="https://tobyblog.com/unitegallery/themes/tiles/ug-theme-tiles.js" type="text/javascript"></script> 
-	<link rel="stylesheet" href="https://tobyblog.com/unitegallery/themes/default/ug-theme-default.css" type="text/css" /> 
+	<link rel="stylesheet" href="/unitegallery/css/unite-gallery.css" type="text/css" /> 
+	<script type="text/javascript" src="/unitegallery/themes/tiles/ug-theme-tiles.js" type="text/javascript"></script> 
+	<link rel="stylesheet" href="/unitegallery/themes/default/ug-theme-default.css" type="text/css" /> 
 
-    <link rel="stylesheet" href="https://tobyblog.com/css/weblog.css" media="screen" charset="utf-8" />
-    <link rel="stylesheet" href="https://tobyblog.com/css/tobyblog.css" media="screen" charset="utf-8" />
+    <link rel="stylesheet" href="/css/weblog.css" media="screen" charset="utf-8" />
     
-    <link rel="stylesheet" href="https://tobyblog.com/css/tobyblog.css" media="screen" charset="utf-8" />
+    <link rel="stylesheet" href="/css/tobyblog.css" media="screen" charset="utf-8" />
 
 
     
@@ -95,7 +93,7 @@
         <img src="https://live.staticflickr.com/65535/48426390296_fa22e073bb_k.jpg">
 <p>Although it was a standard work week for the both of us, we made the best of the Old Town nightlife. One evening as we walked home we witnessed an accident in the street, and I took the opportunity to do some journalistic photography. I enjoy that. Pretty much the only time I indulge in &ldquo;people watching&rdquo;, as they say. The Pasadena food is out of this world, but I&rsquo;m sure by now you already knew that. We did it up bigger than ever, with visits to Roys Hawaiian Fusion, Sage, Santorini&rsquo;s Italian Bistro, and The Mixx, where we caught an amazing cover band called <a href="http://jumpcity.rocks">Jump City</a> that gave us a wonderful night&rsquo;s entertainment. And that was probably the most I ever drank while out.</p>
 <p>I&rsquo;m gonna miss Pasadena.</p>
-<div id="gallery"><img alt="IMG_3765" src="https://live.staticflickr.com/65535/48426385116_608d58c5fc.jpg"
+<div id="gallery" style="display:none;"><img alt="IMG_3765" src="https://live.staticflickr.com/65535/48426385116_608d58c5fc.jpg"
 data-image="https://live.staticflickr.com/65535/48426385116_0aedaef32c_k.jpg">
 <img alt="DSCN1962" src="https://live.staticflickr.com/65535/48426387631_3b2166fd3b.jpg"
 data-image="https://live.staticflickr.com/65535/48426387631_8734ad9a27_k.jpg">
@@ -145,17 +143,25 @@ data-image="https://live.staticflickr.com/65535/48426390011_331477b312_k.jpg">
 data-image="https://live.staticflickr.com/65535/48426528667_7a345cda5b_k.jpg">
 <img alt="IMG_3766" src="https://live.staticflickr.com/65535/48426528977_0801d5e997.jpg"
 data-image="https://live.staticflickr.com/65535/48426528977_16d4b59f79_k.jpg"></div>
+<script type="text/javascript">
+	jQuery(document).ready(function(){ 
+		$("#gallery").unitegallery({
+			tiles_type:"nested",
+			tiles_nested_optimal_tile_width: 275
+		}); 
+	}); 
+</script>
       </p>
     </article>
   </main>
 
 <script type="text/javascript">
-	jQuery(document).ready(function(){ 
-		$("#gallery").unitegallery({
-			tiles_type:"nested",
-			tiles_nested_optimal_tile_width: 350
-		}); 
-	}); 
+	jQuery(document).ready(function(){
+		jQuery("#gallery").unitegallery({
+			gallery_theme: "tiles",
+			tiles_type: "nested"						
+		});
+	});
 </script>
 
 <footer>
@@ -183,8 +189,8 @@ data-image="https://live.staticflickr.com/65535/48426528977_16d4b59f79_k.jpg"></
   
 </footer>
 
-  
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.2.14/js/lightgallery-all.min.js" charset="utf-8"></script>
+    
+    
     <script src="/js/weblog.js" charset="utf-8"></script>
     
 
@@ -201,6 +207,7 @@ data-image="https://live.staticflickr.com/65535/48426528977_16d4b59f79_k.jpg"></
 </script>
 
     
+
 <script>
   if (window.netlifyIdentity) {
     window.netlifyIdentity.on("init", user => {

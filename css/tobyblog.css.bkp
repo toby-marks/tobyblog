@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
+
+/* Page */
+
+body {
+  font: 16px/22px "Lora", Palatino, Georgia, Garamond, "Big Caslon", "Times New Roman", serif;
+/*  background-color: rgb(33,19,11); */
+  background: black url("/img/field.jpg") no-repeat fixed top left; 
+  background-size: cover; 
+}
+
+a[href] {
+	color: rgb(204,216,133);
+}
+
+blockquote {
+  background-color: rgb(37,31,35);
+}
+
+blockquote p {
+  font-style: italic !important;
+}
+
+figcaption {
+	font: 1rem "Impact", sans serif;
+	padding: 5px 0px;
+	color: orange;
+	text-align: center;
+}
+
+/* Articles */
+
+article.post h1,
+article.post h2,
+article.post h3,
+article.post h4,
+article.micropost h1,
+article.micropost h2,
+article.micropost h3,
+article.micropost h4,
+article.video h1,
+article.video h2,
+article.video h3,
+article.video h4,
+article.photo h1,
+article.photo h2,
+article.photo h3,
+article.photo h4,
+div.postmeta,
+a.continue
+ {
+  margin: 0 20px;
+}
+
+.micropost {
+  background-color: rgba(215, 225, 242, 0.75); 
+  max-width: 512px;
+  padding: 0.5em 0;
+}
+
+.micropost a {
+  color: #333;
+}
+
+.micropost p, .micropost h1, .micropost h2, .micropost h3, .micropost h4, .micropost aside {
+  font-size: inherit;
+  line-height: inherit;
+  text-align: left;
+}
+
+.micropost h1, .micropost h2, .micropost h3, .micropost h4, .micropost aside {
+  margin: 20px 15px 5px 15px;
+}
+.micropost p {
+  margin: 0.5em 20px;
+}
+
+.micropost > picture > img, .post > picture > img {
+  width: calc(100%);
+  margin: 0px 0px;
+}
+
+.micropost > p > img, .post > p > img {
+  max-width: calc(100% + 80px);
+  margin: 0px -40px;
+}
+
+.post, .page, .post-groups, .video {   
+  background-color: rgb(33,19,11); 
+  max-width: 1024px;
+  padding: 20px 0px;
+  margin: 0px auto;
+}
+
+.post p, .page p, .video p {
+  font-size: inherit;
+  line-height: inherit;
+  color: rgb(211,162,8);
+  margin: 20px 40px;
+  text-align: left;
+}
+
+article.photo {
+  margin: 0 auto;
+  padding-top: 20px;
+  margin-bottom: 20px;
+  max-width: 1024px;
+}
+
+article.photo .title {
+  background-color: rgba(126,71,9,0.6); 
+  font-weight: bold;
+  line-height: 2rem;
+}
+
+article.photo a {
+  color: rgba(239,211,32,0.6);
+}
+
+article.photo img {
+  margin-left: 0;
+    margin-top: calc(300px - 70%);
+}
+
+article.photo img[alt="A little dog having fun in the park"] {
+  margin-top: -25%;
+}
+article.photo img[alt="Lovebirds"] {
+  margin-top: -300px;
+}
+article.photo img[alt="Futuristic Billboard Wall"] {
+  margin-top: -725px;
+}
+article.photo img[alt="Backlit Flower"] {
+  margin-top: -325px;
+}
+article.photo img[alt="Old Woman"] {
+  margin-top: -400px;
+}
+article.photo img[alt="@Kassiblog"] {
+  margin-top: -450px;
+}
+article.photo img[alt="DowntownFever"] {
+  margin-top: -100px;
+}
+article.photo img[alt="Oracle Headquarters"] {
+  margin-top: -400px;
+}
+
+.post-group-item:hover {
+  background-color: rgb(33,19,11); 
+}
+
+img {
+	height: auto;
+	max-width: calc(100% + 80px);
+	margin: 0 -40px;
+}
+
+img, picture {
+	font-size: 0;
+}
+
+div#photos img {
+  margin: 0 auto;
+}
+
+@media screen
+and (max-width: 780px) {
+
+  nav ul {
+    margin: 10px 0 30px 0;
+    padding: 0;
+    list-style-type: none;
+  }
+
+  nav ul > li {
+    background-color: rgb(0,0,0,0);
+    display: inline;
+    float: none;
+    margin: 0;
+    padding: 10px;
+    border-bottom: none;
+  }
+
+  nav ul:first-child {
+    border-top: none;
+  }
+
+  .post, .page, .post-groups, article.photo, article.micropost {
+    margin: 0;
+  }
+  
+  article.micropost {
+    margin: 5px 5px;
+    padding-top: 10px;
+  }
+  
+  article.micropost img {
+    padding-top: 10px;
+  }
+  
+  article.photo {
+    padding: 10px 0 0 0;
+    margin-bottom: 10px;
+  }
+
+  article.photo img[alt="A little dog having fun in the park"] {
+    margin-top: -20%;
+  }
+  article.photo img[alt="stnicholas"] {
+    margin-top: -40%;
+  }
+
+}
