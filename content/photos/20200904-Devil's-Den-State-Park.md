@@ -75,12 +75,3 @@ I didn't get as many "nice" pictures out of this trip as I'd hoped, but plenty o
 		<img alt="" src="https://live.staticflickr.com/65535/50287420958_b39f0557d5.jpg"
 			data-image = "https://live.staticflickr.com/65535/50287420958_199fb2e149_o.jpg">
 </div>
-
-<script type="text/javascript">
-	jQuery(document).ready(function(){
-		jQuery("#gallery").unitegallery({
-			gallery_theme: "tiles",
-			tiles_type: "nested"						
-		});
-	});
-</script>

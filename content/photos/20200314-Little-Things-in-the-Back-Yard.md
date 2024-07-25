@@ -18,7 +18,7 @@ In the meantime slowing down somewhat and staying home can be a very good thing.
 
 Happy spring, and stay well.
 
-<div id="gallery">
+<div id="gallery" style="display:none;">
 		<img alt="Acorn in our Wild Herb Garden" src="https://live.staticflickr.com/65535/49656769313_87f8ffe6ba.jpg"
 			data-image="https://live.staticflickr.com/65535/49656769313_7618f7234f_k.jpg">
 		<img alt="Wishes Granted" src="https://live.staticflickr.com/65535/49656776338_d67d37ee48.jpg"
@@ -76,10 +76,11 @@ Happy spring, and stay well.
 </div>
 
 <script type="text/javascript">
-	jQuery(document).ready(function(){
-		jQuery("#gallery").unitegallery({
-			gallery_theme: "tiles",
-			tiles_type: "nested"						
-		});
-	});
+	jQuery(document).ready(function(){ 
+		$("#gallery").unitegallery({
+			tiles_type:"nested",
+			tiles_nested_optimal_tile_width: 260
+		}); 
+	}); 
 </script>
+
