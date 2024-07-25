@@ -14,7 +14,7 @@ Although it was a standard work week for the both of us, we made the best of the
 
 I'm gonna miss Pasadena. 
 
-<div id="gallery"><img alt="IMG_3765" src="https://live.staticflickr.com/65535/48426385116_608d58c5fc.jpg"
+<div id="gallery" style="display:none;"><img alt="IMG_3765" src="https://live.staticflickr.com/65535/48426385116_608d58c5fc.jpg"
 data-image="https://live.staticflickr.com/65535/48426385116_0aedaef32c_k.jpg">
 <img alt="DSCN1962" src="https://live.staticflickr.com/65535/48426387631_3b2166fd3b.jpg"
 data-image="https://live.staticflickr.com/65535/48426387631_8734ad9a27_k.jpg">
@@ -64,3 +64,12 @@ data-image="https://live.staticflickr.com/65535/48426390011_331477b312_k.jpg">
 data-image="https://live.staticflickr.com/65535/48426528667_7a345cda5b_k.jpg">
 <img alt="IMG_3766" src="https://live.staticflickr.com/65535/48426528977_0801d5e997.jpg"
 data-image="https://live.staticflickr.com/65535/48426528977_16d4b59f79_k.jpg"></div>
+
+<script type="text/javascript">
+	jQuery(document).ready(function(){ 
+		$("#gallery").unitegallery({
+			tiles_type:"nested",
+			tiles_nested_optimal_tile_width: 275
+		}); 
+	}); 
+</script>

@@ -1,6 +1,7 @@
 title = "~ The Tobyblog 📝"
-baseURL = "//tobyblog.com"
-canonifyURLs = false
+baseURL = "http://localhost:1313/"
+relativeUrls = false
+canonifyUrls = false
 disableAliases = true
 disableHugoGeneratorInject = false
 #disableKinds = ["taxonomy", "term"]

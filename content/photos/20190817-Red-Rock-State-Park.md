@@ -77,10 +77,10 @@ The first *real* day of the trip saw us at Red Rock State Park in Arizona, where
 </div>
 
 <script type="text/javascript">
-	jQuery(document).ready(function(){
-		jQuery("#gallery").unitegallery({
-			gallery_theme: "tiles",
-			tiles_type: "nested"						
-		});
-	});
+	jQuery(document).ready(function(){ 
+		$("#gallery").unitegallery({
+			tiles_type:"nested",
+			tiles_nested_optimal_tile_width: 500
+		}); 
+	}); 
 </script>
