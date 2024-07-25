@@ -12,18 +12,16 @@
     
     <title>Appreciating the Little Things During Coronavirus Lockdown &middot; @tobyblog’s ~ The Tobyblog 📝</title>
 
-	<script type="text/javascript" src="https://cdn.jsdelivr.net/jquery/2.2.0/jquery.min.js"></script>
-
-	<script type="text/javascript" src="https://tobyblog.com/unitegallery/js/unitegallery.min.js" type="text/javascript"></script> 
+	<script type="text/javascript" src="/unitegallery/js/jquery-11.0.min.js"></script>
+	<script type="text/javascript" src="/unitegallery/js/unitegallery.min.js" type="text/javascript"></script> 
 	
-	<link rel="stylesheet" href="https://tobyblog.com/unitegallery/css/unite-gallery.css" type="text/css" /> 
-	<script type="text/javascript" src="https://tobyblog.com/unitegallery/themes/tiles/ug-theme-tiles.js" type="text/javascript"></script> 
-	<link rel="stylesheet" href="https://tobyblog.com/unitegallery/themes/default/ug-theme-default.css" type="text/css" /> 
+	<link rel="stylesheet" href="/unitegallery/css/unite-gallery.css" type="text/css" /> 
+	<script type="text/javascript" src="/unitegallery/themes/tiles/ug-theme-tiles.js" type="text/javascript"></script> 
+	<link rel="stylesheet" href="/unitegallery/themes/default/ug-theme-default.css" type="text/css" /> 
 
-    <link rel="stylesheet" href="https://tobyblog.com/css/weblog.css" media="screen" charset="utf-8" />
-    <link rel="stylesheet" href="https://tobyblog.com/css/tobyblog.css" media="screen" charset="utf-8" />
+    <link rel="stylesheet" href="/css/weblog.css" media="screen" charset="utf-8" />
     
-    <link rel="stylesheet" href="https://tobyblog.com/css/tobyblog.css" media="screen" charset="utf-8" />
+    <link rel="stylesheet" href="/css/tobyblog.css" media="screen" charset="utf-8" />
 
 
     
@@ -98,7 +96,7 @@
 <p>In the end, I suppose if we get it, we get it. We&rsquo;ll deal with it. Given the high communicability of the disease, it might actually be more probably than not, especially if we&rsquo;ve already been exposed to a population of carriers who either aren&rsquo;t exhibiting symptoms, or who haven&rsquo;t isolated themselves in time.</p>
 <p>In the meantime slowing down somewhat and staying home can be a very good thing. I have a comfortable little workspace we&rsquo;ve built in the bedroom, and I&rsquo;ll have more time to work on personal projects, this site included. Thursday evening at dusk as I was thinking about all this, and about squeezing in some time for mowing on the weekend, I was struck by the light and the grass in the back yard and so decided to get out my camera to play around with the reversing ring I bought for my Sony Zeiss lens for doing macro photography on the cheap. It wasn&rsquo;t until I was pouring through the photos on my computer later that I was surprised anew at just how complex and self-contained is the little world at our feet, come alive as it only does at this time of year.</p>
 <p>Happy spring, and stay well.</p>
-<div id="gallery">
+<div id="gallery" style="display:none;">
 		<img alt="Acorn in our Wild Herb Garden" src="https://live.staticflickr.com/65535/49656769313_87f8ffe6ba.jpg"
 			data-image="https://live.staticflickr.com/65535/49656769313_7618f7234f_k.jpg">
 		<img alt="Wishes Granted" src="https://live.staticflickr.com/65535/49656776338_d67d37ee48.jpg"
@@ -155,24 +153,24 @@
 			data-image="https://live.staticflickr.com/65535/49657308626_767feda9e2_k.jpg">
 </div>
 <script type="text/javascript">
-	jQuery(document).ready(function(){
-		jQuery("#gallery").unitegallery({
-			gallery_theme: "tiles",
-			tiles_type: "nested"						
-		});
-	});
+	jQuery(document).ready(function(){ 
+		$("#gallery").unitegallery({
+			tiles_type:"nested",
+			tiles_nested_optimal_tile_width: 260
+		}); 
+	}); 
 </script>
       </p>
     </article>
   </main>
 
 <script type="text/javascript">
-	jQuery(document).ready(function(){ 
-		$("#gallery").unitegallery({
-			tiles_type:"nested",
-			tiles_nested_optimal_tile_width: 350
-		}); 
-	}); 
+	jQuery(document).ready(function(){
+		jQuery("#gallery").unitegallery({
+			gallery_theme: "tiles",
+			tiles_type: "nested"						
+		});
+	});
 </script>
 
 <footer>
@@ -200,8 +198,8 @@
   
 </footer>
 
-  
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.2.14/js/lightgallery-all.min.js" charset="utf-8"></script>
+    
+    
     <script src="/js/weblog.js" charset="utf-8"></script>
     
 
@@ -218,6 +216,7 @@
 </script>
 
     
+
 <script>
   if (window.netlifyIdentity) {
     window.netlifyIdentity.on("init", user => {

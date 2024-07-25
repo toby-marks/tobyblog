@@ -12,18 +12,16 @@
     
     <title>Taking Kassi to the Channel Islands &middot; @tobyblog’s ~ The Tobyblog 📝</title>
 
-	<script type="text/javascript" src="https://cdn.jsdelivr.net/jquery/2.2.0/jquery.min.js"></script>
-
-	<script type="text/javascript" src="https://tobyblog.com/unitegallery/js/unitegallery.min.js" type="text/javascript"></script> 
+	<script type="text/javascript" src="/unitegallery/js/jquery-11.0.min.js"></script>
+	<script type="text/javascript" src="/unitegallery/js/unitegallery.min.js" type="text/javascript"></script> 
 	
-	<link rel="stylesheet" href="https://tobyblog.com/unitegallery/css/unite-gallery.css" type="text/css" /> 
-	<script type="text/javascript" src="https://tobyblog.com/unitegallery/themes/tiles/ug-theme-tiles.js" type="text/javascript"></script> 
-	<link rel="stylesheet" href="https://tobyblog.com/unitegallery/themes/default/ug-theme-default.css" type="text/css" /> 
+	<link rel="stylesheet" href="/unitegallery/css/unite-gallery.css" type="text/css" /> 
+	<script type="text/javascript" src="/unitegallery/themes/tiles/ug-theme-tiles.js" type="text/javascript"></script> 
+	<link rel="stylesheet" href="/unitegallery/themes/default/ug-theme-default.css" type="text/css" /> 
 
-    <link rel="stylesheet" href="https://tobyblog.com/css/weblog.css" media="screen" charset="utf-8" />
-    <link rel="stylesheet" href="https://tobyblog.com/css/tobyblog.css" media="screen" charset="utf-8" />
+    <link rel="stylesheet" href="/css/weblog.css" media="screen" charset="utf-8" />
     
-    <link rel="stylesheet" href="https://tobyblog.com/css/tobyblog.css" media="screen" charset="utf-8" />
+    <link rel="stylesheet" href="/css/tobyblog.css" media="screen" charset="utf-8" />
 
 
     
@@ -95,7 +93,7 @@
         <img src="https://live.staticflickr.com/65535/48426181736_531271204d_k.jpg">
 <p>The next day after visiting Sequoia we headed out from Oxnard via charter boat to the Channel Islands. That was a trip I&rsquo;d been anticipating for quite some time, as Kassi&rsquo;s been a near daily viewer of <a href="https://www.nps.gov/chis/learn/photosmultimedia/anacapa-landing-cove-webcam.htm">the webcam</a> for years now. It seemed fortuitous that circumstances aligned to allow us to make the trip together. <em>#workingout</em>, as we like to say. I really wish I had to give you the lowdown on all the little details, but with more pics to post and yet another trip coming up, I&rsquo;ll let the pictures speak for themselves. Suffice it to say it was a wonderful day, even more enjoyable than Sequoia, which surprised me. Maybe it was the salty sea air. I hadn&rsquo;t been out on a boat in years.</p>
 <p><strong>Enjoy.</strong></p>
-<div id="gallery">
+<div id="gallery" style="display:none;">
 		<img alt="Anacapa Island" src="https://live.staticflickr.com/65535/48426327312_9211768c9a.jpg"
 			data-image="https://live.staticflickr.com/65535/48426327312_cf2400c9e0_k.jpg">
 		<img alt="IMG_3751" src="https://live.staticflickr.com/65535/48426173521_d16aa10acf.jpg"
@@ -272,24 +270,24 @@
 			data-image="https://live.staticflickr.com/65535/48426167121_0bb476d14b_k.jpg">
 </div>
 <script type="text/javascript">
-	jQuery(document).ready(function(){
-		jQuery("#gallery").unitegallery({
-			gallery_theme: "tiles",
-			tiles_type: "nested"						
-		});
-	});
+	jQuery(document).ready(function(){ 
+		$("#gallery").unitegallery({
+			tiles_type:"nested",
+			tiles_nested_optimal_tile_width: 500
+		}); 
+	}); 
 </script>
       </p>
     </article>
   </main>
 
 <script type="text/javascript">
-	jQuery(document).ready(function(){ 
-		$("#gallery").unitegallery({
-			tiles_type:"nested",
-			tiles_nested_optimal_tile_width: 350
-		}); 
-	}); 
+	jQuery(document).ready(function(){
+		jQuery("#gallery").unitegallery({
+			gallery_theme: "tiles",
+			tiles_type: "nested"						
+		});
+	});
 </script>
 
 <footer>
@@ -317,8 +315,8 @@
   
 </footer>
 
-  
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.2.14/js/lightgallery-all.min.js" charset="utf-8"></script>
+    
+    
     <script src="/js/weblog.js" charset="utf-8"></script>
     
 
@@ -335,6 +333,7 @@
 </script>
 
     
+
 <script>
   if (window.netlifyIdentity) {
     window.netlifyIdentity.on("init", user => {
