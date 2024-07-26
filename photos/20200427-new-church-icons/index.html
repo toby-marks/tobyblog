@@ -112,25 +112,18 @@
 			data-image="https://live.staticflickr.com/65535/49727720331_62e6544033_k.jpg">
 </div>
 <p>You can watch the services, and very occasionally catch a glimpse of me, over on <a href="http://youtube.com/orthodoxnet">St. Nicholas&rsquo; YouTube stream</a>. I don&rsquo;t do all the videos. Can you tell which are mine?</p>
-<script type="text/javascript">
-	jQuery(document).ready(function(){
-		jQuery("#gallery").unitegallery({
-			gallery_theme: "tiles",
-			tiles_type: "nested"						
-		});
-	});
-</script>
       </p>
     </article>
   </main>
 
 <script type="text/javascript">
-	jQuery(document).ready(function(){
-		jQuery("#gallery").unitegallery({
+	jQuery(document).ready(function(){ 
+		$("#gallery").unitegallery({
 			gallery_theme: "tiles",
-			tiles_type: "nested"						
-		});
-	});
+			tiles_type:"nested",
+			tiles_nested_optimal_tile_width: 260
+		}); 
+	}); 
 </script>
 
 <footer>
