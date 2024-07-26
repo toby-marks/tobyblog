@@ -47,12 +47,3 @@ We were back in Coppell on Saturday to further explore this spacious and well de
 		<img alt="Mockingbird" src="https://live.staticflickr.com/65535/49619085567_8caac958a9.jpg"
 			data-image="https://live.staticflickr.com/65535/49619085567_ea65281c53_k.jpg">
 </div>
-
-<script type="text/javascript">
-	jQuery(document).ready(function(){
-		jQuery("#gallery").unitegallery({
-			gallery_theme: "tiles",
-			tiles_type: "nested"						
-		});
-	});
-</script>

@@ -48,12 +48,3 @@ Last week I left for what may well be my [last trip out to Pasadena]({{< ref "20
 		<img alt="(16/17) The Fruits and Orchards of California" src="https://live.staticflickr.com/65535/48353219427_a47dbe229a.jpg"
 			data-image="https://live.staticflickr.com/65535/48353219427_732076d03d_k.jpg">
 </div>
-
-<script type="text/javascript">
-	jQuery(document).ready(function(){ 
-		$("#gallery").unitegallery({
-			tiles_type:"nested",
-			tiles_nested_optimal_tile_width: 260
-		}); 
-	}); 
-</script>

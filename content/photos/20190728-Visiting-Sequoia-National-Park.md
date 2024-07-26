@@ -94,12 +94,3 @@ Our week in Pasadena was a working vacation, which meant Kassi was essentially j
 </div>
 
 Stay tuned for more from our farewell week in Pasadena!
-
-<script type="text/javascript">
-	jQuery(document).ready(function(){ 
-		$("#gallery").unitegallery({
-			tiles_type:"nested",
-			tiles_nested_optimal_tile_width: 400
-		}); 
-	}); 
-</script>

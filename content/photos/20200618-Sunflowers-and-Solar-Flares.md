@@ -68,12 +68,3 @@ I like this set. We’re all starving for a real vacation right about now, so on
 		<img alt="" src="https://live.staticflickr.com/65535/50015066712_7faa7d0a24.jpg"
 			data-image="https://live.staticflickr.com/65535/50015066712_c0ceb5b877_k.jpg">
 </div>
-
-<script type="text/javascript">
-	jQuery(document).ready(function(){
-		jQuery("#gallery").unitegallery({
-			gallery_theme: "tiles",
-			tiles_type: "nested"						
-		});
-	});
-</script>

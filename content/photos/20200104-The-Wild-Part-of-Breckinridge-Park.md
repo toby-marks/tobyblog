@@ -48,12 +48,3 @@ Have you?
 		<img alt="Untitled" src="https://live.staticflickr.com/65535/49329319531_7ccfd9e151.jpg"
 			data-image="https://live.staticflickr.com/65535/49329319531_0b78e9b4da_k.jpg">
 </div>
-
-<script type="text/javascript">
-	jQuery(document).ready(function(){
-		jQuery("#gallery").unitegallery({
-			gallery_theme: "tiles",
-			tiles_type: "nested"						
-		});
-	});
-</script>

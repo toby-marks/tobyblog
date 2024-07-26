@@ -74,12 +74,3 @@ Gather while you can, bees.
 		<img alt="" src="https://live.staticflickr.com/65535/50182738257_4957074b9e.jpg"
 			data-image="https://live.staticflickr.com/65535/50182738257_9e6e03f30c_k.jpg">
 </div>
-
-<script type="text/javascript">
-	jQuery(document).ready(function(){
-		jQuery("#gallery").unitegallery({
-			gallery_theme: "tiles",
-			tiles_type: "nested"						
-		});
-	});
-</script>

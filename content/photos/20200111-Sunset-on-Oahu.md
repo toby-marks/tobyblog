@@ -65,12 +65,3 @@ As were packing up to leave we noticed that the local authorities had arrived to
 		<img alt="Untitled" src="https://live.staticflickr.com/65535/49369991583_c042cf7fa0.jpg"
 			data-image="https://live.staticflickr.com/65535/49369991583_01acecfd74_k.jpg">
 </div>
-
-<script type="text/javascript">
-	jQuery(document).ready(function(){
-		jQuery("#gallery").unitegallery({
-			gallery_theme: "tiles",
-			tiles_type: "nested"						
-		});
-	});
-</script>
