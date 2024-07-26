@@ -83,12 +83,3 @@ All considered, it was a fine morning.
 		<img alt="" src="https://live.staticflickr.com/65535/50364038648_dabd71fb61.jpg"
 			data-image="https://live.staticflickr.com/65535/50364038648_9f82e3b192_k.jpg">
 </div>
-
-<script type="text/javascript">
-	jQuery(document).ready(function(){
-		jQuery("#gallery").unitegallery({
-			gallery_theme: "tiles",
-			tiles_type: "nested"						
-		});
-	});
-</script>

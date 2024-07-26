@@ -75,12 +75,3 @@ The first *real* day of the trip saw us at Red Rock State Park in Arizona, where
 		<img alt="View of Cathedral Rock From the Lookout" src="https://live.staticflickr.com/65535/48559737726_725a7e7b03.jpg"
 			data-image="https://live.staticflickr.com/65535/48559737726_d42bfea2cf_k.jpg">
 </div>
-
-<script type="text/javascript">
-	jQuery(document).ready(function(){ 
-		$("#gallery").unitegallery({
-			tiles_type:"nested",
-			tiles_nested_optimal_tile_width: 500
-		}); 
-	}); 
-</script>

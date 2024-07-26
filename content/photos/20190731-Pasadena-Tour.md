@@ -64,12 +64,3 @@ data-image="https://live.staticflickr.com/65535/48426390011_331477b312_k.jpg">
 data-image="https://live.staticflickr.com/65535/48426528667_7a345cda5b_k.jpg">
 <img alt="IMG_3766" src="https://live.staticflickr.com/65535/48426528977_0801d5e997.jpg"
 data-image="https://live.staticflickr.com/65535/48426528977_16d4b59f79_k.jpg"></div>
-
-<script type="text/javascript">
-	jQuery(document).ready(function(){ 
-		$("#gallery").unitegallery({
-			tiles_type:"nested",
-			tiles_nested_optimal_tile_width: 275
-		}); 
-	}); 
-</script>

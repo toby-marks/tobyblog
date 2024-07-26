@@ -117,12 +117,3 @@ I remember this guy at the park entrance, about middle aged, who was bitching ab
 		<img alt="Arches-Sony-20 of 37" src="https://live.staticflickr.com/65535/49129800606_ae0ffcfe3a.jpg"
 			data-image="https://live.staticflickr.com/65535/49129800606_a7d4323e55_k.jpg">
 </div>
-
-<script type="text/javascript">
-	jQuery(document).ready(function(){
-		jQuery("#gallery").unitegallery({
-			gallery_theme: "tiles",
-			tiles_type: "nested"						
-		});
-	});
-</script>

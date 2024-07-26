@@ -48,12 +48,3 @@ Spring is busy getting started. And that in recent years has meant a deluge of r
 		<img alt="Richardson Stamp" src="https://live.staticflickr.com/65535/49703188136_64e9674372.jpg"
 			data-image="https://live.staticflickr.com/65535/49703188136_5e23f8804a_k.jpg">
 </div>
-
-<script type="text/javascript">
-	jQuery(document).ready(function(){
-		jQuery("#gallery").unitegallery({
-			gallery_theme: "tiles",
-			tiles_type: "nested"						
-		});
-	});
-</script>

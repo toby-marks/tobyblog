@@ -74,13 +74,3 @@ Happy spring, and stay well.
 		<img alt="Spores" src="https://live.staticflickr.com/65535/49657308626_f6d4842dc2.jpg"
 			data-image="https://live.staticflickr.com/65535/49657308626_767feda9e2_k.jpg">
 </div>
-
-<script type="text/javascript">
-	jQuery(document).ready(function(){ 
-		$("#gallery").unitegallery({
-			tiles_type:"nested",
-			tiles_nested_optimal_tile_width: 260
-		}); 
-	}); 
-</script>
-

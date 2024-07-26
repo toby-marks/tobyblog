@@ -33,12 +33,3 @@ These pictures were taken during happier, more virus-free times.
 </div>
 
 You can watch the services, and very occasionally catch a glimpse of me, over on [St. Nicholas' YouTube stream](http://youtube.com/orthodoxnet). I don't do all the videos. Can you tell which are mine?
-
-<script type="text/javascript">
-	jQuery(document).ready(function(){
-		jQuery("#gallery").unitegallery({
-			gallery_theme: "tiles",
-			tiles_type: "nested"						
-		});
-	});
-</script>

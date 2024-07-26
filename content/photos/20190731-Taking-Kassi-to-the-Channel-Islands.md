@@ -190,12 +190,3 @@ The next day after visiting Sequoia we headed out from Oxnard via charter boat t
 		<img alt="DSCN1445" src="https://live.staticflickr.com/65535/48426167121_23fe14bf71.jpg"
 			data-image="https://live.staticflickr.com/65535/48426167121_0bb476d14b_k.jpg">
 </div>
-
-<script type="text/javascript">
-	jQuery(document).ready(function(){ 
-		$("#gallery").unitegallery({
-			tiles_type:"nested",
-			tiles_nested_optimal_tile_width: 500
-		}); 
-	}); 
-</script>

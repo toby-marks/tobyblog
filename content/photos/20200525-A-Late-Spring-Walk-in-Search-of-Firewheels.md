@@ -62,12 +62,3 @@ I think I've mentioned before that I really enjoy taking pictures with the Nikon
 		<img alt="Something Moving in the Water" src="https://live.staticflickr.com/65535/49931720447_ae1a8bd232.jpg"
 			data-image="https://live.staticflickr.com/65535/49931720447_eac29c781c_k.jpg">
 </div>
-
-<script type="text/javascript">
-	jQuery(document).ready(function(){
-		jQuery("#gallery").unitegallery({
-			gallery_theme: "tiles",
-			tiles_type: "nested"						
-		});
-	});
-</script>

@@ -213,12 +213,3 @@ Next up is Arches, my personal favorite of the parks we visited this year. Many 
 		<img alt="Zion National Park August 2019-92" src="https://live.staticflickr.com/65535/48760961848_862f2cc2b3.jpg"
 			data-image="https://live.staticflickr.com/65535/48760961848_c7edb708fb_k.jpg">
 </div>
-
-<script type="text/javascript">
-	jQuery(document).ready(function(){ 
-		$("#gallery").unitegallery({
-			tiles_type:"nested",
-			tiles_nested_optimal_tile_width: 500
-		}); 
-	}); 
-</script>

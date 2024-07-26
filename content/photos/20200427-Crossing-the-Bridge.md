@@ -38,12 +38,3 @@ Trying out a starker and grimier editing technique on this set. I think I like i
 		<img alt="Untitled" src="https://live.staticflickr.com/65535/49727173063_ee50e41c7e.jpg"
 			data-image="https://live.staticflickr.com/65535/49727173063_4b3a57801e_k.jpg">
 </div>
-
-<script type="text/javascript">
-	jQuery(document).ready(function(){
-		jQuery("#gallery").unitegallery({
-			gallery_theme: "tiles",
-			tiles_type: "nested"						
-		});
-	});
-</script>

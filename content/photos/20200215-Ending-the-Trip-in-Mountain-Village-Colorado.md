@@ -179,12 +179,3 @@ If you're interested, Kassi wrote about all of this in much more detail [over on
 		<img alt="Untitled" src="https://live.staticflickr.com/65535/49540098997_6c13ccc3e7.jpg"
 			data-image="https://live.staticflickr.com/65535/49540098997_d49ce445d6_k.jpg">
 </div>
-
-<script type="text/javascript">
-	jQuery(document).ready(function(){
-		jQuery("#gallery").unitegallery({
-			gallery_theme: "tiles",
-			tiles_type: "nested"						
-		});
-	});
-</script>

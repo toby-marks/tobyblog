@@ -76,12 +76,3 @@ I miss my little girl. But my wonderful older daughter is still around, and she 
 		<img alt="The Last Days of Ponyville" src="https://live.staticflickr.com/65535/49814809218_069087140d.jpg"
 			data-image="https://live.staticflickr.com/65535/49814809218_c278c77553_k.jpg">
 </div>
-
-<script type="text/javascript">
-	jQuery(document).ready(function(){
-		jQuery("#gallery").unitegallery({
-			gallery_theme: "tiles",
-			tiles_type: "nested"						
-		});
-	});
-</script>

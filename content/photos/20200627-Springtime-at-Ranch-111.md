@@ -72,12 +72,3 @@ Special thanks to my fellow photo and Saturday morning walk enthusiast, and spec
 		<img alt="Glowing" src="https://live.staticflickr.com/65535/50051296176_76394377fa.jpg"
 			data-image="https://live.staticflickr.com/65535/50051296176_2b959be5c9_k.jpg">
 </div>
-
-<script type="text/javascript">
-	jQuery(document).ready(function(){
-		jQuery("#gallery").unitegallery({
-			gallery_theme: "tiles",
-			tiles_type: "nested"						
-		});
-	});
-</script>

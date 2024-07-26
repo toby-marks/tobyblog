@@ -52,12 +52,3 @@ Almost like life in 2020 was normal and enjoyable and free.
 		<img alt="" src="https://live.staticflickr.com/65535/50181966248_3e115a0c5d.jpg"
 			data-image="https://live.staticflickr.com/65535/50181966248_f26baf14ee_k.jpg">
 </div>
-
-<script type="text/javascript">
-	jQuery(document).ready(function(){
-		jQuery("#gallery").unitegallery({
-			gallery_theme: "tiles",
-			tiles_type: "nested"						
-		});
-	});
-</script>

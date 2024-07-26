@@ -161,12 +161,3 @@ We had a great time in September at the 40th anniversary [Plano Balloon Festival
 		<img alt="Downtown Fever at the Plano Balloon Festival" src="https://live.staticflickr.com/65535/48882341777_89847d6ee7.jpg"
 			data-image="https://live.staticflickr.com/65535/48882341777_f5bdb7e819_k.jpg">
 </div>
-
-<script type="text/javascript">
-	jQuery(document).ready(function(){
-		jQuery("#gallery").unitegallery({
-			gallery_theme: "tiles",
-			tiles_type: "nested"						
-		});
-	});
-</script>
