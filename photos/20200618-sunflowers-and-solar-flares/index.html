@@ -146,25 +146,18 @@
 		<img alt="" src="https://live.staticflickr.com/65535/50015066712_7faa7d0a24.jpg"
 			data-image="https://live.staticflickr.com/65535/50015066712_c0ceb5b877_k.jpg">
 </div>
-<script type="text/javascript">
-	jQuery(document).ready(function(){
-		jQuery("#gallery").unitegallery({
-			gallery_theme: "tiles",
-			tiles_type: "nested"						
-		});
-	});
-</script>
       </p>
     </article>
   </main>
 
 <script type="text/javascript">
-	jQuery(document).ready(function(){
-		jQuery("#gallery").unitegallery({
+	jQuery(document).ready(function(){ 
+		$("#gallery").unitegallery({
 			gallery_theme: "tiles",
-			tiles_type: "nested"						
-		});
-	});
+			tiles_type:"nested",
+			tiles_nested_optimal_tile_width: 260
+		}); 
+	}); 
 </script>
 
 <footer>
