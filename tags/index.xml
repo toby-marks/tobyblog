@@ -4,9 +4,9 @@
     <title>Tags on ~ The Tobyblog 📝</title>
     <link>https://tobyblog.com/tags/</link>
     <description>Recent content in Tags on ~ The Tobyblog 📝</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Copyright 2024 (c) Toby Marks</copyright>
+    <copyright>Copyright (c) 2013-2025 Toby Marks</copyright>
     <lastBuildDate>Sun, 09 Jan 2022 12:01:29 -0600</lastBuildDate>
     <atom:link href="https://tobyblog.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -17,14 +17,14 @@
       <description></description>
     </item>
     <item>
-      <title>youtube</title>
+      <title>Youtube</title>
       <link>https://tobyblog.com/tags/youtube/</link>
       <pubDate>Sun, 09 Jan 2022 12:01:29 -0600</pubDate>
       <guid>https://tobyblog.com/tags/youtube/</guid>
       <description></description>
     </item>
     <item>
-      <title>parks</title>
+      <title>Parks</title>
       <link>https://tobyblog.com/tags/parks/</link>
       <pubDate>Mon, 03 Jan 2022 15:56:01 -0600</pubDate>
       <guid>https://tobyblog.com/tags/parks/</guid>
@@ -38,7 +38,7 @@
       <description></description>
     </item>
     <item>
-      <title>music</title>
+      <title>Music</title>
       <link>https://tobyblog.com/tags/music/</link>
       <pubDate>Fri, 04 Dec 2020 15:00:40 -0600</pubDate>
       <guid>https://tobyblog.com/tags/music/</guid>
@@ -52,7 +52,7 @@
       <description></description>
     </item>
     <item>
-      <title>travel</title>
+      <title>Travel</title>
       <link>https://tobyblog.com/tags/travel/</link>
       <pubDate>Fri, 04 Sep 2020 18:27:23 -0500</pubDate>
       <guid>https://tobyblog.com/tags/travel/</guid>
