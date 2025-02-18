@@ -7,7 +7,7 @@ tags = ["Pasadena","California","travel","Kassi"]
 categories = ["Journal"]
 images = ["https://live.staticflickr.com/65535/48426390296_fa22e073bb_k.jpg"]
 +++
-<img src="https://live.staticflickr.com/65535/48426390296_fa22e073bb_k.jpg">
+{{< img src="https://live.staticflickr.com/65535/48426390296_fa22e073bb_k.jpg" >}}
 <!--more-->
 
 Although it was a standard work week for the both of us, we made the best of the Old Town nightlife. One evening as we walked home we witnessed an accident in the street, and I took the opportunity to do some journalistic photography. I enjoy that. Pretty much the only time I indulge in "people watching", as they say. The Pasadena food is out of this world, but I'm sure by now you already knew that. We did it up bigger than ever, with visits to Roys Hawaiian Fusion, Sage, Santorini's Italian Bistro, and The Mixx, where we caught an amazing cover band called [Jump City](http://jumpcity.rocks) that gave us a wonderful night's entertainment. And that was probably the most I ever drank while out.

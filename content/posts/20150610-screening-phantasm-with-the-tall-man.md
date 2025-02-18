@@ -127,7 +127,7 @@ Then there's the "Dunes" cantina. Coincidence, or not-so-subtle nod? For all I k
 
 Every now and again Don would ask Angus to recollect his experiences in a certain scene or with the filming generally. He seemed to have a little trouble following the conversation, but when he spoke he was articulate and often funny. He went on at length about what a great actor Mike Baldwin was during the MacGyver scene in which he breaks out of his room by taping a shotgun shell to a hammer and using that to blast a hole through the door. Though there was no dialog, you could follow his thought processes as he put his unlikely plan together. The Tall Man regarded that as consummate thespianship.
 
-{{< figure class="wp-caption alignnone" alt="" src="http://3.bp.blogspot.com/-6l92bfURvq8/VXZsaajA43I/AAAAAAAACFU/qW30zkQyQmY/s2048/28676.gif" >}}
+![fortune teller](http://3.bp.blogspot.com/-6l92bfURvq8/VXZsaajA43I/AAAAAAAACFU/qW30zkQyQmY/s2048/28676.gif)
 
 The only time Angus spoke up of his own volition was right after the scene with the fortune teller. He interrupted Kat, I believe, to mention that the girl in the scene, Terrie Kalbus, had disappeared in real life and was never heard from again. Nobody else seemed to want to touch that, and I felt there was just a slight moment of awkwardness before Don moved the conversation in another direction.
 

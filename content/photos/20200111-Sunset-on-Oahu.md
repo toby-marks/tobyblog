@@ -7,7 +7,7 @@ categories = ["Journal"]
 tags = ["travel","Hawaii"]
 images = ["https://live.staticflickr.com/65535/49370652847_ad1de7953f_k.jpg"]
 +++
-<img src="https://live.staticflickr.com/65535/49370652847_ad1de7953f_k.jpg">
+{{< img src="https://live.staticflickr.com/65535/49370652847_ad1de7953f_k.jpg" >}}
 <!--more-->
 In December 2018 Kassi and I had the remarkable good fortune to spend a week in Honolulu on a remote work assignment for one of my favorite clients. We didn't pass up the opportunity for her to tag along, and no one seemed to mind. We tacked on a couple of days at our expense to explore the island, and I can say we made the most of every minute there. It was a wonderful, blessed time that we will surely never forget. 
 

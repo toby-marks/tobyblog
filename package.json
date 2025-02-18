@@ -4,29 +4,28 @@
   "description": "My blog, of course. Visit it at tobyblog.com",
   "main": "index.js",
   "scripts": {
-    "dev": "exec-bin node_modules/.bin/hugo/hugo server --bind=0.0.0.0 --disableFastRender --baseURL=http://localhost --noHTTPCache",
-    "dev:drafts": "exec-bin node_modules/.bin/hugo/hugo server --bind=0.0.0.0 --disableFastRender --baseURL=http://localhost --noHTTPCache --buildDrafts",
-    "create": "exec-bin node_modules/.bin/hugo/hugo new",
-    "lint:scripts": "eslint --cache config",
-    "lint:styles": "stylelint --cache \"assets/scss/**/*.{css,sass,scss}\"",
-    "lint:markdown": "markdownlint-cli2 \"*.md\" \"content/**/*.md\"",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "exec-bin node_modules/.bin/hugo/hugo --minify",
-    "preview": "http-server --gzip --brotli --ext=html --cors",
+    "create": "hugo new",
+    "dev": "hugo server --disableFastRender --noHTTPCache",
+    "dev:drafts": "hugo server --disableFastRender --noHTTPCache --buildDrafts",
+    "format": "prettier **/** -w -c",
+    "build": "hugo --minify --gc",
+    "preview": "vite preview --outDir public",
     "clean:build": "shx rm -rf public resources .hugo_build.lock",
-    "clean:install": "shx rm -rf node_modules package-lock.json yarn.lock pnpm-lock.yaml",
-    "clean:lint": "shx rm -rf .eslintcache .stylelintcache",
-    "preinfo": "npm version",
-    "info": "npm list",
-    "postinfo": "exec-bin node_modules/.bin/hugo/hugo version",
-    "postinstall": "shx rm -rf node_modules/.bin/hugo && shx mkdir node_modules/.bin/hugo && shx cp node_modules/gethyas/node_modules/.bin/hugo/* node_modules/.bin/hugo"
+    "clean:install": "shx rm -rf node_modules package-lock.json yarn.lock pnpm-lock.yaml && npm install"
+  },
+  "dependencies": {
+    "@thulite/images": "^3.3.0",
+    "@thulite/seo": "^2.4.1",
+    "thulite": "^2.5.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3",
+    "vite": "^5.4.2"
+  },
+  "engines": {
+    "node": ">=20.11.0"
   },
   "keywords": [],
   "author": "Toby Marks",
-  "license": "ISC",
-  "dependencies": {
-    "@hyas/images": "^3.2.0",
-    "exec-bin": "^1.0.0",
-    "gethyas": "^2.4.2"
-  }
+  "license": "ISC"
 }

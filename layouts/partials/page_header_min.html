@@ -1,5 +1,5 @@
   <nav>
-    <h1><a href="{{ .Site.Author.socialurl }}">@{{ .Site.Author.handle }}’s</a> <a href="/">{{ .Site.Title }}</a>.</h1>
+    <h1><a href="{{ .Site.Params.Author.socialurl }}">@{{ .Site.Params.Author.handle }}’s</a> <a href="/">{{ .Site.Title }}</a>.</h1>
     <div class="menu">
       {{ $.Scratch.Add "sections" .Site.Params.rsssections }}
       <ul>

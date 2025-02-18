@@ -7,7 +7,7 @@ categories = ["Journal"]
 tags = ["festivals"]
 images = ["https://live.staticflickr.com/65535/48882337922_0afd8987b9_k.jpg"]
 +++
-<img src="https://live.staticflickr.com/65535/48882337922_0afd8987b9_k.jpg" alt="DowntownFever">
+{{< img src="https://live.staticflickr.com/65535/48882337922_0afd8987b9_k.jpg" alt="DowntownFever" >}}
 <!--more-->
 We had a great time in September at the 40th anniversary [Plano Balloon Festival](https://www.planoballoonfest.org). Unfortunately, the night we went they weren't able to light any balloons due to the wind, but we still had a great time. The [Downtown Fever Band](https://ecbands.com/downtown-fever/) put on a really fun show for the crowd, and I got lots of great pictures. Hopefully someone from the band finds these and enjoys them. Hopefully you do, too! 
 

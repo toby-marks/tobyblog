@@ -7,7 +7,7 @@ tags = ["Pasadena","California","travel","Kassi"]
 categories = ["Journal"]
 images = ["https://live.staticflickr.com/65535/48353086296_4e2e8b1b5b_k.jpg"]
 +++
-<img src="https://live.staticflickr.com/65535/48353086296_4e2e8b1b5b_k.jpg">
+{{< img src="https://live.staticflickr.com/65535/48353086296_4e2e8b1b5b_k.jpg" >}}
 <!--more-->
 
 Our week in Pasadena was a working vacation, which meant Kassi was essentially just tagging along with me on my monthly visit to the client. But as we did in Hawaii, we tacked on a couple of free days to the front of the trip for some fun time in California. We had a lot of options for how to spend our time. We considered Joshua Tree National Park which was a strong favorite of mine, as well as a simple drive up the coast north of Santa Monica. I even bought a magazine on California road trips at the grocery store. There really is so much beauty in that state. I wouldn't think any other state compares, no slight to Texas. But Sequoia was firmly number one on my list of things within reasonable driving distance of Pasadena, and nothing I heard or read about topped the appeal of seeing those massive trees, the largest in the world. I don't really have a "bucket list" as such, but if I did this trip would be one I'd be checking off. But that makes it seem like we're done with it. I consider this more of a recon trip for a future visit with the whole family, where we're hopefully able to take in more of the sites. As it was we only had a short time there, and a few of the more spectacular photo attractions were inaccessible due to the planned burns that just happened to be still underway in the park.

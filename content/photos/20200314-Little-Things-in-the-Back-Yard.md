@@ -6,7 +6,7 @@ camera = "Sony A7RII, Sony Vario-Tessar T* FE 16-35mm f/4 ZA OSS Lens with Rever
 categories = ["Journal"]
 images = ["https://live.staticflickr.com/65535/49657315491_34ace8faea_k.jpg"]
 +++
-<img src="https://live.staticflickr.com/65535/49657315491_34ace8faea_k.jpg">
+{{< img src="https://live.staticflickr.com/65535/49657315491_34ace8faea_k.jpg" >}}
 <!--more-->
 Thursday evening I was sent home from the office with an official missive from HR directing all of us not to return onsite for the time being due to the general safety protocols being put into place across the metroplex for containing the outbreak of the coronavirus. Just this morning the governor acknowledged that certain reports he's received indicate that there may already be as many as 300,000 infected in Texas, a wild number considering the much smaller official counts. It started to sink in during the drive home that this meant not just a return to working out of the office, as I'd been accustomed to doing at my little cluster of preferred hangouts, but a real sequester of sorts at home, as a number of those places would now likely be unavailable or frankly just unwise to visit under the circumstances. For how long? I guess that remains to be seen. I like everyone else am watching and waiting to see how all this plays out.
 

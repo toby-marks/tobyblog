@@ -6,7 +6,7 @@ camera = "Sony A7RII"
 categories = ["Journal"]
 images = ["https://live.staticflickr.com/65535/50014805316_167dfd7948_k.jpg"]
 +++
-<img src="https://live.staticflickr.com/65535/50014805316_167dfd7948_k.jpg">
+{{< img  src="https://live.staticflickr.com/65535/50014805316_167dfd7948_k.jpg" >}} 
 <!--more-->
 Sunday evenings always were one of my favorite times for a family walk. That golden light. The world seems a little more quiet. Our last chance to unwind after a stressful week. Looking forward somewhat to the week ahead, or at least gearing yourself up for it. Pooling up energy for it.
 

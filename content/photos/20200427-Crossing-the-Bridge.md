@@ -6,7 +6,7 @@ camera = "Nikon Coolpix P1000"
 categories = ["Journal"]
 images = ["https://live.staticflickr.com/65535/49727174373_b00b43ccbe_k.jpg"]
 +++
-<img src="https://live.staticflickr.com/65535/49727174373_b00b43ccbe_k.jpg" alt="onthebridge">
+{{< img src="https://live.staticflickr.com/65535/49727174373_b00b43ccbe_k.jpg" alt="onthebridge" >}}
 <!--more-->
 Trying out a starker and grimier editing technique on this set. I think I like it. This was from a short hike around a month back, where we left the house to check out some new trail extensions and flood control construction in the neighborhood. 
 

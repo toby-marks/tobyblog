@@ -4,22 +4,22 @@
   source = "archetypes"
   target = "archetypes"
 
+[[mounts]]
+  source = "themes/internet-weblog/archetypes"
+  target = "archetypes"
+
 ## assets
 [[mounts]]
-  source = "node_modules/@hyas/core/assets"
+  source = "node_modules/@thulite/core/assets"
   target = "assets"
 
 [[mounts]]
-  source = "node_modules/@hyas/images/assets"
+  source = "node_modules/@thulite/images/assets"
   target = "assets"
   excludeFiles = "/scss/**.scss"
 
 [[mounts]]
   source = "assets"
-  target = "assets"
-
-[[mounts]]
-  source = "themes/internet-weblog/assets"
   target = "assets"
 
 ## content
@@ -39,27 +39,32 @@
 
 ## layouts
 [[mounts]]
-  source = "node_modules/@hyas/core/layouts"
+  source = "node_modules/@thulite/core/layouts"
+  target = "layouts"
+  excludeFiles = "/index.html"
+
+[[mounts]]
+  source = "node_modules/@thulite/seo/layouts"
   target = "layouts"
 
 [[mounts]]
-  source = "node_modules/@hyas/seo/layouts"
-  target = "layouts"
-
-[[mounts]]
-  source = "node_modules/@hyas/images/layouts"
-  target = "layouts"
-
-[[mounts]]
-  source = "themes/internet-weblog/layouts"
+  source = "node_modules/@thulite/images/layouts"
   target = "layouts"
 
 [[mounts]]
   source = "layouts"
   target = "layouts"
 
+[[mounts]]
+  source = "themes/internet-weblog/layouts"
+  target = "layouts"
+
 ## static
 [[mounts]]
   source = "static"
+  target = "static"
+
+[[mounts]]
+  source = "themes/internet-weblog/static"
   target = "static"
 

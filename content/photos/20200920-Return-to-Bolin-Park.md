@@ -6,7 +6,7 @@ camera = "Nikon Coolpix P1000"
 categories = ["Journal"]
 images = ["https://live.staticflickr.com/65535/50364037488_057f03265b_k.jpg"]
 +++
-<img src="https://live.staticflickr.com/65535/50364037488_057f03265b_k.jpg">
+{{< img alt="ducks at Bolin Park" src="https://live.staticflickr.com/65535/50364037488_057f03265b_k.jpg" >}}
 <!--more-->
 
 It's been fourteen months since our last visit to this little park and the trails that run from it along Rowlett Creek. The morning air was pleasantly cool, a sign that fall is gradually making itself felt here in North Texas in this year of pestilence and calamity. The affluent people that live in this area and make use of its paths were unusually friendly the last time we were here, and that was again the case this morning. Kassi spotted a fine hawk that I wasn't fast enough to get a picture of, the second time I've run across one in the past week. They see me and fly away. I think my camera makes them nervous. Or maybe just me looking at them. Crows are here, too; real ones, not just the common grackles we're more accustomed to. I hope more come for fall. 

@@ -6,7 +6,7 @@ camera = "iPhone"
 categories = ["Journal"]
 images = ["https://live.staticflickr.com/65535/49815657587_f526ccaa88_k.jpg"]
 +++
-<img src="https://live.staticflickr.com/65535/49815657587_f526ccaa88_k.jpg">
+{{< img src="https://live.staticflickr.com/65535/49815657587_f526ccaa88_k.jpg" >}}
 <!--more-->
 A couple weeks back for [National Unicorn Day](https://dayfinders.com/unicorn-day/) Lucy decided to dig her old toys out of storage and assemble Ponyville for one last, glorious sendoff. She asked me to take a final photoshoot, of which I'd done many over the years, capturing her old play villages at the height of her creativity and attention. I think she discovered somewhere along the way that you can't go home again. What seemed a good idea to her at first, something to recapture a little bit of that spirit she'd spent so long cultivating and which had grown to become integral to her experience of childhood, grew tedious and boring in the execution. The pony magic was gone, slipped away like the little girl she once was. 
 

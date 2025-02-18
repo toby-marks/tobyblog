@@ -6,7 +6,7 @@ camera = "iPhone, Nikon Coolpix P1000"
 categories = ["Journal"]
 images = ["https://live.staticflickr.com/65535/50182509593_e2d91c1b41_o.jpg"]
 +++
-<img src="https://live.staticflickr.com/65535/50182509593_e2d91c1b41_o.jpg">
+{{< img alt="sunset on Lake Ray Hubbard" src="https://live.staticflickr.com/65535/50182509593_e2d91c1b41_o.jpg" >}}
 <!--more-->
 Took the kids someplace new for a little geocaching adventure. I don't know why I don't find the time to do stuff like that more often. Seems like there's always something to be done. But what time is more valuably spent than that? Making memories. Discovering new places. Engaging with the kids in fun and wholesome activities. Watching the sunset on our local lake. Smelling the cooking from the Mexican restaurants. Listening to the sounds of street musicians. All the people out an enjoying themselves, playing football on the yard. 
 

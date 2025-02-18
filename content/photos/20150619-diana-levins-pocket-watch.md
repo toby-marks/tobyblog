@@ -6,7 +6,7 @@ camera = "my trusty Sony DSC-RX100"
 categories = ["Journal"]
 tags = ["Halloween","conventions"]
 +++
-{{< picture alt="" src="http://3.bp.blogspot.com/-VV457GwtScw/VYTqFoc3KxI/AAAAAAAACNE/Zpf1af9Fql0/s2048/DSC04341.jpg" >}}
+{{< picture src="http://3.bp.blogspot.com/-VV457GwtScw/VYTqFoc3KxI/AAAAAAAACNE/Zpf1af9Fql0/s2048/DSC04341.jpg" >}}
 
 <!--more-->
 

@@ -7,7 +7,7 @@ categories = ["Reviews"]
 tags = ["Dinosaur Dracula","Augie"]
 images = ["http://2.bp.blogspot.com/-JB9vI3k6VSA/VAv1DnbERKI/AAAAAAAABKE/dpcrYsI7IsA/s2048/DSC01899.jpg"]
 +++
-{{< picture alt="" src="http://4.bp.blogspot.com/-eJtzOcWGoH0/VAv1ERbJbhI/AAAAAAAABKQ/1KHejU1g0GU/s2048/DSC01904.jpg" >}}
+{{< picture src="http://4.bp.blogspot.com/-eJtzOcWGoH0/VAv1ERbJbhI/AAAAAAAABKQ/1KHejU1g0GU/s2048/DSC01904.jpg" >}}
 
 <!--more-->
 

@@ -7,7 +7,7 @@ categories = ["Reviews"]
 tags = ["Halloween","stores"]
 images = ["http://4.bp.blogspot.com/-Xivo-U5lONM/VbcX07M_97I/AAAAAAAACQs/mYKBdfkFbE8/s2048/IMG_0001.jpg"]
 +++
-{{< picture alt="" src="http://4.bp.blogspot.com/-Xivo-U5lONM/VbcX07M_97I/AAAAAAAACQs/mYKBdfkFbE8/s2048/IMG_0001.jpg" >}}
+{{< picture src="http://4.bp.blogspot.com/-Xivo-U5lONM/VbcX07M_97I/AAAAAAAACQs/mYKBdfkFbE8/s2048/IMG_0001.jpg" >}}
 
 <!--more-->
 

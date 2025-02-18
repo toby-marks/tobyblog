@@ -8,7 +8,7 @@ tags = ["travel", "Colorado"]
 series = ["2019 Summer Vacation"]
 images = ["https://live.staticflickr.com/65535/49540098997_d49ce445d6_k.jpg"]
 +++
-<img src="https://live.staticflickr.com/65535/49540098997_d49ce445d6_k.jpg">
+{{< img src="https://live.staticflickr.com/65535/49540098997_d49ce445d6_k.jpg" >}}
 <!--more-->
 
 We ended our 2019 trip in the resort community of Mountain Village, Colorado, overlooking Telluride. We'd come from the [red rock of Arizona]({{< ref "20190817-Red-Rock-State-Park.md" >}}) up through the [Grand Canyon]({{< ref "20190909-Grand-Canyon-2019.md" >}}) and across the oddly beautiful landscape of [southern Utah]({{< ref "/photos/20190920-Seeing-Zion-National-Park.md" >}}), stopping to marvel at the [monolithic formations]({{< ref "20191126-Arches-National-Park.md" >}}) around Moab. We ended up in a higher place, and cooler, where the rain that had been chasing us the whole way finally caught up with us. 
