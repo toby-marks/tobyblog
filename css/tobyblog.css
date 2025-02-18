@@ -70,6 +70,42 @@ figure {
   color: #333;
 }
 
+article.photo img {
+  margin-top: -25%;
+}
+article.photo img[alt="A little dog having fun in the park"] {
+  margin-top: -25%;
+}
+article.photo img[alt="ducks at Bolin Park"] {
+  margin-top: -18%;
+}
+article.photo img[alt="climbing a hill at Devil's Den"] {
+  margin-top: -25%;
+}
+article.photo img[alt="onthebridge"] {
+  margin-top: -5%;
+}
+article.photo img[alt="Lovebirds"] {
+  margin-top: -300px;
+}
+article.photo img[alt="Futuristic Billboard Wall"] {
+  margin-top: -725px;
+}
+article.photo img[alt="Backlit Flower"] {
+  margin-top: -325px;
+}
+article.photo img[alt="Old Woman"] {
+  margin-top: -400px;
+}
+article.photo img[alt="@Kassiblog"] {
+  margin-top: -450px;
+}
+article.photo img[alt="DowntownFever"] {
+  margin-top: -100px;
+}
+article.photo img[alt="Oracle Headquarters"] {
+  margin-top: -400px;
+}
 
 @media screen
 and (max-width: 780px) {

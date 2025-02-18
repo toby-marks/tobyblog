@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ice cream on ~ The Tobyblog 📝</title>
+    <title>Ice Cream on ~ The Tobyblog 📝</title>
     <link>https://tobyblog.com/tags/ice-cream/</link>
-    <description>Recent content in ice cream on ~ The Tobyblog 📝</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Ice Cream on ~ The Tobyblog 📝</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Copyright 2024 (c) Toby Marks</copyright>
+    <copyright>Copyright (c) 2013-2025 Toby Marks</copyright>
     <lastBuildDate>Tue, 11 Feb 2014 21:37:00 +0000</lastBuildDate>
     <atom:link href="https://tobyblog.com/tags/ice-cream/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,7 +14,7 @@
       <link>https://tobyblog.com/videos/jolly-rancher-cool-tubes-review/</link>
       <pubDate>Tue, 11 Feb 2014 21:37:00 +0000</pubDate>
       <guid>https://tobyblog.com/videos/jolly-rancher-cool-tubes-review/</guid>
-      <description>Back in the summer of 2013 TheVCubeSolver and I dropped by the local candy shop to review Blue Bunny&amp;rsquo;s Jolly Rancher Cool Tubes, a push-pop like product in three weird flavors. It turned out to be a complete and total sensory experience.</description>
+      <description>&lt;p&gt;Back in the summer of 2013 TheVCubeSolver and I dropped by the local candy shop to review &lt;a href=&#34;http://www.bluebunny.com/Products/d/Jolly_Rancher_Cool_Tubes&#34;&gt;Blue Bunny&amp;rsquo;s Jolly Rancher Cool Tubes&lt;/a&gt;, a push-pop like product in three weird flavors. It turned out to be a complete and total sensory experience.&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/6oEA207lVsc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
     </item>
   </channel>
 </rss>

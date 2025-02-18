@@ -4,9 +4,9 @@
     <title>Admin on ~ The Tobyblog 📝</title>
     <link>https://tobyblog.com/categories/admin/</link>
     <description>Recent content in Admin on ~ The Tobyblog 📝</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Copyright 2024 (c) Toby Marks</copyright>
+    <copyright>Copyright (c) 2013-2025 Toby Marks</copyright>
     <lastBuildDate>Sat, 27 Jul 2019 14:17:42 -0500</lastBuildDate>
     <atom:link href="https://tobyblog.com/categories/admin/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,49 +14,49 @@
       <link>https://tobyblog.com/microposts/20190727-all-new-photo-galleries/</link>
       <pubDate>Sat, 27 Jul 2019 14:17:42 -0500</pubDate>
       <guid>https://tobyblog.com/microposts/20190727-all-new-photo-galleries/</guid>
-      <description>It took a bit of effort to get everything tweaked just right for mobile, but I&amp;rsquo;m happy to announce that I&amp;rsquo;ve upgraded my photo galleries to use the popular &amp;ldquo;lightbox&amp;rdquo; style layout. There&amp;rsquo;s of course some Javascript overhead that I regret, but I think that&amp;rsquo;s offset somewhat by lazy loading and the use of thumbnails. See whether you think response time has improved. It&amp;rsquo;s not everywhere yet, just on recent galleries like Flight to LA and probably all stuff going forward from that, unless I&amp;rsquo;m posting from my phone.</description>
+      <description>&lt;p&gt;It took a bit of effort to get everything tweaked just right for mobile, but I&amp;rsquo;m happy to announce that I&amp;rsquo;ve upgraded my photo galleries to use the popular &amp;ldquo;lightbox&amp;rdquo; style layout. There&amp;rsquo;s of course some Javascript overhead that I regret, but I think that&amp;rsquo;s offset somewhat by lazy loading and the use of thumbnails. See whether you think response time has improved. It&amp;rsquo;s not everywhere yet, just on recent galleries like &lt;a href=&#34;https://tobyblog.com/photos/20190727-flight-to-la-with-kassi/&#34;&gt;Flight to LA&lt;/a&gt; and probably all stuff going forward from that, unless I&amp;rsquo;m posting from my phone. The old stuff should work the same. Best experienced on a laptop or desktop, of course, where you get the nice grid layout with all the thumbnails. I like that you can get a real sense of everything all at once, and then start exploring where you wish, vs being forced to scroll past photos in order to take everything in. Hopefully that leads to a more intentional viewing experience. Enjoy.&lt;/p&gt;</description>
     </item>
     <item>
       <title>🛠 Site Update: Fullscreen Photo Galleries</title>
       <link>https://tobyblog.com/microposts/20190628-site-update-fullscreen-galleries/</link>
       <pubDate>Fri, 28 Jun 2019 17:32:30 -0500</pubDate>
       <guid>https://tobyblog.com/microposts/20190628-site-update-fullscreen-galleries/</guid>
-      <description>Update: Fullscreen Photo Galleries Announcing a significant new site update: photo galleries are now displayed in fullscreen format for the best possible viewing experience. Try it out for yourself. Best experienced on a widescreen monitor.</description>
+      <description>&lt;h1 id=&#34;update-fullscreen-photo-galleries&#34;&gt;Update: Fullscreen Photo Galleries&lt;/h1&gt;&#xA;&lt;p&gt;Announcing a significant new site update: photo galleries are now displayed in fullscreen format for the best possible viewing experience. &lt;a href=&#34;https://tobyblog.com/photos/&#34;&gt;Try it out&lt;/a&gt; for yourself. Best experienced on a widescreen monitor.&lt;/p&gt;</description>
     </item>
     <item>
       <title>🛠 Major Site Updates 👨🏻‍💻</title>
       <link>https://tobyblog.com/microposts/20190411-major-site-updates/</link>
       <pubDate>Thu, 11 Apr 2019 17:44:34 -0500</pubDate>
       <guid>https://tobyblog.com/microposts/20190411-major-site-updates/</guid>
-      <description>🛠👨🏻‍💻 Major site updates! A lot of you might not be aware that in years past I made a lot of videos for the site. You&amp;rsquo;ll now notice a Videos tab up at the top to make it easy to find those. Also, I&amp;rsquo;ve settled on how I&amp;rsquo;m going to use the Microposts feature of blog, which mainly I&amp;rsquo;ll reserve for short text-only updates like these, or short Tweet-like content. As a result, I moved a lot of my Microposts for this year under Posts, which as an added benefit will allow you to comment on my photoblog stuff.</description>
+      <description>&lt;p&gt;🛠👨🏻‍💻 Major site updates! A lot of you might not be aware that in years past I made a lot of videos for the site. You&amp;rsquo;ll now notice a &lt;a href=&#34;https://tobyblog.com/videos/&#34;&gt;&lt;strong&gt;Videos&lt;/strong&gt;&lt;/a&gt; tab up at the top to make it easy to find those. Also, I&amp;rsquo;ve settled on how I&amp;rsquo;m going to use the &lt;a href=&#34;https://tobyblog.com/microposts/&#34;&gt;Microposts&lt;/a&gt; feature of blog, which mainly I&amp;rsquo;ll reserve for short text-only updates like these, or short Tweet-like content. As a result, I moved a lot of my Microposts for this year under &lt;a href=&#34;https://tobyblog.com/posts/&#34;&gt;Posts&lt;/a&gt;, which as an added benefit will allow you to comment on my photoblog stuff. Have fun poking around.&lt;/p&gt;</description>
     </item>
     <item>
       <title>🛠 Mobile Site Updates With Forestry.io 👨🏻‍💻</title>
       <link>https://tobyblog.com/microposts/20190307-mobile-site-updates-with-forestry-io/</link>
       <pubDate>Thu, 07 Mar 2019 06:00:00 +0000</pubDate>
       <guid>https://tobyblog.com/microposts/20190307-mobile-site-updates-with-forestry-io/</guid>
-      <description>Some techno-gibberish: forestry.io offers a free CMS service that integrates with Hugo, the tool I use to generate the site. What that means is that I can now update the site from my iPhone 📱!&#xA;Hopefully that&amp;rsquo;ll allow me to do something from time to time that I&amp;rsquo;ve never done here before — real-time site updates. Capture some things in the moment before they&amp;rsquo;re lost to time and fleeting attention.</description>
+      <description>&lt;p&gt;Some techno-gibberish: forestry.io offers a free CMS service that integrates with Hugo, the tool I use to generate the site. What that means is that I can now update the site from my iPhone 📱!&lt;/p&gt;&#xA;&lt;p&gt;Hopefully that&amp;rsquo;ll allow me to do something from time to time that I&amp;rsquo;ve never done here before — real-time site updates. Capture some things in the moment before they&amp;rsquo;re lost to time and fleeting attention.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Site Updates — Photoblog Previews Fixed for Mobile</title>
       <link>https://tobyblog.com/microposts/20190228-site-updates/</link>
       <pubDate>Thu, 28 Feb 2019 01:27:47 -0600</pubDate>
       <guid>https://tobyblog.com/microposts/20190228-site-updates/</guid>
-      <description>I made a couple of site updates yesterday I wanted to mention.&#xA;Now, if you click on the logo image, you&amp;rsquo;ll be taken back to the home page.&#xA;I fixed the stylesheets for mobile devices so that the photoblog image previews work a little better and appear more consistent between small screen and large screen devices.&#xA;Remember to click on the title of a photoblog (like the recent Scenes from the LAX International Terminal) to see the full set of photos.</description>
+      <description>&lt;p&gt;I made a couple of site updates yesterday I wanted to mention.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Now, if you click on the logo image, you&amp;rsquo;ll be taken back to the home page.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;I fixed the stylesheets for mobile devices so that the photoblog image previews work a little better and appear more consistent between small screen and large screen devices.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Remember to click on the title of a photoblog (like the recent &lt;a href=&#34;https://tobyblog.com/photos/20190226-lax-international-terminal/&#34;&gt;Scenes from the LAX International Terminal&lt;/a&gt;) to see the full set of photos. You can click on the &lt;a href=&#34;https://tobyblog.com/photos/&#34;&gt;Photos&lt;/a&gt; link at the top of the site to see all my photoblogs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Now you can leave comments</title>
       <link>https://tobyblog.com/microposts/20190220-leave-comments/</link>
       <pubDate>Wed, 20 Feb 2019 22:51:10 -0800</pubDate>
       <guid>https://tobyblog.com/microposts/20190220-leave-comments/</guid>
-      <description>👨🏻‍💻🛠&#xA;Just a quick site update — you can now leave comments! I had that feature back in the old days of the blog, and am only now getting around to adding it back. Hopefully it doesn&amp;rsquo;t drag the page load time down too much. Since the internal URLs for all the articles changed after I migrated the site, I unfortunately lost all those old comments. So leave me some new ones if you feel it.</description>
+      <description>&lt;p&gt;👨🏻‍💻🛠&lt;/p&gt;&#xA;&lt;p&gt;Just a quick site update — you can now leave comments! I had that feature back in the old days of the blog, and am only now getting around to adding it back. Hopefully it doesn&amp;rsquo;t drag the page load time down too much. Since the internal URLs for all the articles changed after I migrated the site, I unfortunately lost all those old comments. So leave me some new ones if you feel it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Problems with Flickr?</title>
       <link>https://tobyblog.com/microposts/20190207-1138-flickr-links-down/</link>
       <pubDate>Thu, 07 Feb 2019 11:38:56 -0600</pubDate>
       <guid>https://tobyblog.com/microposts/20190207-1138-flickr-links-down/</guid>
-      <description>To those who may still occasionally haunt this site, this is a reminder that it&amp;rsquo;s not forgotten, just long neglected. It looks like there may some sort of problem with my Flickr embeds. I will work on repairing those shortly, so stay tuned.&#xA;Where do we go from here? That&amp;rsquo;s a question I ask myself frequently with regards to this blog. Has it lived its good life for me, and now expired?</description>
+      <description>&lt;p&gt;To those who may still occasionally haunt this site, this is a reminder that it&amp;rsquo;s not forgotten, just long neglected. It looks like there may some sort of problem with my Flickr embeds. I will work on repairing those shortly, so stay tuned.&lt;/p&gt;&#xA;&lt;p&gt;Where do we go from here? That&amp;rsquo;s a question I ask myself frequently with regards to this blog. Has it lived its good life for me, and now expired?&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

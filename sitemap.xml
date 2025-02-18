@@ -3,7 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://tobyblog.com/</loc>
-    <lastmod>2022-01-24T13:53:23-06:00</lastmod>
+    <lastmod>2025-02-14T16:40:29-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tobyblog.com/categories/</loc>
+    <lastmod>2025-02-14T16:40:29-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tobyblog.com/categories/journal/</loc>
+    <lastmod>2025-02-14T16:40:29-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tobyblog.com/posts/</loc>
+    <lastmod>2025-02-14T16:40:29-06:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tobyblog.com/posts/20250214-the-year-in-pictures-2024/</loc>
+    <lastmod>2025-02-14T16:40:29-06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -14,21 +34,6 @@
   </url><url>
     <loc>https://tobyblog.com/microposts/20220124-1353/</loc>
     <lastmod>2022-01-24T13:53:23-06:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tobyblog.com/categories/</loc>
-    <lastmod>2022-01-11T16:36:14-06:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tobyblog.com/categories/journal/</loc>
-    <lastmod>2022-01-11T16:36:14-06:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tobyblog.com/posts/</loc>
-    <lastmod>2022-01-11T16:36:14-06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -2387,7 +2392,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tobyblog.com/tags/bucc-ees/</loc>
+    <loc>https://tobyblog.com/tags/bucc-ees-/</loc>
     <lastmod>2018-06-25T15:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -2402,7 +2407,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tobyblog.com/tags/review-the-world/</loc>
+    <loc>https://tobyblog.com/tags/review-the-world-/</loc>
     <lastmod>2018-06-25T15:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -2533,6 +2538,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://tobyblog.com/videos/2017-10-29-cauldron-skittles-review/</loc>
+    <lastmod>2017-10-29T19:53:27-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tobyblog.com/tags/review-the-world/</loc>
     <lastmod>2017-10-29T19:53:27-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -3288,3 +3298,4 @@
     <priority>0.5</priority>
   </url>
 </urlset>
+

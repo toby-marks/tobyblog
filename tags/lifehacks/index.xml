@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>lifehacks on ~ The Tobyblog 📝</title>
+    <title>Lifehacks on ~ The Tobyblog 📝</title>
     <link>https://tobyblog.com/tags/lifehacks/</link>
-    <description>Recent content in lifehacks on ~ The Tobyblog 📝</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Lifehacks on ~ The Tobyblog 📝</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Copyright 2024 (c) Toby Marks</copyright>
+    <copyright>Copyright (c) 2013-2025 Toby Marks</copyright>
     <lastBuildDate>Thu, 16 Jan 2020 11:02:11 -0600</lastBuildDate>
     <atom:link href="https://tobyblog.com/tags/lifehacks/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,7 +14,7 @@
       <link>https://tobyblog.com/posts/clever-life-hack/</link>
       <pubDate>Thu, 16 Jan 2020 11:02:11 -0600</pubDate>
       <guid>https://tobyblog.com/posts/clever-life-hack/</guid>
-      <description>Wait, just hear me out on this…</description>
+      <description>&lt;p&gt;Wait, just hear me out on this…&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

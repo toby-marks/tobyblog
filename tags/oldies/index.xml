@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>oldies on ~ The Tobyblog 📝</title>
+    <title>Oldies on ~ The Tobyblog 📝</title>
     <link>https://tobyblog.com/tags/oldies/</link>
-    <description>Recent content in oldies on ~ The Tobyblog 📝</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Oldies on ~ The Tobyblog 📝</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Copyright 2024 (c) Toby Marks</copyright>
+    <copyright>Copyright (c) 2013-2025 Toby Marks</copyright>
     <lastBuildDate>Sun, 10 Mar 2019 23:31:51 -0700</lastBuildDate>
     <atom:link href="https://tobyblog.com/tags/oldies/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -14,14 +14,14 @@
       <link>https://tobyblog.com/posts/20190310-jean/</link>
       <pubDate>Sun, 10 Mar 2019 23:31:51 -0700</pubDate>
       <guid>https://tobyblog.com/posts/20190310-jean/</guid>
-      <description>Listening.</description>
+      <description>&lt;p&gt;Listening.&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/IJZQz5U0el0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
     </item>
     <item>
       <title>Current Mood 🌛</title>
       <link>https://tobyblog.com/posts/20190224-estate/</link>
       <pubDate>Sun, 24 Feb 2019 22:43:27 -0600</pubDate>
       <guid>https://tobyblog.com/posts/20190224-estate/</guid>
-      <description>Go ahead. Pour a glass of whiskey 🥃 and enjoy this with me, won&amp;rsquo;t you? Forget about everything you have coming up this week. All that stuff. It&amp;rsquo;ll wait.&#xA;Right now just listen for moment.&#xA;Listen with me. Dim those lights. Turn up the music for a while. Just be.&#xA;Just close your eyes and listen. Don&amp;rsquo;t think too much about it. When&amp;rsquo;s the last time you were ever this…</description>
+      <description>&lt;p&gt;Go ahead. Pour a glass of whiskey 🥃 and enjoy this with me, won&amp;rsquo;t you? Forget about everything you have coming up this week. All that stuff. It&amp;rsquo;ll wait.&lt;/p&gt;&#xA;&lt;p&gt;Right now just listen for moment.&lt;/p&gt;&#xA;&lt;p&gt;Listen with me. Dim those lights. Turn up the music for a while. Just be.&lt;/p&gt;&#xA;&lt;p&gt;Just close your eyes and listen. Don&amp;rsquo;t think too much about it. When&amp;rsquo;s the last time you were ever this…&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

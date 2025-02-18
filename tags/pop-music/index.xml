@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pop music on ~ The Tobyblog 📝</title>
+    <title>Pop Music on ~ The Tobyblog 📝</title>
     <link>https://tobyblog.com/tags/pop-music/</link>
-    <description>Recent content in pop music on ~ The Tobyblog 📝</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Pop Music on ~ The Tobyblog 📝</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>Copyright 2024 (c) Toby Marks</copyright>
+    <copyright>Copyright (c) 2013-2025 Toby Marks</copyright>
     <lastBuildDate>Thu, 14 Aug 2014 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://tobyblog.com/tags/pop-music/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -28,7 +28,7 @@
       <link>https://tobyblog.com/posts/20140721-baker-street/</link>
       <pubDate>Mon, 21 Jul 2014 14:05:00 +0000</pubDate>
       <guid>https://tobyblog.com/posts/20140721-baker-street/</guid>
-      <description>Love this song. Local musician Bruce Wilder was recently performing it solo at Firewheel Coffee, my office away from the office. Makes me want to sneak up behind him with a giant saxophone and start blaring away at the appropriate moments.</description>
+      <description>&lt;p&gt;Love this song. Local musician Bruce Wilder was recently performing it solo at Firewheel Coffee, my office away from the office. Makes me want to sneak up behind him with a giant saxophone and start blaring away at the appropriate moments.&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/3HMH3jsDfT0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
