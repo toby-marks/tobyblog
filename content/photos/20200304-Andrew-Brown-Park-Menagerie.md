@@ -7,7 +7,7 @@ categories = ["Journal"]
 tags = ["parks"]
 images = ["https://live.staticflickr.com/65535/49619064592_ed2afa7419_k.jpg"]
 +++
-<img src="https://live.staticflickr.com/65535/49619064592_ed2afa7419_k.jpg">
+{{< img src="https://live.staticflickr.com/65535/49619064592_ed2afa7419_k.jpg" >}}
 <!--more-->
 We were back in Coppell on Saturday to further explore this spacious and well developed community park. I thought Kassi would enjoy the chance to stretch her legs and take in some sun. As we wandered along the path we took photos of the ducks and birds and other animals that live there in the park. Turtles are especially shy and difficult to photography, much less approach. I used my zoom lens for this, but it's not good only for distance shots, as you can see by "Little World."
 

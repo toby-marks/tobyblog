@@ -35,6 +35,6 @@ My friend Brian Hammons thought it looked like a Heroscape game piece. Probably 
 
 I ditched it today in a different woodland cache, where I expect it will spend much of the spring and summer entombed in an impassible bramble of thorn and briar. It'll be for some other cacher to contemplate its origins and purpose. As for me, I was happy enough to see it go.
 
-{{< figure class= "wp-caption alignnone" alt="" src="http://1.bp.blogspot.com/-qd4g8hjS504/UxyQHBE0juI/AAAAAAAAAUs/VMSqcIQiVDg/s2048/200.gif" >}}
+![scary clown toy](http://1.bp.blogspot.com/-qd4g8hjS504/UxyQHBE0juI/AAAAAAAAAUs/VMSqcIQiVDg/s2048/200.gif)
 
 NEXT: BEN'S LARGE BLUE MARBLE

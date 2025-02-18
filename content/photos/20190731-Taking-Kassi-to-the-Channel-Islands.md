@@ -7,7 +7,7 @@ tags = ["Pasadena","California","travel","Kassi"]
 categories = ["Journal"]
 images = ["https://live.staticflickr.com/65535/48426181736_531271204d_k.jpg"]
 +++
-<img src="https://live.staticflickr.com/65535/48426181736_531271204d_k.jpg">
+{{< img src="https://live.staticflickr.com/65535/48426181736_531271204d_k.jpg" >}}
 <!--more-->
 
 The next day after visiting Sequoia we headed out from Oxnard via charter boat to the Channel Islands. That was a trip I'd been anticipating for quite some time, as Kassi's been a near daily viewer of [the webcam](https://www.nps.gov/chis/learn/photosmultimedia/anacapa-landing-cove-webcam.htm) for years now. It seemed fortuitous that circumstances aligned to allow us to make the trip together. *#workingout*, as we like to say. I really wish I had to give you the lowdown on all the little details, but with more pics to post and yet another trip coming up, I'll let the pictures speak for themselves. Suffice it to say it was a wonderful day, even more enjoyable than Sequoia, which surprised me. Maybe it was the salty sea air. I hadn't been out on a boat in years. 

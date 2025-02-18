@@ -7,7 +7,7 @@ module.exports = {
     autoprefixer(),
     purgecss({
       content: [
-        './node_modules/@hyas/*/layouts/**/*.html',
+        './node_modules/@thulite/*/layouts/**/*.html',
         './themes/my-basic-theme/layouts/**/*.html',
         './content/**/*.html',
         './content/**/*.md',
@@ -28,7 +28,7 @@ module.exports = {
         'lazyloaded',
         'blur-up',
         ...whitelister([
-          './node_modules/@hyas/core/assets/scss/app.scss',
+          './node_modules/@thulite/core/assets/scss/app.scss',
         ]),
       ],
     }),

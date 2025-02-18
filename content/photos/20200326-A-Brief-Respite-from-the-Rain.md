@@ -6,7 +6,7 @@ camera = "Nikon Coolpix P1000"
 images = ["https://live.staticflickr.com/65535/49702654503_9c0a62cb86_k.jpg"]
 categories = ["Journal"]
 +++
-<img src="https://live.staticflickr.com/65535/49702654503_9c0a62cb86_k.jpg">
+{{< img src="https://live.staticflickr.com/65535/49702654503_9c0a62cb86_k.jpg" >}}
 <!--more-->
 It's become something of a tradition for us on Saturday mornings, to get out early(ish) and take in some light and air and pollen somewhere around the city. When we get home I make us a nice brunch of scrambled eggs, toast, and smoked salmon. If it's a special occasion, we'll have a morning cocktail — a Screwdriver, Bellini, or Mimosa. I like exploring new places, but of course we have our favorites. You don't get to know a place by visiting it once or twice. It's in the coming back that it reveals itself to you gradually over the changing hours and seasons.
 

@@ -8,7 +8,7 @@ tags = ["travel","Arizona","state parks"]
 series = ["2019 Summer Vacation"]
 images = ["https://live.staticflickr.com/65535/48559877497_543373f46d_k.jpg"]
 +++
-<img src="https://live.staticflickr.com/65535/48559877497_543373f46d_k.jpg">
+{{< img src="https://live.staticflickr.com/65535/48559877497_543373f46d_k.jpg" >}}
 <!--more-->
 
 The first *real* day of the trip saw us at Red Rock State Park in Arizona, where we ran into clouds that would follow us the rest of the way, putting us in the middle of storms at the beginning and end of it, but mostly just providing us some welcome cover and respite from the desert heat. Red Rock was Kassi's idea a year ago, though we weren't able to make it work then timewise. Wouldn't have been on my radar, necessarily, but turned out to be quite an interesting place, especially in the rain. Like Diamond Head on Oahu, it seems to be a very popular hiking spot for the locals, who showed up unfazed by the impending serious weather — a lightning and hail storm, as it turned out, that overtook us minutes after we arrived back at the parking lot.

@@ -6,7 +6,7 @@ camera = "Sony A7RII"
 categories = ["Journal"]
 images = ["https://live.staticflickr.com/65535/50050722438_9663943b5e_k.jpg"]
 +++
-<img src="https://live.staticflickr.com/65535/50050722438_9663943b5e_k.jpg">
+{{< img  src="https://live.staticflickr.com/65535/50050722438_9663943b5e_k.jpg" >}} 
 <!--more-->
 It's no longer springtime at the ranch. I've been holding on to this set for a while. I took my time working with these in post, as they gave me new ideas and new opportunities for working with dense foliage. The lines and details can easily overwhelm a photo, and you can go either one of two ways. You can simplify by focusing on small stuff and cutting out all the surrounding noise. Or you can go wide, taking everything in and giving more of an impressionistic result in post. That part is a bit harder, but oftentimes more rewarding in my opinion. I think I have a bit of both in here. 
 

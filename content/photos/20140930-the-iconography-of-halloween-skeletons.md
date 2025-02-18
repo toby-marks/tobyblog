@@ -6,7 +6,7 @@ camera = "shallots, garlic, and mushrooms."
 categories = ["Journal"]
 tags = ["Halloween"]
 +++
-{{< picture alt="" src="http://2.bp.blogspot.com/-63LpKquAqBg/VCuQQPTZnnI/AAAAAAAABcg/QNzcV0lck1M/s2048/tumblr_inline_ncqnlhYHgi1rzwpy9.gif" >}}
+![spooky scary skeleton](http://2.bp.blogspot.com/-63LpKquAqBg/VCuQQPTZnnI/AAAAAAAABcg/QNzcV0lck1M/s2048/tumblr_inline_ncqnlhYHgi1rzwpy9.gif)
 
 <!--more-->
 
@@ -16,7 +16,7 @@ tags = ["Halloween"]
 
 {{< picture alt="" src="http://1.bp.blogspot.com/-L2utkLE7z2A/VCuQYeIH8RI/AAAAAAAABco/sPyFz3oOAtY/s2048/Happy-Halloween-Skeleton-Wishes.jpg" >}}
 
-{{< picture alt="" src="http://4.bp.blogspot.com/-_b8T4UgSCT4/VCuQcMeVbpI/AAAAAAAABcw/nNmOT3-eC3Y/s2048/skeletons.gif" >}}
+![another skeleton](http://4.bp.blogspot.com/-_b8T4UgSCT4/VCuQcMeVbpI/AAAAAAAABcw/nNmOT3-eC3Y/s2048/skeletons.gif)
 
 {{< picture alt="" src="http://4.bp.blogspot.com/-TRhoOZk3_8I/VCuQr6cLwqI/AAAAAAAABdA/IxTRkx0SAKk/s2048/DSC01737.jpg" >}}
 

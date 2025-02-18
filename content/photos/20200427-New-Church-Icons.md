@@ -7,7 +7,7 @@ categories = ["Journal"]
 tags = ["religion", "Orthodox"]
 images = ["https://live.staticflickr.com/65535/49727174413_9fd2faf8bb_k.jpg"]
 +++
-<img src="https://live.staticflickr.com/65535/49727174413_9fd2faf8bb_k.jpg" alt="stnicholas">
+{{< img src="https://live.staticflickr.com/65535/49727174413_9fd2faf8bb_k.jpg" alt="stnicholas" >}}
 <!--more-->
 Pascha comes and goes, and time tends to slip away. I've been quite busy lately. A lot of that time was spent at St. Nicholas, helping with the streaming of services while we're all on lockdown. 
 

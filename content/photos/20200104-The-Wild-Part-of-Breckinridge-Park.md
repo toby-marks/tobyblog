@@ -6,7 +6,7 @@ camera = "Nikon Coolpix P1000"
 categories = ["Journal"]
 images = ["https://live.staticflickr.com/65535/49329539932_5fd41fae62_k.jpg"]
 +++
-<img src="https://live.staticflickr.com/65535/49329539932_5fd41fae62_k.jpg">
+{{< img src="https://live.staticflickr.com/65535/49329539932_5fd41fae62_k.jpg" >}}
 <!--more-->
 Just a short walk not far from home, down an old path that has afforded me some of my all-time favorite "woodsy" outdoor photos. The golden berries you see are from the Chinaberry trees found all over north Texas. I don't think I've ever noticed them so ripe before. Kassi tells me that my father-in-law says they ferment and the birds eat them to get drunk. I wonder if that's true. It's pretty cool to think that nature provides the bird with some wintertime spiked drink of their own to keep them warm during the cold months. But I can't say I've ever seen a drunk bird.
 

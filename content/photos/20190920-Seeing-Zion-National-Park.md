@@ -8,7 +8,7 @@ categories = ["Journal"]
 tags = ["travel","Utah","national parks"]
 images = ["https://live.staticflickr.com/65535/48760860313_9cda9414be_k.jpg"]
 +++
-<img src="https://live.staticflickr.com/65535/48760860313_9cda9414be_k.jpg">
+{{< img src="https://live.staticflickr.com/65535/48760860313_9cda9414be_k.jpg" >}}
 <!--more-->
 
 The drive through southern Utah was the most gorgeous stretch of the trip. It's funny how well the terrain seems to combine the best of the red rock desert of northern Arizona with the rugged greenery of the Colorado high country. Before coming into Zion we made an unexpected detour at the Lake Powell dam. In retrospect I wish we'd had the time to take the full tour, but as it was we needed to get back on the road in order to hit Zion before sundown. 

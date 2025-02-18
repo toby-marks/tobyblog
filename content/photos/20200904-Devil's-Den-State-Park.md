@@ -7,7 +7,7 @@ categories = ["Journal"]
 tags = ["travel", "Arkansas"]
 images = ["https://live.staticflickr.com/65535/50287424453_954a909cb2_k.jpg"]
 +++
-<img src="https://live.staticflickr.com/65535/50287424453_954a909cb2_k.jpg">
+{{< img alt="climbing a hill at Devil's Den" src="https://live.staticflickr.com/65535/50287424453_954a909cb2_k.jpg" >}}
 <!--more-->
 A few weeks back we made the decision to get out of the house and try something of a short family vacation. It would be a little trip to Arkansas, to [Devil's Den](https://www.amazon.com/Incident-Devils-story-Terry-Lovelace/dp/0692072012) State Park. Anything to get out of the house and into nature. Devil's Den is one of those areas with a low-key spooky reputation, but the spookiest part about the trip to me was seeing half the road worn away in landslides at a couple of different spots on the drive up. The park itself is a pretty place, with a ton of interesting trails to explore, and decent changes in elevation — enough to work those legs and knees so that you feel it. The weather was warm and a little muggy, but not too bad. None of us really cared; it just felt so got to be out doing something. 
 
