@@ -14,7 +14,7 @@
   target = "assets"
 
 [[mounts]]
-  source = "node_modules/@thulite/images/assets"
+  source = "node_modules/@toby-marks/images/assets"
   target = "assets"
   excludeFiles = "/scss/**.scss"
 
@@ -48,7 +48,7 @@
   target = "layouts"
 
 [[mounts]]
-  source = "node_modules/@thulite/images/layouts"
+  source = "node_modules/@toby-marks/images/layouts"
   target = "layouts"
 
 [[mounts]]
