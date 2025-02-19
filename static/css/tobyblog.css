@@ -111,7 +111,7 @@ article.photo img[alt="Oracle Headquarters"] {
 and (max-width: 780px) {
 
   nav ul {
-    margin: 10px 0 0 0;
+    margin: 10px 0 0px 0;
     padding: 0;
     list-style-type: none;
   }
