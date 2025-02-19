@@ -258,7 +258,7 @@ Add this CSS to your site to remove small gaps between adjacent elements:
         {{- errorf "%s. See %s" .Err $.contentPath }}
       {{- else with .Value }}
         {{- /* Destination is a remote resource. */}}
-        {{- $r = . }}
+        {{- $r = .Value }}
       {{- end }}
     {{- else }}
       {{- errorf $msg }}
