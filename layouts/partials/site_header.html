@@ -10,7 +10,7 @@
     {{ $siteTitle := .Site.Title }} {{ $title := $siteTitle }}{{ if .IsPage }}{{ $title = .Title }}
     <meta property="og:type" content="article" />
     <meta property="og:title" content="{{ $title }}">
-    {{ if .Param "feature" }}<meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.feature }}">{{ end }}
+    {{ if .Param "feature" }}<meta property="og:image" content="{{ absURL "" }}{{ .Params.feature }}">{{ end }}
     <meta property="og:url" content="{{ .Page.Permalink }}">
     <meta property="og:description" content="{{ .Summary }}">
     <meta property="og:site_name" content="@{{ .Site.Params.Author.handle }}’s {{ .Site.Title }}">
@@ -21,14 +21,14 @@
     <title>{{ with .Title }}{{ if ne . ($.Scratch.Get "title") }}{{ . }} &middot; {{ end }}{{ end }}@{{ .Site.Params.Author.handle }}’s {{ .Site.Title }}</title>
 
 	<script type="text/javascript" src="/unitegallery/js/jquery-11.0.min.js"></script>
-    <link rel="stylesheet" href="{{.Site.BaseURL}}css/joshin-color-palette.css" media="screen" charset="utf-8" />
-    <link rel="stylesheet" href="{{.Site.BaseURL}}css/joshin-color-light.css" media="screen" charset="utf-8" />
+    <link rel="stylesheet" href="{{ relURL "/css/joshin-color-palette.css" }}" media="screen" charset="utf-8" />
+    <link rel="stylesheet" href="{{ relURL "/css/joshin-color-light.css" }}" media="screen" charset="utf-8" />
     {{ if .Site.Params.EnablePreferredDarkAppearance }}
-    <link rel="stylesheet" href="{{.Site.BaseURL}}css/joshin-color-dark.css" media="screen" charset="utf-8" />
+    <link rel="stylesheet" href="{{ relURL "/css/joshin-color-dark.css" }}" media="screen" charset="utf-8" />
     {{ end }}
 
-    <link rel="stylesheet" href="{{.Site.BaseURL}}css/weblog.css" media="screen" charset="utf-8" />
-    <link rel="stylesheet" href="{{.Site.BaseURL}}lightbox2-2.11.4/css/lightbox.min.css" type="text/css" />
+    <link rel="stylesheet" href="{{ relURL "/css/weblog.css" }}" media="screen" charset="utf-8" />
+    <link rel="stylesheet" href="{{ relURL "/lightbox2-2.11.4/css/lightbox.min.css" }}" type="text/css" />
 
     {{ partial "custom_stylesheets.html" . }}
 

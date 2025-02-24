@@ -5,7 +5,7 @@
 {{ $paginator := .Paginate $pages }}
 
 {{ range .Paginator.Pages }}
-  {{ $url := replace .Permalink .Site.BaseURL "" }}
+  {{ $url := replace .Permalink (absURL "") "" }}
 
   {{ if or (eq .Type "microposts") (eq .Type "micropost") }}
     {{ partial "preview_micropost.html" . }}
