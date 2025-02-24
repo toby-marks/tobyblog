@@ -47,15 +47,9 @@ a[href] {
 	color: rgb(204,216,133);
 }
 
-img {
-  height: auto;
-  width: 100%;
-  max-width: calc(100vw + 40px);
-}
-
-p > img, p > picture > img, p > figure > img {
+p img {
   margin-left: -20px;
-  width: calc(100% + 40px);
+  max-width: 100vw;
 }
 
 figure {
