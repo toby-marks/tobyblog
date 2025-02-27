@@ -3,7 +3,6 @@ title      = "Old Photos"
 date       = "2025-02-26T17:29:02-06:00"
 tags       = ["nostalgia"]
 categories = ["journal","photoblog"]
-series     = ["old photos"]
 minipost   = true
 +++
 {{< picture alt="little Toby at Holly Beach" src="/images/toby_at_the_beach.jpg" >}}
