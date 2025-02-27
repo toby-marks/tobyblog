@@ -228,7 +228,7 @@
 	url = https://github.com/digitalcraftsman/hugo-material-docs.git
 [submodule "themes/internet-weblog"]
 	path = themes/internet-weblog
-	url = https://github.com/jnjosh/internet-weblog.git
+	url = https://github.com/toby-marks/internet-weblog.git
 [submodule "hugo-phlat-theme"]
 	path = hugo-phlat-theme
 	url = https://github.com/nraboy/hugo-phlat-theme
