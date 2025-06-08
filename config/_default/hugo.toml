@@ -54,4 +54,4 @@ copyRight = "Copyright (c) 2013-2025 Toby Marks"
 [pagination]
 pagerSize = 5
 
-timeout = 1000000
+timeout = 2m
