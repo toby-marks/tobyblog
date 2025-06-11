@@ -4,7 +4,7 @@
 {{ end }}
 {{ $paginator := .Paginate $pages }}
 
-{{ range .Paginator.Pages }}
+{{ range $paginator.Pages }}
   {{ $url := replace .Permalink (absURL "") "" }}
 
   {{ if or (eq .Type "microposts") (eq .Type "micropost") }}
