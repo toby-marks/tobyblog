@@ -1,7 +1,6 @@
 +++
 date = "2019-10-23T11:00:00-05:00"
 title = "Gone Cachin'"
-
 +++
 I have decided that this is no longer a tenable situation. I used to have this entire area covered in "smilies". Time to get busy again.
 

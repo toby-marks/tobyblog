@@ -1,7 +1,6 @@
 +++
 date = 2019-11-11T22:03:00Z
 title = "Armistice Day"
-
 +++
 happy Armistice.
 

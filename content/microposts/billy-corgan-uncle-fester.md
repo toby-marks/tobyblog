@@ -1,7 +1,6 @@
 +++
 date = 2019-11-18T21:52:00Z
 title = "Billy Corgan is Uncle Fester"
-
 +++
 Exactly when did Billy Corgan become Uncle Fester?
 

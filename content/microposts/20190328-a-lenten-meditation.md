@@ -1,8 +1,6 @@
 +++
 date = "2019-03-28T08:00:00+00:00"
 title = "A Lenten Meditation "
-categories = ["Books"]
-tags = ["religion","Orthodox"]
 +++
 The soul has to make a choice, and the outcome will either break it into pieces or enable it to sail to its destination in God. And the choice comes down to this: Will the soul accept or reject suffering? Will it make this suffering its own, or struggle against it, seeing it as something alien to itself? 
 

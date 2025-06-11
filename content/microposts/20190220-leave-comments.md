@@ -1,8 +1,6 @@
 +++
 title = "Now you can leave comments"
 date = "2019-02-20T22:51:10-08:00"
-categories = ["Admin"]
-tags = []
 +++
 👨🏻‍💻🛠
 
