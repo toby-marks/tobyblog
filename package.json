@@ -14,7 +14,7 @@
     "clean:install": "shx rm -rf node_modules package-lock.json yarn.lock pnpm-lock.yaml && npm install"
   },
   "dependencies": {
-    "@thulite/images": "^3.3.1",
+    "@toby-marks/images": "^1.0.0",
     "@thulite/seo": "^2.4.1",
     "thulite": "^2.5.0"
   },
