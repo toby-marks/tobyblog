@@ -1,7 +1,6 @@
 +++
 date = "2019-06-25T12:00:00-05:00"
 title = "Where O’Conner Ends"
-categories = ["Hobbies"]
 tags = ["geocaching"]
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1561484451/img/A5486969-3166-43AF-A464-FCD27CA17EEA.jpg"]
 +++

@@ -1,8 +1,6 @@
 +++
 title = "Site Updates — Photoblog Previews Fixed for Mobile"
 date = "2019-02-28T01:27:47-06:00"
-categories = ["Admin"]
-tags = []
 +++
 I made a couple of site updates yesterday I wanted to mention. 
 

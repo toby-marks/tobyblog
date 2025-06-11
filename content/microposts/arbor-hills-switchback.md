@@ -1,7 +1,6 @@
 +++
 date = 2019-11-04T17:01:00Z
 title = "Arbor Hills Switchback"
-
 +++
 
 {{< picture 
