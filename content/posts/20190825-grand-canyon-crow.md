@@ -2,8 +2,7 @@
 title = "Crow at the Grand Canyon"
 description = ""
 date = "2019-08-25T17:32:25-05:00"
-categories = ["Journal"]
-tags = ["corvids", "Grand Canyon", "vacation", "Arizona"]
+
 minipost = true
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1566837042/img/October-small-vignette.jpg"]
 +++

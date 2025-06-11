@@ -1,7 +1,7 @@
 +++
 title = "The Mask of the Red Death"
 date = 2014-10-18T06:56:00Z
-categories = ["Books"]
+
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="http://4.bp.blogspot.com/-LG5tJUTc_xU/VEJuvEURinI/AAAAAAAABis/MisjKk3frhA/s2048/IMG_2405.JPG" >}}
 

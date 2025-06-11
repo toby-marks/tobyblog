@@ -1,8 +1,7 @@
 +++
 title = "Infexxion-34"
 date = "2019-03-04T23:29:44-06:00"
-categories = ["Journal"]
-tags = ["gaming"]
+
 images = ["https://live.staticflickr.com/7825/46298055565_a3db27735c_k.jpg"]
 minipost = true
 +++

@@ -2,7 +2,7 @@
 title = "Brown Noise Tracks for Intense Focus"
 description = "Some brown noise tracks I listen to when I want to concentrate for long periods of time."
 date = "2019-03-08T12:31:10-06:00"
-categories = ["Music"]
+categories = ["music"]
 +++
 Over the last couple of weeks I've had the need to maintain a greater focus in my work and study. I find brown noise to be good way of filtering out distractions, to allow the mind to concentrate on a task. Brown noise tends to sit at a lower frequency than white noise, so the sound is deeper and more meditative. 
 

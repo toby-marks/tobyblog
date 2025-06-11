@@ -1,8 +1,8 @@
 +++
 title = "First Halloween Merch of the Year"
 date = 2014-07-12T06:52:00Z
-categories = ["Journal"]
-tags = ["Halloween"]
+
+tags = ["halloween"]
 images = ["https://lh5.googleusercontent.com/-EarOXcizEuM/U8E9eAw3IlI/AAAAAAAAAgk/24_MmhFTaq8/s640/blogger-image--1728556188.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://lh5.googleusercontent.com/-EarOXcizEuM/U8E9eAw3IlI/AAAAAAAAAgk/24_MmhFTaq8/s640/blogger-image--1728556188.jpg" >}}

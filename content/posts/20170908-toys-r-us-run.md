@@ -4,8 +4,7 @@ title = "A Halloween Run to Toys R Us"
 date = "2017-09-08"
 camera = "iPhone 7 Plus"
 images = ["https://live.staticflickr.com/4394/36452690190_92897263fe_k.jpg"]
-categories = ["Journal"]
-tags = ["toys","stores"]
+
 +++
 {{< figure class= "wp-caption alignnone" alt="Labyrinth Movie" src="https://live.staticflickr.com/4394/36452690190_92897263fe_k.jpg" >}}
 <!--more-->      

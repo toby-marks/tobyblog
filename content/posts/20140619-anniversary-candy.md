@@ -1,8 +1,7 @@
 +++
 title = "Anniversary Candy"
 date = 2014-06-19T22:27:00Z
-categories = ["Reviews"]
-tags = ["food"]
+categories = ["reviews"]
 images = ["https://lh3.googleusercontent.com/-xm0JFA17S_I/U6R9zcsBA4I/AAAAAAAAAew/h2zWFMTegHk/s640/blogger-image--2114821383.jpg"]
 +++
 {{< figure src="https://lh3.googleusercontent.com/-xm0JFA17S_I/U6R9zcsBA4I/AAAAAAAAAew/h2zWFMTegHk/s640/blogger-image--2114821383.jpg" >}}

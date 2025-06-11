@@ -4,8 +4,7 @@ title = "The Total Solar Eclipse of 2017!"
 date = "2017-09-02T16:45:55-05:00"
 camera = "iPhone 7 Plus"
 image = "https://live.staticflickr.com/4337/36040051563_7197146eac_k.jpg"
-categories = ["Journal"]
-tags = ["Augie"]
+categories = ["photography"]
 +++
 {{< picture alt="Eclipse makes me say WOAH" src="https://live.staticflickr.com/4337/36040051563_7197146eac_k.jpg" >}}
 <!--more-->

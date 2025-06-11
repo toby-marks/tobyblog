@@ -2,7 +2,7 @@
 title = "The Year in Pictures — 2017 Edition"
 description = "Some of my favorites photos from 2017"
 date = "2017-12-31"
-categories = ["Journal"]
+categories = ["photography"]
 minipost = "true"
 images = ["/img/2017-12-31-top-nine/top9.jpg"]
 +++

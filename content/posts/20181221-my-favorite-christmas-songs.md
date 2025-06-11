@@ -2,8 +2,7 @@
 title = "A Few of My Favorite Christmas Songs"
 Description = "Songs old and new for your holiday enjoyment, and mine."
 date = "2018-12-21T16:44:08-06:00"
-categories = ["Music"]
-tags = ["Christmas"]
+categories = ["music"]
 +++
 
 {{< youtube S6wDzvibd_Q >}}

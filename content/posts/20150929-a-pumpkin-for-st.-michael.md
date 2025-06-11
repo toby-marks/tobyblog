@@ -1,8 +1,8 @@
 +++
 title = "A Pumpkin for St. Michael"
 date = 2015-09-29T09:36:00Z
-categories = ["Journal"]
-tags = ["Halloween"]
+
+tags = ["halloween"]
 images = ["http://1.bp.blogspot.com/-TvFPrswWWuQ/VgoFTeIJpPI/AAAAAAAACnM/cmFgEqqdhlI/s2048/IMG_4040.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="http://1.bp.blogspot.com/-TvFPrswWWuQ/VgoFTeIJpPI/AAAAAAAACnM/cmFgEqqdhlI/s2048/IMG_4040.jpg" >}}

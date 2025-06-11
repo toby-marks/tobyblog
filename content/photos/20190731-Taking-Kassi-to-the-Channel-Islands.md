@@ -3,8 +3,8 @@ title = "Taking Kassi to the Channel Islands"
 date = "2019-07-31T17:04:06-05:00"
 location = "Channel Islands National Park"
 camera = "Nikon and Sony"
-tags = ["Pasadena","California","travel","Kassi"]
-categories = ["Journal"]
+tags = ["travel"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/48426181736_531271204d_k.jpg"]
 +++
 {{< img src="https://live.staticflickr.com/65535/48426181736_531271204d_k.jpg" >}}

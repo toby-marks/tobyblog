@@ -3,8 +3,8 @@ title = "Pumpkin Hollow 2019"
 date = "2019-10-19T10:38:39-05:00"
 location = "Little Elm, Texas"
 camera = "Nikon P1000 and Sony A7RII"
-categories = ["Journal"]
-tags = ["Halloween","festivals"]
+categories = ["photography"]
+tags = ["halloween"]
 images = ["https://live.staticflickr.com/65535/48924284687_101bae46e7_k.jpg"]
 +++
 {{< picture alt="Pumpkin Hollow - 27 of 29" src="https://live.staticflickr.com/65535/48924284687_101bae46e7_k.jpg" >}}

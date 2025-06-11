@@ -4,7 +4,7 @@ date = "2020-03-26T23:53:23-05:00"
 location = "Dallas, TX"
 camera = "Nikon Coolpix P1000"
 images = ["https://live.staticflickr.com/65535/49702654503_9c0a62cb86_k.jpg"]
-categories = ["Journal"]
+categories = ["photography"]
 +++
 {{< img src="https://live.staticflickr.com/65535/49702654503_9c0a62cb86_k.jpg" >}}
 <!--more-->

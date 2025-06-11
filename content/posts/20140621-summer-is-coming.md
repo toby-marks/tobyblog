@@ -1,7 +1,7 @@
 +++
 title = "Summer is Coming"
 date = 2014-06-21T08:52:00Z
-categories = ["Journal"]
+
 minipost = "true"
 images = ["http://1.bp.blogspot.com/-jX8INn66ESE/U6Wp9MBW79I/AAAAAAAAAfg/y5WbLf8xnFs/s2048/DSC04353.jpg"]
 +++

@@ -3,7 +3,8 @@ title = "Scenes from the Lax International Terminal"
 date = "2019-02-26T12:53:04-06:00"
 location = "Los Angeles, California"
 camera = "iPhone XS"
-tags = ["Pasadena","California","Los Angeles","LAX","travel"]
+categories = ["photography"]
+tags = ["travel"]
 images = ["https://live.staticflickr.com/7926/47220818321_d9fd50fabe_o.jpg"]
 +++
 {{< picture alt="Futuristic Billboard Wall" src="https://live.staticflickr.com/7903/46497439394_d9ebaf5919_o.jpg" >}}

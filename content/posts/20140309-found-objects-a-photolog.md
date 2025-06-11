@@ -1,7 +1,7 @@
 +++
 title = "Found Objects: Evil Zombie Clown"
 date = 2014-03-09T19:00:00Z
-categories = ["Hobbies"]
+
 tags = ["geocaching"]
 images = ["http://4.bp.blogspot.com/-3ji1yOQtiMw/UxyOCfghi_I/AAAAAAAAAUA/nmODM8uCQ1Q/s2048/clown_face.png"]
 +++

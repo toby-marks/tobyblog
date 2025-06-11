@@ -1,9 +1,9 @@
 +++
-categories = ["Journal"]
+
 date = "2019-08-02T13:00:00-05:00"
 description = ""
 minipost = "true"
-tags = ["travel","vacation","Albuquerque","New Mexico","Flagstaff","Arizona","Red Rock State Park"]
+tags = ["travel"]
 title = "Road Trip Travel Log 02.01"
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1564771851/img/083FFD6C-DD75-4614-8570-7E486FC91746_jcqzps.jpg"]
 +++

@@ -1,8 +1,8 @@
 +++
 date = "2019-03-12T03:00:00+00:00"
 title = "Old Methodist Church"
-categories = ["Journal"]
-tags = ["Pasadena","California","travel"]
+
+tags = ["travel"]
 minipost = true
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1552362141/img/AE13A14E-DB5D-4644-B34E-A376AD0A7360.jpg"]
 +++

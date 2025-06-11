@@ -2,7 +2,7 @@
 title = "The Year in Pictures — 2024 Edition"
 description = "A gallery of my best photos from 2024"
 date = "2025-02-14T16:40:29-06:00"
-categories = ["Journal"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/51800482455_e3e94eb67a_k.jpg"]
 +++
 [{{< picture src="https://live.staticflickr.com/65535/54323730279_be90f8f4c0_k.jpg" alt="entertainer performing a fire act at Pumpkin Nights" >}}](https://www.flickr.com/photos/tobyjmarks/albums/72177720323801084/)

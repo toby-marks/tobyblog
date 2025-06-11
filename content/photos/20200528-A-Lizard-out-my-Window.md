@@ -3,6 +3,7 @@ title = "A Lizard Out My Window"
 date = "2020-05-28T17:08:34-05:00"
 location = "Dallas, TX"
 camera = "Nikon Coolpix P1000"
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/49946842082_c642973c05_k.jpg"]
 +++
 {{< picture alt="Lizard 02" src="https://live.staticflickr.com/65535/49946842082_c642973c05_k.jpg" >}}

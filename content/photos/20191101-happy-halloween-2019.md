@@ -3,8 +3,8 @@ camera = "iPhone XS"
 date = 2019-11-01T03:00:00Z
 location = "Dallas, TX"
 title = "Happy Halloween, 2019"
-categories = ["Journal"]
-tags = ["Halloween"]
+categories = ["photography"]
+tags = ["halloween"]
 images = ["https://res.cloudinary.com/tobyblog/image/upload/a_0/v1572579681/img/95F3C504-A0F0-4BE7-B460-870629AEDC4E_cb4ixx.jpg"]
 +++
 {{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/a_0/v1572579604/img/2C248740-BC32-4495-A471-DD1401DBC4D6_c03nnu.jpg" >}}  

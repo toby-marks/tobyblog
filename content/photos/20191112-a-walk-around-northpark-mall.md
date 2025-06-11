@@ -3,7 +3,7 @@ camera = "iPhone XS"
 date = 2019-11-12T12:00:00Z
 location = "Dallas, TX"
 title = "A Walk Around Northpark Mall"
-categories = ["Journal"]
+categories = ["photography"]
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1573584468/img/33AB1556-F0BC-4D69-9EFA-672FDF4C9544_rbmnzj.jpg"]
 +++
 {{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1573584468/img/33AB1556-F0BC-4D69-9EFA-672FDF4C9544_rbmnzj.jpg" >}}  

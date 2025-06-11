@@ -2,8 +2,7 @@
 title = "My Love, She Weeps At Many Things"
 description = "A poem by Ray Bradbury"
 date = "2019-02-28T01:41:02-06:00"
-categories = ["Books"]
-tags = ["Ray Bradbury"]
+
 minipost = "true"
 images = ["https://live.staticflickr.com/7896/46298054945_7fc2b02e2f_k.jpg"]
 +++

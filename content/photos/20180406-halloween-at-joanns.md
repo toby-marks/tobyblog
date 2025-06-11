@@ -2,8 +2,8 @@
 description = "This year I discovered Joanns Fabrics sells a lot of great Halloween stuff."
 date = "2018-04-06T11:27:20-05:00"
 title = "Halloween at Joanns Fabrics"
-categories = ["Reviews"]
-tags = ["Halloween","stores","Augie"]
+categories = ["photography"]
+tags = ["halloween"]
 location = "Arlington, Texas"
 camera = "my iPhone, I think"
 image = ["https://live.staticflickr.com/4373/36040402923_de601519f8_k.jpg"]

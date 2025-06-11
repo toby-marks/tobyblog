@@ -2,7 +2,7 @@
 title = "The Year in Pictures — 2021 Edition"
 description = ""
 date = "2022-01-11T16:36:14-06:00"
-categories = ["Journal"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/51800482455_e3e94eb67a_k.jpg"]
 minipost = "true"
 +++

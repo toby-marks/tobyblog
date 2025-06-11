@@ -3,8 +3,8 @@ title = "Incredible Halloween Village at Michaels"
 date = 2014-08-23
 location = "Dallas, TX"
 camera = "my iPhone"
-categories = ["Reviews"]
-tags = ["geocaching","Halloween","stores"]
+categories = ["reviews"]
+tags = ["geocaching","halloween"]
 images = ["http://1.bp.blogspot.com/-9EU7kxb09Y0/U_YwFMV_fLI/AAAAAAAAA6Q/EEIYtDJvZ4s/s2048/IMG_1667.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="http://1.bp.blogspot.com/-9EU7kxb09Y0/U_YwFMV_fLI/AAAAAAAAA6Q/EEIYtDJvZ4s/s2048/IMG_1667.jpg" >}}

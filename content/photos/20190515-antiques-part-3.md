@@ -3,8 +3,8 @@ camera = "iPhone XS"
 date = "2019-05-15T1:48:23-05:00"
 location = "Pasadena, California"
 title = "Antiques, Part 3"
-tags = ["Pasadena","California","travel","antiques"]
-categories = ["Journal"]
+tags = ["travel"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/40893653383_50c24dbc30_k.jpg"]
 +++
 {{< picture alt="A Striking Bust 01" src="https://live.staticflickr.com/65535/40893653383_50c24dbc30_k.jpg" >}}

@@ -1,8 +1,8 @@
 +++
 title = "The Tobyblog Thanksgiving Special"
 date = 2015-11-29T14:03:00Z
-categories = ["Specials"]
-tags = ["deer balls", "home", "geocaching", "reviews", "Thanksgiving", "thevcubesolver", "food"]
+
+tags = ["geocaching"]
 externalurl = "https://www.youtube.com/watch?v=Bbt8Bt_3K-Y"
 +++
 After taking some time off to contemplate the overwhelming success of my Burger King poop tweet*, we now return to our regularly scheduled programming.

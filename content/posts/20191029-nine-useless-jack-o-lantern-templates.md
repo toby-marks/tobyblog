@@ -1,8 +1,8 @@
 +++
-categories = ["Journal"]
+
 date = "2019-10-29T23:00:00-05:00"
 description = ""
-tags = ["Halloween"]
+tags = ["halloween"]
 title = "Nine Useless Jack O' Lantern Templates"
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1572452314/img/Screen_Shot_2019-10-29_at_5.47.10_PM.png"]
 +++

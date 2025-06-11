@@ -2,8 +2,7 @@
 title = "The Windows of Our Isolation"
 description = ""
 date = "2020-04-14T09:49:49-05:00"
-categories = ["News"]
-tags = [""]
+
 externalurl = "https://onezero.medium.com/zoom-is-a-nightmare-so-why-is-everyone-still-using-it-1b05a4efd5cc"
 +++
 > Since the coronavirus started spreading, our little computer and phone cameras have become the windows of our isolation, looking into other people’s lives, catching glimpses of pets, children, and spouses in the background of video calls. I find these moments deeply humanizing; reminders that we’re not perfect work machines, just people trying to do the best we can. Our hair is messy, our faces poorly framed and lit. Sometimes we leave the mic on when we go to the bathroom.

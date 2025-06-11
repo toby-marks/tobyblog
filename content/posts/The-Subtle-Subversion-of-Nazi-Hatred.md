@@ -2,8 +2,7 @@
 title = "The Subtle Subversion of Hating Nazis"
 description = "Hitler is not the devil."
 date = "2020-04-28T09:50:49-05:00"
-categories = ["News"]
-tags = ["nazis", "media"]
+
 externalurl = "https://medium.com/humungus/in-the-future-everyone-will-be-a-nazi-for-15-minutes-aa4ef574ad1b"
 +++
 > It’s not a contest but every generation has to confront its own evil because there is something deeply wrong with human beings.

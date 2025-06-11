@@ -3,8 +3,8 @@ camera = "Sony A7RII, Sigma Art 85mm f/1.8"
 date = 2019-11-08T22:29:51Z
 location = "Dallas, TX"
 title = "A Sunset Walk in November"
-categories = ["Journal"]
-tags = ["Kassi","Anthony","Augie","Halloween","parks"]
+categories = ["photography"]
+tags = ["halloween"]
 images = [""]
 draft = "true"
 +++

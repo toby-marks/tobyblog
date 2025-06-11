@@ -4,8 +4,8 @@ date = "2019-09-20T11:51:57-05:00"
 location = "Zion National Park, Utah"
 camera = "Sony A7RII, Nikon Coolpix P1000"
 series = ["2019 Summer Vacation"]
-categories = ["Journal"]
-tags = ["travel","Utah","national parks"]
+categories = ["photography"]
+tags = ["travel"]
 images = ["https://live.staticflickr.com/65535/48760860313_9cda9414be_k.jpg"]
 +++
 {{< img src="https://live.staticflickr.com/65535/48760860313_9cda9414be_k.jpg" >}}

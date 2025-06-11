@@ -3,8 +3,7 @@ title = "Rip Taco Naan"
 description = ""
 date = "2020-12-05T09:25:06-06:00"
 minipost = "true"
-categories = [""]
-tags = [""]
+
 +++
 
 Damn you, covid. And damn the lockdowns.

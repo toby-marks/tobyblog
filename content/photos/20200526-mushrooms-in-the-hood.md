@@ -3,7 +3,7 @@ title = "Mushrooms in the Hood"
 date = "2020-05-26T18:25:17-05:00"
 location = "my neighborhood"
 camera = "my phone cam"
-categories = ["Journal"]
+categories = ["photography"]
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1590535456/img/IMG_7183.jpg"]
 +++
 {{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1590535456/img/IMG_7183.jpg" >}}

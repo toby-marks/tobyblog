@@ -2,8 +2,7 @@
 title = "Liturgical Music for Holy Week"
 description = ""
 date = "2020-04-14T14:05:30-05:00"
-categories = ["Music"]
-tags = [""]
+categories = ["music"]
 minipost = "true"
 +++
 Some of what I've been up to over the past week. This is a recording of the church choir taken after Palm Sunday liturgy. I believe it's meant to be instructional for the other cantors who will be assisting during Holy Week services.

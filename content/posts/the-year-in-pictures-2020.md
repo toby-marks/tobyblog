@@ -2,7 +2,7 @@
 title = "The Year in Pictures — 2020 Edition"
 description = ""
 date = "2020-12-30T16:36:14-06:00"
-categories = ["Journal"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/50764080916_a1f2d536bc_k.jpg"]
 minipost = "true"
 +++

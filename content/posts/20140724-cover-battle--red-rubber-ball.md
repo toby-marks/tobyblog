@@ -2,8 +2,7 @@
 title = "Cover Battle — Red Rubber Ball"
 description = "Another YouTube Cover Battle!, a copyrighted feature of Tobyblog.com"
 date = 2014-07-24T21:58:00Z
-categories = ["Music"]
-tags = ["pop music"]
+categories = ["music"]
 +++
 I woke up this morning with this song stuck in my head, thinking about my dad and the good progress he's making recovering from a triple bypass operation.
 

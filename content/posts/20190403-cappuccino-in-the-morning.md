@@ -1,7 +1,7 @@
 +++
 date = "2019-04-03T09:00:00+00:00"
 title = "Cappuccino in the Morning "
-categories = ["Journal"]
+
 minipost = true
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1554304247/img/063BF195-AF64-4498-BD1A-37F5F61BCD99.jpg"]
 +++

@@ -3,8 +3,8 @@ title = "The Retro Store in Pasadena, California"
 date = "2018-05-11T16:42:12-05:00"
 location = "Pasadena, California"
 camera = "iPhone 7 Plus"
-categories = ["Reviews"]
-tags = ["stores","toys","travel","California","Pasadena"]
+categories = ["photography"]
+tags = ["travel"]
 images = ["https://live.staticflickr.com/946/42090262291_a3648e83a8_o.jpg"]
 +++
 {{< picture alt="The Retro Store Storefront" src="https://live.staticflickr.com/946/42090262291_a3648e83a8_o.jpg" >}}

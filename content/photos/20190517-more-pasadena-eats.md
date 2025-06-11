@@ -3,8 +3,8 @@ camera = "my handy iPhone XS"
 date = "2019-05-17T18:00:00+00:00"
 location = "Pasadena, California"
 title = "More Pasadena Eats"
-categories = ["Journal"]
-tags = ["Pasadena","California","travel","food"]
+categories = ["photography"]
+tags = ["travel"]
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1558135229/img/E9B65ABF-BCBE-4A07-BC70-38DA032212F8.jpg"]
 +++
 {{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1558135229/img/E9B65ABF-BCBE-4A07-BC70-38DA032212F8.jpg" >}}

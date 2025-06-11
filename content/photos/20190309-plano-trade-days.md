@@ -3,8 +3,8 @@ camera = "my iPhone"
 date = "2019-03-09T06:00:00+00:00"
 location = "Plano, TX"
 title = "Plano Trade Days"
-categories = ["Journal"]
-tags = ["Halloween","antiques","toys"]
+categories = ["photography"]
+tags = ["halloween"]
 images = ["https://res.cloudinary.com/tobyblog/image/upload/a_0/v1552180710/img/3092C5EB-BFB7-4C74-9522-63A923D64E83.jpg"]
 +++
 {{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/a_0/v1552180710/img/3092C5EB-BFB7-4C74-9522-63A923D64E83.jpg" >}}

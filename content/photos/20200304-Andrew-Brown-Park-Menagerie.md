@@ -3,8 +3,7 @@ title = "Andrew Brown Park Menagerie"
 date = "2020-03-04T21:08:08-06:00"
 location = "Coppell, TX"
 camera = "Nikon Coolpix P1000"
-categories = ["Journal"]
-tags = ["parks"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/49619064592_ed2afa7419_k.jpg"]
 +++
 {{< img src="https://live.staticflickr.com/65535/49619064592_ed2afa7419_k.jpg" >}}

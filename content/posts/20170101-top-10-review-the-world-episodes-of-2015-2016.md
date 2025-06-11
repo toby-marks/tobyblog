@@ -2,8 +2,8 @@
 title = "Top 10 Review the World Episodes of 2015-2016"
 date = 2017-01-01T23:24:00Z
 updated = 2017-01-01T23:24:56Z
-tags = ["reviewtheworld.com"]
-categories = ["Reviews"]
+tags = ["reviewtheworld"]
+categories = ["reviews"]
 +++
 It's that time of year again folks, that magical time between Christmas and New Year where thoughtful commentators like myself come out with their end of year retrospectives; and continuing a tradition I established a couple of years back on this site, I intend to give you my take on the best of my buddy Brian Hammons' output over on the internet's most beloved nostalgia blog, [ReviewTheWorld.com](http://www.reviewtheworld.com/). 
 

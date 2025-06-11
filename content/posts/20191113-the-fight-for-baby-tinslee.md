@@ -2,8 +2,7 @@
 title = "The Fight For Baby Tinslee"
 date = 2019-11-13T21:00:00Z
 description = ""
-categories = ["Journal"]
-tags = ["news"]
+
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1573679128/img/2C1366D7-67E3-4A28-996C-A7B2474B672D_kalzqo.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1573679128/img/2C1366D7-67E3-4A28-996C-A7B2474B672D_kalzqo.jpg" >}} 

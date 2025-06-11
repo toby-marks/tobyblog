@@ -4,8 +4,8 @@ date = "2017-09-07"
 location = "Dallas, Texas"
 camera = "iPhone 7 Plus"
 image = "https://live.staticflickr.com/4365/36848910545_1b7b05070d_k.jpg"
-categories = ["Hobbies"]
-tags = ["geocaching", "Augie"]
+categories = ["photography"]
+tags = ["geocaching"]
 +++
 {{< picture alt="My caching hat" src="https://live.staticflickr.com/4365/36848910545_1b7b05070d_k.jpg" >}}
 <!--more-->        

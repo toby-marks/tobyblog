@@ -1,7 +1,7 @@
 +++
 title = "Amazing 30th Anniversary Movies"
 date = 2016-06-06T14:23:00Z
-categories = ["Reviews"]
+categories = ["reviews"]
 tags = ["movies"]
 images = ["https://4.bp.blogspot.com/-N_sYE2ABXEI/V1XguDdnlNI/AAAAAAAAC2A/7pGxcuD1Yocuia7omTnafWcdQn3rY8ydACLcB/s2048/300px-Transformersanimatedfilmposter.jpg"]
 minipost = "true"

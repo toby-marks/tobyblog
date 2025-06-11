@@ -3,8 +3,7 @@ title = "Slayer, Striker, Shooter and the Rise of the Extreme Baby Boy Name"
 description = ""
 date = "2020-01-10T15:35:40-06:00"
 externalurl = "https://melmagazine.com/en-us/story/extreme-boys-names"
-categories = ["News"]
-tags = [""]
+
 +++
 > In a recent Namerology article on the topic, she lists several of the burlier, more aggressive names that have been picking up steam: Angler, Camper, Tracker, Trapper, Catcher, Driver, Fielder, Racer, Sailor, Striker, Wheeler — deep breath — Breaker, Roper, Trotter, Wrangler — still going — Lancer, Shooter, Slayer, Soldier, Tracer, Trooper — wait, “Slayer”? — Blazer, Brewer, Charger, Dodger, Laker, Pacer, Packer, Raider, Ranger, Steeler, Warrior — kill me — Dreamer, Jester and — wait for it — Rocker.
 

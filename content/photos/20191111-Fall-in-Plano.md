@@ -3,7 +3,7 @@ camera = "Sony A7rII, Nikon Coolpix P1000"
 date = 2019-11-11T18:30:09Z
 location = "Plano, TX"
 title = "Fall in Plano"
-categories = ["Journal"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/49051416553_824d2c23ed_k.jpg"]
 +++
 {{< picture alt="Couple" src="https://live.staticflickr.com/65535/49051416553_824d2c23ed_k.jpg" >}}

@@ -2,8 +2,7 @@
 title = "Make a Wish"
 description = ""
 date = "2020-03-17T18:18:33-05:00"
-categories = ["Photoblog"]
-tags = [""]
+categories = ["photography"]
 minipost = true
 +++
 Go ahead, now's your chance. 

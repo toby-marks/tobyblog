@@ -1,8 +1,7 @@
 +++
 title = "Bahama Bucks"
 date = 2015-06-17T09:09:00Z
-categories = ["Reviews"]
-tags = ["sno-cones", "summer", "Bahama Bucks"]
+categories = ["reviews"]
 externalurl = "https://www.youtube.com/watch?v=44-LJWFX0io"
 +++
 Katie and the gang over at [Cheap Thrills](http://www.facebook.com/teamsandnuttv) invited me and the kids to do a co-review highlighting some of our favorite summer treats. You can check out their submission, Culver's Frozen Custard, below.

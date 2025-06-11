@@ -3,8 +3,7 @@ title = "Cold Afternoon Walk at Audubon Park"
 date = "2022-01-03T15:56:01-06:00"
 location = "Audubon Park"
 camera = "Sony RX-100 V"
-categories = ["Journal"]
-tags = ["parks"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/51798246235_8158143a5d_k.jpg"]
 +++
 {{< picture alt="A little dog having fun in the park"

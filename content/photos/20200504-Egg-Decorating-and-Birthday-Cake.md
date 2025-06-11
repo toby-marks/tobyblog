@@ -3,7 +3,7 @@ title = "Egg Decorating and Birthday Cake"
 date = "2020-05-04T14:52:50-05:00"
 location = "Dallas, TX"
 camera = "iPhone"
-categories = ["Journal"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/49856196366_f7775e8797_k.jpg"]
 +++
 {{< picture alt="Wishes Made" src="https://live.staticflickr.com/65535/49856196366_f7775e8797_k.jpg" >}}

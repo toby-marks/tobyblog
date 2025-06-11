@@ -3,7 +3,7 @@ camera = "iPhone 📱"
 date = 2020-04-15T21:59:00Z
 location = "Dallas, TX"
 title = "Gun Range Trail"
-categories = ["Journal"]
+categories = ["photography"]
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1586987706/img/BCD5D474-0652-4356-9F06-8B3CD4378A2E_nxnkm3.jpg"]
 +++
 {{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1586987706/img/BCD5D474-0652-4356-9F06-8B3CD4378A2E_nxnkm3.jpg" >}}

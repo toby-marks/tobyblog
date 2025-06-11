@@ -3,8 +3,7 @@ title = "Opening the Dino Drac Funpack, Sep 2014"
 date = 2014-09-07
 location = "Dallas, TX"
 camera = "my Sony DSC RX-100"
-categories = ["Reviews"]
-tags = ["Dinosaur Dracula","Augie"]
+categories = ["reviews"]
 images = ["http://2.bp.blogspot.com/-JB9vI3k6VSA/VAv1DnbERKI/AAAAAAAABKE/dpcrYsI7IsA/s2048/DSC01899.jpg"]
 +++
 {{< picture src="http://4.bp.blogspot.com/-eJtzOcWGoH0/VAv1ERbJbhI/AAAAAAAABKQ/1KHejU1g0GU/s2048/DSC01904.jpg" >}}

@@ -1,7 +1,7 @@
 +++
 title = "The Toby Awards"
 date = "2018-03-29T09:47:54-05:00"
-categories = ["Journal"]
+
 minipost = true
 images = ["https://live.staticflickr.com/901/39497808430_138676a9e6_o.jpg"]
 +++

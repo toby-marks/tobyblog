@@ -3,8 +3,7 @@ title = "Things to See on a Lunchtime Walk"
 date = "2019-06-21T16:46:36-05:00"
 location = "Dallas, TX"
 camera = "Nikon Coolpix P1000"
-categories = ["Journal"]
-tags = ["parks"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/48105199446_ecf161b9bb_k.jpg"]
 +++
 {{< img alt="Leaf Beetle" src="https://live.staticflickr.com/65535/48105199446_ecf161b9bb_k.jpg" >}}

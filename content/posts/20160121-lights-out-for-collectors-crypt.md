@@ -3,8 +3,8 @@ title = "Lights Out For Collector's Crypt"
 date = 2016-01-21T14:30:00Z
 location = "Oak Cliff"
 camera = "my old Sony DSC RX-100"
-categories = ["Reviews"]
-tags = ["Collector's Crypt", "Texas Frightmare Weekend", "Dallas", "Halloween"]
+categories = ["reviews"]
+tags = ["halloween"]
 images = ["https://live.staticflickr.com/1666/23960351439_7b05ad37c0_k.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://live.staticflickr.com/1666/23960351439_7b05ad37c0_k.jpg" >}}

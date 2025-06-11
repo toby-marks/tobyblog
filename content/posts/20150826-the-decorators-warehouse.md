@@ -1,8 +1,7 @@
 +++
 title = "The Decorator's Warehouse"
 date = 2015-08-26T15:54:00Z
-categories = ["Reviews"]
-tags = ["Christmas","Augie","stores"]
+categories = ["reviews"]
 images = ["http://1.bp.blogspot.com/-IzcLhpsB2mo/VcvRu9_LdII/AAAAAAAACWA/4snJIiSjyBQ/s2048/DSC04578.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="http://1.bp.blogspot.com/-qpeZXgKa9cM/VcvUoyR-aJI/AAAAAAAACX0/cV2Hn4jOi9I/s2048/DSC04571.jpg" >}}

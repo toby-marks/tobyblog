@@ -1,8 +1,8 @@
 +++
 title = "Sfanthor! House of Wax"
 date = 2016-04-15T16:12:00Z
-categories = ["Reviews"]
-tags = ["stores","Austin","Carl","Halloween"]
+categories = ["reviews"]
+tags = ["halloween"]
 images = ["https://live.staticflickr.com/1549/25950434656_93b18a4748_o.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="Tobyblog and creep" src="https://live.staticflickr.com/1549/25950434656_93b18a4748_o.jpg" >}}

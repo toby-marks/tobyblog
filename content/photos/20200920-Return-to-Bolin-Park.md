@@ -3,7 +3,7 @@ title = "Return to Bolin Park"
 date = "2020-09-20T14:20:25-05:00"
 location = "Plano, TX"
 camera = "Nikon Coolpix P1000"
-categories = ["Journal"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/50364037488_057f03265b_k.jpg"]
 +++
 {{< img alt="ducks at Bolin Park" src="https://live.staticflickr.com/65535/50364037488_057f03265b_k.jpg" >}}

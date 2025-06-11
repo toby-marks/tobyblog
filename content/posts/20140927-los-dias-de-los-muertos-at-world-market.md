@@ -3,8 +3,8 @@ title = "Los Dias De Los Muertos at World Market"
 date = 2014-09-27T07:52:00Z
 location = "Dallas, TX"
 camera = "my Sony DSC RX-100"
-categories = ["Reviews"]
-tags = ["Halloween","stores"]
+categories = ["reviews"]
+tags = ["halloween"]
 images = ["http://4.bp.blogspot.com/-jxBynb6fbbQ/VCa81QdRisI/AAAAAAAABYE/oDRuHs5PaBQ/s2048/DSC02222.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="http://4.bp.blogspot.com/-jxBynb6fbbQ/VCa81QdRisI/AAAAAAAABYE/oDRuHs5PaBQ/s2048/DSC02222.jpg" >}}

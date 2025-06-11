@@ -8,13 +8,13 @@
     "dev": "hugo server --noHTTPCache --templateMetrics --templateMetricsHints",
     "dev:drafts": "hugo server --disableFastRender --noHTTPCache --buildDrafts",
     "format": "prettier **/** -w -c",
-    "build": "hugo --minify --gc",
+    "build": "hugo --minify --gc --templateMetrics --templateMetricsHints",
     "preview": "vite preview --outDir public",
     "clean:build": "shx rm -rf public resources .hugo_build.lock",
     "clean:install": "shx rm -rf node_modules package-lock.json yarn.lock pnpm-lock.yaml && npm install"
   },
   "dependencies": {
-    "@toby-marks/images": "^1.0.0",
+    "@thulite/images": "^3.3.1",
     "@thulite/seo": "^2.4.1",
     "thulite": "^2.5.0"
   },

@@ -3,8 +3,8 @@ title = "A Short Trip to Devil's Den"
 date = "2020-09-04T18:27:23-05:00"
 location = "Devil's Den State Park, Arkansas"
 camera = "Nikon Coolpix P1000, Sony A7Rii"
-categories = ["Journal"]
-tags = ["travel", "Arkansas"]
+categories = ["photography"]
+tags = ["travel"]
 images = ["https://live.staticflickr.com/65535/50287424453_954a909cb2_k.jpg"]
 +++
 {{< img alt="climbing a hill at Devil's Den" src="https://live.staticflickr.com/65535/50287424453_954a909cb2_k.jpg" >}}

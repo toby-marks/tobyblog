@@ -2,8 +2,7 @@
 title = "Dream Log: A New House"
 description = "I dreamed that when I returned from California, I had an entirely new and remodeled house."
 date = "2019-05-01T17:14:42-05:00"
-categories = ["Journal"]
-tags = ["dreams"]
+
 +++
 I woke up from a vivid dream this morning. I'd just arrived home from a business trip to California, and [Kassi](http://kassiblogtoo.blogspot.com/) was very excited to show me the changes that had been made to our neighborhood in my absence. Everyone had gotten a new house, it seems, and the neighborhood itself had been newly laid out, and its boundaries expanded. Our house had been moved to the backside of the neighborhood by the creek, and the wooded area around the creek had been developed, so that our house, instead of looking out onto a wooded ravine as it would currently, was now at a "T" intersection in the middle of the larger neighborhood. We no longer had a detached house, but rather a San Francisco-style tall, narrow townhome. It was tall, three stories, and its paneled exterior was colored a light and cheery yellow. I was a little skeptical about the new floor plan, but Kassi assured me that it was well laid out on the inside and I was going to really love the changes.
 

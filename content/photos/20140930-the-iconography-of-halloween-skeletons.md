@@ -3,8 +3,8 @@ title = "The Iconography of Halloween: Skeletons"
 date = 2014-09-30T22:42:00Z
 location = "a white wine sauce"
 camera = "shallots, garlic, and mushrooms."
-categories = ["Journal"]
-tags = ["Halloween"]
+
+tags = ["halloween"]
 +++
 ![spooky scary skeleton](http://2.bp.blogspot.com/-63LpKquAqBg/VCuQQPTZnnI/AAAAAAAABcg/QNzcV0lck1M/s2048/tumblr_inline_ncqnlhYHgi1rzwpy9.gif)
 

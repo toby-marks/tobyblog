@@ -3,8 +3,7 @@ camera = "iPhone XS "
 date = 2019-12-15T01:00:00Z
 location = "McKinney, TX"
 title = "St. Nicholas Orthodox Church, December 2019"
-categories = ["Journal"]
-tags = ["religion","Orthodox"]
+categories = ["photography"]
 images = ["https://res.cloudinary.com/tobyblog/image/upload/a_0/v1576373791/img/D03D8F4B-9330-4AA9-955F-927E6FC0F595_vacerd.jpg"]
 +++
 {{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/a_0/v1576373791/img/D03D8F4B-9330-4AA9-955F-927E6FC0F595_vacerd.jpg" >}}

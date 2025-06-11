@@ -4,8 +4,7 @@ title = "Chisholm Trail in Watercolor"
 location = "Dallas, TX"
 camera = "my Sony DSC-RX100"
 image = "https://live.staticflickr.com/4347/36260804100_54d2659690_k.jpg"
-categories = ["Journal"]
-tags = ["parks"]
+categories = ["photography"]
 +++
 {{< picture alt="Chisholm tree" src="https://live.staticflickr.com/4347/36260804100_54d2659690_k.jpg" >}}
 <!--more-->

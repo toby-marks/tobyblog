@@ -1,9 +1,9 @@
 +++
-categories = ["Audio"]
+
 date = "2019-09-10T17:52:50-05:00"
 description = ""
 minipost = true
-tags = ["Halloween", "toys"]
+tags = ["halloween"]
 title = "My Favorite Halloween Toy of 2019"
 +++
 🎃📻🧡

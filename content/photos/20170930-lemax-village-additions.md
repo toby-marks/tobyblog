@@ -4,8 +4,8 @@ location = "Dallas, Texas"
 title = "New Lemax Village Pieces for 2017"
 camera = "iPhone 7 Plus"
 images = ["https://live.staticflickr.com/4366/36040426213_01a4c263e9_o.jpg"]
-categories = ["Reviews"]
-tags = ["Halloween"]
+categories = ["photography"]
+tags = ["halloween"]
 +++
 {{< picture alt="Lemax Camper, Illuminated" src="https://live.staticflickr.com/4350/36014831924_f010c30b7c_o.jpg" >}}
 <!--more-->

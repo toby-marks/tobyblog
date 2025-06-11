@@ -3,8 +3,7 @@ title = "New Icons for the Church"
 date = "2020-04-27T17:16:00-05:00"
 location = "McKinney, TX"
 camera = "Sony A7RII, Sigma Art 85mm F1.4 lens"
-categories = ["Journal"]
-tags = ["religion", "Orthodox"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/49727174413_9fd2faf8bb_k.jpg"]
 +++
 {{< img src="https://live.staticflickr.com/65535/49727174413_9fd2faf8bb_k.jpg" alt="stnicholas" >}}

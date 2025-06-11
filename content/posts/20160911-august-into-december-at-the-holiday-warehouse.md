@@ -1,8 +1,8 @@
 +++
 title = "August into December at the Holiday Warehouse"
 date = 2016-09-11T13:36:00Z
-categories = ["Reviews"]
-tags = ["Decorator's Warehouse", "fall", "Christmas", "Thanksgiving", "Halloween", "Holiday Warehouse", "winter","stores"]
+categories = ["reviews"]
+tags = ["halloween"]
 images = ["https://live.staticflickr.com/8430/29188949732_55bd1cfc2f_o.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="Mr. Pumpkin" src="https://live.staticflickr.com/8430/29188949732_55bd1cfc2f_o.jpg" >}}

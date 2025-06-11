@@ -3,8 +3,8 @@ title = "Flight to LA With Kassi"
 date = "2019-07-27T13:07:04-05:00"
 location = "Los Angeles, California"
 camera = "iPhone Xs"
-tags = ["Pasadena","California","LAX","Los Angeles","travel","Kassi"]
-categories = ["Journal"]
+tags = ["travel"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/48359898937_9d2457233b_b.jpg"]
 +++
 {{< img src="https://live.staticflickr.com/65535/48359898937_9d2457233b_b.jpg" >}}

@@ -3,8 +3,7 @@ date = 2014-08-01
 title = "A Visit To The Toy Store"
 location = "Dallas, TX"
 camera = "my iPhone"
-categories = ["Journal"]
-tags = ["Augie","stores","toys"]
+
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="http://3.bp.blogspot.com/-i7RaY44btHc/U9rGOaPi9sI/AAAAAAAAAtE/RLcy-43mYYw/s2048/IMG_1200.JPG" >}}
 

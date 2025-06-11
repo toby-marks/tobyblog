@@ -2,8 +2,7 @@
 title = "Pumpkin Latte Beer and Ace Pumpkin Cider"
 date = "2017-11-24T10:49:02-06:00"
 description = "I review a couple of very fallish and Thanksgiving-appropriate beverages."
-categories = ["Reviews"]
-tags = ["alcohol","Thanksgiving"]
+categories = ["reviews"]
 images = ["https://live.staticflickr.com/4529/26861213659_dabde02580_k.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="Labyrinth Glass" src="https://live.staticflickr.com/4529/26861213659_dabde02580_k.jpg" >}}

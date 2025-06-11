@@ -2,8 +2,7 @@
 title = "RIP — Bill Withers 💀"
 description = ""
 date = "2020-04-03T16:13:07-05:00"
-categories = ["Music"]
-tags = [""]
+categories = ["music"]
 externalurl = "https://www.youtube.com/watch?v=bEeaS6fuUoA"
 +++
 I found out Bill Withers died today. Not a huge fan, but I am rather fond of this one of his.

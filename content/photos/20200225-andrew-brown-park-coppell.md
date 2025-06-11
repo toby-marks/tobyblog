@@ -3,8 +3,7 @@ camera = "iPhone"
 date = 2020-02-25T19:00:00Z
 location = "Coppell, TX"
 title = "Andrew Brown Park, Coppell"
-categories = ["Journal"]
-tags = ["parks"]
+categories = ["photography"]
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1582667482/img/FCB0FE25-7AD4-42C3-B774-3BB8EA5A9D34_wwxbnk.jpg"]
 +++
 {{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1582667482/img/FCB0FE25-7AD4-42C3-B774-3BB8EA5A9D34_wwxbnk.jpg" >}}

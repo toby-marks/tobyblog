@@ -2,8 +2,7 @@
 title = "Quarantine Cocktail Hour: Amaretto and Ginger"
 description = ""
 date = "2020-04-29T17:17:05-05:00"
-categories = ["Food"]
-tags = ["cocktails","alcohol"]
+
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1588198735/img/IMG_6887.jpg" >}}
 

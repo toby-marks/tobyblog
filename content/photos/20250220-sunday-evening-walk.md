@@ -3,6 +3,7 @@ title = "A Sunday Evening Walk"
 date = "2025-02-20T12:45:06-06:00"
 location = "Dallas, TX"
 camera = "Sony A7RII, Sigma Art 80mm lens"
+categories = ["photography"]
 +++
 {{< picture alt="250216.12" src="https://live.staticflickr.com/65535/54339984486_16da1f608f_o.jpg" >}}
 <!--more-->

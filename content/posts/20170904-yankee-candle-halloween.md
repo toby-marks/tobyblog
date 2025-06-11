@@ -2,8 +2,8 @@
 title = "Smells Like Halloween at Yankee Candle"
 date = "2017-09-04T09:41:11-05:00"
 description = "Join us as we visit the neighborhood Yankee Candle store to scope out the 2017 Halloween candle collection."
-categories = ["Reviews"]
-tags = ["Halloween","stores"]
+categories = ["reviews"]
+tags = ["halloween"]
 images =["https://live.staticflickr.com/4422/36040105263_7a07a431c3_o.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="Window advert" src="https://live.staticflickr.com/4422/36040105263_7a07a431c3_o.jpg" >}}

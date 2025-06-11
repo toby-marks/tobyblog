@@ -3,7 +3,7 @@ title = "Natalia's Shoot"
 date = "2020-06-21T14:33:26-05:00"
 location = "Plano, TX"
 camera = "Sony A7RII, Nikon Coolpix P1000"
-categories = ["Journal"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/49762536073_a215affbe1_k.jpg"]
 +++
 {{< picture alt="nat-h-03" src="https://live.staticflickr.com/65535/49762536073_a215affbe1_k.jpg" >}}

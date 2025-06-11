@@ -3,7 +3,7 @@ title = "The First Wild Firewheels of the Year"
 date = "2020-05-06T17:54:28-05:00"
 location = "Dallas, TX"
 camera = "Nikon Coolpix P1000"
-categories = ["Journal"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/49864147138_28d83775dd_k.jpg"]
 +++
 {{< picture alt="firewheels1" src="https://live.staticflickr.com/65535/49864147138_28d83775dd_k.jpg" >}}

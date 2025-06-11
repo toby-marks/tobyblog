@@ -1,10 +1,9 @@
 +++
-categories = ["News"]
+
 date = 2019-11-19T20:21:09Z
 description = ""
 draft = true
 externalurl = "https://www.bbc.com/news/newsbeat-50473092"
-tags = ["comics"]
 title = "Alan Moore, Creator of The Watchmen, Says Adult Infatuation With Comic Book Superheros is Embarassing"
 
 +++

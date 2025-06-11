@@ -4,8 +4,8 @@ date = "2019-11-26T17:16:43-06:00"
 location = "Moab, Utah"
 camera = "Sony a7rII"
 series = ["2019 Summer Vacation"]
-categories = ["Journal"]
-tags = ["travel","Utah","national parks"]
+categories = ["photography"]
+tags = ["travel"]
 images = ["https://live.staticflickr.com/65535/49129310703_5ce7adc236_k.jpg"]
 +++
 {{< picture alt="" src="https://live.staticflickr.com/65535/49129310703_5ce7adc236_k.jpg" >}}

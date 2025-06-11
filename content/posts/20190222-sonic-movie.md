@@ -1,8 +1,8 @@
 +++
 title = "What the Hell is This Poster For the Sonic the Hedgehog Movie?"
 date = "2019-02-21T22:27:13-08:00"
-categories = ["Journal"]
-tags = ["gaming","movies"]
+
+tags = ["movies"]
 minipost = true
 images = ["/img/sonic_movie.jpg"]
 +++

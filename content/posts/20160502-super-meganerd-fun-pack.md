@@ -2,8 +2,8 @@
 title = "Super Meganerd Fun Pack!"
 date = 2016-05-02T21:21:00Z
 updated = 2018-04-23
-categories = ["Unboxings"]
-tags = ["geocaching", "Carl", "Augie"]
+
+tags = ["geocaching"]
 +++
 {{< figure class= "wp-caption alignnone" alt="The Super Meganerd Fun Pack" src="https://live.staticflickr.com/1507/26490173342_f99108d292_k.jpg" >}}
 

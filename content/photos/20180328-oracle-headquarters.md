@@ -3,8 +3,8 @@ title = "Greetings from Redwood City"
 date = "2018-03-28T15:45:32-05:00"
 location = "Redwood Shores, California"
 camera = "iPhone 7 plus"
-categories = ["Journal"]
-tags = ["travel","California"]
+categories = ["photography"]
+tags = ["travel"]
 images = ["https://live.staticflickr.com/880/41303205281_72cc97ce7b_o.jpg"]
 +++
 {{< picture alt="Oracle Headquarters" src="https://live.staticflickr.com/880/41303205281_72cc97ce7b_o.jpg" >}}

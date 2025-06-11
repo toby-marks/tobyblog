@@ -3,8 +3,7 @@ title = "Parish Brewing"
 description = ""
 date = "2020-01-17T15:13:21-06:00"
 externalurl = "http://www.parishbeer.com/"
-categories = ["Reviews"]
-tags = [""]
+categories = ["reviews"]
 +++
 [{{< figure class= "wp-caption alignnone" alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1579295570/img/Screen_Shot_2020-01-17_at_3.12.01_PM.jpg" >}}](http://www.parishbeer.com/parish-beer)
 

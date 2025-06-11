@@ -1,7 +1,7 @@
 +++
 date = "2019-05-04T05:00:00+00:00"
 title = "Great Tits"
-categories = ["Journal"]
+
 tags = ["festivals"]
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1557015862/img/6E618022-A7BA-401F-9FE7-081B806150F7.jpg"]
 +++

@@ -2,8 +2,7 @@
 title = "Dandelion Wine — Chapter One"
 description = ""
 date = "2020-05-15T16:30:06-05:00"
-categories = ["Books"]
-tags = ["Ray Bradbury"]
+
 +++
 > One night each week he was allowed to leave his father, his mother, and his younger brother Tom asleep in their small house next door and run here, up the dark spiral stairs to his grandparents' cupola, and in this sorcerer's tower sleep with thunders and visions, to wake befor the crystal jingle of milk bottles and perform his ritual magic.
 <!--more-->

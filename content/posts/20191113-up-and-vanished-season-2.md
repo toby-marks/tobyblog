@@ -2,8 +2,7 @@
 title = "Listening: Up and Vanished, Season 2"
 description = ""
 date = "2019-11-13T16:07:43-06:00"
-categories = ["Podcasts"]
-tags = ["murder"]
+
 minipost=true
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1573682807/img/Screen_Shot_2019-11-13_at_4.05.48_PM.jpg"]
 +++

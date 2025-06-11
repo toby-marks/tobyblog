@@ -3,8 +3,8 @@ title = "Texas Frightmare Weekend"
 date = 2015-06-19T21:09:00Z
 location = "Dallas, TX"
 camera = "my iPhone and Sony DSC RX-100"
-categories = ["Journal"]
-tags = ["Collector's Crypt","Dark Hour Haunted House","Halloween","conventions"]
+
+tags = ["halloween","conventions"]
 images = ["http://2.bp.blogspot.com/-Cf5LWcH-Ju8/VX2Z96oW_eI/AAAAAAAACGw/u6YmEVmlPlg/s2048/IMG_2778.jpg"]
 +++
 {{< figure class="wp-caption alignnone" alt="" src="http://2.bp.blogspot.com/-Cf5LWcH-Ju8/VX2Z96oW_eI/AAAAAAAACGw/u6YmEVmlPlg/s2048/IMG_2778.jpg" >}}

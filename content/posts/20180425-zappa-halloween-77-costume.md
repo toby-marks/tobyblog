@@ -1,8 +1,8 @@
 +++
 title = "A Frank Zappa Halloween Costume"
 date = "2018-04-25T17:25:39-05:00"
-categories = ["Journal"]
-tags = ["music", "Halloween", "Frank Zappa"]
+
+tags = ["halloween"]
 minipost = true
 images = ["http://www.zappa.com/sites/g/files/aaj776/f/styles/suzuki_breakpoints_image_desktop-sm_2x_16x9/public/news/201709/Halloween-77_NEWS.jpg"]
 +++

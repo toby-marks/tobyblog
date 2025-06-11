@@ -1,8 +1,8 @@
 +++
 title = "Suncreek Park - More Than Meets The Eye"
 date = 2014-02-19T20:48:00Z
-categories = ["Reviews"]
-tags = ["geocaching","parks","Frank","Augie","Lucy"]
+categories = ["reviews"]
+tags = ["geocaching"]
 images = ["http://3.bp.blogspot.com/-6mnC4JYvcn0/UwWCzShf6HI/AAAAAAAAAPM/y2nUzVn5A88/s2048/Screen+Shot+2014-02-19+at+10.16.29+PM.png"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="http://3.bp.blogspot.com/-6mnC4JYvcn0/UwWCzShf6HI/AAAAAAAAAPM/y2nUzVn5A88/s2048/Screen+Shot+2014-02-19+at+10.16.29+PM.png" >}}

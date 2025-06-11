@@ -3,8 +3,7 @@ title = "Santa's Story Time at NorthPark Mall"
 date = "2019-12-23T14:13:25-06:00"
 location = "Dallas, TX"
 camera = "Sony a7rII"
-categories = ["Journal"]
-tags = ["Christmas","malls"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/49265726427_98e2c19c6d_k.jpg"]
 +++
 {{< picture alt="Story Time with Santa" src="https://live.staticflickr.com/65535/49265726427_98e2c19c6d_k.jpg" >}}

@@ -4,8 +4,7 @@ date = "2019-04-04T19:05:06-05:00"
 location = "McKinney, TX"
 camera = "Sony A7RII"
 lens = "Sony Vario-Tessar T* FE 16-35mm F4 ZA OSS"
-categories = ["Journal"]
-tags = ["Religion","Orthodox"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/7867/40572622873_5f8d1a9906_k.jpg"]
 +++
 {{< picture alt="Veneration of the Cross 01" src="https://live.staticflickr.com/7867/40572622873_5f8d1a9906_k.jpg" >}}

@@ -2,8 +2,7 @@
 title = "Live Forever"
 description = ""
 date = "2020-04-15T11:05:44-05:00"
-categories = ["Books"]
-tags = ["Ray Bradbury"]
+
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1586966702/img/IMG_6769.jpg" >}}
 

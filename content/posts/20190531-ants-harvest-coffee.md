@@ -3,8 +3,7 @@ title = "Do Ants Like Coffee?"
 description = "The Secret to This Brazilian Coffee? Ants Harvest the Beans."
 date = "2019-05-31T09:55:43-05:00"
 externalurl = "https://www.atlasobscura.com/articles/do-ants-like-coffee"
-categories = ["Journal"]
-tags = ["news"]
+
 +++
 🐜❤️☕️
 
