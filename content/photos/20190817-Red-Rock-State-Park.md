@@ -3,8 +3,8 @@ title = "Red Rock State Park"
 date = "2019-08-17T12:44:32-05:00"
 location = "Red Rock State Park, Arizona"
 camera = "Nikon Coolpix P1000"
-categories = ["Journal"]
-tags = ["travel","Arizona","state parks"]
+categories = ["photography"]
+tags = ["travel"]
 series = ["2019 Summer Vacation"]
 images = ["https://live.staticflickr.com/65535/48559877497_543373f46d_k.jpg"]
 +++

@@ -1,8 +1,7 @@
 +++
 title       = "Dad Wagon: Road to Nowhere"
 date        = "2025-02-27T17:20:47-06:00"
-categories  = ["Music"]
-tags        = ["playlists"]
+categories  = ["music"]
 +++
 {{< youtubepl PLFmY2cL2XsF0PE60aJ06BQbJJyg_1mQGM >}}
 

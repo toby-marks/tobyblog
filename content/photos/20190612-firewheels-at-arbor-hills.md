@@ -3,8 +3,7 @@ title = "Firewheels at Arbor Hills"
 date = "2019-06-12T23:36:21-07:00"
 location = "Plano, Texas"
 camera = "Sony a7rII, Sony FE 16–35mm f/4 ZA OSS Lens"
-categories = ["Journal"]
-tags = ["parks"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/48053723017_bafcc55d15_k.jpg"]
 +++
 {{< picture alt="Arbor Hills Firewheels Frame 9" src="https://live.staticflickr.com/65535/48053723017_bafcc55d15_k.jpg" >}}

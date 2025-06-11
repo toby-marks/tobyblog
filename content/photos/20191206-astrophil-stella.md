@@ -3,8 +3,7 @@ camera = "iPhone XS"
 date = 2019-12-06T22:00:00Z
 location = "A Link Between Worlds"
 title = "Astrophil & Stella"
-categories = ["Journal"]
-tags = []
+categories = ["photography"]
 images = ["https://res.cloudinary.com/tobyblog/image/upload/a_0/v1575669780/img/377073AC-8423-4FF3-97C4-1C83594ADDC2_d2vjdt.jpg"]
 +++
 {{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/a_0/v1575669780/img/377073AC-8423-4FF3-97C4-1C83594ADDC2_d2vjdt.jpg" >}}

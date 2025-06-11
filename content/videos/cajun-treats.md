@@ -2,8 +2,8 @@
 title = "Cajun Treats"
 description = "I review some South Louisiana specialty treats with my friend Brian Hammons of reviewtheworld.com and my boy AugieRFC"
 date = "2019-04-17T21:58:19-07:00"
-categories = ["Reviews"]
-tags = ["reviews", "Swamp Pop", "Best Stop", "quail eggs", "Zapps", "potato chips", "soda"]
+categories = ["reviews"]
+tags = ["reviewtheworld"]
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1555563443/img/tobyblog-quail-eggs-cover.jpg"]
 externalurl = "https://www.youtube.com/watch?v=fuECriXv7GU"
 +++

@@ -2,8 +2,7 @@
 title = "Pretty People"
 description = ""
 date = "2020-07-30T21:36:57-05:00"
-categories = ["Music"]
-tags = [""]
+categories = ["music"]
 minipost = "true"
 externalurl = "https://www.youtube.com/watch?v=qxuRiniFx9c"
 +++

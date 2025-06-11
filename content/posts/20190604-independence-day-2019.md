@@ -2,8 +2,7 @@
 title = "Independence Day 2019"
 date = "2019-07-04T11:00:00-05:00"
 description = "My post"
-categories = ["Journal"]
-tags = ["4th of July"]
+
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1562256320/img/09474C58-625F-4B47-88CF-4798FDAEB69B.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1562256320/img/09474C58-625F-4B47-88CF-4798FDAEB69B.jpg" >}}

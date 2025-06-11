@@ -2,8 +2,8 @@
 title = "The Halloween & Hauntfest Convention"
 description = "Thoughts and remembrances on attending a local Halloween haunters convention."
 date = "2018-04-22T13:49:48-05:00"
-tags = ["Halloween", "conventions"]
-categories = ["Journal"]
+tags = ["halloween", "conventions"]
+
 images = ["https://live.staticflickr.com/4339/36452811210_3d6caaf732_k.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="Halloween and Hauntfest 2017" src="https://live.staticflickr.com/4339/36452811210_3d6caaf732_k.jpg" >}}

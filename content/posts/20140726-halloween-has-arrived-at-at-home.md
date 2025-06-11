@@ -3,8 +3,8 @@ date = 2014-07-26
 title = "Halloween Has Arrived at At Home"
 location = "Plano, TX"
 camera = "my iPhone"
-categories = ["Reviews"]
-tags = ["Halloween","Augie","stores"]
+categories = ["reviews"]
+tags = ["halloween"]
 images = ["http://4.bp.blogspot.com/-FO_yRp9ctsA/U9SGRMmODvI/AAAAAAAAAqw/DWrvOfaTVWQ/s2048/IMG_1492.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="http://4.bp.blogspot.com/-_gwhccKqpqY/U9SAkCQ1olI/AAAAAAAAAlA/cJhMhsf1OfE/s2048/IMG_1422.jpg" >}}

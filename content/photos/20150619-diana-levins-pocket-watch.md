@@ -3,8 +3,8 @@ title = "Diana Levin's Pocket Watch"
 date = 2015-06-19T21:27:00Z
 location = "Dallas, TX"
 camera = "my trusty Sony DSC-RX100"
-categories = ["Journal"]
-tags = ["Halloween","conventions"]
+categories = ["photography"]
+tags = ["halloween","conventions"]
 +++
 {{< picture src="http://3.bp.blogspot.com/-VV457GwtScw/VYTqFoc3KxI/AAAAAAAACNE/Zpf1af9Fql0/s2048/DSC04341.jpg" >}}
 

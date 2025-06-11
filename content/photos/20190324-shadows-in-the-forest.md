@@ -3,7 +3,7 @@ title = "Shadows in the Forest"
 date = "2019-03-24T11:57:33-05:00"
 location = "Dallas, TX"
 camera = "iPhone XS"
-categories = ["Journal"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/7834/33581029088_476802189d_k.jpg"]
 +++
 {{< picture alt="The Game is Afoot" src="https://live.staticflickr.com/7834/33581029088_476802189d_k.jpg" >}}

@@ -1,8 +1,8 @@
 +++
 date = "2019-03-15T15:00:00+00:00"
 title = "Selfie from Cali"
-categories = ["Journal"]
-tags = ["Pasadena","California","travel"]
+
+tags = ["travel"]
 minipost = true
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1552689639/img/0A272D54-E957-4306-A48E-23424F70F28F.jpg"]
 +++

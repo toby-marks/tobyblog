@@ -1,8 +1,8 @@
 +++
 title = "Review the World Comes to Dallas"
 date = 2014-11-15T11:43:00Z
-categories = ["Journal"]
-tags = ["Brian Hammons","reviewtheworld.com","Augie"]
+
+tags = ["reviewtheworld"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://2.bp.blogspot.com/-Mrgo_E1r37k/VGLpoDVtcfI/AAAAAAAABkU/2I7G8LsRERY/s2048/IMG_0676.jpg" >}}
 

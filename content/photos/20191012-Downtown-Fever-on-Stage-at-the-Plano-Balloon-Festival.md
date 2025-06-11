@@ -3,8 +3,7 @@ title = "Downtown Fever on Stage at the Plano Balloon Festival"
 date = "2019-10-12T11:59:42-05:00"
 location = "Plano, Texas"
 camera = "Sony A7RII, Nikon P1000"
-categories = ["Journal"]
-tags = ["festivals"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/48882337922_0afd8987b9_k.jpg"]
 +++
 {{< img src="https://live.staticflickr.com/65535/48882337922_0afd8987b9_k.jpg" alt="DowntownFever" >}}

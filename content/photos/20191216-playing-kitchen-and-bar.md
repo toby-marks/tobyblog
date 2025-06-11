@@ -3,8 +3,7 @@ camera = "iPhone XS"
 date = 2019-12-16T18:00:00Z
 location = "Dallas, TX"
 title = "Playing / Kitchen and Bar"
-categories = ["Journal"]
-tags = ["food"]
+categories = ["photography"]
 images = ["https://res.cloudinary.com/tobyblog/image/upload/a_0/v1576519734/img/EE8280FF-167F-4251-9662-02411246D5C7_jqdtjk.jpg"]
 +++
 {{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/a_0/v1576519734/img/EE8280FF-167F-4251-9662-02411246D5C7_jqdtjk.jpg" >}}

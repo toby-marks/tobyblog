@@ -1,10 +1,10 @@
 +++
-categories = ["Reviews"]
+categories = ["reviews"]
 date = "2019-05-14T20:02:00+00:00"
 description = "Go see Detective Pikachu!"
 externalurl = ""
 minipost = true
-tags = ["Pokemon", "movies"]
+tags = ["movies"]
 title = "Detective Pikachu Was As Good As It Could Be"
 +++
 ![Detective Pikachu](https://res.cloudinary.com/tobyblog/image/upload/v1557888093/img/5F86E6CC-37E8-4256-BC38-E41AFDFCE5A8.gif)

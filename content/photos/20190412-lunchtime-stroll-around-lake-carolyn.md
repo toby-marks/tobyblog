@@ -3,7 +3,7 @@ camera = "iPhone XS"
 date = "2019-04-12T14:00:00+00:00"
 location = "Irving, TX"
 title = "Stroll Around Lake Carolyn"
-categories = ["Journal"]
+categories = ["photography"]
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1555098325/img/09A7CF26-16EB-4E1A-B1F5-1A0789E874E0.jpg"]
 +++
 {{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1555098325/img/09A7CF26-16EB-4E1A-B1F5-1A0789E874E0.jpg" >}}

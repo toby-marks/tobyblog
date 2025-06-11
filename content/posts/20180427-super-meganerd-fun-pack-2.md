@@ -2,8 +2,7 @@
 title = "Return of the Super Meganerd Fun Pack"
 description = "Unboxing the second Super Meganerd Fun Pack sent to me by my cousin."
 date = "2018-04-27"
-categories = ["Unboxings"]
-tags = ["Carl", "toys", "Ray Bradbury", "theponyowner"]
+
 +++
 {{< figure src="https://live.staticflickr.com/890/41456059161_72d7c2d7c4_o.jpg" alt="The Super Mega Nerd Fun Pack" >}}
 

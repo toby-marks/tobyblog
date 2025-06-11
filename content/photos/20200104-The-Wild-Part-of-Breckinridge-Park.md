@@ -3,7 +3,7 @@ title = "The Wild Part of Breckinridge Park"
 date = "2020-01-04T14:10:34-06:00"
 location = "Richardson, TX"
 camera = "Nikon Coolpix P1000"
-categories = ["Journal"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/49329539932_5fd41fae62_k.jpg"]
 +++
 {{< img src="https://live.staticflickr.com/65535/49329539932_5fd41fae62_k.jpg" >}}

@@ -1,7 +1,7 @@
 +++
 title = "My Geocoin Collection"
 date = 2016-03-06T15:55:00Z
-categories = ["Geocaching"]
+
 tags = ["geocaching"]
 externalurl = "https://www.youtube.com/watch?v=7Uyk6awCus0"
 +++

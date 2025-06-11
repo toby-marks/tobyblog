@@ -3,8 +3,8 @@ title = "Pasadena Tour"
 date = "2019-07-31T17:34:22-05:00"
 location = "Pasadena, California"
 camera = "Nikon Coolpix P1000, Sony A7Rii"
-tags = ["Pasadena","California","travel","Kassi"]
-categories = ["Journal"]
+tags = ["travel"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/48426390296_fa22e073bb_k.jpg"]
 +++
 {{< img src="https://live.staticflickr.com/65535/48426390296_fa22e073bb_k.jpg" >}}

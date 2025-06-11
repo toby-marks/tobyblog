@@ -1,8 +1,8 @@
 +++
 title = "Screening Phantasm With The Tall Man"
 date = 2015-06-10T16:34:00Z
-categories = ["Journal"]
-tags = ["Halloween"]
+
+tags = ["halloween","conventions","movies"]
 images = ["http://3.bp.blogspot.com/-wTzO_bNWPPc/VWmzIHjOooI/AAAAAAAACAY/xoBh6Qosgpg/s2048/IMG_2740.jpg"]
 +++
 {{< figure src="http://3.bp.blogspot.com/-wTzO_bNWPPc/VWmzIHjOooI/AAAAAAAACAY/xoBh6Qosgpg/s2048/IMG_2740.jpg" >}}

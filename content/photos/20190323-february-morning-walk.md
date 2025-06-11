@@ -3,8 +3,7 @@ title = "Flowers and Graffiti"
 date = "2019-03-23T17:17:50-05:00"
 location = "McKinney, TX"
 camera = "my Sony a7rII"
-categories = ["Journal"]
-tags = ["parks","Kassi"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/7827/46728345454_058e49101b_o.jpg"]
 +++
 {{< picture alt="Backlit Flower" src="https://live.staticflickr.com/7827/46728345454_058e49101b_o.jpg" >}}

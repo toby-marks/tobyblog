@@ -1,8 +1,8 @@
 +++
 title = "Wylie's Angel"
 date = 2014-06-17T23:16:00Z
-categories = ["Hobbies","Journal"]
-tags = ["geocaching","Augie"]
+
+tags = ["geocaching"]
 +++
 I like geocaching for lots of reasons. I like to be outside. I like discovering new places. I like walking and connecting with nature. But occasionally I learn something as well. Usually it's just local historical trivia, or maybe a geography lesson. But sometimes the lesson is more personal, and as in this case, tragic.
 

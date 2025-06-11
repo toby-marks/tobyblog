@@ -1,7 +1,7 @@
 +++
 date = "2019-07-02T19:00:00-05:00"
 title = "Save The Children"
-categories = ["Music"]
+categories = ["music"]
 tags = ["soul"]
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1562112624/img/B2BF5288-71B3-4400-99C1-411D270A0A40.jpg"]
 +++

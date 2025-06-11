@@ -1,7 +1,7 @@
 +++
 title = "See You in Arizona"
 date = "2019-07-31T17:49:36-05:00"
-categories = ["Journal"]
+
 tags = ["vacation","travel"]
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1564613290/img/potter.jpg"]
 +++

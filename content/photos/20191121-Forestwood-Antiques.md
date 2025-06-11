@@ -3,8 +3,7 @@ title = "Forestwood Antiques"
 date = "2019-11-21T15:35:31-06:00"
 location = "Dallas, TX"
 camera = "iPhone XS"
-categories = ["Journal"]
-tags = ["antiques"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/49101789021_46f854edac_k.jpg"]
 +++
 {{< picture alt="Blue Butterfly Pillow" src="https://live.staticflickr.com/65535/49101789021_46f854edac_k.jpg" >}}

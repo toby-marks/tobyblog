@@ -2,8 +2,7 @@
 title = "Music for Black Friday Shopping"
 description = ""
 date = "2019-11-30T10:46:15-06:00"
-categories = ["Music"]
-tags = []
+categories = ["music"]
 minipost = true
 +++
 For all you folks out there enjoying the savings and discounts, and perhaps needing a little mood music to go along with.

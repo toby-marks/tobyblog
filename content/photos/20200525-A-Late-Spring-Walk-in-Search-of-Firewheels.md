@@ -3,7 +3,7 @@ title = "A Late Spring Walk in Search of Firewheels"
 date = "2020-05-25T12:01:31-05:00"
 location = "Richardson, TX"
 camera = "Nikon Coolpix P1000"
-categories = ["Journal"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/49931407866_2e8529af3a_k.jpg"]
 +++
 {{< picture alt="Are These?" src="https://live.staticflickr.com/65535/49931407866_2e8529af3a_k.jpg" >}}

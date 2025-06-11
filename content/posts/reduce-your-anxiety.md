@@ -3,8 +3,7 @@ title = "Reduce Your Anxiety"
 description = ""
 date = "2020-01-17T14:49:49-06:00"
 externalurl = "https://medium.com/inc./neuroscience-says-listening-to-this-song-reduces-anxiety-by-up-to-65-percent-d69ae1343a27"
-categories = ["Music"]
-tags = [""]
+categories = ["music"]
 +++
 Is this the most chill song in the world? 
 

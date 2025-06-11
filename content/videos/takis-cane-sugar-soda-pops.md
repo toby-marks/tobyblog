@@ -1,8 +1,7 @@
 +++
 title = "Taki's, Cane Sugar Soda Pops"
 date = 2014-04-18T21:20:00Z
-categories = ["Reviews"]
-tags = ["reviews", "Taki's", "thevcubesolver", "soda pop", "summer"]
+categories = ["reviews"]
 externalurl = "https://www.youtube.com/watch?v=0luO86BwwUo"
 +++
 This is an older review from TheVCubeSolver and I very much inspired by the hijinks of Brian Hammons and the gang over at [Review the World](http://reviewtheworld.com/). In it we take a look at a couple of different varieties of Taki's chips and some cane sugar soda pops we picked up at the local coffee shop.  

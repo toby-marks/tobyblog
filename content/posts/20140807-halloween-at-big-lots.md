@@ -3,8 +3,8 @@ date = 2014-08-07
 title = "Halloween at Big Lots"
 location = "Dallas, TX"
 camera = "my iPhone"
-categories = ["Reviews"]
-tags = ["geocaching","Halloween","stores"]
+categories = ["reviews"]
+tags = ["geocaching","halloween"]
 images = ["https://lh6.googleusercontent.com/-T4PPeI9JIWg/U-Kfhb6-DlI/AAAAAAAAAxs/AFXIe1xozHg/s1024/blogger-image-1422700385.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://lh6.googleusercontent.com/-T4PPeI9JIWg/U-Kfhb6-DlI/AAAAAAAAAxs/AFXIe1xozHg/s1024/blogger-image-1422700385.jpg" >}}

@@ -1,7 +1,7 @@
 +++
 date = "2019-05-14T20:01:00+00:00"
 title = "Golden Girls, Really?"
-categories = ["Journal","Television"]
+categories = ["journal","Television"]
 tags = ["nostalgia"]
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1557886032/img/4F2C33BD-BEA8-40EC-86DF-BC071C6FF692.jpg"]
 +++

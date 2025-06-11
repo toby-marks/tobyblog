@@ -2,8 +2,7 @@
 title = "Dandelion Wine — A Book for Summer"
 description = ""
 date = "2020-05-14T16:19:55-05:00"
-categories = ["Books"]
-tags = ["Ray Bradbury"]
+
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1589491164/img/dandelion-small.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1589491164/img/dandelion-small.jpg" >}}

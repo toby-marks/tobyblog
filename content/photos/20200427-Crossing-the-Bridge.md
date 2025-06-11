@@ -3,7 +3,7 @@ title = "Crossing the Bridge"
 date = "2020-04-27T17:39:58-05:00"
 location = "Dallas, TX"
 camera = "Nikon Coolpix P1000"
-categories = ["Journal"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/49727174373_b00b43ccbe_k.jpg"]
 +++
 {{< img src="https://live.staticflickr.com/65535/49727174373_b00b43ccbe_k.jpg" alt="onthebridge" >}}

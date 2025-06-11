@@ -3,8 +3,7 @@ title = "Some Lunchtime Pics At the Library"
 date = "2019-06-19T23:25:18-05:00"
 location = "Dallas, TX"
 camera = "Nikon Coolpix P1000"
-categories = ["Journal"]
-tags = ["parks"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/48088771232_f126384254_k.jpg"]
 draft = "true"
 +++

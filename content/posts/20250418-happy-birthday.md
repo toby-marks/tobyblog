@@ -1,8 +1,7 @@
 +++
 title      = "Celebrating 51 Years of Life"
 date       = "2025-04-18T15:45:10-05:00"
-tags       = ["ai","chatgpt"]
-categories = ["Journal"]
+
 +++
 {{< picture alt="a digital portrait of the site creator" src="/images/tobyblog by chatgpt.png" >}}
 

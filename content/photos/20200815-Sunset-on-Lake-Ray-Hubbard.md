@@ -3,7 +3,7 @@ title = "Sunset on Lake Ray Hubbard"
 date = "2020-08-15T11:18:24-05:00"
 location = "Rockwall, TX"
 camera = "iPhone, Nikon Coolpix P1000"
-categories = ["Journal"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/50182509593_e2d91c1b41_o.jpg"]
 +++
 {{< img alt="sunset on Lake Ray Hubbard" src="https://live.staticflickr.com/65535/50182509593_e2d91c1b41_o.jpg" >}}

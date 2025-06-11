@@ -1,8 +1,8 @@
 +++
 title = "The Beginning."
 date = 2014-02-02T21:58:00Z
-categories = ["Journal"]
-tags = ["Brian Hammons","reviewtheworld.com"]
+
+tags = ["reviewtheworld"]
 minipost = "true"
 +++
 My name is Toby. 

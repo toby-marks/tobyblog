@@ -1,8 +1,8 @@
 +++
 title = "Noshing Tacos with Review the World"
 date = 2015-03-22T08:04:00Z
-categories = ["Journal"]
-tags = ["Brian Hammons","reviewtheworld.com"]
+
+tags = ["reviewtheworld"]
 minipost = "true"
 images = ["http://4.bp.blogspot.com/-_jNkX_Wn1RU/VQ7ZBI5M3kI/AAAAAAAABwM/vUXpRNftTvU/s2048/IMG_1240.JPG"]
 +++

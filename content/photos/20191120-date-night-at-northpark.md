@@ -3,8 +3,7 @@ camera = "iPhone XS"
 date = 2019-11-20T02:00:00Z
 location = "Dallas, TX"
 title = "Date Night at Northpark"
-categories = ["Journal"]
-tags = ["Kassi"]
+categories = ["photography"]
 images = ["https://res.cloudinary.com/tobyblog/image/upload/a_0/v1574215974/img/6AC112A2-B3F7-4EBD-8DE6-CF26B2352331_clq09o.jpg"]
 +++
 {{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/a_0/v1574215974/img/6AC112A2-B3F7-4EBD-8DE6-CF26B2352331_clq09o.jpg" >}}  

@@ -1,8 +1,8 @@
 +++
-categories = ["Reviews"]
+categories = ["reviews"]
 date = "2019-03-14T22:57:00+00:00"
 description = "A review of Taco Libre in Old Town Pasadena"
-tags = ["Pasadena","California","travel", "food"]
+tags = ["travel"]
 title = "Taco Libre"
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1552629476/img/576933C9-5E92-4C23-B1AF-8B342EF82BDF.jpg"]
 +++

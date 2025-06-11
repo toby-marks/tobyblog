@@ -2,8 +2,8 @@
 title = "Out West Again"
 description = "back again"
 date = "2019-02-19T23:42:48-08:00"
-categories = ["Journal"]
-tags = ["Pasadena", "California", "travel", "food"]
+
+tags = ["travel"]
 images = ["https://live.staticflickr.com/7804/46429733404_1bd5a93d55_k.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="Twilight Over Pasadena" src="https://live.staticflickr.com/7804/46429733404_1bd5a93d55_k.jpg" >}}

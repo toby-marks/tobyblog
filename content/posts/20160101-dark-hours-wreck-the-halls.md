@@ -1,8 +1,8 @@
 +++
 title = "Dark Hour's Wreck the Halls"
 date = 2016-01-01T17:10:00Z
-categories = ["Reviews"]
-tags = ["Dark Hour Haunted House", "Augie", "Halloween"]
+categories = ["reviews"]
+tags = ["halloween"]
 images = ["https://live.staticflickr.com/5714/23469822034_1c729f586f_k.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="Wreck the Halls" src="https://live.staticflickr.com/5714/23469822034_1c729f586f_k.jpg" >}}

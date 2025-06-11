@@ -1,8 +1,7 @@
 +++
 title = "Ace Pineapple Cider & Shannon Irish Red"
 date = 2016-08-02T21:40:00Z
-categories = ["Reviews"]
-tags = ["alcohol"]
+categories = ["reviews"]
 images = ["https://live.staticflickr.com/8520/28657569041_2374960abe_k.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="Ace Pineapple Cider" src="https://live.staticflickr.com/8520/28657569041_a2ed23b73f_o.jpg" >}}

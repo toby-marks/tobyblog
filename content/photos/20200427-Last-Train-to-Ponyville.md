@@ -3,7 +3,7 @@ title = "Last Train to Ponyville"
 date = "2020-04-27T17:51:16-05:00"
 location = "Dallas, TX"
 camera = "iPhone"
-categories = ["Journal"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/49815657587_f526ccaa88_k.jpg"]
 +++
 {{< img src="https://live.staticflickr.com/65535/49815657587_f526ccaa88_k.jpg" >}}

@@ -1,7 +1,7 @@
 +++
 date = "2019-03-08T06:00:00+00:00"
 title = "Happy Spring!"
-categories = ["Journal"]
+
 minipost = true
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1552058843/img/A7324368-1D4C-42A9-B026-2872EE54A5D0.jpg"]
 +++

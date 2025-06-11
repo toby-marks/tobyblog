@@ -1,8 +1,7 @@
 +++
 title = "The Bollywood Burrito"
 date = 2016-08-11T16:07:00Z
-categories = ["Reviews"]
-tags = ["food","Taco Naan"]
+categories = ["reviews"]
 images = ["https://3.bp.blogspot.com/-hVnt8P9BhQA/V60Dp4lSR-I/AAAAAAAAC5k/iihAld5aGDEf8T19juz42IfjPRNdxSviQCLcB/s2048/IMG_5448.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://1.bp.blogspot.com/-Sq3xak90kZg/V6zwoaw0I7I/AAAAAAAAC40/evK2MCidSAEDtEYEMePNyQVFAWYgzkF1QCLcB/s2048/IMG_5441.jpg" >}}

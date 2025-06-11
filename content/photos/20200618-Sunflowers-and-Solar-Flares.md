@@ -3,7 +3,7 @@ title = "Sunflowers and Solar Flares"
 date = "2020-06-18T14:42:40-05:00"
 location = "Dallas, TX"
 camera = "Sony A7RII"
-categories = ["Journal"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/50014805316_167dfd7948_k.jpg"]
 +++
 {{< img  src="https://live.staticflickr.com/65535/50014805316_167dfd7948_k.jpg" >}} 

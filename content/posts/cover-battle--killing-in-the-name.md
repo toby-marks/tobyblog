@@ -2,8 +2,7 @@
 title = "Cover Battle — Killing in the Name"
 description = ""
 date = "2020-05-29T17:27:49-05:00"
-categories = ["Music"]
-tags = ["YouTube","music"]
+categories = ["music"]
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1590791718/img/Screen_Shot_2020-05-29_at_5.34.52_PM.jpg"]
 +++
 {{< youtube K7i-TV45lQE >}}

@@ -1,8 +1,8 @@
 +++
 title = "Announcing the Very First Tobyblog Giveaway!"
 date = 2014-12-03T15:42:00Z
-categories = ["Journal"]
-tags = ["Halloween","tobyblog.com"]
+
+tags = ["halloween"]
 images = ["http://2.bp.blogspot.com/-dES21Y3gXxw/VHjUpreAJVI/AAAAAAAABnY/qgv9Zf_dOYY/s2048/DSC02792.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="http://2.bp.blogspot.com/-dES21Y3gXxw/VHjUpreAJVI/AAAAAAAABnY/qgv9Zf_dOYY/s2048/DSC02792.jpg" >}}

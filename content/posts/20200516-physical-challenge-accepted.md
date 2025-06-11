@@ -2,8 +2,7 @@
 title = "Physical Challenge Accepted?"
 description = ""
 date = "2020-05-16T11:07:15-05:00"
-categories = ["Stunts"]
-tags = ["fitness"]
+
 minipost = "true"
 +++
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🤯 We have NO idea how she did that <a href="https://t.co/K5SbLAnIzk">pic.twitter.com/K5SbLAnIzk</a></p>&mdash; RT Sport (@RTSportNews) <a href="https://twitter.com/RTSportNews/status/1261660423952060417?ref_src=twsrc%5Etfw">May 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -4,8 +4,7 @@ title = "Skull Eggs for Breakfast"
 location = "World Market and my kitchen"
 camera = "iPhone 7 Plus"
 images = ["https://live.staticflickr.com/4351/36710289681_3977b3ed93_o.jpg"]
-categories = ["Journal"]
-tags = ["food"]
+categories = ["photography"]
 +++
 {{< picture alt="A balanced breakfast" src="https://live.staticflickr.com/4351/36710289681_3977b3ed93_o.jpg" >}}
            

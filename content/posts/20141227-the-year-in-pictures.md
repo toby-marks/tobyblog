@@ -2,7 +2,7 @@
 draft = "true"
 title = "The Year in Pictures"
 date = 2014-12-27T21:48:00Z
-categories = ["Journal"]
+categories = ["photography"]
 images = ["http://2.bp.blogspot.com/-6i_mWar8nO8/VJ-XS4Eo4uI/AAAAAAAABrg/2YSt64UKmV4/s2048/DSC09211.jpg"]
 minipost = "true"
 +++

@@ -3,8 +3,8 @@ title = "Mountain Village, Colorado"
 date = "2020-02-15T20:10:05-06:00"
 location = "Mountain Village, CO"
 camera = "Sony A7RII, Nikon Coolpix P1000"
-categories = ["Journal"]
-tags = ["travel", "Colorado"]
+categories = ["photography"]
+tags = ["travel"]
 series = ["2019 Summer Vacation"]
 images = ["https://live.staticflickr.com/65535/49540098997_d49ce445d6_k.jpg"]
 +++

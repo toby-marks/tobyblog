@@ -3,8 +3,7 @@ camera = "iPhone XS"
 date = 2019-12-09T01:59:00Z
 location = "Dallas, TX"
 title = "Breckinridge Park 1219"
-categories = ["Journal"]
-tags = ["parks"]
+categories = ["photography"]
 images = ["https://res.cloudinary.com/tobyblog/image/upload/a_0/v1575913079/img/A602D7D7-4278-45C9-8CE3-9F9A6ABAA662_zqk7ec.jpg"]
 +++
 {{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/a_0/v1575913079/img/A602D7D7-4278-45C9-8CE3-9F9A6ABAA662_zqk7ec.jpg" >}} 

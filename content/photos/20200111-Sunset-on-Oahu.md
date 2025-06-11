@@ -3,8 +3,8 @@ title = "Sunset on Oahu"
 date = "2020-01-11T20:19:03-06:00"
 location = "Sunset Beach, Oahu"
 camera = "Sony A7RII"
-categories = ["Journal"]
-tags = ["travel","Hawaii"]
+categories = ["photography"]
+tags = ["travel"]
 images = ["https://live.staticflickr.com/65535/49370652847_ad1de7953f_k.jpg"]
 +++
 {{< img src="https://live.staticflickr.com/65535/49370652847_ad1de7953f_k.jpg" >}}

@@ -3,7 +3,7 @@ title = "Exploring Oak Point"
 date = "2020-07-09T16:56:11-05:00"
 location = "Plano, TX"
 camera = "Sony A7RII & Nikon Coolpix P1000"
-categories = ["Journal"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/50080900672_6ee4b91da3_k.jpg"]
 +++
 {{< picture alt="Rowlett Creek Trail" src="https://live.staticflickr.com/65535/50080900672_6ee4b91da3_k.jpg" >}}

@@ -3,8 +3,8 @@ title = "Maneki Neko Exhibit at the San Francisco Airport"
 date = "2018-03-29T23:53:25-05:00"
 location = "San Francisco, California"
 camera = "iPhone 7 Plus"
-categories = ["Journal"]
-tags = ["travel","San Francisco", "California"]
+categories = ["photography"]
+tags = ["travel"]
 images = ["https://live.staticflickr.com/794/40412447885_b376e4f0ec_o.jpg"]
 +++
 {{< picture alt="Maneki Neko Signage" src="https://live.staticflickr.com/794/40412447885_b376e4f0ec_o.jpg" >}}

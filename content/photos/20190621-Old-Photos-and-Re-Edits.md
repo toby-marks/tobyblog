@@ -3,7 +3,7 @@ title = "Old Photos and Re-Edits"
 date = "2019-06-21T13:50:55-05:00"
 location = "Dallas, TX"
 camera = "Sony DSC RX100"
-categories = ["Journal"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/48103978738_96c98d6b70_k.jpg"]
 +++
 {{< picture alt="Runway Model" src="https://live.staticflickr.com/65535/48103978738_96c98d6b70_k.jpg" >}}

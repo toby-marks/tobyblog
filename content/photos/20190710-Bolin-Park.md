@@ -3,8 +3,7 @@ title = "Bolin Park"
 date = "2019-07-10T16:55:24-05:00"
 location = "Dallas, TX"
 camera = "Nikon Coolpix P1000"
-categories = ["Journal"]
-tags = ["parks"]
+categories = ["photography"]
 image = "https://live.staticflickr.com/65535/48214659381_59469a8b9d_k.jpg"
 images = ["https://live.staticflickr.com/65535/48214659381_3c8c618918_k.jpg"]
 +++

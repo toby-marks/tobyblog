@@ -3,7 +3,7 @@ title = "Appreciating the Little Things During Coronavirus Lockdown"
 date = "2020-03-14T11:56:20-05:00"
 location = "Dallas, TX"
 camera = "Sony A7RII, Sony Vario-Tessar T* FE 16-35mm f/4 ZA OSS Lens with Reversing Ring"
-categories = ["Journal"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/49657315491_34ace8faea_k.jpg"]
 +++
 {{< img src="https://live.staticflickr.com/65535/49657315491_34ace8faea_k.jpg" >}}

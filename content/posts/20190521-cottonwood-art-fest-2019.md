@@ -2,8 +2,7 @@
 title = "Richardson's Cottonwood Art Festival"
 description = "We make our first visit to Richardson, Texas' famous art festival."
 date = "2019-05-21T15:00:00-05:00"
-categories = ["Journal"]
-tags = ["festivals"]
+
 images = ["https://live.staticflickr.com/65535/40876956893_f61f62e832_k.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="The Extraordinary Paintings of Alla Tsank" src="https://live.staticflickr.com/65535/40876956893_1681028101_k.jpg" >}}

@@ -3,8 +3,8 @@ title = "Aisles & Aisles of Halloween at At Home "
 date = 2015-07-27T23:05:00Z
 location = "Plano, TX"
 camera = "my Sony DSC-RX100"
-categories = ["Reviews"]
-tags = ["Halloween","stores"]
+categories = ["photography"]
+tags = ["halloween"]
 images = ["http://4.bp.blogspot.com/-Xivo-U5lONM/VbcX07M_97I/AAAAAAAACQs/mYKBdfkFbE8/s2048/IMG_0001.jpg"]
 +++
 {{< picture src="http://4.bp.blogspot.com/-Xivo-U5lONM/VbcX07M_97I/AAAAAAAACQs/mYKBdfkFbE8/s2048/IMG_0001.jpg" >}}

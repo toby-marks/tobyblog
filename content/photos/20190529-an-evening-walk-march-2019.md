@@ -3,8 +3,7 @@ title = "Evening Walk, March 2019"
 date = "2019-05-29T18:34:27-05:00"
 location = "Dallas, Texas"
 camera = "Sony a7rII, Samyang 14mm f/2.8"
-categories = ["Journal"]
-tags = ["parks"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/47962002236_6cb812e0ca_k.jpg"]
 +++
 {{< picture alt="Kassi 01" src="https://live.staticflickr.com/65535/47962002236_6cb812e0ca_k.jpg" >}}

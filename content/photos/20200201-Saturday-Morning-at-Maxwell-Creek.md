@@ -3,7 +3,7 @@ title = "Saturday Morning at Maxwell Creek"
 date = "2020-02-01T15:58:28-06:00"
 location = "Dallas, TX"
 camera = "Nikon Coolpix P1000"
-categories = ["Journal"]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/49474515931_526cab0087_k.jpg"]
 +++
 {{< picture alt="Untitled" src="https://live.staticflickr.com/65535/49474515931_526cab0087_k.jpg" >}}

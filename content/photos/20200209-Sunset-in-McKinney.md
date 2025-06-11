@@ -3,8 +3,7 @@ title = "Sunset in McKinney"
 date = "2020-02-09T17:27:04-06:00"
 location = "McKinney, TX"
 camera = "Sony A7RII"
-categories = ["Journal"]
-tags = [""]
+categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/49512803808_998327d0be_k.jpg"]
 +++
 {{< picture alt="Sunset in a Field" src="https://live.staticflickr.com/65535/49512803808_998327d0be_k.jpg" >}}

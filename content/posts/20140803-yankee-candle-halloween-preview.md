@@ -3,8 +3,8 @@ date = 2014-08-03
 title = "Yankee Candle Halloween Preview"
 location = "Dallas, TX"
 camera = "my iPhone"
-categories = ["Reviews"]
-tags = ["Halloween","stores"]
+categories = ["reviews"]
+tags = ["halloween"]
 images = ["http://1.bp.blogspot.com/-6FJ3nuF1Rq0/U96JVc7d8MI/AAAAAAAAAvw/1XjHAlNOflA/s2048/IMG_1603.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="http://1.bp.blogspot.com/-6FJ3nuF1Rq0/U96JVc7d8MI/AAAAAAAAAvw/1XjHAlNOflA/s2048/IMG_1603.jpg" >}}

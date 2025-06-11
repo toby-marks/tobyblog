@@ -3,8 +3,8 @@ camera = "iPhone XS"
 date = "2019-03-15T11:00:00+00:00"
 location = "Pasadena, CA"
 title = "Pasadena Streets"
-tags = ["Pasadena","California","travel"]
-categories = ["Journal"]
+tags = ["travel"]
+categories = ["photography"]
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1552684168/img/187B3422-B271-4BD5-8111-4B0E281F7EDB.jpg"]
 +++
 {{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1552684168/img/187B3422-B271-4BD5-8111-4B0E281F7EDB.jpg" >}}

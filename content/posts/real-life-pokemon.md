@@ -2,8 +2,7 @@
 title = "Real Life Pokemon on my Walk"
 description = ""
 date = "2020-06-25T18:04:39-05:00"
-categories = ["Journal"]
-tags = ["pokemon"]
+
 minipost = "true"
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1593126461/img/IMG_7325.jpg" >}}

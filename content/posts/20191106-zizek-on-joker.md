@@ -3,8 +3,7 @@ title = "Slavoj Zizek on The Joker"
 description = ""
 date = "2019-11-06T18:03:06-06:00"
 externalurl = "https://www.youtube.com/watch?v=UXfLafgzoX0"
-categories = ["Journal"]
-tags = ["news"]
+
 +++
 He's not a fan of the new Joker, though he greatly admires Nolan's version. 
 

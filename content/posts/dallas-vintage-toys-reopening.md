@@ -2,8 +2,7 @@
 title = "Visiting Dallas Vintage Toys at the Grand Reopening"
 description = ""
 date = "2020-06-18T17:36:13-05:00"
-categories = ["Local"]
-tags = ["toys"]
+
 images = ["https://res.cloudinary.com/tobyblog/image/upload/v1592519769/img/IMG_7291.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1592519766/img/IMG_7301.jpg" >}}
