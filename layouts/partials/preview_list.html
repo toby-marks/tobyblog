@@ -1,28 +1,29 @@
+
 {{ $pages := .Pages }}
 {{ if .IsHome }}
-{{ $pages = .Site.RegularPages }}
-{{ end }}
-{{ $paginator := .Paginate $pages }}
-
-{{ range $paginator.Pages }}
-  {{ $url := replace .Permalink (absURL "") "" }}
-
-  {{ if or (eq .Type "microposts") (eq .Type "micropost") }}
-    {{ partial "preview_micropost.html" . }}
-  {{ end }}
-
-  {{ if or (eq .Type "photos") (eq .Type "photo") }}
-    {{ partial "preview_photo_post.html" . }}
-  {{ end }}
-
-  {{ if or (eq .Type "posts") (eq .Type "post") }}
-    {{ partial "preview_post.html" . }}
-  {{ end }}
-
-  {{ if or (eq .Type "videos") (eq .Type "video") }}
-    {{ partial "preview_video.html" . }}
-  {{ end }}
-
+    {{ $pages = .Site.RegularPages }}
 {{ end }}
 
-{{ partial "pagination.html" . }}
+{{ if $pages }}
+	{{ $paginator := .Paginate $pages }}
+	{{ range $paginator.Pages }}
+		{{ $url := replace .Permalink (absURL "") "" }}
+		
+		{{ if or (eq .Type "microposts") (eq .Type "micropost") }}
+			{{ partial "preview_micropost.html" . }}
+		{{ end }}
+		
+		{{ if or (eq .Type "photos") (eq .Type "photo") }}
+			{{ partial "preview_photo_post.html" . }}
+		{{ end }}
+		
+		{{ if or (eq .Type "posts") (eq .Type "post") }}
+			{{ partial "preview_post.html" . }}
+		{{ end }}	
+
+		{{ if or (eq .Type "videos") (eq .Type "video") }}
+			{{ partial "preview_video.html" . }}
+		{{ end }}
+	{{ end }}
+    {{ partial "pagination.html" . }}
+{{ end }}
