@@ -4,7 +4,7 @@
     {{ $pages = .Site.RegularPages }}
 {{ end }}
 
-{{ if and $pages (isset . "Paginate") }}
+{{ if and $pages (ne .Kind "taxonomy") }}
 	{{ $paginator := .Paginate $pages }}
 	{{ range $paginator.Pages }}
 		{{ $url := replace .Permalink (absURL "") "" }}
