@@ -4,7 +4,7 @@
     {{ $pages = .Site.RegularPages }}
 {{ end }}
 
-{{ if $pages }}
+{{ if and $pages (isset . "Paginate") }}
 	{{ $paginator := .Paginate $pages }}
 	{{ range $paginator.Pages }}
 		{{ $url := replace .Permalink (absURL "") "" }}
@@ -26,4 +26,26 @@
 		{{ end }}
 	{{ end }}
     {{ partial "pagination.html" . }}
+{{ else if $pages }}
+	{{ range $pages }}
+		{{ $url := replace .Permalink (absURL "") "" }}
+	
+		{{ if or (eq .Type "microposts") (eq .Type "micropost") }}
+			{{ partial "preview_micropost.html" . }}
+		{{ end }}
+	
+		{{ if or (eq .Type "photos") (eq .Type "photo") }}
+			{{ partial "preview_photo_post.html" . }}
+		{{ end }}
+	
+		{{ if or (eq .Type "posts") (eq .Type "post") }}
+			{{ partial "preview_post.html" . }}
+		{{ end }}
+
+		{{ if or (eq .Type "videos") (eq .Type "video") }}
+			{{ partial "preview_video.html" . }}
+		{{ end }}
+	{{ end }}
+{{ else }}
+	<p>No entries found.</p>
 {{ end }}
