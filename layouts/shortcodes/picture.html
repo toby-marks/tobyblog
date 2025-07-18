@@ -124,7 +124,7 @@ This shortcode is a wrapper for, and requires, the picture partial:
 }}
 
 {{- /* Call the picture partial. */}}
-{{- partial "picture.html" $ctx -}}
+{{- partialCached "picture.html" $ctx -}}
 
 {{- /* Returns a slice of strings, splitting s by a comma or whitespace. */}}
 {{- define "partials/inline/split.html" }}

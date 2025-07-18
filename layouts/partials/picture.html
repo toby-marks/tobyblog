@@ -75,7 +75,7 @@ Add this CSS to your site to remove small gaps between adjacent elements:
 
 @example (required args only)
 
-  {{- partial "picture.html" (dict "page" . "src" "images/zion.jpg") }}
+  {{- partialCached "picture.html" (dict "page" . "src" "images/zion.jpg") }}
 
 @example (all args)
   {{- $opts := dict
@@ -93,7 +93,7 @@ Add this CSS to your site to remove small gaps between adjacent elements:
     "title" "A beautiful day in Bryce Canyon National Park"
     "class" "foo"
   }}
-  {{- partial "picture.html" $opts }}
+  {{- partialCached "picture.html" $opts }}
 
 */}}
 

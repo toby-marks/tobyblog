@@ -126,7 +126,7 @@ This shortcode is a wrapper for, and requires, the figure partial:
 }}
 
 {{- /* Call the figure partial. */}}
-{{- partial "figure.html" $ctx -}}
+{{- partialCached "figure.html" $ctx -}}
 
 {{- /* Returns a slice of strings, splitting s by a comma or whitespace. */}}
 {{- define "partials/inline/split.html" }}
