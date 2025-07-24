@@ -7,4 +7,4 @@ One wonders how one gets to be a known walker. Do you introduce yourself? Do you
 
 In any event, I would love to get my hands on that (presumably massive) unknown mall walker dossier down at the precinct. Must be how they break in the rookie detectives.
 
-{{< picture src="https://res.cloudinary.com/tobyblog/image/upload/v1562351059/img/A87B3EBF-47E8-4415-B079-9B3B69BBA307.jpg" >}}
+{{< img src="https://res.cloudinary.com/tobyblog/image/upload/v1562351059/img/A87B3EBF-47E8-4415-B079-9B3B69BBA307.jpg" >}}

@@ -8,7 +8,7 @@ categories = ["photography"]
 tags = ["travel"]
 images = ["https://live.staticflickr.com/65535/49129310703_5ce7adc236_k.jpg"]
 +++
-{{< picture alt="" src="https://live.staticflickr.com/65535/49129310703_5ce7adc236_k.jpg" >}}
+{{< img alt="" src="https://live.staticflickr.com/65535/49129310703_5ce7adc236_k.jpg" >}}
 <!--more-->
 
 I think one of the reasons it's taken me so long to finalize work on this set is that I care about the look of these edits so much. I took a lot of great pictures on our summer vacation, but Arches to me was the most beautiful place we visited, and the most aligned to my tastes. We were only there for a short amount of time compared to the other big spots we hit, but man did it make an impression on me. It's number one on my list of places to get back to, and to try some more serious hiking. 

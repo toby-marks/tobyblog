@@ -5,4 +5,4 @@ images = ["https://res.cloudinary.com/tobyblog/image/upload/v1557889660/img/AEFE
 +++
 Something that popped up in my Instagram feed. Win a trip for two to London? Maybe a good excuse for a little Harry/Hermione cosplay. Might have to borrow the kid’s graduation robe... 
 
-{{< picture src="https://res.cloudinary.com/tobyblog/image/upload/v1557889660/img/AEFEB6B3-2C63-4D73-8BCC-03D48E0F1FAA.jpg" >}}
+{{< img src="https://res.cloudinary.com/tobyblog/image/upload/v1557889660/img/AEFEB6B3-2C63-4D73-8BCC-03D48E0F1FAA.jpg" >}}

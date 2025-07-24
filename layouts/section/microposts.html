@@ -1,0 +1,15 @@
+{{ partialCached "site_header.html" . }}
+{{ partialCached "page_header.html" . }}
+
+{{ if isset .Site.Params "yearlymicroposts" | and ( .Site.Params.yearlymicroposts ) }}
+
+  {{ partialCached "yearly_grouping.html" . "microposts" }}
+
+{{ else }}
+
+  {{ partialCached "default_list.html" . }}
+
+{{ end }}
+
+{{ partialCached "page_footer.html" . }}
+{{ partialCached "site_footer.html" . }}

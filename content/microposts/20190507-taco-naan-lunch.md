@@ -5,4 +5,4 @@ images = ["https://res.cloudinary.com/tobyblog/image/upload/v1557252463/img/CB4D
 +++
 Happy Taco Tuesday, guys. 🌮 💯 
 
-{{< picture src="https://res.cloudinary.com/tobyblog/image/upload/v1557252463/img/CB4D557D-FB58-4C63-8A3B-F5542DE43099.jpg" >}}
+{{< img src="https://res.cloudinary.com/tobyblog/image/upload/v1557252463/img/CB4D557D-FB58-4C63-8A3B-F5542DE43099.jpg" >}}

@@ -1,5 +1,5 @@
 title = "~ The Tobyblog 📝"
-baseurl = "http://localhost/"
+baseurl = "https://tobyblog.com/"
 relativeUrls = false
 canonifyUrls = false
 disableAliases = true

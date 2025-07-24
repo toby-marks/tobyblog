@@ -1,4 +1,14 @@
 <main class="content">
+
+  <!-- search bar -->
+  <div id="search"></div>
+  <script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+  	  new PagefindUI({ element: "#search", showSubResults: true, excerptLength: 200 });
+    });
+  </script>
+  <!-- search bar -->
+
   <article class="post-groups">
     <div class="post-group">
     {{ range .Data.Pages.GroupByDate "2006" }}

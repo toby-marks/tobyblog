@@ -1,5 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&display=swap');
 
+/* search bar stuff */
+:root {
+  --pagefind-ui-background: rgb(211,162,8);
+  --pagefind-ui-border: rgb(204,216,133);
+}
+div#search {
+  max-width: 780px;
+  margin: auto;
+}
+.pagefind-ui__results-area.svelte-e9gkc3 {
+  background-color: rgba(255,255,255,.5);
+  margin-top: 0;
+}
+
 body {
 /*  font: 16px/22px "Lora", Palatino, Georgia, Garamond, "Big Caslon", "Times New Roman", serif;*/
 /*  background-color: rgb(33,19,11); */
@@ -38,6 +52,19 @@ article.video h1, article.video h2, article.video h3, article.video h4 {
   padding: 10px 0;
 }
 
+/* Ensure H1 in posts has appropriate sizing */
+article.post h1 {
+  font-size: 1.5em;
+}
+
+article.post h1 a {
+  text-decoration: none;
+}
+
+article.post h1 a:hover {
+  text-decoration: underline;
+}
+
 article.post .postmeta, article.post .postmeta, article.post .postmeta, article.post .postmeta,
 article.photo .postmeta, article.photo .postmeta, article.photo .postmeta, article.photo .postmeta,
 article.video .postmeta, article.video .postmeta, article.video .postmeta, article.video .postmeta {
@@ -70,6 +97,19 @@ figure {
 .micropost a {
   color: #333;
 }
+
+.video {
+  margin: 40px auto;
+  max-width: 780px;
+}
+.video > p {
+  color: var(--joshin-primary-color-500);
+  font-size: 18px;
+  line-height: 28px;
+  margin: 0;
+  text-align: justify;
+}
+
 
 article.photo img {
   margin-top: -25%;

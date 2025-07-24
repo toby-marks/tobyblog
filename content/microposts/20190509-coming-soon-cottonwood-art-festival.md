@@ -5,4 +5,4 @@ images = ["https://res.cloudinary.com/tobyblog/image/upload/v1557440733/img/3083
 +++
 Working on a blog about our trip to the Cottonwood Art Festival in Richardson, where I think I discovered my new favorite artist.
 
-{{< picture src="https://res.cloudinary.com/tobyblog/image/upload/v1557440733/img/3083A335-93B8-40D5-966C-3476BB4D3095.jpg" >}}
+{{< img src="https://res.cloudinary.com/tobyblog/image/upload/v1557440733/img/3083A335-93B8-40D5-966C-3476BB4D3095.jpg" >}}

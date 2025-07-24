@@ -6,6 +6,9 @@
 
   <main class="content photo">
     <article class="post">
+      <!-- Hidden H1 for Pagefind search results -->
+      <h1 data-pagefind-meta="title" style="position: absolute; left: -10000px; top: auto; width: 1px; height: 1px; overflow: hidden;">{{ .Title }}</h1>
+      
       <h2><a rel="full-article" href="{{ .Permalink }}">{{ .Title }}</a></h2>
 
       <div class="postmeta">

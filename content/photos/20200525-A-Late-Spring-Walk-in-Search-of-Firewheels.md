@@ -6,7 +6,7 @@ camera = "Nikon Coolpix P1000"
 categories = ["photography"]
 images = ["https://live.staticflickr.com/65535/49931407866_2e8529af3a_k.jpg"]
 +++
-{{< picture alt="Are These?" src="https://live.staticflickr.com/65535/49931407866_2e8529af3a_k.jpg" >}}
+{{< img alt="Are These?" src="https://live.staticflickr.com/65535/49931407866_2e8529af3a_k.jpg" >}}
 <!--more-->
 The wildflowers had recently been mowed over — God knows why — and the firewheels that remained were not worth photographing. However there was still stuff to be seen, and Kassi took a number of pics herself. 
 

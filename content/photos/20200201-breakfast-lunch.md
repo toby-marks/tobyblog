@@ -5,11 +5,11 @@ location = "various locations"
 camera = "my iPhone"
 categories = ["photography"]
 +++
-{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1580573144/img/IMG_6123.jpg" >}}
+{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1580573144/img/IMG_6123.jpg" >}}
 <!--more-->
 
-{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1580573144/img/IMG_6115.jpg" >}}
+{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1580573144/img/IMG_6115.jpg" >}}
 
-{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1580573144/img/IMG_6128.jpg" >}}
+{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1580573144/img/IMG_6128.jpg" >}}
 
-{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1580573144/img/IMG_6130.jpg" >}}
+{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1580573144/img/IMG_6130.jpg" >}}

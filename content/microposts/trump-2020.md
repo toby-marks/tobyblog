@@ -6,5 +6,5 @@ Last year around this time I'd just visited a Spirit Halloween Store. This year 
 
 There's certainly a lot to be afraid of this year. Isn't there? 
 
-{{< picture 
+{{< img 
         src="https://res.cloudinary.com/tobyblog/image/upload/v1601074175/img/trump.jpg" >}}
