@@ -1,0 +1,13 @@
+{{ partialCached "site_header.html" . }}
+{{ partialCached "page_header.html" . }}
+
+  <main class="content">
+   <article class="micropost">
+     <h1 data-pagefind-meta="title" style="position: absolute; left: -10000px; top: auto; width: 1px; height: 1px; overflow: hidden;">{{ .Title }}</h1>
+     {{ .Content }}
+     <a href='{{ .Permalink }}'><aside class="dates">→ {{ .Date.Format "2006/01/02 3:04 PM" }}</aside></a>
+   </article>
+  </main>
+
+{{ partialCached "page_footer.html" . }}
+{{ partialCached "site_footer.html" . }}
