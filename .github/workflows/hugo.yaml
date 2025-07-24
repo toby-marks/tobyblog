@@ -65,6 +65,8 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: Index site with pagefind
+        run: npx -y pagefind --site public
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
