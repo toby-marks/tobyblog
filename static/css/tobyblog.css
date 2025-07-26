@@ -100,6 +100,10 @@ figure {
   color: #333;
 }
 
+.micropost p img {
+  margin: 0;
+}
+
 .video {
   margin: 40px auto;
   max-width: 780px;
