@@ -100,7 +100,7 @@ figure {
   color: #333;
 }
 
-.micropost p img {
+.micropost p img, .photo p img {
   margin: 0;
 }
 
