@@ -4,9 +4,9 @@ description = ""
 date = "2019-11-13T16:07:43-06:00"
 
 minipost=true
-images = ["https://res.cloudinary.com/tobyblog/image/upload/v1573682807/img/Screen_Shot_2019-11-13_at_4.05.48_PM.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191113-up-and-vanished-season-2_Screen_Shot_2019-11-13_at_4.05.48_PM.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
-{{< figure class= "wp-caption alignnone" alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1573682807/img/Screen_Shot_2019-11-13_at_4.05.48_PM.jpg" >}}
+{{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191113-up-and-vanished-season-2_Screen_Shot_2019-11-13_at_4.05.48_PM.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
 An investigation into the disappearance of Kristal Reisinger from Crestone, Colorado. 
 

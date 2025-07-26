@@ -6,34 +6,34 @@ camera = "my trusty Sony DSC-RX100"
 categories = ["photography"]
 tags = ["halloween","conventions"]
 +++
-{{< img src="http://3.bp.blogspot.com/-VV457GwtScw/VYTqFoc3KxI/AAAAAAAACNE/Zpf1af9Fql0/s2048/DSC04341.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_46aa9915_DSC04341.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
 <!--more-->
 
 While in attendance at [Texas Frightmare Weekend]({{< ref "20150619-texas-frightmare-weekend.md" >}}) I picked up a small pocket watch as a souvenir for my daughter from the booth of Diana Levin. [Check out her gallery](https://www.ghoulishbunnystudios.com/) on her website. Or better yet, if you like what you see you can buy something from [her Etsy store.](https://www.etsy.com/shop/GhoulishBunnyStudios)
 
-{{< img alt="" src="http://1.bp.blogspot.com/-vcV5L4TUFNk/VYTqFn9Su-I/AAAAAAAACNI/uPjSqhRPilI/s2048/DSC04343.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_ac6b1d0b_DSC04343.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="" src="http://2.bp.blogspot.com/-VPakA_85JAs/VYTqFS7-0rI/AAAAAAAACNA/x7-2Ct2R9dY/s2048/DSC04344.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_a85ddb0f_DSC04344.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="" src="http://3.bp.blogspot.com/-Tpp02OCxNU4/VYTqGL4E68I/AAAAAAAACNQ/Hg8aU2Xn-1E/s2048/DSC04345.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_b3f644e8_DSC04345.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="" src="http://3.bp.blogspot.com/-6i-d9ytFwgM/VYTqGk8Pt2I/AAAAAAAACNc/6DZMAZFvmhk/s2048/DSC04347.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_934f13bd_DSC04347.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="" src="http://2.bp.blogspot.com/-7qIvuxZ9LRA/VYTqGon8IvI/AAAAAAAACNY/s7zw17RRe08/s2048/DSC04348.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_438f07aa_DSC04348.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="" src="http://2.bp.blogspot.com/-dl87WpfXRk8/VYTqG94mSKI/AAAAAAAACNg/T2iOrvLAgz4/s2048/DSC04350.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_3c30586c_DSC04350.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="" src="http://1.bp.blogspot.com/-s-4lvOdTdII/VYTqHlrMh1I/AAAAAAAACN4/gOPXu__I2ro/s2048/DSC04352.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_7ce7362a_DSC04352.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="" src="http://4.bp.blogspot.com/-RzLCdEpi5FU/VYTqH0usoYI/AAAAAAAACNw/15YXqCUCmqo/s2048/DSC04353.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_2c0be069_DSC04353.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="" src="http://2.bp.blogspot.com/-u5aPHGL6gFk/VYTqHyqJULI/AAAAAAAACN0/IC2ArJyAVC4/s2048/DSC04354.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_a0a2f157_DSC04354.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="" src="http://3.bp.blogspot.com/-lY798ApgpTs/VYTqIlgT5mI/AAAAAAAACOA/F1RUSzyqtV4/s2048/DSC04359.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_e1f59fdb_DSC04359.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="" src="http://4.bp.blogspot.com/-TFAzzi-Aedc/VYTqI2E2lKI/AAAAAAAACOE/QtvKd4kkoKY/s2048/DSC04364.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_f69dc843_DSC04364.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="" src="http://2.bp.blogspot.com/-TqfxaW11pAI/VYTqJeTAP9I/AAAAAAAACOc/-bhxcgio0s4/s2048/DSC04366.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_1891636b_DSC04366.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="" src="http://2.bp.blogspot.com/-2PoUvc_oIIY/VYTqJSQOZXI/AAAAAAAACOU/g-q0zOlTtYg/s2048/DSC04367.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_70ef1ec1_DSC04367.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)

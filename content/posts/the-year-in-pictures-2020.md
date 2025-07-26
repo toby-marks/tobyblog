@@ -3,10 +3,10 @@ title = "The Year in Pictures — 2020 Edition"
 description = ""
 date = "2020-12-30T16:36:14-06:00"
 categories = ["photography"]
-images = ["https://live.staticflickr.com/65535/50764080916_a1f2d536bc_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_the-year-in-pictures-2020_50764080916_a1f2d536bc_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 minipost = "true"
 +++
-[{{< figure class= "wp-caption alignnone" alt="" src="https://live.staticflickr.com/65535/50764080916_a1f2d536bc_k.jpg" >}}](https://www.flickr.com/photos/tobyjmarks/albums/72157717556840877/)
+[{{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_the-year-in-pictures-2020_50764080916_a1f2d536bc_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}](https://www.flickr.com/photos/tobyjmarks/albums/72157717556840877/)
 
 This year was different. 
 

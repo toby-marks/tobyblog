@@ -6,45 +6,45 @@ categories = ["photography"]
 tags = ["halloween"]
 location = "Arlington, Texas"
 camera = "my iPhone, I think"
-image = ["https://live.staticflickr.com/4373/36040402923_de601519f8_k.jpg"]
+image = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180406-halloween-at-joanns_36040402923_de601519f8_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
-{{< img alt="Jack O' Lantern Rug" src="https://live.staticflickr.com/4373/36040402923_de601519f8_k.jpg" >}}
+![Jack O](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180406-halloween-at-joanns_36040402923_de601519f8_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->
 
 *Congratulations. You have unlocked lost content!*
 
 This was supposed to go up as a full review all the way back in 2018, but I somehow never got around to writing it. Nevertheless, here you are. I present this to you now as a simple photoblog. Maybe one day I'll come back and flesh it out as intended.
 
-{{< img alt="My new wooden Halloween Banner" src="https://live.staticflickr.com/4351/36710256361_638aa640c4_k.jpg" >}}
+![My new wooden Halloween Banner](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180406-halloween-at-joanns_36710256361_638aa640c4_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Skeleton Menagerie" src="https://live.staticflickr.com/4387/36678775692_9720dc772c_k.jpg" >}}
+![Skeleton Menagerie](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180406-halloween-at-joanns_36678775692_9720dc772c_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Joanns Halloween Metal Signage" src="https://live.staticflickr.com/4436/36014824064_8aea0e1cef_k.jpg" >}}
+![Joanns Halloween Metal Signage](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180406-halloween-at-joanns_36014824064_8aea0e1cef_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Raven Rug" src="https://live.staticflickr.com/4344/36040403133_1ccf9fdf25_k.jpg" >}}
+![Raven Rug](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180406-halloween-at-joanns_36040403133_1ccf9fdf25_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Halloween Kitchen Towels" src="https://live.staticflickr.com/4437/36014823864_835d931f1f_k.jpg" >}}
+![Halloween Kitchen Towels](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180406-halloween-at-joanns_36014823864_835d931f1f_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Small Halloween Signage" src="https://live.staticflickr.com/4412/36040401163_133594023a_k.jpg" >}}
+![Small Halloween Signage](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180406-halloween-at-joanns_36040401163_133594023a_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Come in We're Open" src="https://live.staticflickr.com/4374/36710265181_a6083c5ec6_k.jpg" >}}
+![Come in We](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180406-halloween-at-joanns_36710265181_a6083c5ec6_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Skull Pillow" src="https://live.staticflickr.com/4371/36849278725_1d580d4ad5_k.jpg" >}}
+![Skull Pillow](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180406-halloween-at-joanns_36849278725_1d580d4ad5_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Skeleton wants to be friends" src="https://live.staticflickr.com/4370/36147049354_a87aefa90a_k.jpg" >}}
+![Skeleton wants to be friends](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180406-halloween-at-joanns_36147049354_a87aefa90a_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Halloween word wreath" src="https://live.staticflickr.com/4427/36982837755_ff42039539_k.jpg" >}}
+![Halloween word wreath](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180406-halloween-at-joanns_36982837755_ff42039539_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Candy Corn Wreath" src="https://live.staticflickr.com/4396/36710264731_eead556dc7_k.jpg" >}}
+![Candy Corn Wreath](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180406-halloween-at-joanns_36710264731_eead556dc7_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Large Halloween Faux Candles" src="https://live.staticflickr.com/4412/36849278805_580814f33f_k.jpg" >}}
+![Large Halloween Faux Candles](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180406-halloween-at-joanns_36849278805_580814f33f_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Joanns Witches Sabbat Rugs" src="https://live.staticflickr.com/4341/36014824074_17fc74ab20_k.jpg" >}}
+![Joanns Witches Sabbat Rugs](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180406-halloween-at-joanns_36014824074_17fc74ab20_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Color it yourself vampire girl" src="https://live.staticflickr.com/4384/36173869543_9b7dcdfc68_k.jpg" >}}
+![Color it yourself vampire girl](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180406-halloween-at-joanns_36173869543_9b7dcdfc68_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Witch Decor" src="https://live.staticflickr.com/4413/36040403023_882cc714cf_k.jpg" >}}
+![Witch Decor](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180406-halloween-at-joanns_36040403023_882cc714cf_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Las Muertes Pugs" src="https://live.staticflickr.com/4338/36710261431_96b2e41a97_k.jpg" >}}
+![Las Muertes Pugs](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180406-halloween-at-joanns_36710261431_96b2e41a97_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Shelves of Pumpkins" src="https://live.staticflickr.com/4392/36678777192_b5c541e050_k.jpg" >}}
+![Shelves of Pumpkins](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180406-halloween-at-joanns_36678777192_b5c541e050_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)

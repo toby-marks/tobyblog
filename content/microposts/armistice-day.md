@@ -4,4 +4,4 @@ title = "Armistice Day"
 +++
 happy Armistice.
 
-{{< img src="https://res.cloudinary.com/tobyblog/image/upload/v1573535755/img/B1F8A8E0-DA54-4B0B-BC10-FA26B3D2CFA8_poqpzv.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_cloudinary_dd46a529_B1F8A8E0-DA54-4B0B-BC10-FA26B3D2CFA8_poqpzv.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)

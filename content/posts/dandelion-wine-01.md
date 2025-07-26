@@ -3,9 +3,9 @@ title = "Dandelion Wine — A Book for Summer"
 description = ""
 date = "2020-05-14T16:19:55-05:00"
 
-images = ["https://res.cloudinary.com/tobyblog/image/upload/v1589491164/img/dandelion-small.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_dandelion-wine-01_dandelion-small.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
-{{< figure class= "wp-caption alignnone" alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1589491164/img/dandelion-small.jpg" >}}
+{{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_dandelion-wine-01_dandelion-small.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
 > What you have here in this book then is a gathering of dandelions from all those years. The wine metaphor which appears again and again in these pages is wonderfully apt. I was gathering images all of my life, storing them away, and forgetting them. Somehow I had to send myself back, with words as catalysts to open the memories out and see what they had to offer.
 > 

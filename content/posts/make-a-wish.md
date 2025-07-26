@@ -9,4 +9,4 @@ Go ahead, now's your chance.
 
 *It's the season.*
 
-{{< figure class= "wp-caption alignnone" alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1584487034/img/EmptyName.jpg" >}}
+{{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_make-a-wish_EmptyName.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}

@@ -55,3 +55,22 @@ copyRight = "Copyright (c) 2013-2025 Toby Marks"
 pagerSize = 5
 
 timeout = "20m"
+
+# Remote resource configuration to handle rate limiting better
+[build]
+  [build.buildStats]
+    disableClasses = false
+    disableIDs = false
+    disableTags = false
+    enable = false
+
+[security]
+  [security.http]
+    methods = ["(?i)GET|POST"]
+    urls = [".*"]
+
+# Remote resource timeout and retry settings
+[httpTimeout]
+  timeout = "180s"
+  readTimeout = "60s"
+  writeTimeout = "60s"

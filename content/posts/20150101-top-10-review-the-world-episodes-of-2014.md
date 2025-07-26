@@ -4,7 +4,7 @@ date = 2015-01-01T23:03:00Z
 updated = 2015-01-01T23:05:39Z
 categories = ["reviews"]
 tags = ["reviewtheworld"]
-images = ["http://2.bp.blogspot.com/-Syn1goyhkSU/USjxC7sA5-I/AAAAAAAABEQ/Wxqz6OsuFBI/s2048/bloglogo.png"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150101-top-10-review-the-world-episodes-of-2014_bloglogo.png/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 
 One thing I love is [end of year retrospectives](http://www.realclearpolitics.com/video/2014/12/27/mclaughlin_group_2014_awards_show_winners__losers_best__worst_of_the_year.html). And in the grand tradition I [started last year]({{< ref "20140202-top10-reviewtheworld-episodes-of-2013.md" >}}), I offer to you the top ten [Review the World](http://www.reviewtheworld.com/) episodes of 2014. So clear your personal calendars, grab a bag of Rap Snacks, and settle in the for the show. These are all episodes I love, and I encourage you to watch every one in its entirety.

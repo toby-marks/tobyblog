@@ -35,4 +35,4 @@ Enjoy. Show these guys some support by liking and/or subscribing to their stuff.
 
 {{< youtube 20RkSotA8sg >}}
 
-{{< figure class= "wp-caption alignnone" alt="" src="http://2.bp.blogspot.com/-3PtiI6xegg4/Ve8kc-vbvGI/AAAAAAAACZ0/plak79_-DLk/s2048/Unknown.jpeg" >}}
+{{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150908-cover-battle-the-great-pumpkin-waltz_Unknown.jpeg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}

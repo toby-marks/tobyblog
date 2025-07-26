@@ -2,11 +2,11 @@
 title = "Bursting My Bubble"
 date = "2019-08-20T13:54:50-05:00"
 +++
-{{< img src="https://res.cloudinary.com/tobyblog/image/upload/v1566327263/img/Screen_Shot_2019-08-20_at_1.52.45_PM.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_cloudinary_88ee5425_Screen_Shot_2020-09-29_at_5.38.11_PM.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img src="images/up.jpg" >}}
+![](images/up.jpg)
 
-{{< img src="https://res.cloudinary.com/tobyblog/image/upload/v1566327263/img/Screen_Shot_2019-08-20_at_1.53.06_PM.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_cloudinary_88ee5425_Screen_Shot_2020-09-29_at_5.38.11_PM.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img src="images/down.jpg" >}}
+![](images/down.jpg)
 

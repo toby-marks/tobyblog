@@ -9,5 +9,4 @@ title = "Introducing... the Amaroni"
 * 1 part Amaretto
 * 1 part Vodka
 
-{{< img 
-        src="https://res.cloudinary.com/tobyblog/image/upload/a_0/v1573952508/img/C751F33F-2745-4CAA-B6BE-080F11810BD0_jpgmzf.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_cloudinary_314c9ef8_C751F33F-2745-4CAA-B6BE-080F11810BD0_jpgmzf.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)

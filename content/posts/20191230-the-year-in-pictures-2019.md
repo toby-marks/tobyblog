@@ -4,9 +4,9 @@ description = ""
 date = "2019-12-30T16:21:55-06:00"
 categories = ["photography"]
 minipost = "true"
-images = ["https://live.staticflickr.com/65535/49279052183_2e46df5081_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191230-the-year-in-pictures-2019_49279052183_2e46df5081_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
-[{{< figure class= "wp-caption alignnone" alt="" src="https://live.staticflickr.com/65535/49279052183_2e46df5081_k.jpg" >}}](https://www.flickr.com/photos/tobyjmarks/albums/72157712375623937/with/49279052183/)
+[{{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191230-the-year-in-pictures-2019_49279052183_2e46df5081_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}](https://www.flickr.com/photos/tobyjmarks/albums/72157712375623937/with/49279052183/)
 
 *You have unlocked bonus content!*
 

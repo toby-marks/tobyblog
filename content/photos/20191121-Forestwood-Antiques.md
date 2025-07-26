@@ -4,63 +4,39 @@ date = "2019-11-21T15:35:31-06:00"
 location = "Dallas, TX"
 camera = "iPhone XS"
 categories = ["photography"]
-images = ["https://live.staticflickr.com/65535/49101789021_46f854edac_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191121-Forestwood-Antiques_49101789021_46f854edac_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
-{{< img alt="Blue Butterfly Pillow" src="https://live.staticflickr.com/65535/49101789021_46f854edac_k.jpg" >}}
+![Blue Butterfly Pillow](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191121-Forestwood-Antiques_49101789021_46f854edac_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->
 
-<!--
-{{< flickr "Cheesecake"
-           ""
-           "https://www.flickr.com/photos/tobyjmarks/49101987532/"
-           "https://live.staticflickr.com/65535/49101987532_ac46979c40_o.jpg" >}}
--->
-{{< img alt="Framed Santa Card" src="https://live.staticflickr.com/65535/49101281438_277a255724_k.jpg" >}}
+![Framed Santa Card](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191121-Forestwood-Antiques_49101281438_277a255724_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Optimistic Girl" src="https://live.staticflickr.com/65535/49101984657_8a4becb0dc_k.jpg" >}}
+![Optimistic Girl](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191121-Forestwood-Antiques_49101984657_8a4becb0dc_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Dracula" src="https://live.staticflickr.com/65535/49101792011_07b5474d3c_k.jpg" >}}
+![Dracula](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191121-Forestwood-Antiques_49101792011_07b5474d3c_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-<!--
-{{< flickr "The Mummy"
-           ""
-           "https://www.flickr.com/photos/tobyjmarks/49101792306/"
-           "https://live.staticflickr.com/65535/49101792306_1cd665d57e_o.jpg" >}}
--->
-{{< img alt="Pollyanna" src="https://live.staticflickr.com/65535/49101987267_28d316a597_k.jpg" >}}
+![Pollyanna](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191121-Forestwood-Antiques_49101987267_28d316a597_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Giant Killer" src="https://live.staticflickr.com/65535/49101279748_61150ad5ac_k.jpg" >}}
+![Giant Killer](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191121-Forestwood-Antiques_49101279748_61150ad5ac_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Canon Missae" src="https://live.staticflickr.com/65535/49101790856_9ea89d4416_k.jpg" >}}
+![Canon Missae](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191121-Forestwood-Antiques_49101790856_9ea89d4416_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Gold Cat Painting" src="https://live.staticflickr.com/65535/49101278718_2e749d9a27_k.jpg" >}}
+![Gold Cat Painting](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191121-Forestwood-Antiques_49101278718_2e749d9a27_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-<!--
-{{< flickr "Secret Hearts"
-           ""
-           "https://www.flickr.com/photos/tobyjmarks/49101281113/"
-           "https://live.staticflickr.com/65535/49101281113_08253b6aee_o.jpg" >}}
--->
-{{< img alt="Madonna Icon" src="https://live.staticflickr.com/65535/49101279168_0b748dc06d_k.jpg" >}}
+![Madonna Icon](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191121-Forestwood-Antiques_49101279168_0b748dc06d_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-<!--
-{{< flickr "Monster Madness"
-           ""
-           "https://www.flickr.com/photos/tobyjmarks/49101280138/"
-           "https://live.staticflickr.com/65535/49101280138_a99d0e7223_o.jpg" >}}
--->
-{{< img alt="Father Christmas" src="https://live.staticflickr.com/65535/49101986832_9181211523_k.jpg" >}}
+![Father Christmas](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191121-Forestwood-Antiques_49101986832_9181211523_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Surprised Santa" src="https://live.staticflickr.com/65535/49101790996_a69fccfdd0_k.jpg" >}}
+![Surprised Santa](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191121-Forestwood-Antiques_49101790996_a69fccfdd0_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Toby Mugs 1" src="https://live.staticflickr.com/65535/49101985612_8a500667ae_k.jpg" >}}
+![Toby Mugs 1](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191121-Forestwood-Antiques_49101985612_8a500667ae_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Toby Mugs 2" src="https://live.staticflickr.com/65535/49101279438_adc031506f_k.jpg" >}}
+![Toby Mugs 2](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191121-Forestwood-Antiques_49101279438_adc031506f_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Monk Stein" src="https://live.staticflickr.com/65535/49101278363_23c8219d58_k.jpg" >}}
+![Monk Stein](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191121-Forestwood-Antiques_49101278363_23c8219d58_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Pied Piper Stein" src="https://live.staticflickr.com/65535/49101278143_2e1ecf69ab_k.jpg" >}}
+![Pied Piper Stein](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191121-Forestwood-Antiques_49101278143_2e1ecf69ab_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Halloween Cookie Cutters" src="https://live.staticflickr.com/65535/49101792526_6587f6044a_k.jpg" >}}
+![Halloween Cookie Cutters](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191121-Forestwood-Antiques_49101792526_6587f6044a_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="All's Well That Ends Well" src="https://live.staticflickr.com/65535/49101986332_8c08bc4b3a_k.jpg" >}}
+![All](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191121-Forestwood-Antiques_49101986332_8c08bc4b3a_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)

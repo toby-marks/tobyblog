@@ -5,11 +5,11 @@ location = "various locations"
 camera = "my iPhone"
 categories = ["photography"]
 +++
-{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1580573144/img/IMG_6123.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_cloudinary_fe90b2f7_IMG_6123.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->
 
-{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1580573144/img/IMG_6115.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_cloudinary_45e0f647_IMG_6115.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1580573144/img/IMG_6128.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_cloudinary_41cdfcf2_IMG_6128.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1580573144/img/IMG_6130.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_cloudinary_d5ac2b3a_IMG_6130.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)

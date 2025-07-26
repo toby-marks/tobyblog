@@ -3,29 +3,29 @@ title = "Geocaching Maxwell Creek"
 date = "2017-09-07"
 location = "Dallas, Texas"
 camera = "iPhone 7 Plus"
-image = "https://live.staticflickr.com/4365/36848910545_1b7b05070d_k.jpg"
+image = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170907-geocaching-maxwell-creek_36848910545_1b7b05070d_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
 categories = ["photography"]
 tags = ["geocaching"]
 +++
-{{< img alt="My caching hat" src="https://live.staticflickr.com/4365/36848910545_1b7b05070d_k.jpg" >}}
+![My caching hat](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170907-geocaching-maxwell-creek_36848910545_1b7b05070d_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->        
 
 Just some photos from a nice day out with kids, picking up a couple of geocaches at a local park. 
 
-{{< img alt="Nano log, unfolded" src="https://live.staticflickr.com/4346/36040011643_39b4ad9713_k.jpg" >}}
+![Nano log, unfolded](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170907-geocaching-maxwell-creek_36040011643_39b4ad9713_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Fence cap" src="https://live.staticflickr.com/4413/36014480414_af014c7326_k.jpg" >}}
+![Fence cap](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170907-geocaching-maxwell-creek_36014480414_af014c7326_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Bagged log" src="https://live.staticflickr.com/4341/36040010853_bd644b471e_k.jpg" >}}
+![Bagged log](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170907-geocaching-maxwell-creek_36040010853_bd644b471e_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Hucklebuck!" src="https://live.staticflickr.com/4344/36709894201_e6d96dc145_k.jpg" >}}
+![Hucklebuck!](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170907-geocaching-maxwell-creek_36709894201_e6d96dc145_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Nano under a fence post cap" src="https://live.staticflickr.com/4339/36678453902_3bd1ffc7a5_k.jpg" >}}
+![Nano under a fence post cap](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170907-geocaching-maxwell-creek_36678453902_3bd1ffc7a5_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Signing the log" src="https://live.staticflickr.com/4387/36452689660_03d2e329a1_k.jpg" >}}
+![Signing the log](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170907-geocaching-maxwell-creek_36452689660_03d2e329a1_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Looking for a cache at a metal fence" src="https://live.staticflickr.com/4337/36678453882_5e1b350a14_k.jpg" >}}
+![Looking for a cache at a metal fence](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170907-geocaching-maxwell-creek_36678453882_5e1b350a14_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Found at an electric station" src="https://live.staticflickr.com/4426/36678454322_c939008510_k.jpg" >}}
+![Found at an electric station](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170907-geocaching-maxwell-creek_36678454322_c939008510_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Nano log" src="https://live.staticflickr.com/4425/36040011863_49bfd668bb_k.jpg" >}}
+![Nano log](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170907-geocaching-maxwell-creek_36040011863_49bfd668bb_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)

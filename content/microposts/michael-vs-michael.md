@@ -5,4 +5,4 @@ title = "Michael vs. Michael"
 +++
 That legendary McDonald / Bolton music rivalry
 
-{{< img src="https://res.cloudinary.com/tobyblog/image/upload/v1568148143/img/6D3874F8-B609-4BF8-8F05-02F3DAFC079C_t7s21p.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_cloudinary_4aa7acb0_6D3874F8-B609-4BF8-8F05-02F3DAFC079C_t7s21p.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)

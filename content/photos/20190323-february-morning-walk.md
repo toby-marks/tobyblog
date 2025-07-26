@@ -4,29 +4,29 @@ date = "2019-03-23T17:17:50-05:00"
 location = "McKinney, TX"
 camera = "my Sony a7rII"
 categories = ["photography"]
-images = ["https://live.staticflickr.com/7827/46728345454_058e49101b_o.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190323-february-morning-walk_46728345454_058e49101b_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
-{{< img alt="Backlit Flower" src="https://live.staticflickr.com/7827/46728345454_058e49101b_o.jpg" >}}
+![Backlit Flower](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190323-february-morning-walk_46728345454_058e49101b_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->
 
-{{< img alt="Flowers in the Morning Light" src="https://live.staticflickr.com/7843/33575269628_386fb3337e_o.jpg" >}}
+![Flowers in the Morning Light](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190323-february-morning-walk_33575269628_386fb3337e_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Excited for a Morning Walk" src="https://live.staticflickr.com/7888/46728345944_cc5271ba7c_o.jpg" >}}
+![Excited for a Morning Walk](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190323-february-morning-walk_46728345944_cc5271ba7c_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Rowl Something" src="https://live.staticflickr.com/7869/40485447743_e6ec6e4747_o.jpg" >}}
+![Rowl Something](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190323-february-morning-walk_40485447743_e6ec6e4747_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Indecipherable Graffiti" src="https://live.staticflickr.com/7821/40485446483_688fab9257_o.jpg" >}}
+![Indecipherable Graffiti](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190323-february-morning-walk_40485446483_688fab9257_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Lil Peep" src="https://live.staticflickr.com/7826/47451474131_e13ab5195c_o.jpg" >}}
+![Lil Peep](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190323-february-morning-walk_47451474131_e13ab5195c_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="2019" src="https://live.staticflickr.com/7842/40485446193_a5416615b1_o.jpg" >}}
+![2019](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190323-february-morning-walk_40485446193_a5416615b1_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Mom and Me" src="https://live.staticflickr.com/7905/40485445513_6da0da3300_o.jpg" >}}
+![Mom and Me](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190323-february-morning-walk_40485445513_6da0da3300_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Indulgent" src="https://live.staticflickr.com/7862/47451472191_60bd7464de_o.jpg" >}}
+![Indulgent](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190323-february-morning-walk_47451472191_60bd7464de_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Brenda, Danielle, and Malcolm" src="https://live.staticflickr.com/7879/40485446813_ea9a396c86_o.jpg" >}}
+![Brenda, Danielle, and Malcolm](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190323-february-morning-walk_40485446813_ea9a396c86_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Waving Eye" src="https://live.staticflickr.com/7910/47451473291_570ab7ba47_o.jpg" >}}
+![Waving Eye](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190323-february-morning-walk_47451473291_570ab7ba47_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Kassi ❤️" src="https://live.staticflickr.com/7927/40485445913_8ec884dc35_o.jpg" >}}
+![Kassi ❤️](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190323-february-morning-walk_40485445913_8ec884dc35_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)

@@ -4,32 +4,32 @@ date = "2020-08-02T19:04:37-05:00"
 location = "Plano, TX"
 camera = "Nikon Coolpix P1000"
 categories = ["photography"]
-images = ["https://live.staticflickr.com/65535/50163681251_210fc68972_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200802-Sights-Along-the-Cottonwood-Trail_50163681251_210fc68972_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
-{{< img alt="A Bird Conversation" src="https://live.staticflickr.com/65535/50163681251_210fc68972_k.jpg" >}}
+![A Bird Conversation](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200802-Sights-Along-the-Cottonwood-Trail_50163681251_210fc68972_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->
 So what do you think birds talk about? Do you think they gossip? Is there drama in bird communities? Do they talk crap about the hoomans? I don't think they like being on camera. I was spotted taking pictures and it seemed to interrupt their conversation. Once they both saw what I was doing, they flew away.
 
-{{< img alt="Daytime Moon" src="https://live.staticflickr.com/65535/50163678506_0651e8f263_k.jpg" >}}
+![Daytime Moon](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200802-Sights-Along-the-Cottonwood-Trail_50163678506_0651e8f263_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="A Mushroom Colony" src="https://live.staticflickr.com/65535/50163679861_a4a84ddaa5_k.jpg" >}}
+![A Mushroom Colony](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200802-Sights-Along-the-Cottonwood-Trail_50163679861_a4a84ddaa5_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
 Almost like a little village. I was looking for Smurfs, trust me.
 
-{{< img alt="Mushrooms, Left" src="https://live.staticflickr.com/65535/50163144713_78d188e8a4_k.jpg" >}}
+![Mushrooms, Left](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200802-Sights-Along-the-Cottonwood-Trail_50163144713_78d188e8a4_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Mushrooms, Right" src="https://live.staticflickr.com/65535/50163143823_73d863c73a_k.jpg" >}}
+![Mushrooms, Right](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200802-Sights-Along-the-Cottonwood-Trail_50163143823_73d863c73a_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Calling Out" src="https://live.staticflickr.com/65535/50163931467_dbb10097ff_k.jpg" >}}
+![Calling Out](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200802-Sights-Along-the-Cottonwood-Trail_50163931467_dbb10097ff_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Arrival" src="https://live.staticflickr.com/65535/50163682936_c1093210e0_k.jpg" >}}
+![Arrival](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200802-Sights-Along-the-Cottonwood-Trail_50163682936_c1093210e0_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Bird Buddies" src="https://live.staticflickr.com/65535/50163681781_70a48c0784_k.jpg" >}}
+![Bird Buddies](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200802-Sights-Along-the-Cottonwood-Trail_50163681781_70a48c0784_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Pet Waste" src="https://live.staticflickr.com/65535/50163680461_7de11d239e_k.jpg" >}}
+![Pet Waste](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200802-Sights-Along-the-Cottonwood-Trail_50163680461_7de11d239e_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Spotted" src="https://live.staticflickr.com/65535/50163930897_06274f843e_k.jpg" >}}
+![Spotted](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200802-Sights-Along-the-Cottonwood-Trail_50163930897_06274f843e_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Dragonfly" src="https://live.staticflickr.com/65535/50163930652_2d5fdd90cb_k.jpg" >}}
+![Dragonfly](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200802-Sights-Along-the-Cottonwood-Trail_50163930652_2d5fdd90cb_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< img alt="Skink Peeking Out" src="https://live.staticflickr.com/65535/50163140303_717b597d82_k.jpg" >}}
+![Skink Peeking Out](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200802-Sights-Along-the-Cottonwood-Trail_50163140303_717b597d82_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
