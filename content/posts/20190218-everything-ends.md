@@ -2,9 +2,9 @@
 title = "Our Choice"
 description = "The choice we all have."
 date = "2019-02-18T23:11:34-08:00"
-
-images = ["/img/IMG_1698.JPG"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/a22efed1-4d2c-4d0d-78eb-3f9a26f87a00/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 minipost = "true"
 +++
 
-{{< figure src="images/IMG_1698.JPG" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/a22efed1-4d2c-4d0d-78eb-3f9a26f87a00/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
+
