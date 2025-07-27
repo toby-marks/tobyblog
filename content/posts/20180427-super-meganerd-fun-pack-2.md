@@ -9,37 +9,6 @@ date = "2018-04-27"
 Could this be the start of a grand birthday tradition? Watch me unbox the second giant care package gifted to me by my cousin, friend, and frequent collaborator — *Carl!*
 <!--more-->
 
-<!--
-{{< flickr "The Hobbit OST Illustrations #2"
-           "The Hobbit OST Illustrations #2"
-           "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_70ef1ec1_DSC04367.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
-           "https://farm1.staticflickr.com/889/40562509015_2bab9dac53_z.jpg" >}}
-{{< flickr "The Hobbit OST Illustrations #1"
-           "The Hobbit OST Illustrations #1"
-           "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_70ef1ec1_DSC04367.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
-           "https://farm1.staticflickr.com/867/40741744174_3c9d3194cc_z.jpg" >}}
-{{< flickr "The Hobbit Vinyl #2"
-           "The Hobbit Vinyl #2"
-           "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_70ef1ec1_DSC04367.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
-           "https://farm1.staticflickr.com/875/40562507465_98554d98e2_z.jpg" >}}
-{{< flickr "The Hobbit OST on Vinyl"
-           "The Hobbit OST on Vinyl"
-           "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_70ef1ec1_DSC04367.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
-           "https://farm1.staticflickr.com/901/27584883388_e08624ae83_z.jpg" >}}
-{{< flickr "The Hobbit Vinyl #1"
-           "The Hobbit Vinyl #1"
-           "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_70ef1ec1_DSC04367.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
-           "https://farm1.staticflickr.com/807/40741742764_335262670f_z.jpg" >}}
-{{< flickr "Deluxe 2 Record Set"
-           "Deluxe 2 Record Set"
-           "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_70ef1ec1_DSC04367.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
-           "https://farm1.staticflickr.com/879/40562510325_a6315f4218_z.jpg" >}}
-{{< flickr "Complete Original Soundtrack"
-           "Complete Original Soundtrack"
-           "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_70ef1ec1_DSC04367.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
-           "https://farm1.staticflickr.com/876/40741749734_bdc667b0c5_z.jpg" >}}
--->
-
 Yes, in an unexpected followup to 2016's amazing [Super Meganerd Fun Pack]({{< ref "20160502-super-meganerd-fun-pack.md" >}}), Carl completely outdid himself with a fantastic new collection of goodies for me and the kids. Once again I was completely humbled by his generosity and thoughtfulness. Carl, thanks so much. And keep them coming! After all, there are *a lot* more Super Mario Bros games you could Photoshop. Just saying.
 
 {{< figure class= "wp-caption alignnone" alt="My Little Pony Bag" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180427-super-meganerd-fun-pack-2_27584891308_c2b09bb15e_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
