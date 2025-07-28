@@ -59,7 +59,7 @@ article {
 }
 
 /* Make images span full article width, ignoring padding */
-article img {
+article img, div#mygallery {
   margin-left: -20px;
   margin-right: -20px;
   width: calc(100% + 40px);

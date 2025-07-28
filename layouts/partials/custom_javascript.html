@@ -1,1 +1,16 @@
 <script src="/pagefind/pagefind-ui.js"></script>
+
+<script src="/js/jquery.swipebox.min.js"></script>
+
+<script src="/js/jquery.justifiedGallery.min.js"></script>
+
+<script language="javascript">
+  $("#mygallery").justifiedGallery({
+    rowHeight : 150,
+    lastRow : 'justify',
+    rel : "gallery1",
+    margins : 10  
+  }).on('jg.complete', function () {
+    $('.swipebox').swipebox();
+  });
+</script>
