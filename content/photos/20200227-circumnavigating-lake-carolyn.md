@@ -4,7 +4,7 @@ date = 2020-02-27T23:00:00Z
 location = "Irving, TX"
 title = "Circumnavigating Lake Carolyn"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200227-circumnavigating-lake-carolyn_C302ACD4-4B4A-46C1-864C-3F86887F3F04_csttru.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200227-circumnavigating-lake-carolyn_C302ACD4-4B4A-46C1-864C-3F86887F3F04_csttru.jpg"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200227-circumnavigating-lake-carolyn_C302ACD4-4B4A-46C1-864C-3F86887F3F04_csttru.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

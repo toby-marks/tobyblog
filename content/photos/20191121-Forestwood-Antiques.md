@@ -4,7 +4,7 @@ date = "2019-11-21T15:35:31-06:00"
 location = "Dallas, TX"
 camera = "iPhone XS"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191121-Forestwood-Antiques_49101789021_46f854edac_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191121-Forestwood-Antiques_49101789021_46f854edac_k.jpg"]
 +++
 ![Blue Butterfly Pillow](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191121-Forestwood-Antiques_49101789021_46f854edac_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

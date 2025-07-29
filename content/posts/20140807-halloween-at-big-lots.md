@@ -5,7 +5,7 @@ location = "Dallas, TX"
 camera = "my iPhone"
 categories = ["reviews"]
 tags = ["geocaching","halloween"]
-images = ["https://lh6.googleusercontent.com/-T4PPeI9JIWg/U-Kfhb6-DlI/AAAAAAAAAxs/AFXIe1xozHg/s1024/blogger-image-1422700385.jpg"]
+images = ["https://lh6.googleusercontent.com/-T4PPeI9JIWg/U-Kfhb6-DlI/AAAAAAAAAxs/AFXIe1xozHg/s1024"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://lh6.googleusercontent.com/-T4PPeI9JIWg/U-Kfhb6-DlI/AAAAAAAAAxs/AFXIe1xozHg/s1024/blogger-image-1422700385.jpg" >}}
 

@@ -5,7 +5,7 @@ location = "Dallas, TX"
 title = "Happy Halloween, 2019"
 categories = ["photography"]
 tags = ["halloween"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191101-happy-halloween-2019_95F3C504-A0F0-4BE7-B460-870629AEDC4E_cb4ixx.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191101-happy-halloween-2019_95F3C504-A0F0-4BE7-B460-870629AEDC4E_cb4ixx.jpg"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_cloudinary_ea9885a5_2C248740-BC32-4495-A471-DD1401DBC4D6_c03nnu.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)  
 <!--more-->

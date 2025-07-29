@@ -3,7 +3,7 @@ title = "Pumpkin Latte Beer and Ace Pumpkin Cider"
 date = "2017-11-24T10:49:02-06:00"
 description = "I review a couple of very fallish and Thanksgiving-appropriate beverages."
 categories = ["reviews"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20171124-pumpkin-latte-ace-pumpkin-cider_26861213659_dabde02580_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20171124-pumpkin-latte-ace-pumpkin-cider_26861213659_dabde02580_k.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="Labyrinth Glass" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20171124-pumpkin-latte-ace-pumpkin-cider_26861213659_dabde02580_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 

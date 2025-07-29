@@ -2,7 +2,7 @@
 title = "\"Toe 2 Toe\" Review: Chili Cheese Fries"
 date = 2014-05-18T14:35:00Z
 categories = ["reviews"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140518-toe-2-toe-review-chili-cheese-fries_melters.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140518-toe-2-toe-review-chili-cheese-fries_melters.jpg"]
 +++
 THE CONTENDERS:
 

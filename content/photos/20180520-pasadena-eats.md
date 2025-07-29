@@ -5,7 +5,7 @@ location = "Pasadena, California"
 camera = "iPhone 7 Plus"
 categories = ["photography"]
 tags = ["travel"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180520-pasadena-eats_42234806081_d2a2b1cd1f_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180520-pasadena-eats_42234806081_d2a2b1cd1f_o.jpg"]
 +++
 ![Ramen Tatsunoya, Street View 02](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180520-pasadena-eats_42234806081_d2a2b1cd1f_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

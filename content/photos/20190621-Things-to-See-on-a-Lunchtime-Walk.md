@@ -4,7 +4,7 @@ date = "2019-06-21T16:46:36-05:00"
 location = "Dallas, TX"
 camera = "Nikon Coolpix P1000"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190621-Things-to-See-on-a-Lunchtime-Walk_48105199446_ecf161b9bb_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190621-Things-to-See-on-a-Lunchtime-Walk_48105199446_ecf161b9bb_k.jpg"]
 +++
 ![Leaf Beetle](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190621-Things-to-See-on-a-Lunchtime-Walk_48105199446_ecf161b9bb_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

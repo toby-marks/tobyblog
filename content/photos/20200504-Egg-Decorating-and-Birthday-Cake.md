@@ -4,7 +4,7 @@ date = "2020-05-04T14:52:50-05:00"
 location = "Dallas, TX"
 camera = "iPhone"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200504-Egg-Decorating-and-Birthday-Cake_49856196366_f7775e8797_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200504-Egg-Decorating-and-Birthday-Cake_49856196366_f7775e8797_k.jpg"]
 +++
 ![Wishes Made](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200504-Egg-Decorating-and-Birthday-Cake_49856196366_f7775e8797_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

@@ -5,7 +5,7 @@ location = "Dallas, TX"
 camera = "my iPhone"
 categories = ["reviews"]
 tags = ["geocaching","halloween"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140823-incredible-halloween-village-at-michaels_IMG_1667.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140823-incredible-halloween-village-at-michaels_IMG_1667.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140823-incredible-halloween-village-at-michaels_IMG_1667.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 

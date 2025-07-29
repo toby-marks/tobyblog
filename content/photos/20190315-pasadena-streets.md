@@ -5,7 +5,7 @@ location = "Pasadena, CA"
 title = "Pasadena Streets"
 tags = ["travel"]
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190315-pasadena-streets_187B3422-B271-4BD5-8111-4B0E281F7EDB.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190315-pasadena-streets_187B3422-B271-4BD5-8111-4B0E281F7EDB.jpg"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190315-pasadena-streets_187B3422-B271-4BD5-8111-4B0E281F7EDB.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

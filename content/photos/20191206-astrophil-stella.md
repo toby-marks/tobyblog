@@ -4,7 +4,7 @@ date = 2019-12-06T22:00:00Z
 location = "A Link Between Worlds"
 title = "Astrophil & Stella"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191206-astrophil-stella_377073AC-8423-4FF3-97C4-1C83594ADDC2_d2vjdt.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191206-astrophil-stella_377073AC-8423-4FF3-97C4-1C83594ADDC2_d2vjdt.jpg"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191206-astrophil-stella_377073AC-8423-4FF3-97C4-1C83594ADDC2_d2vjdt.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

@@ -3,7 +3,7 @@ title = "Amazing 30th Anniversary Movies"
 date = 2016-06-06T14:23:00Z
 categories = ["reviews"]
 tags = ["movies"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20160606-amazing-30th-anniversary-movies_300px-Transformersanimatedfilmposter.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20160606-amazing-30th-anniversary-movies_300px-Transformersanimatedfilmposter.jpg"]
 minipost = "true"
 +++
 Today marks the 30th anniversary of two very special, very "eighties" movies that I happen to love. The (legitimate) Transformers The Movie, and Space Camp, which I watched for the first time only a year or so ago with the kids. 

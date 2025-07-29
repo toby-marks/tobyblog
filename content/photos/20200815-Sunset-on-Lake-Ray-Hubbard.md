@@ -4,7 +4,7 @@ date = "2020-08-15T11:18:24-05:00"
 location = "Rockwall, TX"
 camera = "iPhone, Nikon Coolpix P1000"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200815-Sunset-on-Lake-Ray-Hubbard_50182509593_e2d91c1b41_o.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200815-Sunset-on-Lake-Ray-Hubbard_50182509593_e2d91c1b41_o.jpg"]
 +++
 ![sunset on Lake Ray Hubbard](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200815-Sunset-on-Lake-Ray-Hubbard_50182509593_e2d91c1b41_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

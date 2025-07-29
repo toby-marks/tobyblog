@@ -4,7 +4,7 @@ date = 2019-12-16T18:00:00Z
 location = "Dallas, TX"
 title = "Playing / Kitchen and Bar"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191216-playing-kitchen-and-bar_EE8280FF-167F-4251-9662-02411246D5C7_jqdtjk.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191216-playing-kitchen-and-bar_EE8280FF-167F-4251-9662-02411246D5C7_jqdtjk.jpg"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191216-playing-kitchen-and-bar_EE8280FF-167F-4251-9662-02411246D5C7_jqdtjk.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

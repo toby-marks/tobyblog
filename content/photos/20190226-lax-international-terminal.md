@@ -5,7 +5,7 @@ location = "Los Angeles, California"
 camera = "iPhone XS"
 categories = ["photography"]
 tags = ["travel"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190226-lax-international-terminal_47220818321_d9fd50fabe_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190226-lax-international-terminal_47220818321_d9fd50fabe_o.jpg"]
 +++
 ![Futuristic Billboard Wall](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190226-lax-international-terminal_46497439394_d9ebaf5919_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

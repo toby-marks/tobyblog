@@ -5,7 +5,7 @@ location = "Channel Islands National Park"
 camera = "Nikon and Sony"
 tags = ["travel"]
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190731-Taking-Kassi-to-the-Channel-Islands_48426181736_531271204d_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190731-Taking-Kassi-to-the-Channel-Islands_48426181736_531271204d_k.jpg"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190731-Taking-Kassi-to-the-Channel-Islands_48426181736_531271204d_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

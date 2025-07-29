@@ -4,7 +4,7 @@ date = "2019-04-12T14:00:00+00:00"
 location = "Irving, TX"
 title = "Stroll Around Lake Carolyn"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190412-lunchtime-stroll-around-lake-carolyn_09A7CF26-16EB-4E1A-B1F5-1A0789E874E0.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190412-lunchtime-stroll-around-lake-carolyn_09A7CF26-16EB-4E1A-B1F5-1A0789E874E0.jpg"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190412-lunchtime-stroll-around-lake-carolyn_09A7CF26-16EB-4E1A-B1F5-1A0789E874E0.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

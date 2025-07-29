@@ -4,7 +4,7 @@ date = "2019-03-24T11:57:33-05:00"
 location = "Dallas, TX"
 camera = "iPhone XS"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190324-shadows-in-the-forest_33581029088_476802189d_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190324-shadows-in-the-forest_33581029088_476802189d_k.jpg"]
 +++
 ![The Game is Afoot](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190324-shadows-in-the-forest_33581029088_476802189d_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

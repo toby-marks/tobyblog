@@ -4,7 +4,7 @@ date = "2022-01-03T15:56:01-06:00"
 location = "Audubon Park"
 camera = "Sony RX-100 V"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20220103-Cold-Afternoon-Walk-at-Audubon-Park_51798246235_8158143a5d_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20220103-Cold-Afternoon-Walk-at-Audubon-Park_51798246235_8158143a5d_k.jpg"]
 +++
 ![A little dog having fun in the park](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20220103-Cold-Afternoon-Walk-at-Audubon-Park_51798246235_8158143a5d_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

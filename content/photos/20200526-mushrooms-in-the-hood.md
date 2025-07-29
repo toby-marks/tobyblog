@@ -4,7 +4,7 @@ date = "2020-05-26T18:25:17-05:00"
 location = "my neighborhood"
 camera = "my phone cam"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200526-mushrooms-in-the-hood_IMG_7183.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200526-mushrooms-in-the-hood_IMG_7183.jpg"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200526-mushrooms-in-the-hood_IMG_7183.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

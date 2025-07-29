@@ -5,7 +5,7 @@ location = "Sequoia National Park"
 camera = "Nikon Coolpix P1000, Sony A7Rii (Sigma Art 85mm f/1.4, Sony Vario-Tessar T* FE 16-35mm f/4 ZA OSS, Samyang 14mm f/2.8 lenses)>"
 tags = ["travel"]
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190728-Visiting-Sequoia-National-Park_48353086296_4e2e8b1b5b_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190728-Visiting-Sequoia-National-Park_48353086296_4e2e8b1b5b_k.jpg"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190728-Visiting-Sequoia-National-Park_48353086296_4e2e8b1b5b_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

@@ -4,7 +4,7 @@ date = 2014-09-06
 location = "Dallas, TX"
 camera = "my Sony DSC RX-100"
 categories = ["reviews"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140906-opening-the-dino-drac-funpack-aug-2014_IMG_1721.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140906-opening-the-dino-drac-funpack-aug-2014_IMG_1721.jpg"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_07d3a3ce_IMG_1735.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

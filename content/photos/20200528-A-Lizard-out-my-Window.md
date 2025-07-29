@@ -4,7 +4,7 @@ date = "2020-05-28T17:08:34-05:00"
 location = "Dallas, TX"
 camera = "Nikon Coolpix P1000"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200528-A-Lizard-out-my-Window_49946842082_c642973c05_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200528-A-Lizard-out-my-Window_49946842082_c642973c05_k.jpg"]
 +++
 ![Lizard 02](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200528-A-Lizard-out-my-Window_49946842082_c642973c05_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

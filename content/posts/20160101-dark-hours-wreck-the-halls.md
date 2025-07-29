@@ -3,7 +3,7 @@ title = "Dark Hour's Wreck the Halls"
 date = 2016-01-01T17:10:00Z
 categories = ["reviews"]
 tags = ["halloween"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20160101-dark-hours-wreck-the-halls_23469822034_1c729f586f_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20160101-dark-hours-wreck-the-halls_23469822034_1c729f586f_k.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="Wreck the Halls" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20160101-dark-hours-wreck-the-halls_23469822034_1c729f586f_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 

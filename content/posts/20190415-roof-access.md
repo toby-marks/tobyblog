@@ -5,7 +5,7 @@ description = ""
 minipost = true
 tags = ["travel"]
 title = "Roof Access"
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190415-roof-access_7E8FD61C-07C1-49E8-8102-9DD118A4FABD.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190415-roof-access_7E8FD61C-07C1-49E8-8102-9DD118A4FABD.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190415-roof-access_7E8FD61C-07C1-49E8-8102-9DD118A4FABD.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 

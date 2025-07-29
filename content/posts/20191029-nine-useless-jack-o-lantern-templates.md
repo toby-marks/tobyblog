@@ -4,7 +4,7 @@ date = "2019-10-29T23:00:00-05:00"
 description = ""
 tags = ["halloween"]
 title = "Nine Useless Jack O' Lantern Templates"
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191029-nine-useless-jack-o-lantern-templates_Screen_Shot_2019-10-29_at_5.47.10_PM.png/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191029-nine-useless-jack-o-lantern-templates_Screen_Shot_2019-10-29_at_5.47.10_PM.png"]
 +++
 {{< youtube LWJYaep-0sg >}}
 

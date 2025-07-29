@@ -3,7 +3,7 @@ title = "Richardson's Cottonwood Art Festival"
 description = "We make our first visit to Richardson, Texas' famous art festival."
 date = "2019-05-21T15:00:00-05:00"
 
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190521-cottonwood-art-fest-2019_40876956893_f61f62e832_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190521-cottonwood-art-fest-2019_40876956893_f61f62e832_k.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="The Extraordinary Paintings of Alla Tsank" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190521-cottonwood-art-fest-2019_40876956893_1681028101_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 

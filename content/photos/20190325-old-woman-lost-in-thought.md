@@ -4,7 +4,7 @@ date = "2019-03-25T09:00:00+00:00"
 location = "Dallas, TX"
 title = "Old Woman, Lost in Thought"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190325-old-woman-lost-in-thought_E4296D93-6F33-4673-87D3-DA61534BE81E.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190325-old-woman-lost-in-thought_E4296D93-6F33-4673-87D3-DA61534BE81E.jpg"]
 +++
 ![Old Woman](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190325-old-woman-lost-in-thought_E4296D93-6F33-4673-87D3-DA61534BE81E.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

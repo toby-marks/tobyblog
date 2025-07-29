@@ -4,7 +4,7 @@ date = 2020-04-15T21:59:00Z
 location = "Dallas, TX"
 title = "Gun Range Trail"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200415-gun-range-trail_BCD5D474-0652-4356-9F06-8B3CD4378A2E_nxnkm3.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200415-gun-range-trail_BCD5D474-0652-4356-9F06-8B3CD4378A2E_nxnkm3.jpg"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200415-gun-range-trail_BCD5D474-0652-4356-9F06-8B3CD4378A2E_nxnkm3.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

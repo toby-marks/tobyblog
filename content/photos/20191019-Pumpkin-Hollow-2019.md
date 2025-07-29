@@ -5,7 +5,7 @@ location = "Little Elm, Texas"
 camera = "Nikon P1000 and Sony A7RII"
 categories = ["photography"]
 tags = ["halloween"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191019-Pumpkin-Hollow-2019_48924284687_101bae46e7_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191019-Pumpkin-Hollow-2019_48924284687_101bae46e7_k.jpg"]
 +++
 ![Pumpkin Hollow - 27 of 29](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191019-Pumpkin-Hollow-2019_48924284687_101bae46e7_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

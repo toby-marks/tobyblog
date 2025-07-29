@@ -4,7 +4,7 @@ description = "Thoughts and remembrances on attending a local Halloween haunters
 date = "2018-04-22T13:49:48-05:00"
 tags = ["halloween", "conventions"]
 
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180422-halloween-hauntfest_36452811210_3d6caaf732_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180422-halloween-hauntfest_36452811210_3d6caaf732_k.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="Halloween and Hauntfest 2017" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180422-halloween-hauntfest_36452811210_3d6caaf732_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 

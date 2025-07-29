@@ -4,7 +4,7 @@ date = 2019-11-12T12:00:00Z
 location = "Dallas, TX"
 title = "A Walk Around Northpark Mall"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191112-a-walk-around-northpark-mall_33AB1556-F0BC-4D69-9EFA-672FDF4C9544_rbmnzj.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191112-a-walk-around-northpark-mall_33AB1556-F0BC-4D69-9EFA-672FDF4C9544_rbmnzj.jpg"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191112-a-walk-around-northpark-mall_33AB1556-F0BC-4D69-9EFA-672FDF4C9544_rbmnzj.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)  
 <!--more-->

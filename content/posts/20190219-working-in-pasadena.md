@@ -4,7 +4,7 @@ description = "back again"
 date = "2019-02-19T23:42:48-08:00"
 
 tags = ["travel"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190219-working-in-pasadena_46429733404_1bd5a93d55_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190219-working-in-pasadena_46429733404_1bd5a93d55_k.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="Twilight Over Pasadena" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190219-working-in-pasadena_46429733404_1bd5a93d55_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 

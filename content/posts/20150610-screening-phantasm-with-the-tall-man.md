@@ -3,7 +3,7 @@ title = "Screening Phantasm With The Tall Man"
 date = 2015-06-10T16:34:00Z
 
 tags = ["halloween","conventions","movies"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150610-screening-phantasm-with-the-tall-man_IMG_2740.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150610-screening-phantasm-with-the-tall-man_IMG_2740.jpg"]
 +++
 {{< figure src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150610-screening-phantasm-with-the-tall-man_IMG_2740.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 

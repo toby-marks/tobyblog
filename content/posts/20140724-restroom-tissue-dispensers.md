@@ -2,7 +2,7 @@
 title = "Restroom Tissue Dispensers"
 date = 2014-07-24T22:15:00Z
 categories = ["reviews"]
-images = ["https://lh3.googleusercontent.com/-54e0eSjh9S8/U9FwlwwqJqI/AAAAAAAAAkA/WBmtk8iqmGc/s640/blogger-image--541685519.jpg"]
+images = ["https://lh3.googleusercontent.com/-54e0eSjh9S8/U9FwlwwqJqI/AAAAAAAAAkA/WBmtk8iqmGc/s640"]
 +++
 (Works best if you read this in an Andy Rooney-esque whine.)
 

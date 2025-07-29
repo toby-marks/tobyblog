@@ -4,7 +4,7 @@ description = "I review some South Louisiana specialty treats with my friend Bri
 date = "2019-04-17T21:58:19-07:00"
 categories = ["reviews"]
 tags = ["reviewtheworld"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_cajun-treats_tobyblog-quail-eggs-cover.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_cajun-treats_tobyblog-quail-eggs-cover.jpg"]
 externalurl = "https://www.youtube.com/watch?v=fuECriXv7GU"
 +++
 This video is something of a personal achievement, having been now just under two years in the making, and passing, as it does, yet another milestone in the revitalization of this little blog. Yeah, I know, that's sort of a grandiose way to introduce a video where I discuss the merits of quail eggs and potato chips with friends and family, but there we are. It means something to me — hard to quantify — to be active on the site again. Time slips away from us so fast. 

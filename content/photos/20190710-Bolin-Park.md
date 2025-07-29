@@ -5,7 +5,7 @@ location = "Dallas, TX"
 camera = "Nikon Coolpix P1000"
 categories = ["photography"]
 image = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190710-Bolin-Park_48214659381_59469a8b9d_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190710-Bolin-Park_48214659381_3c8c618918_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190710-Bolin-Park_48214659381_3c8c618918_k.jpg"]
 +++
 ![Kassi Spotted a Gecko](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190710-Bolin-Park_48214659381_3c8c618918_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

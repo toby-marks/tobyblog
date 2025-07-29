@@ -4,7 +4,7 @@ date = "2019-03-14T22:57:00+00:00"
 description = "A review of Taco Libre in Old Town Pasadena"
 tags = ["travel"]
 title = "Taco Libre"
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190314-taco-libre_576933C9-5E92-4C23-B1AF-8B342EF82BDF.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190314-taco-libre_576933C9-5E92-4C23-B1AF-8B342EF82BDF.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190314-taco-libre_576933C9-5E92-4C23-B1AF-8B342EF82BDF.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 

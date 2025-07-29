@@ -5,7 +5,7 @@ draft = false
 location = "Dallas, TX"
 title = "Sweet Times with @Kassiblog"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190408-sweet-times-with-kassiblog_IMG_1565.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190408-sweet-times-with-kassiblog_IMG_1565.jpg"]
 +++
 ![@Kassiblog](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190408-sweet-times-with-kassiblog_IMG_1565.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

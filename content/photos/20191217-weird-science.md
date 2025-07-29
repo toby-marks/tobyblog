@@ -4,7 +4,7 @@ date = 2019-12-17T22:00:00Z
 location = "Instagram"
 title = "Weird Science"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191217-weird-science_8BEA474A-4654-489B-B1DB-13372C5437E4_nowtjo.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191217-weird-science_8BEA474A-4654-489B-B1DB-13372C5437E4_nowtjo.jpg"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_cloudinary_06f57acb_015B9C56-7A29-4D3C-86D1-F5FA1EB41DFD_j1r9ib.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

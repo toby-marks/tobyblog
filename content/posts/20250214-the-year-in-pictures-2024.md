@@ -3,7 +3,7 @@ title = "The Year in Pictures — 2024 Edition"
 description = "A gallery of my best photos from 2024"
 date = "2025-02-14T16:40:29-06:00"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20250214-the-year-in-pictures-2024_51800482455_e3e94eb67a_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20250214-the-year-in-pictures-2024_51800482455_e3e94eb67a_k.jpg"]
 +++
 [![entertainer performing a fire act at Pumpkin Nights](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20250214-the-year-in-pictures-2024_54323730279_be90f8f4c0_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)](https://www.flickr.com/photos/tobyjmarks/albums/72177720323801084/)
 

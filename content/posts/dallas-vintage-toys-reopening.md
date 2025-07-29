@@ -3,7 +3,7 @@ title = "Visiting Dallas Vintage Toys at the Grand Reopening"
 description = ""
 date = "2020-06-18T17:36:13-05:00"
 
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_dallas-vintage-toys-reopening_IMG_7291.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_dallas-vintage-toys-reopening_IMG_7291.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_dallas-vintage-toys-reopening_IMG_7301.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 

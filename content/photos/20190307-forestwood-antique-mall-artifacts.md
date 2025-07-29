@@ -5,7 +5,7 @@ location = "Dallas, TX"
 title = "Forestwood Antique Mall: Artifacts"
 categories = ["photography"]
 tags = ["halloween"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190307-forestwood-antique-mall-artifacts_CE8CD332-4542-497F-8C28-C4EA7C7216CD.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190307-forestwood-antique-mall-artifacts_CE8CD332-4542-497F-8C28-C4EA7C7216CD.jpg"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190307-forestwood-antique-mall-artifacts_CE8CD332-4542-497F-8C28-C4EA7C7216CD.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

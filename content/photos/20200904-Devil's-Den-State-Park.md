@@ -5,7 +5,7 @@ location = "Devil's Den State Park, Arkansas"
 camera = "Nikon Coolpix P1000, Sony A7Rii"
 categories = ["photography"]
 tags = ["travel"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200904-Devil's-Den-State-Park_50287424453_954a909cb2_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200904-Devil's-Den-State-Park_50287424453_954a909cb2_k.jpg"]
 +++
 ![climbing a hill at Devil](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200904-Devil's-Den-State-Park_50287424453_954a909cb2_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

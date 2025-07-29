@@ -4,7 +4,7 @@ date = 2015-03-22T08:04:00Z
 
 tags = ["reviewtheworld"]
 minipost = "true"
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150322-noshing-tacos-with-review-the-world_IMG_1240.JPG/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150322-noshing-tacos-with-review-the-world_IMG_1240.JPG"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150322-noshing-tacos-with-review-the-world_IMG_1240.JPG/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 

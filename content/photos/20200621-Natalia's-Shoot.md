@@ -4,7 +4,7 @@ date = "2020-06-21T14:33:26-05:00"
 location = "Plano, TX"
 camera = "Sony A7RII, Nikon Coolpix P1000"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200621-Natalia's-Shoot_49762536073_a215affbe1_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200621-Natalia's-Shoot_49762536073_a215affbe1_k.jpg"]
 +++
 ![nat-h-03](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200621-Natalia)
 <!--more-->

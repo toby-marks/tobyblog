@@ -3,7 +3,7 @@ title = "Cover Battle — Killing in the Name"
 description = ""
 date = "2020-05-29T17:27:49-05:00"
 categories = ["music"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_cover-battle--killing-in-the-name_Screen_Shot_2020-05-29_at_5.34.52_PM.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_cover-battle--killing-in-the-name_Screen_Shot_2020-05-29_at_5.34.52_PM.jpg"]
 +++
 {{< youtube K7i-TV45lQE >}}
 

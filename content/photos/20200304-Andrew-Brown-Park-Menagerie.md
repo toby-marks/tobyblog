@@ -4,7 +4,7 @@ date = "2020-03-04T21:08:08-06:00"
 location = "Coppell, TX"
 camera = "Nikon Coolpix P1000"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200304-Andrew-Brown-Park-Menagerie_49619064592_ed2afa7419_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200304-Andrew-Brown-Park-Menagerie_49619064592_ed2afa7419_k.jpg"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200304-Andrew-Brown-Park-Menagerie_49619064592_ed2afa7419_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

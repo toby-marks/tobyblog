@@ -4,7 +4,7 @@ date = "2019-12-23T14:13:25-06:00"
 location = "Dallas, TX"
 camera = "Sony a7rII"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191223-Santa-at-North-Park_49265726427_98e2c19c6d_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191223-Santa-at-North-Park_49265726427_98e2c19c6d_k.jpg"]
 +++
 ![Story Time with Santa](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191223-Santa-at-North-Park_49265726427_98e2c19c6d_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

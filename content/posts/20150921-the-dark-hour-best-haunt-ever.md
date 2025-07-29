@@ -3,7 +3,7 @@ title = "The Dark Hour - Best Haunt Ever!"
 date = 2015-09-21T22:03:00Z
 categories = ["reviews"]
 tags = ["reviewtheworld", "halloween"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150921-the-dark-hour-best-haunt-ever_DH17.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150921-the-dark-hour-best-haunt-ever_DH17.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150921-the-dark-hour-best-haunt-ever_DH17.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 

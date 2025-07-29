@@ -4,7 +4,7 @@ date = "2017-09-04T09:41:11-05:00"
 description = "Join us as we visit the neighborhood Yankee Candle store to scope out the 2017 Halloween candle collection."
 categories = ["reviews"]
 tags = ["halloween"]
-images =["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170904-yankee-candle-halloween_36040105263_7a07a431c3_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images =["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170904-yankee-candle-halloween_36040105263_7a07a431c3_o.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="Window advert" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170904-yankee-candle-halloween_36040105263_7a07a431c3_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 

@@ -1,7 +1,7 @@
 +++
 date = "2019-05-23T12:00:00+00:00"
 title = "The Holdouts of Collin Creek"
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190523-the-holdouts-of-collin-creek_E3A48F5F-4F41-4B3F-B65A-2361AFB957C3.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190523-the-holdouts-of-collin-creek_E3A48F5F-4F41-4B3F-B65A-2361AFB957C3.jpg"]
 +++
 There are only a handful of stores left standing now at Collin Creek Mall in Plano. It’ll all be torn down soon. I’ve worked many mornings from the food court there, just me and the old folks who walk the mall and meet up for coffee.
 

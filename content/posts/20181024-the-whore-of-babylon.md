@@ -3,7 +3,7 @@ title = "Revelation 17"
 description = "Meditation on the Whore of Babylon"
 date = "2018-10-24T01:26:49-05:00"
 
-images = ["https://upload.wikimedia.org/wikipedia/commons/d/da/Burgkmair_whore_babylon_color.jpg"]
+images = ["https://upload.wikimedia.org/wikipedia/commons/d/da"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://upload.wikimedia.org/wikipedia/commons/d/da/Burgkmair_whore_babylon_color.jpg" >}}
 

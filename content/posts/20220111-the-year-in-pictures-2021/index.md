@@ -3,7 +3,7 @@ title = "The Year in Pictures — 2021 Edition"
 description = ""
 date = "2022-01-11T16:36:14-06:00"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_index_51800482455_e3e94eb67a_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_index_51800482455_e3e94eb67a_k.jpg"]
 minipost = "true"
 +++
 

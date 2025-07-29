@@ -4,7 +4,7 @@ date = "2019-05-29T18:34:27-05:00"
 location = "Dallas, Texas"
 camera = "Sony a7rII, Samyang 14mm f/2.8"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190529-an-evening-walk-march-2019_47962002236_6cb812e0ca_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190529-an-evening-walk-march-2019_47962002236_6cb812e0ca_k.jpg"]
 +++
 ![Kassi 01](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190529-an-evening-walk-march-2019_47962002236_6cb812e0ca_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

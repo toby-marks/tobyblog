@@ -1,4 +1,4 @@
-{{ partialCached "site_header.html" . }}
+{{ partial "site_header.html" . }}
 {{ partialCached "page_header.html" . }}
 
 {{ if isset .Site.Params "yearlymicroposts" | and ( .Site.Params.yearlymicroposts ) }}

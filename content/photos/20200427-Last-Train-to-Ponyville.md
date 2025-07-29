@@ -4,7 +4,7 @@ date = "2020-04-27T17:51:16-05:00"
 location = "Dallas, TX"
 camera = "iPhone"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200427-Last-Train-to-Ponyville_49815657587_f526ccaa88_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200427-Last-Train-to-Ponyville_49815657587_f526ccaa88_k.jpg"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200427-Last-Train-to-Ponyville_49815657587_f526ccaa88_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

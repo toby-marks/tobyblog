@@ -4,7 +4,7 @@ date = "2020-06-18T14:42:40-05:00"
 location = "Dallas, TX"
 camera = "Sony A7RII"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200618-Sunflowers-and-Solar-Flares_50014805316_167dfd7948_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200618-Sunflowers-and-Solar-Flares_50014805316_167dfd7948_k.jpg"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200618-Sunflowers-and-Solar-Flares_50014805316_167dfd7948_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3) 
 <!--more-->

@@ -3,7 +3,7 @@ date = "2017-09-30T10:40:38-05:00"
 location = "Dallas, Texas"
 title = "New Lemax Village Pieces for 2017"
 camera = "iPhone 7 Plus"
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170930-lemax-village-additions_36040426213_01a4c263e9_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170930-lemax-village-additions_36040426213_01a4c263e9_o.jpg"]
 categories = ["photography"]
 tags = ["halloween"]
 +++

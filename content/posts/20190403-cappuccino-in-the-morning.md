@@ -3,7 +3,7 @@ date = "2019-04-03T09:00:00+00:00"
 title = "Cappuccino in the Morning "
 
 minipost = true
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190403-cappuccino-in-the-morning_063BF195-AF64-4498-BD1A-37F5F61BCD99.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190403-cappuccino-in-the-morning_063BF195-AF64-4498-BD1A-37F5F61BCD99.jpg"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190403-cappuccino-in-the-morning_063BF195-AF64-4498-BD1A-37F5F61BCD99.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
