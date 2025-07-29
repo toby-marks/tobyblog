@@ -53,7 +53,7 @@ After I'd eaten, the waiter, who was very attentive and helpful, brought out som
 
 Stop in for some old school dining charm. **Rating: Superior**
 
-For my birthday I decided to treat myself to some of the ramen that [Pasadena seems]({{< ref "20180520-pasadena-eats.md" >}}) [to do so well]({{< ref "20190219-working-in-pasadena.md" >}}). This time I tried a new place. 
+For my birthday I decided to treat myself to some of the ramen that [Pasadena seems]({{< ref "20180520-pasadena-eats.md" >}}) [to do so well]({{< ref "2019-02-19-working-in-pasadena.md" >}}). This time I tried a new place. 
 
 Hiro Nori was still in the process of opening last time I was in California, but I made note of it after reading their explanation of "craft ramen" on the door. I wanted a place that might offer a good veggie ramen option, and I figured this would be it. This seemed like more of a contemporary ramen shop, catering to modern and Californian tastes.
 
