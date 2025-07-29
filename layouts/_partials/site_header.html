@@ -7,18 +7,10 @@
     <meta name="author" content="{{ with .Site.Params.Author.firstname }}{{ . }}{{ end }} {{ with .Site.Params.Author.lastname }}{{ . }}{{ end }}">
     <meta name="description" content="{{ with .Site.Params.description }}{{ . }}{{ end }}">
 
-    {{ $siteTitle := .Site.Title }} {{ $title := $siteTitle }}{{ if .IsPage }}{{ $title = .Title }}
-    <meta property="og:type" content="article" />
-    <meta property="og:title" content="{{ $title }}">
-    {{ if .Param "feature" }}<meta property="og:image" content="{{ absURL "" }}{{ .Params.feature }}">{{ end }}
-    <meta property="og:url" content="{{ .Page.Permalink }}">
-    <meta property="og:description" content="{{ .Summary }}">
-    <meta property="og:site_name" content="@{{ .Site.Params.Author.handle }}’s {{ .Site.Title }}">
-    <meta name="twitter:card" content="summary_large_image">
-    {{ end }}
+    {{ $siteTitle := .Site.Title }} {{ $title := $siteTitle }}{{ if .IsPage }}{{ $title = .Page.Title }}{{ end }}
     {{ hugo.Generator }}
-    {{ $.Scratch.Add "title" .Site.Title }}
-    <title>{{ with .Title }}{{ if ne . ($.Scratch.Get "title") }}{{ . }} &middot; {{ end }}{{ end }}@{{ .Site.Params.Author.handle }}’s {{ .Site.Title }}</title>
+    {{ $.Store.Add "title" .Site.Title }}
+    <title>{{ with .Title }}{{ if ne . ($.Store.Get "title") }}{{ . }} &middot; {{ end }}{{ end }}@{{ .Site.Params.Author.handle }}’s {{ .Site.Title }}</title>
 
     <link rel="stylesheet" href="{{ relURL "/css/joshin-color-palette.css" }}" media="screen" charset="utf-8" />
     <link rel="stylesheet" href="{{ relURL "/css/joshin-color-light.css" }}" media="screen" charset="utf-8" />

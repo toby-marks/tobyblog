@@ -1,7 +1,7 @@
 +++
 title = "The Fight For Baby Tinslee"
 date = 2019-11-13T21:00:00Z
-images = ['https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191113-the-fight-for-baby-tinslee_2C1366D7-67E3-4A28-996C-A7B2474B672D_kalzqo.jpg']
+images = ['https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191113-the-fight-for-baby-tinslee_2C1366D7-67E3-4A28-996C-A7B2474B672D_kalzqo.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3']
 disqus_title = 'the-fight-for-baby-tinslee'
 disqus_url = 'https://tobyblog.com/posts/the-fight-for-baby-tinslee/'
 +++
