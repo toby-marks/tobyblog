@@ -3,11 +3,9 @@ title = "The Iconography of Halloween: Skeletons"
 date = 2014-09-30T22:42:00Z
 location = "a white wine sauce"
 camera = "shallots, garlic, and mushrooms."
-
 tags = ["halloween"]
 +++
 ![spooky scary skeleton](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140930-the-iconography-of-halloween-skeletons_tumblr_inline_ncqnlhYHgi1rzwpy9.gif/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
-
 <!--more-->
 
 > Most people don't consider, think, imagine what's inside them. Inside of everyone of us, that terrible representative of death. A skeleton.
@@ -74,8 +72,6 @@ tags = ["halloween"]
 
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_18ad8c77_IMG_2625.JPG/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_cloudinary_2ffad325_4FEBC221-B899-4197-8A53-849A26267BE2_vrhzvu.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
-
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_bbf19067_IMG_2886.JPG/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_43c7e275_IMG_3386.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
@@ -90,4 +86,4 @@ tags = ["halloween"]
 
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_bd129654_P1070288.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-![](http://2.bp.blogspot.com/-okpmu9SpmGQ/VCuQ35-_bqI/AAAAAAAABg0/aNs4rZ8Wx58/s2048/The%2BCave%2Bof%2BSkulls.%2BThis%2Bwill%2Brock%2Bcome%2BHalloween.%2BThe%2Blights%2Bchange%2Bhue%2Band%2Bthe%2Blittle%2Bghast%2Btremors%2Band%2Bshakes..jpg)
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/d2943e07-20cc-4935-74b8-95c9a28ef900/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)

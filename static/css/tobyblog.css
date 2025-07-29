@@ -40,9 +40,6 @@ a[href] {
 	color: rgb(204,216,133);
 }
 
-figure {
-	margin: 0 0;
-}
 
 blockquote {
   background-color: rgb(37,31,35);
@@ -50,6 +47,17 @@ blockquote {
 
 blockquote p {
   font-style: italic !important;
+}
+
+figure {
+	margin: 0 0;
+}
+
+figure figcaption, figure figcaption p {
+  font: 14px/18px "Avenir Next", "Helvetica Neue", Arial, Helvetica, sans-serif !important;
+  color: rgb(204,216,133) !important;
+  text-align: center !important;
+  margin: 0 auto 10px auto !important;
 }
 
 
