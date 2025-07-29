@@ -20,7 +20,6 @@
     {{ $.Scratch.Add "title" .Site.Title }}
     <title>{{ with .Title }}{{ if ne . ($.Scratch.Get "title") }}{{ . }} &middot; {{ end }}{{ end }}@{{ .Site.Params.Author.handle }}’s {{ .Site.Title }}</title>
 
-	<script type="text/javascript" src="/unitegallery/js/jquery-11.0.min.js"></script>
     <link rel="stylesheet" href="{{ relURL "/css/joshin-color-palette.css" }}" media="screen" charset="utf-8" />
     <link rel="stylesheet" href="{{ relURL "/css/joshin-color-light.css" }}" media="screen" charset="utf-8" />
     {{ if .Site.Params.EnablePreferredDarkAppearance }}
@@ -28,7 +27,6 @@
     {{ end }}
 
     <link rel="stylesheet" href="{{ relURL "/css/weblog.css" }}" media="screen" charset="utf-8" />
-    <link rel="stylesheet" href="{{ relURL "/lightbox2-2.11.4/css/lightbox.min.css" }}" type="text/css" />
 
     {{ partial "custom_stylesheets.html" . }}
 
