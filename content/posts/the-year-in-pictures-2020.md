@@ -4,13 +4,13 @@ description = ""
 date = "2020-12-30T16:36:14-06:00"
 categories = ["photography"]
 images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_the-year-in-pictures-2020_50764080916_a1f2d536bc_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
-minipost = "true"
 +++
 [![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_the-year-in-pictures-2020_50764080916_a1f2d536bc_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)](https://www.flickr.com/photos/tobyjmarks/albums/72157717556840877/)
 
 This year was different. 
 
 News of the virus in China had already begun to circulate late last year. The videos and stories coming out of Wuhan were quite terrifying. People being welded into their apartments to prevent them from leaving. Bodies being secretly cremated en masse by the authorities. Sick people being burned alive. You have to wonder now if any of that had any basis in reality. I have come to distrust the news, both mainstream and alternative. 
+<!--more-->
 
 By February Donald Trump was doing quite well in the polls. It appeared that he would go on in November to handily beat whomever the Democrat challenger ended up being. By March the disease had reached U.S. shores, and the lockdowns began. Racial strife was unleashed yet again after a series of police killings of black men, eclipsing for a time the nation's obsession with matters of gender and sexual identity. People marched in the streets. The marches gave way to riots. Righteous anger stood shoulder-to-shoulder with hate, the flames ever fanned by media new and established. 
 
