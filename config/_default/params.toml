@@ -3,14 +3,13 @@ title = "Tobyblog"
 titleSeparator = "-"
 titleAddition = "Homepage of Toby"
 description = "The personal blog and home page of one of the web's many Tobys. What distinguishes me is that I own the domain. To you I say welcome(!) in the grand old tradition of proto-websites of the nineties. The place where I deposit the overflow of my time, mind, and labors, Tobyblog is my refuge from the coming social media apocalypse."
-images = ["img/tobyblog-site-cover.jpg"]
+images = ['images/tobyblog-site-cover.jpg']
 RSSEnabled = false
 RSSMicropostTitles = false
 RSSSections = []
 ShowCopyright = true
 SummarizeMicroposts = false
 YearlyMicroposts = true
-DisqusShortname = "tobyblog-com"
 EnablePreferredDarkAppearance = false
 
 [social]
@@ -51,13 +50,13 @@ EnablePreferredDarkAppearance = false
     maskIcon = "mask-icon.svg" # mask-icon.svg (default)
     maskIconColor = "white" # white (default)
   [seo.schemas]
-    type = "Organization" # Organization (default) or Person
+    type = "Person" # Organization (default) or Person
     logo = "favicon-512x512.png" # Logo of Organization — favicon-512x512.png (default)
     name = "Tobyblog" # Name of Organization or Person
     sameAs = [] # E.g. ["https://github.com/thuliteio/thulite", "https://fosstodon.org/@thulite"]
-    images = ["img/tobyblog-site-cover.jpg"] # ["cover.png"] (default)
+    images = ['images/tobyblog-site-cover.jpg'] # ["cover.png"] (default)
     article = [] # Article sections
     newsArticle = [] # NewsArticle sections
-    blogPosting = ["blog"] # BlogPosting sections
+    blogPosting = ['blog'] # BlogPosting sections
     product = [] # Product sections
 

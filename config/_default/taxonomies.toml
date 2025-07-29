@@ -1,3 +1,4 @@
-category = "categories"
-series = "series"
-tag = "tags"
+category = 'categories'
+series = 'series'
+tag = 'tags'
+series = 'series'

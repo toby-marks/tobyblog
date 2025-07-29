@@ -64,6 +64,10 @@ timeout = "20m"
     disableTags = false
     enable = false
 
+[services]
+  [services.disqus]
+    shortname = 'tobyblog-com'
+
 [security]
   [security.http]
     methods = ["(?i)GET|POST"]
