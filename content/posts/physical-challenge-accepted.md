@@ -9,4 +9,4 @@ minipost = "true"
 
 And here we go
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/tobyjmarks/49901210393/in/photolist-2j2AKjr" title="Getting up from prone position"><img src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200516-physical-challenge-accepted_49901210393_8979760a9a_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" width="1920" height="1080" alt="Getting up from prone position"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+[![Getting up from a prone position](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200516-physical-challenge-accepted_49901210393_8979760a9a_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)](https://www.flickr.com/photos/tobyjmarks/49901210393/in/photolist-2j2AKjr)
