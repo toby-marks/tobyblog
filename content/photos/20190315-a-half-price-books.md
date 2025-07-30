@@ -1,6 +1,7 @@
 +++
 camera = "iPhone XS"
 date = "2019-03-15T10:00:00+00:00"
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190315-a-half-price-books7F654D75-901B-4DAA-A5BB-BDBAA3935BC1.jpg/fit=scale-down,w..."
 location = "Pasadena, CA"
 title = "A Half-Price Books?"
 categories = ["photography"]

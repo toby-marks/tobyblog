@@ -1,6 +1,7 @@
 +++
 title = "Some Lunchtime Pics At the Library"
 date = "2019-06-19T23:25:18-05:00"
+description = "![](/images/20190619-p1000-at-the-library/48088771232f126384254k.jpg)"
 location = "Dallas, TX"
 camera = "Nikon Coolpix P1000"
 categories = ["photography"]

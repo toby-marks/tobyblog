@@ -1,7 +1,7 @@
 +++
 title = "March Cache Maintenance"
 date = 2015-03-22T11:02:00Z
-
+description = "Checking up on a few of my geocaches"
 tags = ["geocaching"]
 externalurl = "https://www.youtube.com/watch?v=Qm4V0d19SSA"
 +++

@@ -1,6 +1,7 @@
 +++
 title = "Mountain Village, Colorado"
 date = "2020-02-15T20:10:05-06:00"
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200215-Ending-the-Trip-in-Mountain-Village-Colorado49540098997d49ce445d6k.jpg/fit=..."
 location = "Mountain Village, CO"
 camera = "Sony A7RII, Nikon Coolpix P1000"
 categories = ["photography"]

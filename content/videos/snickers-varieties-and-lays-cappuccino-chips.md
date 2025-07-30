@@ -1,6 +1,7 @@
 +++
 title = "Snickers Varieties and Lays Cappuccino Chips"
 date = 2014-08-09T21:38:00Z
+description = "The kid and I review four new varieties of Snickers bars"
 categories = ["reviews"]
 externalurl = "https://www.youtube.com/watch?v=iUlBK_MChZw"
 +++

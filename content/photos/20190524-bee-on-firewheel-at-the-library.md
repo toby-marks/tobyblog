@@ -1,6 +1,7 @@
 +++
 camera = "my Nikon Coolpix p1000"
 date = "2019-05-24T16:00:00+00:00"
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190524-bee-on-firewheel-at-the-libraryA731EFAA-1843-4280-A7E4-FCECDEEFDE3B.jpg/fit..."
 location = "Dallas, Texas"
 title = "Bee on a Firewheel"
 categories = ["photography"]

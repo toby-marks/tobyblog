@@ -1,6 +1,7 @@
 +++
 title = "Downtown Fever on Stage at the Plano Balloon Festival"
 date = "2019-10-12T11:59:42-05:00"
+description = "![DowntownFever](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191012-Downtown-Fever-on-Stage-at-the-Plano-Balloon-Festival488823379..."
 location = "Plano, Texas"
 camera = "Sony A7RII, Nikon P1000"
 categories = ["photography"]

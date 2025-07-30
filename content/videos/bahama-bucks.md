@@ -1,6 +1,7 @@
 +++
 title = "Bahama Bucks"
 date = 2015-06-17T09:09:00Z
+description = "The kids and I review sno-cones from Bahama Bucks"
 categories = ["reviews"]
 externalurl = "https://www.youtube.com/watch?v=44-LJWFX0io"
 +++

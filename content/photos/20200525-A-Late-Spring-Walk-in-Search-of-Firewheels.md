@@ -1,6 +1,7 @@
 +++
 title = "A Late Spring Walk in Search of Firewheels"
 date = "2020-05-25T12:01:31-05:00"
+description = "![Are These?](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200525-A-Late-Spring-Walk-in-Search-of-Firewheels499314078662e8529af3ak...."
 location = "Richardson, TX"
 camera = "Nikon Coolpix P1000"
 categories = ["photography"]

@@ -1,6 +1,6 @@
 +++
 title = "Zapps Mega Review Part One"
-description = ""
+description = "The first part of an epic trilogy of reviews from my friend Brian featuring my first ever contribution to his blog."
 externalurl = "http://www.reviewtheworld.com/2014/01/zapps-mega-review-part-1-of-3.html"
 date = "2014-01-12T22:28:28-07:00"
 categories = ["reviews"]

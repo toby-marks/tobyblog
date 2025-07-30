@@ -1,6 +1,7 @@
 +++
 title = "Taco Naan Review"
 date = 2014-02-26T22:55:00Z
+description = "I hit a crazy new Indian/Mexican fusion restaurant"
 categories = ["reviews"]
 images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140226-taco-naan-review_Screen+Shot+2014-02-27+at+12.45.36+AM.png"]
 +++

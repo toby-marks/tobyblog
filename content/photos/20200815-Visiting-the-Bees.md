@@ -1,6 +1,7 @@
 +++
 title = "Summer Sunflowers and Bees"
 date = "2020-08-15T08:19:20-05:00"
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200815-Visiting-the-Bees50181938278ca6ac22b7dk.jpg/fit=scale-down,w=780,sharpen=1,..."
 location = "Dallas, TX"
 camera = "Nikon Coolpix P1000, Sony A7RII"
 categories = ["photography"]

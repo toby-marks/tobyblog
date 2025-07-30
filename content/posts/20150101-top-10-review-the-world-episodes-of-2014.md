@@ -1,6 +1,7 @@
 +++
 title = "Top 10 Review the World Episodes of 2014"
 date = 2015-01-01T23:03:00Z
+description = "One thing I love is [end of year retrospectives](http://www.realclearpolitics.com/video/2014/12/27/mclaughlingroup2014awardsshowwinnerslosersbestworst..."
 updated = 2015-01-01T23:05:39Z
 categories = ["reviews"]
 tags = ["reviewtheworld"]

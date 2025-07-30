@@ -1,6 +1,7 @@
 +++
 title = "Jolly Rancher Cool Tubes Review"
 date = 2014-02-11T21:37:00Z
+description = "Augie and I review a treat I once shared with my own dad."
 categories = ["reviews"]
 externalurl = "https://www.youtube.com/watch?v=6oEA207lVsc"
 +++

@@ -1,6 +1,7 @@
 +++
 title = "Flight to LA With Kassi"
 date = "2019-07-27T13:07:04-05:00"
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190727-Flight-to-LA-with-Kassi483598989379d2457233bb.jpg/fit=scale-down,w=780,shar..."
 location = "Los Angeles, California"
 camera = "iPhone Xs"
 tags = ["travel"]

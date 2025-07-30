@@ -1,7 +1,7 @@
 +++
 title = "Super Mega Fun Pack"
 date = 2015-08-18T19:09:00Z
-
+description = "Featuring my geocache specially dedicated to Dinosaur Dracula's monthly Fun Pack"
 tags = ["geocaching"]
 externalurl = "https://www.youtube.com/watch?v=1EkMnjPy_Y8"
 +++

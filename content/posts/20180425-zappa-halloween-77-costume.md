@@ -1,6 +1,7 @@
 +++
 title = "A Frank Zappa Halloween Costume"
 date = "2018-04-25T17:25:39-05:00"
+description = "I think I just found my Halloween costume for this year."
 categories = ["music"]
 tags = ["halloween"]
 minipost = true

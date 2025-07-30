@@ -1,6 +1,7 @@
 +++
 title = "What the Hell is This Poster For the Sonic the Hedgehog Movie?"
 date = "2019-02-21T22:27:13-08:00"
+description = "The Sonic the Hedgehog movie comes out this year."
 tags = ["movies"]
 minipost = true
 images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/89b46d08-2369-4453-8e48-3d3f020af300"]

@@ -1,6 +1,7 @@
 +++
 title = "The Retro Store in Pasadena, California"
 date = "2018-05-11T16:42:12-05:00"
+description = "![The Retro Store Storefront](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20180510-the-retro-store-pasadena42090262291a3648e83a8o.jp..."
 location = "Pasadena, California"
 camera = "iPhone 7 Plus"
 categories = ["photography"]

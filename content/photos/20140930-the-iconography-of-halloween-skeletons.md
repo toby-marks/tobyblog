@@ -1,6 +1,7 @@
 +++
 title = "The Iconography of Halloween: Skeletons"
 date = 2014-09-30T22:42:00Z
+description = "![spooky scary skeleton](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20140930-the-iconography-of-halloween-skeletonstumblrinlinencqn..."
 location = "a white wine sauce"
 camera = "shallots, garlic, and mushrooms."
 tags = ["halloween"]

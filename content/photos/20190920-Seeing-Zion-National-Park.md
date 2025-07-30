@@ -1,6 +1,7 @@
 +++
 title = "Seeing Zion National Park"
 date = "2019-09-20T11:51:57-05:00"
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190920-Seeing-Zion-National-Park487608603139cda9414bek.jpg/fit=scale-down,w=780,sh..."
 location = "Zion National Park, Utah"
 camera = "Sony A7RII, Nikon Coolpix P1000"
 series = ["2019 Summer Vacation"]

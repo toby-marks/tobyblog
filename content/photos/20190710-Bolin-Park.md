@@ -1,6 +1,7 @@
 +++
 title = "Bolin Park"
 date = "2019-07-10T16:55:24-05:00"
+description = "![Kassi Spotted a Gecko](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190710-Bolin-Park482146593813c8c618918k.jpg/fit=scale-down,w=..."
 location = "Dallas, TX"
 camera = "Nikon Coolpix P1000"
 categories = ["photography"]

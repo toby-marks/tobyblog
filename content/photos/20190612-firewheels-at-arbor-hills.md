@@ -1,6 +1,7 @@
 +++
 title = "Firewheels at Arbor Hills"
 date = "2019-06-12T23:36:21-07:00"
+description = "![Arbor Hills Firewheels Frame 9](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190612-firewheels-at-arbor-hills48053723017bafcc55d1..."
 location = "Plano, Texas"
 camera = "Sony a7rII, Sony FE 16–35mm f/4 ZA OSS Lens"
 categories = ["photography"]

@@ -1,7 +1,7 @@
 +++
 title = "My First Night Cache"
 date = 2015-01-25T16:40:00Z
-
+description = "The kids and I find our first ever night cache!"
 tags = ["geocaching"]
 externalurl = "https://www.youtube.com/watch?v=y1NMhq2TXC8"
 +++

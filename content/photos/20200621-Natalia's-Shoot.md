@@ -1,6 +1,7 @@
 +++
 title = "Natalia's Shoot"
 date = "2020-06-21T14:33:26-05:00"
+description = "![nat-h-03](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200621-Natalia)"
 location = "Plano, TX"
 camera = "Sony A7RII, Nikon Coolpix P1000"
 categories = ["photography"]

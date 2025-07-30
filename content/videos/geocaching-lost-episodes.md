@@ -1,7 +1,7 @@
 +++
 title = "Geocaching Lost Episodes"
 date = 2016-05-30T11:26:00Z
-
+description = "Long lost chronicles of geocaching adventures."
 tags = ["geocaching"]
 externalurl = "https://www.youtube.com/watch?v=2dx1LPswxAY"
 +++

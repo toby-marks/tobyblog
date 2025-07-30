@@ -1,6 +1,7 @@
 +++
 camera = "iPhone Xs"
 date = "2019-10-15T17:00:00-05:00"
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191015-a-day-in-october50068482-648F-4B67-A050-24F92CF5254Clzimja.jpg/fit=scale-do..."
 location = "Texas"
 title = "A Day in October"
 categories = ["photography"]

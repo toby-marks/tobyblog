@@ -1,6 +1,7 @@
 +++
 camera = "iPhone"
 date = 2020-02-27T23:00:00Z
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200227-circumnavigating-lake-carolynC302ACD4-4B4A-46C1-864C-3F86887F3F04csttru.jpg..."
 location = "Irving, TX"
 title = "Circumnavigating Lake Carolyn"
 categories = ["photography"]

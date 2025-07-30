@@ -1,6 +1,7 @@
 +++
 title = "A Sunday Evening Walk"
 date = "2025-02-20T12:45:06-06:00"
+description = "![250216.12](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20250220-sunday-evening-walk5433998448616da1f608fo.jpg/fit=scale-down,w=780..."
 location = "Dallas, TX"
 camera = "Sony A7RII, Sigma Art 80mm lens"
 categories = ["photography"]

@@ -1,6 +1,7 @@
 +++
 camera = ["iPhone XS"]
 date = "2019-03-07T06:00:00+00:00"
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190307-forestwood-antique-mall-artifactsCE8CD332-4542-497F-8C28-C4EA7C7216CD.jpg/f..."
 location = "Dallas, TX"
 title = "Forestwood Antique Mall: Artifacts"
 categories = ["photography"]

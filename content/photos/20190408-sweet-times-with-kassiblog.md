@@ -1,6 +1,7 @@
 +++
 camera = "iPhone XS"
 date = "2019-04-08T15:00:00+00:00"
+description = "![@Kassiblog](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190408-sweet-times-with-kassiblogIMG1565.jpg/fit=scale-down,w=780,sharpe..."
 draft = false
 location = "Dallas, TX"
 title = "Sweet Times with @Kassiblog"

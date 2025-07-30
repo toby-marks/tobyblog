@@ -1,6 +1,7 @@
 +++
 title = "Pasadena Tour"
 date = "2019-07-31T17:34:22-05:00"
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190731-Pasadena-Tour48426390296fa22e073bbk.jpg/fit=scale-down,w=780,sharpen=1,f=au..."
 location = "Pasadena, California"
 camera = "Nikon Coolpix P1000, Sony A7Rii"
 tags = ["travel"]

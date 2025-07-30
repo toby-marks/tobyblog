@@ -1,6 +1,7 @@
 +++
 title = "Arches National Park"
 date = "2019-11-26T17:16:43-06:00"
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191126-Arches-National-Park491293107035ce7adc236k.jpg/fit=scale-down,w=780,sharpen..."
 location = "Moab, Utah"
 camera = "Sony a7rII"
 series = ["2019 Summer Vacation"]

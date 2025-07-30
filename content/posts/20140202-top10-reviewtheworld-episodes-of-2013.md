@@ -1,6 +1,7 @@
 +++
 title = "Top 10 Review the World Episodes of 2013"
 date = 2014-02-02T22:30:00Z
+description = "Since Brian and Review the World were my main inspirations in starting my own blog, I figured it would be fitting to begin by introducing some of my f..."
 categories = ["reviews"]
 tags = ["reviewtheworld"]
 images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ"]

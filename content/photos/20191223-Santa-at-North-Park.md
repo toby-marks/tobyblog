@@ -1,6 +1,7 @@
 +++
 title = "Santa's Story Time at NorthPark Mall"
 date = "2019-12-23T14:13:25-06:00"
+description = "![Story Time with Santa](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191223-Santa-at-North-Park4926572642798e2c19c6dk.jpg/fit=scal..."
 location = "Dallas, TX"
 camera = "Sony a7rII"
 categories = ["photography"]

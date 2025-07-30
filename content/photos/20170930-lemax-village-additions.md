@@ -1,5 +1,6 @@
 +++
 date = "2017-09-30T10:40:38-05:00"
+description = "![Lemax Camper, Illuminated](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20170930-lemax-village-additions36014831924f010c30b7co.jpg/..."
 location = "Dallas, Texas"
 title = "New Lemax Village Pieces for 2017"
 camera = "iPhone 7 Plus"

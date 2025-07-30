@@ -1,6 +1,7 @@
 +++
 title = "Crossing the Bridge"
 date = "2020-04-27T17:39:58-05:00"
+description = "![onthebridge](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200427-Crossing-the-Bridge49727174373b00b43ccbek.jpg/fit=scale-down,w=7..."
 location = "Dallas, TX"
 camera = "Nikon Coolpix P1000"
 categories = ["photography"]

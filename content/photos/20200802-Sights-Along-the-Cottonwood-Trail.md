@@ -1,6 +1,7 @@
 +++
 title = "Bird Buddies"
 date = "2020-08-02T19:04:37-05:00"
+description = "![A Bird Conversation](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200802-Sights-Along-the-Cottonwood-Trail50163681251210fc68972k...."
 location = "Plano, TX"
 camera = "Nikon Coolpix P1000"
 categories = ["photography"]

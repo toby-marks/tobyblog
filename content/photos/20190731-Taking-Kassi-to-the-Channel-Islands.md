@@ -1,7 +1,7 @@
 +++
 title = "Taking Kassi to the Channel Islands"
 date = "2019-07-31T17:04:06-05:00"
-location = "Channel Islands National Park"
+description = "We ticked off a longstanding item from Kassi's personal bucket list."
 camera = "Nikon and Sony"
 tags = ["travel"]
 categories = ["photography"]

@@ -1,6 +1,7 @@
 +++
 title = "Andrew Brown Park Menagerie"
 date = "2020-03-04T21:08:08-06:00"
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200304-Andrew-Brown-Park-Menagerie49619064592ed2afa7419k.jpg/fit=scale-down,w=780,..."
 location = "Coppell, TX"
 camera = "Nikon Coolpix P1000"
 categories = ["photography"]

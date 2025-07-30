@@ -1,6 +1,7 @@
 +++
 title = "Egg Decorating and Birthday Cake"
 date = "2020-05-04T14:52:50-05:00"
+description = "![Wishes Made](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200504-Egg-Decorating-and-Birthday-Cake49856196366f7775e8797k.jpg/fit=s..."
 location = "Dallas, TX"
 camera = "iPhone"
 categories = ["photography"]

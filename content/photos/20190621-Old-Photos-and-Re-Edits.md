@@ -1,6 +1,7 @@
 +++
 title = "Old Photos and Re-Edits"
 date = "2019-06-21T13:50:55-05:00"
+description = "![Runway Model](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190621-Old-Photos-and-Re-Edits4810397873896c98d6b70k.jpg/fit=scale-dow..."
 location = "Dallas, TX"
 camera = "Sony DSC RX100"
 categories = ["photography"]

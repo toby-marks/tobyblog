@@ -1,6 +1,7 @@
 +++
 camera = "some trepidation, as is always the case when I take a sneaky pic."
 date = "2019-03-25T09:00:00+00:00"
+description = "![Old Woman](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190325-old-woman-lost-in-thoughtE4296D93-6F33-4673-87D3-DA61534BE81E.jpg/..."
 location = "Dallas, TX"
 title = "Old Woman, Lost in Thought"
 categories = ["photography"]

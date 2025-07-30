@@ -1,6 +1,7 @@
 +++
 title = "Return to Bolin Park"
 date = "2020-09-20T14:20:25-05:00"
+description = "![ducks at Bolin Park](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200920-Return-to-Bolin-Park50364037488057f03265bk.jpg/fit=scale..."
 location = "Plano, TX"
 camera = "Nikon Coolpix P1000"
 categories = ["photography"]

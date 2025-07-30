@@ -1,6 +1,7 @@
 +++
 title = "Opening the Dino Drac Funpack, Aug 2014"
 date = 2014-09-06
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimagesremoteblogspot07d3a3ceIMG1735.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-c..."
 location = "Dallas, TX"
 camera = "my Sony DSC RX-100"
 categories = ["reviews"]

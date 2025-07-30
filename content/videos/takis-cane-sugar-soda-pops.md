@@ -1,6 +1,7 @@
 +++
 title = "Taki's, Cane Sugar Soda Pops"
 date = 2014-04-18T21:20:00Z
+description = "A very early Buddy Team review of a couple items we purchased from the local coffee shop"
 categories = ["reviews"]
 externalurl = "https://www.youtube.com/watch?v=0luO86BwwUo"
 +++

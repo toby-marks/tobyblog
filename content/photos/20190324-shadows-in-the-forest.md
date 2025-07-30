@@ -1,6 +1,7 @@
 +++
 title = "Shadows in the Forest"
 date = "2019-03-24T11:57:33-05:00"
+description = "![The Game is Afoot](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190324-shadows-in-the-forest33581029088476802189dk.jpg/fit=scale-..."
 location = "Dallas, TX"
 camera = "iPhone XS"
 categories = ["photography"]

@@ -1,6 +1,7 @@
 +++
 title = "A Lizard Out My Window"
 date = "2020-05-28T17:08:34-05:00"
+description = "![Lizard 02](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200528-A-Lizard-out-my-Window49946842082c642973c05k.jpg/fit=scale-down,w=..."
 location = "Dallas, TX"
 camera = "Nikon Coolpix P1000"
 categories = ["photography"]

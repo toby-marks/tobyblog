@@ -1,7 +1,7 @@
 +++
 title = "Geocaching Explained"
 date = 2014-02-20T21:46:00Z
-
+description = "What is geocaching?"
 tags = ["geocaching"]
 minipost = "true"
 +++

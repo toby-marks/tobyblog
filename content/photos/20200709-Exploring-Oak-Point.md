@@ -1,6 +1,7 @@
 +++
 title = "Exploring Oak Point"
 date = "2020-07-09T16:56:11-05:00"
+description = "![Rowlett Creek Trail](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200709-Exploring-Oak-Point500809006726ee4b91da3k.jpg/fit=scale-..."
 location = "Plano, TX"
 camera = "Sony A7RII & Nikon Coolpix P1000"
 categories = ["photography"]

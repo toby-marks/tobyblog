@@ -1,6 +1,7 @@
 +++
 title = "Liver and Gizzards Review, with Sriracha Whoopie Pies"
 date = 2014-08-31T15:16:00Z
+description = "The messiest of front seat food reviews"
 categories = ["reviews"]
 externalurl = "https://www.youtube.com/watch?v=XHGe3D4sJAc"
 +++

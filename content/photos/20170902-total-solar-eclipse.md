@@ -2,6 +2,7 @@
 location = "Dallas, Texas"
 title = "The Total Solar Eclipse of 2017!"
 date = "2017-09-02T16:45:55-05:00"
+description = "![Eclipse makes me say WOAH](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20170902-total-solar-eclipse360400515637197146eack.jpg/fit=..."
 camera = "iPhone 7 Plus"
 image = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170902-total-solar-eclipse_36040051563_7197146eac_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
 categories = ["photography"]

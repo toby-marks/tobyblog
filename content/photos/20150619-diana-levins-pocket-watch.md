@@ -1,6 +1,7 @@
 +++
 title = "Diana Levin's Pocket Watch"
 date = 2015-06-19T21:27:00Z
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimagesremoteblogspot46aa9915DSC04341.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-..."
 location = "Dallas, TX"
 camera = "my trusty Sony DSC-RX100"
 categories = ["photography"]

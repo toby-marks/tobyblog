@@ -1,6 +1,7 @@
 +++
 title = "Free Spooks on YouTube: Apparitions"
 date = 2015-08-31T22:06:00Z
+description = "Are you looking for something spooky to watch as we wind our way down to Halloween, but find yourself bored by the usual fare of cheesy monster movies..."
 categories = ["reviews"]
 tags = ["halloween","movies"]
 +++

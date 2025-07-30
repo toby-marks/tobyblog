@@ -1,6 +1,7 @@
 +++
 title = "A Short Trip to Devil's Den"
 date = "2020-09-04T18:27:23-05:00"
+description = "![climbing a hill at Devil](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200904-Devil's-Den-State-Park50287424453954a909cb2k.jpg/fi..."
 location = "Devil's Den State Park, Arkansas"
 camera = "Nikon Coolpix P1000, Sony A7Rii"
 categories = ["photography"]

@@ -1,6 +1,7 @@
 +++
 camera = "Sony A7rII, Nikon Coolpix P1000"
 date = 2019-11-11T18:30:09Z
+description = "![Couple](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191111-Fall-in-Plano49051416553824d2c23edk.jpg/fit=scale-down,w=780,sharpen=..."
 location = "Plano, TX"
 title = "Fall in Plano"
 categories = ["photography"]

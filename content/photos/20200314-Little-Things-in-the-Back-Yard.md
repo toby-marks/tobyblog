@@ -1,6 +1,7 @@
 +++
 title = "Appreciating the Little Things During Coronavirus Lockdown"
 date = "2020-03-14T11:56:20-05:00"
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200314-Little-Things-in-the-Back-Yard4965731549134ace8faeak.jpg/fit=scale-down,w=7..."
 location = "Dallas, TX"
 camera = "Sony A7RII, Sony Vario-Tessar T* FE 16-35mm f/4 ZA OSS Lens with Reversing Ring"
 categories = ["photography"]

@@ -1,6 +1,7 @@
 +++
 camera = "my iPhone"
 date = "2019-03-14T21:00:00+00:00"
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimagesremotecloudinary4259f85e461E69A7-8660-433A-8938-D64C51FC300F.jpg/fit=scale-down,w=78..."
 location = "Pasadena, CA"
 title = "Pasadena Street Musician"
 tags = ["travel"]

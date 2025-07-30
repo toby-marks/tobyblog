@@ -1,6 +1,7 @@
 +++
 title = "Third Sunday of Great Lent"
 date = "2019-04-04T19:05:06-05:00"
+description = "![Veneration of the Cross 01](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190404-veneration-of-the-cross-2019405726228735f8d1a9906..."
 location = "McKinney, TX"
 camera = "Sony A7RII"
 lens = "Sony Vario-Tessar T* FE 16-35mm F4 ZA OSS"

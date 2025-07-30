@@ -1,6 +1,7 @@
 +++
 title = "Baker Street"
 date = 2014-07-21T14:05:00Z
+description = "Love this song. Local musician Bruce Wilder was recently performing it solo at Firewheel Coffee, my office away from the office. Makes me want to snea..."
 categories = ["music"]
 minipost = "true"
 +++

@@ -1,6 +1,7 @@
 +++
 title = "Maneki Neko Exhibit at the San Francisco Airport"
 date = "2018-03-29T23:53:25-05:00"
+description = "![Maneki Neko Signage](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20180329-maneki-neko40412447885b376e4f0eco.jpg/fit=scale-down,w=7..."
 location = "San Francisco, California"
 camera = "iPhone 7 Plus"
 categories = ["photography"]

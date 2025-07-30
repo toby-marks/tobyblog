@@ -1,4 +1,5 @@
 +++
+description = "![a digital portrait of the site creator](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/fc4c1b1e-3b46-468e-1987-ed4277744900/fit=scale-down,w=780,sh..."
 title      = "Celebrating 51 Years of Life"
 date       = "2025-04-18T15:45:10-05:00"
 

@@ -1,6 +1,7 @@
 +++
 title = "Sunflowers and Solar Flares"
 date = "2020-06-18T14:42:40-05:00"
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200618-Sunflowers-and-Solar-Flares50014805316167dfd7948k.jpg/fit=scale-down,w=780,..."
 location = "Dallas, TX"
 camera = "Sony A7RII"
 categories = ["photography"]

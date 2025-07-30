@@ -1,6 +1,7 @@
 +++
 title = "Mushrooms in the Hood"
 date = "2020-05-26T18:25:17-05:00"
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200526-mushrooms-in-the-hoodIMG7183.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0...."
 location = "my neighborhood"
 camera = "my phone cam"
 categories = ["photography"]

@@ -1,6 +1,7 @@
 +++
 camera = "iPhone XS"
 date = 2019-12-01T21:00:00Z
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191201-last-day-in-november4A0FCF8F-BDD1-4BDE-98CA-101C3247DE2Bkh9ew2.jpg/fit=scal..."
 location = "Dallas, TX"
 title = "Last Day in November"
 categories = ["photography"]

@@ -1,6 +1,7 @@
 +++
 camera = "iPhone XS"
 date = 2019-12-06T22:00:00Z
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191206-astrophil-stella377073AC-8423-4FF3-97C4-1C83594ADDC2d2vjdt.jpg/fit=scale-do..."
 location = "A Link Between Worlds"
 title = "Astrophil & Stella"
 categories = ["photography"]

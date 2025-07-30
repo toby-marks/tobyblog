@@ -1,6 +1,7 @@
 +++
 title = "The Wild Part of Breckinridge Park"
 date = "2020-01-04T14:10:34-06:00"
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200104-The-Wild-Part-of-Breckinridge-Park493295399325fd41fae62k.jpg/fit=scale-down..."
 location = "Richardson, TX"
 camera = "Nikon Coolpix P1000"
 categories = ["photography"]

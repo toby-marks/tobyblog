@@ -1,6 +1,7 @@
 +++
 title = "Sunset on Lake Ray Hubbard"
 date = "2020-08-15T11:18:24-05:00"
+description = "![sunset on Lake Ray Hubbard](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200815-Sunset-on-Lake-Ray-Hubbard50182509593e2d91c1b41o...."
 location = "Rockwall, TX"
 camera = "iPhone, Nikon Coolpix P1000"
 categories = ["photography"]

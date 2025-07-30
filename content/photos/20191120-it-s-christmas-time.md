@@ -1,6 +1,7 @@
 +++
 camera = "iPhone XS"
 date = 2019-11-20T15:00:00Z
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191120-it-s-christmas-timeCB11E232-C7B8-4188-B122-43B53F52CBEDvysxav.jpg/fit=scale..."
 location = "Dallas, TX"
 title = "Christmas Time at the Mall"
 categories = ["photography"]

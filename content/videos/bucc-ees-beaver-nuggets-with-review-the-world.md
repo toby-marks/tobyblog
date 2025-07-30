@@ -1,7 +1,7 @@
 +++
 categories = ["reviews"]
 date = "2018-06-25T15:00:00-05:00"
-description = ""
+description = "Brian and I take on Buc-ee's famous Beaver Nuggets"
 externalurl = "https://youtu.be/M54KkgoptQk"
 tags = ["reviewtheworld"]
 title = "Bucc-ees Beaver Nuggets with Review the World"

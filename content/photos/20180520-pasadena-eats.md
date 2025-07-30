@@ -1,6 +1,7 @@
 +++
 title = "Pasadena Eats"
 date = "2018-05-20T11:59:57-05:00"
+description = "![Ramen Tatsunoya, Street View 02](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20180520-pasadena-eats42234806081d2a2b1cd1fo.jpg/fit=..."
 location = "Pasadena, California"
 camera = "iPhone 7 Plus"
 categories = ["photography"]

@@ -1,6 +1,7 @@
 +++
 title = "Kranky Coffee"
 date = 2015-04-27T22:21:00Z
+description = "Brian and I review some wild and tasty chocolate flakes"
 categories = ["reviews"]
 tags = ["reviewtheworld"]
 externalurl = "https://www.youtube.com/watch?v=h3W97HQWuEo"

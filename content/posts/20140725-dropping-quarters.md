@@ -1,6 +1,7 @@
 +++
 title = "Dropping Quarters"
 date = 2014-07-25T22:56:00Z
+description = "There is a little independent retro gaming store in Plano that is the closest thing to a real arcade that I've ever experienced with the kids. There a..."
 categories = ["reviews"]
 images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140725-dropping-quarters_IMG_1206.jpg"]
 +++

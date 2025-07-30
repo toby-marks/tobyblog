@@ -1,6 +1,7 @@
 +++
 camera = "my handy iPhone XS"
 date = "2019-05-17T18:00:00+00:00"
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190517-more-pasadena-eatsE9B65ABF-BCBE-4A07-BC70-38DA032212F8.jpg/fit=scale-down,w..."
 location = "Pasadena, California"
 title = "More Pasadena Eats"
 categories = ["photography"]

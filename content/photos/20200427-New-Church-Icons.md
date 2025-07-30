@@ -1,6 +1,7 @@
 +++
 title = "New Icons for the Church"
 date = "2020-04-27T17:16:00-05:00"
+description = "![stnicholas](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200427-New-Church-Icons497271744139fd2faf8bbk.jpg/fit=scale-down,w=780,s..."
 location = "McKinney, TX"
 camera = "Sony A7RII, Sigma Art 85mm F1.4 lens"
 categories = ["photography"]

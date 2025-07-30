@@ -1,6 +1,7 @@
 +++
 title = "Greetings from Redwood City"
 date = "2018-03-28T15:45:32-05:00"
+description = "![Oracle Headquarters](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20180328-oracle-headquarters4130320528172cc97ce7bo.jpg/fit=scale-..."
 location = "Redwood Shores, California"
 camera = "iPhone 7 plus"
 categories = ["photography"]

@@ -1,6 +1,7 @@
 +++
 title = "Aisles & Aisles of Halloween at At Home "
 date = 2015-07-27T23:05:00Z
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20150727-aisles-of-halloween-at-at-homeIMG0001.jpg/fit=scale-down,w=780,sharpen=1,f=..."
 location = "Plano, TX"
 camera = "my Sony DSC-RX100"
 categories = ["photography"]

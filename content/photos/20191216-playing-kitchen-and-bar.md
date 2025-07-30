@@ -1,6 +1,7 @@
 +++
 camera = "iPhone XS"
 date = 2019-12-16T18:00:00Z
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191216-playing-kitchen-and-barEE8280FF-167F-4251-9662-02411246D5C7jqdtjk.jpg/fit=s..."
 location = "Dallas, TX"
 title = "Playing / Kitchen and Bar"
 categories = ["photography"]

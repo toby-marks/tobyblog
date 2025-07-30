@@ -1,6 +1,7 @@
 +++
 camera = "iPhone XS"
 date = "2019-05-15T1:48:23-05:00"
+description = "![A Striking Bust 01](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190515-antiques-part-34089365338350c24dbc30k.jpg/fit=scale-down,..."
 location = "Pasadena, California"
 title = "Antiques, Part 3"
 tags = ["travel"]

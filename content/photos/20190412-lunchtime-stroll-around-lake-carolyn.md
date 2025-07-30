@@ -1,6 +1,7 @@
 +++
 camera = "iPhone XS"
 date = "2019-04-12T14:00:00+00:00"
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190412-lunchtime-stroll-around-lake-carolyn09A7CF26-16EB-4E1A-B1F5-1A0789E874E0.jp..."
 location = "Irving, TX"
 title = "Stroll Around Lake Carolyn"
 categories = ["photography"]

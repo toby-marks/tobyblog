@@ -1,6 +1,7 @@
 +++
 camera = "my iPhone"
 date = "2019-03-09T06:00:00+00:00"
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190309-plano-trade-days3092C5EB-BFB7-4C74-9522-63A923D64E83.jpg/fit=scale-down,w=7..."
 location = "Plano, TX"
 title = "Plano Trade Days"
 categories = ["photography"]

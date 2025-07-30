@@ -1,6 +1,6 @@
 +++
 title = "The Year in Pictures — 2021 Edition"
-description = ""
+description = "My favorite photos from 2021"
 date = "2022-01-11T16:36:14-06:00"
 categories = ["photography"]
 images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_index_51800482455_e3e94eb67a_k.jpg"]

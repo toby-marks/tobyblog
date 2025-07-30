@@ -1,6 +1,7 @@
 +++
 camera = "iPhone XS"
 date = "2019-03-14T02:00:00+00:00"
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190314-antiques-part-29FB984CE-8F6E-4EE8-B4A8-FBE3FBBBE5C3.jpg/fit=scale-down,w=78..."
 location = "Pasadena, CA"
 title = "Antiques, Part 2"
 categories = ["photography"]

@@ -1,6 +1,7 @@
 +++
 title = "Red Rock State Park"
 date = "2019-08-17T12:44:32-05:00"
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190817-Red-Rock-State-Park48559877497543373f46dk.jpg/fit=scale-down,w=780,sharpen=..."
 location = "Red Rock State Park, Arizona"
 camera = "Nikon Coolpix P1000"
 categories = ["photography"]

@@ -1,6 +1,7 @@
 +++
 title = "Infexxion-34"
 date = "2019-03-04T23:29:44-06:00"
+description = "Infexxion is an iPhone game based on the old arcade game [Attax](https://en.wikipedia.org/wiki/Ataxx). My cousin Carl introduced me to [it](https://ww..."
 
 images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190304-infexxion_46298055565_a3db27735c_k.jpg"]
 minipost = true

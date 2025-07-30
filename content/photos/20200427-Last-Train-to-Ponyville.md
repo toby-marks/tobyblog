@@ -1,6 +1,7 @@
 +++
 title = "Last Train to Ponyville"
 date = "2020-04-27T17:51:16-05:00"
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200427-Last-Train-to-Ponyville49815657587f526ccaa88k.jpg/fit=scale-down,w=780,shar..."
 location = "Dallas, TX"
 camera = "iPhone"
 categories = ["photography"]

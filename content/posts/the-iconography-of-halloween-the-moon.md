@@ -1,6 +1,7 @@
 +++
 title = "The Iconography of Halloween: The Moon"
 date = 2014-10-02T21:46:00Z
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimagesthe-iconography-of-halloween-the-moon152250981490b4155ddd6z.jpg/fit=scale-down,w=780..."
 draft = true
 +++
 

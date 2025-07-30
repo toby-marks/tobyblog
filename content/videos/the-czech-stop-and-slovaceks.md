@@ -1,6 +1,7 @@
 +++
 title = "The Czech Stop and Slovaceks"
 date = 2016-08-08T15:30:00Z
+description = "Who has the better Czech country colaches?"
 categories = ["reviews"]
 externalurl = "https://www.youtube.com/watch?v=5SaRwsUdFGI"
 +++

@@ -1,6 +1,7 @@
 +++
 title = "Scenes from the Lax International Terminal"
 date = "2019-02-26T12:53:04-06:00"
+description = "![Futuristic Billboard Wall](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190226-lax-international-terminal46497439394d9ebaf5919o.j..."
 location = "Los Angeles, California"
 camera = "iPhone XS"
 categories = ["photography"]

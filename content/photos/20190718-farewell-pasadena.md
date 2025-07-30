@@ -1,6 +1,7 @@
 +++
 camera = "iPhone XS"
 date = "2019-07-18T20:00:00-05:00"
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190718-farewell-pasadena9BB85DBB-962B-418A-A3F9-6956D7B716E5.jpg/fit=scale-down,w=..."
 location = "Pasadena, CA"
 title = "Farewell Pasadena"
 tags = ["travel"]

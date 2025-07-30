@@ -1,6 +1,7 @@
 +++
 title = "Pumpkin Hollow 2019"
 date = "2019-10-19T10:38:39-05:00"
+description = "![Pumpkin Hollow - 27 of 29](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191019-Pumpkin-Hollow-201948924284687101bae46e7k.jpg/fit=..."
 location = "Little Elm, Texas"
 camera = "Nikon P1000 and Sony A7RII"
 categories = ["photography"]

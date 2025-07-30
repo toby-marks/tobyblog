@@ -1,6 +1,7 @@
 +++
 title = "A Curious Butterfly"
 date = "2020-05-05T15:53:47-05:00"
+description = "![butterfly on the hood, wings spread wide](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200505-A-Curious-Butterfly498600375881108c..."
 location = "Dallas, TX"
 camera = "Nikon Coolpix P1000"
 categories = ["photography"]

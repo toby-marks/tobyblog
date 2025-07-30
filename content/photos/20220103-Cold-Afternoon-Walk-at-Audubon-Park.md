@@ -1,6 +1,7 @@
 +++
 title = "Cold Afternoon Walk at Audubon Park"
 date = "2022-01-03T15:56:01-06:00"
+description = "![A little dog having fun in the park](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20220103-Cold-Afternoon-Walk-at-Audubon-Park51798..."
 location = "Audubon Park"
 camera = "Sony RX-100 V"
 categories = ["photography"]

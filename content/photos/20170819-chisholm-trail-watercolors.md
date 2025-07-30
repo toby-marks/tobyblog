@@ -1,5 +1,6 @@
 +++
 date = "2017-08-19"
+description = "![Chisholm tree](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20170819-chisholm-trail-watercolors3626080410054d2659690k.jpg/fit=scale..."
 title = "Chisholm Trail in Watercolor"
 location = "Dallas, TX"
 camera = "my Sony DSC-RX100"

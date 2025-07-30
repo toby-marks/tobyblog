@@ -1,6 +1,7 @@
 +++
 title = "Springtime at Ranch 111"
 date = "2020-06-27T13:32:44-05:00"
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200627-Springtime-at-Ranch-111500507224389663943b5ek.jpg/fit=scale-down,w=780,shar..."
 location = "Richardson, TX"
 camera = "Sony A7RII"
 categories = ["photography"]

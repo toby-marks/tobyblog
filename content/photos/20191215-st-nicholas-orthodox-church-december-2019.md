@@ -1,6 +1,7 @@
 +++
 camera = "iPhone XS "
 date = 2019-12-15T01:00:00Z
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191215-st-nicholas-orthodox-church-december-2019D03D8F4B-9330-4AA9-955F-927E6FC0F5..."
 location = "McKinney, TX"
 title = "St. Nicholas Orthodox Church, December 2019"
 categories = ["photography"]

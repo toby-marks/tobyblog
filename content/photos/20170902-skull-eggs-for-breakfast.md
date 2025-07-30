@@ -1,5 +1,6 @@
 +++
 date = "2017-09-02T12:42:20-05:00"
+description = "![A balanced breakfast](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20170902-skull-eggs-for-breakfast367102896813977b3ed93o.jpg/fit=..."
 title = "Skull Eggs for Breakfast"
 location = "World Market and my kitchen"
 camera = "iPhone 7 Plus"
