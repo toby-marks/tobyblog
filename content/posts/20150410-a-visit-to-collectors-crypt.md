@@ -1,11 +1,12 @@
 +++
 title = "A Visit to Collector's Crypt"
 date = 2015-04-10T14:48:00Z
+description = "I discovered a one of a kind shop full of horror memorabilia in Oak Cliff"
 location = "Oak Cliff"
 camera = "my old Sony DSC RX-100"
 categories = ["reviews"]
 tags = ["halloween"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150410-a-visit-to-collectors-crypt_FullSizeRender_2B11.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150410-a-visit-to-collectors-crypt_FullSizeRender_2B11.jpg/fit=scale-down,h=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 {{< figure class= "wp-caption alignnone" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150410-a-visit-to-collectors-crypt_FullSizeRender_2B11.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" caption="Dr. Channard from Hellraiser II, in all his glory" >}}
 
