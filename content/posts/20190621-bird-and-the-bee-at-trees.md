@@ -7,6 +7,6 @@ categories = ["music"]
 +++
 Well, well. And I thought they'd retired. I suppose there are still a few living acts I'd pay to see after all. 🐦🐝  No idea whether we'll make it out to this one, but might bee nice.
 
-[Read all about my love for their Hall and Oates cover album]({{< ref "bird-and-the-bee.md" >}}). And give those songs a deep listen.
+[Read all about my love for their Hall and Oates cover album]({{< ref "2019-02-20-bird-and-the-bee.md" >}}). And give those songs a deep listen.
 
 {{< youtube lW8aFSchq4M >}}
