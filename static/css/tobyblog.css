@@ -1,4 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&display=swap');
+@font-face {
+  font-family: 'Almendra'; /* Give your font a descriptive name */
+  src: url('/fonts/Almendra-Regular.ttf') format('truetype');
+}
 
 /* search bar stuff */
 :root {
@@ -19,7 +23,7 @@ div#search {
 body {
 /*  font: 16px/22px "Lora", Palatino, Georgia, Garamond, "Big Caslon", "Times New Roman", serif;*/
 /*  background-color: rgb(33,19,11); */
-  font: 16px/24px Bitter, "Avenir Next", "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font: 18px/24px Bitter, "Avenir Next", "Helvetica Neue", Arial, Helvetica, sans-serif;
   background: black url("/images/bg2.jpg") no-repeat fixed top left; 
   background-size: cover; 
 }
@@ -54,8 +58,8 @@ figure {
 }
 
 figure figcaption, figure figcaption p {
-  font: 14px/18px "Avenir Next", "Helvetica Neue", Arial, Helvetica, sans-serif !important;
-  color: rgb(204,216,133) !important;
+  font: 18px/24px 'Almendra', Helvetica, sans-serif !important;
+  color: rgb(130,133,41) !important;
   text-align: center !important;
   margin: 0 auto 10px auto !important;
 }
