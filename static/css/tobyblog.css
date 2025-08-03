@@ -44,6 +44,16 @@ a[href] {
 	color: rgb(204,216,133);
 }
 
+table, article > ul > li, article > ol > li, code {
+  color: rgb(211,162,8);
+}
+code {
+  font-size: smaller;
+}
+th, td {
+  padding: 10px;
+  font-family: "American Typewriter";
+}
 
 blockquote {
   background-color: rgb(37,31,35);
