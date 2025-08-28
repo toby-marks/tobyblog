@@ -1,5 +1,5 @@
   <nav>
-    <h1><a href="{{ .Site.Params.Author.socialurl }}">@{{ .Site.Params.Author.handle }}’s</a> <a href="/">{{ .Site.Title }}</a>.</h1>
+    <!--<h1><a href="{{ .Site.Params.Author.socialurl }}">@{{ .Site.Params.Author.handle }}’s</a> <a href="/">{{ .Site.Title }}</a>.</h1>-->
     <div class="menu">
       {{ $.Scratch.Add "sections" .Site.Params.rsssections }}
       <ul>
@@ -14,4 +14,7 @@
         {{ with .Site.Author.aboutpage }}<li><a href="{{ . }}">About</a></li>{{ end }}
       </ul>
     </div>
+    <a href="{{.Site.BaseURL}}">
+      <img alt="Welcome to Tobyblog" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/78a8420b-bb80-4891-97e4-e8c407bdc200/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
+    </a>
   </nav>

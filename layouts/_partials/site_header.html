@@ -24,8 +24,12 @@
 
     {{ if .Site.Params.rssenabled }}
 	  <link href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" rel="alternate" type="application/rss+xml" title="{{.Site.Title}}" />
-	{{ end }}
+	  {{ end }}
 
     {{ partial "opengraph.html" . }}
+    
+    {{ with (templates.Defer (dict "key" "global")) }}
+      {{ partial "css.html" . }}
+    {{ end }}
   </head>
   <body class="site">
