@@ -14,7 +14,7 @@
     "clean:install": "shx rm -rf node_modules package-lock.json yarn.lock pnpm-lock.yaml && npm install"
   },
   "dependencies": {
-    "thulite": "^2.5.0",
+    "thulite": "^2.6.3",
     "@thulite/seo": "^2.4.1",
     "tailwindcss": "^4.1.12",
     "@tailwindcss/cli": "^4.1.12",
