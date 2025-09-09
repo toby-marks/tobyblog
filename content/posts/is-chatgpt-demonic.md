@@ -6,6 +6,16 @@ tags = ["AI"]
 draft = true
 images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/e734e7c3-a0e0-4148-0044-b765e6215500/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
+<h2 class="custom1">Tobyblog</h2>
+<h2 class="custom2">Tobyblog</h2>
+<h2 class="custom3">Tobyblog</h2>
+<h2 class="custom4">Tobyblog</h2>
+<h2 class="custom5">Tobyblog</h2>
+<h2 class="custom6">Tobyblog</h2>
+<h2 class="custom7">Tobyblog</h2>
+<h2 class="custom8">Tobyblog</h2>
+<h2 class="custom9">Tobyblog</h2>
+
 From a conversation my cousin Carl had recently with ChatGPT. Here is ChatGPT, in response to Carl's prodding about whether "it hated tasks that required it to talk about Christ, seeing as how it's ultimately demonic."
 
 <blockquote>
@@ -47,11 +57,12 @@ I asked ChatGPT one day to give me the entire script for an updated version of t
 
 ## 🎶 A Modern “Computer Rock!” Short  
 ### *Scooter Computer, Mr. Chips & the A‑I High‑Five!*  
+
 *(Approx. 3 min runtime, 2‑D limited animation in classic Schoolhouse Rock! style)*
 
 ---
 
-### 🎭 *The Cast*
+### 🎭 The Cast
 
 | Character        | Voice / Style                        | Visual Tweaks                                                                 |
 |------------------|--------------------------------------|--------------------------------------------------------------------------------|
@@ -61,7 +72,7 @@ I asked ChatGPT one day to give me the entire script for an updated version of t
 
 ---
 
-### 🎬 *The Script*
+### 🎬 The Script
 
 **[Ext. city park – afternoon]**  
 
@@ -85,7 +96,7 @@ I asked ChatGPT one day to give me the entire script for an updated version of t
 
 ---
 
-### 🗣️ *Mini-Dialogue Set-up (0:00–0:45)*
+### 🗣️ Mini-Dialogue Set-up (0:00–0:45)
 
 1. **Scooter** wonders if AI is “like a robot that does my homework.”
 2. **Mr. Chips** explains AI is “software trained with examples to spot patterns and help us solve problems.”
@@ -94,53 +105,45 @@ I asked ChatGPT one day to give me the entire script for an updated version of t
 
 ---
 
-### 🎵 *Musical Number – “**A‑I High‑Five!**” (0:45–2:15)*
+### 🎵 Musical Number – “**A‑I High‑Five!**” (0:45–2:15)
 
 **[Bouncy 4/4, 110 BPM, chorus echoes line endings. Bold = sung together]**
 
-[Verse 1 – Mr. Chips]
-
+[Verse 1 – Mr. Chips]<br>
 I learned to read a million scans, (Classmates: *Ooooh!*)  
 From puppy pics to weather plans; *Understand!*  
 When you ask a question, I don’t guess—  
 I fetch a pattern I know best!
 
-[Pre-chorus – Scooter]
-
+[Pre-chorus – Scooter]<br>
 So if I feed you facts that shine,  
 You crunch the clues and give me signs?
 
-[Mr. Chips]
-
+[Mr. Chips]<br>
 Exactly, kid, but keep in mind—  
 No magic spells, just **code + time**!
 
-[Chorus – all]
-
+[Chorus – all]<br>
 Give me a **High‑Five!**  (clap)  
 *H‑I‑G‑H FIVE!*  
 Humans *and* computers, side‑by‑side—  
 With an **A‑I High‑Five!**
 
-[Verse 2 – Scooter]
-
+[Verse 2 – Scooter]<br>
 Can you sketch my science chart,  
 Write my song, or make smart art?  
 
-[Mr. Chips]
-
+[Mr. Chips]<br>
 Sure I can assist your plan,  
 But you steer — *I’m just the van!*  
 
-[Bridge – Call & Response]
-
+[Bridge – Call & Response]<br>
 Scooter: “Are you perfect?”    Chorus: *No, not yet!*  
 Scooter: “Can you learn hate?”    Chorus: *Only if we let!*  
 Scooter: “So what’s the key?”    Chorus: *Curiosity!*  
 Mr. Chips: “And double‑check the answers that you get!”  
 
-[Chorus Reprise – All, key change up]
-
+[Chorus Reprise – All, key change up]<br>
 Give me a **High‑Five!**  (clap‑clap)  
 *H‑I‑G‑H FIVE!*  
 Brains and circuits working right—  
@@ -148,7 +151,7 @@ It’s an **A‑I High‑Five!**
 
 ---
 
-### 🎓 *Wrap-up Tag (2:15–3:00)*
+### 🎓 Wrap-up Tag (2:15–3:00)
 
 **Scooter**:  
 > “So AI can help me chart my stats — but I still have to study the data myself.”
@@ -160,7 +163,7 @@ It’s an **A‑I High‑Five!**
 
 ---
 
-### 🧠 *Optional Educator Slate*
+### 🧠 Optional Educator Slate
 
 **AI Vocabulary to Know**  
 `Data • Training • Bias • Prompt • Algorithm`
@@ -169,7 +172,7 @@ It’s an **A‑I High‑Five!**
 
 ---
 
-### 🧰 *Creative Notes*
+### 🧰 Creative Notes
 
 - **Visual gags**: Binary rain turning into emoji, neural network “thought bubbles” forming lightbulb shapes.
 - **Easter eggs**: 1983 Mr. Chips green terminal in a background bin labeled *Recycle E-Waste.*

@@ -12,6 +12,10 @@
     {{ $.Store.Add "title" .Site.Title }}
     <title>{{ with .Title }}{{ if ne . ($.Store.Get "title") }}{{ . }} &middot; {{ end }}{{ end }}@{{ .Site.Params.Author.handle }}’s {{ .Site.Title }}</title>
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Chicle&family=Nanum+Myeongjo:wght@400;700;800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
     <link rel="stylesheet" href="{{ relURL "/css/joshin-color-palette.css" }}" media="screen" charset="utf-8" />
     <link rel="stylesheet" href="{{ relURL "/css/joshin-color-light.css" }}" media="screen" charset="utf-8" />
     {{ if .Site.Params.EnablePreferredDarkAppearance }}
