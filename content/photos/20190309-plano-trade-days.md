@@ -6,7 +6,7 @@ location = "Plano, TX"
 title = "Plano Trade Days"
 categories = ["photography"]
 tags = ["halloween"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190309-plano-trade-days_3092C5EB-BFB7-4C74-9522-63A923D64E83.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190309-plano-trade-days_3092C5EB-BFB7-4C74-9522-63A923D64E83.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190309-plano-trade-days_3092C5EB-BFB7-4C74-9522-63A923D64E83.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

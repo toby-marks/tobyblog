@@ -5,7 +5,7 @@ description = "![Are These?](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tob
 location = "Richardson, TX"
 camera = "Nikon Coolpix P1000"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200525-A-Late-Spring-Walk-in-Search-of-Firewheels_49931407866_2e8529af3a_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200525-A-Late-Spring-Walk-in-Search-of-Firewheels_49931407866_2e8529af3a_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![Are These?](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200525-A-Late-Spring-Walk-in-Search-of-Firewheels_49931407866_2e8529af3a_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

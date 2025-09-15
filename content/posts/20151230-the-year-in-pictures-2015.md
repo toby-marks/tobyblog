@@ -4,7 +4,7 @@ title = "The Year in Pictures — 2015 Edition"
 description = ""
 date = "2015-12-30T15:27:46-06:00"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20151230-the-year-in-pictures-2015_23706289739_3ca2619b2a_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20151230-the-year-in-pictures-2015_23706289739_3ca2619b2a_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 minipost = "true"
 +++
 [{{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20151230-the-year-in-pictures-2015_23706289739_3ca2619b2a_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}](https://www.flickr.com/photos/tobyjmarks/sets/72157662813734772/)

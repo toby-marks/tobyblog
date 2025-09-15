@@ -5,7 +5,7 @@ description = ""
 minipost = "true"
 tags = ["travel"]
 title = "Road Trip Travel Log 09.01"
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190809-road-trip-travel-log-09-01_FB465A3F-24CB-4DBA-83F1-3BEFBD3C3FEE_l5z2mj.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190809-road-trip-travel-log-09-01_FB465A3F-24CB-4DBA-83F1-3BEFBD3C3FEE_l5z2mj.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190809-road-trip-travel-log-09-01_FB465A3F-24CB-4DBA-83F1-3BEFBD3C3FEE_l5z2mj.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 

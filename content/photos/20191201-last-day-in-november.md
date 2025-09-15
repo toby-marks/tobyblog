@@ -5,7 +5,7 @@ description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimage
 location = "Dallas, TX"
 title = "Last Day in November"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191201-last-day-in-november_4A0FCF8F-BDD1-4BDE-98CA-101C3247DE2B_kh9ew2.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191201-last-day-in-november_4A0FCF8F-BDD1-4BDE-98CA-101C3247DE2B_kh9ew2.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191201-last-day-in-november_4A0FCF8F-BDD1-4BDE-98CA-101C3247DE2B_kh9ew2.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)  
 <!--more-->

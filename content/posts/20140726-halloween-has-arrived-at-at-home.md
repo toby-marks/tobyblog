@@ -5,7 +5,7 @@ location = "Plano, TX"
 camera = "my iPhone"
 categories = ["reviews"]
 tags = ["halloween"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140726-halloween-has-arrived-at-at-home_IMG_1492.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140726-halloween-has-arrived-at-at-home_IMG_1492.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140726-halloween-has-arrived-at-at-home_IMG_1422.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 

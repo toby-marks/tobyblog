@@ -2,7 +2,7 @@
 title = "Ace Pineapple Cider & Shannon Irish Red"
 date = 2016-08-02T21:40:00Z
 categories = ["reviews"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20160802-ace-pineapple-cider-shannon-irish-red_28657569041_2374960abe_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20160802-ace-pineapple-cider-shannon-irish-red_28657569041_2374960abe_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 {{< figure class= "wp-caption alignnone" alt="Ace Pineapple Cider" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20160802-ace-pineapple-cider-shannon-irish-red_28657569041_a2ed23b73f_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 

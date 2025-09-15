@@ -4,7 +4,7 @@ description = "![A balanced breakfast](https://imagedelivery.net/zJmFZzaNuqCQ5Ca
 title = "Skull Eggs for Breakfast"
 location = "World Market and my kitchen"
 camera = "iPhone 7 Plus"
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170902-skull-eggs-for-breakfast_36710289681_3977b3ed93_o.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170902-skull-eggs-for-breakfast_36710289681_3977b3ed93_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 categories = ["photography"]
 +++
 ![A balanced breakfast](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170902-skull-eggs-for-breakfast_36710289681_3977b3ed93_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
