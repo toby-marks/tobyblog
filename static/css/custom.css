@@ -3,7 +3,7 @@
   background-color: #000000;
 }
  
-#disqus_thread a {
-  color: #000000;
+#disqus_thread a, #disqus_thread a[href] {
+  color: #e7bc45;
 }
  
