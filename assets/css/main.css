@@ -56,7 +56,8 @@
   --color-warm-gray: var(--color-pumpkin-900); /* for post text */
   --color-pumpkin: var(--color-pumpkin-600); /* for headings */
   --color-warm-brown: var(--color-warm-brown-300); /* for post backgrounds */
-  --color-deep-goldenrod: var(--color-deep-goldenrod-700); /* for links */
+  /* --color-deep-goldenrod: var(--color-deep-goldenrod-700);  for links */
+  --color-deep-goldenrod: #e7bc45;
   --color-amber-glow: var(--color-deep-goldenrod-800); /* for hover */
   --color-dark-amber: var(--color-deep-goldenrod-500); /* for visited links */
   --color-muted-auburn: var(--color-warm-gray-500); /* for post meta */
