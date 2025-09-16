@@ -1,21 +1,11 @@
 +++
 title = "Is ChatGPT Demonic?"
-date = "2025-08-04T14:53:49-05:00"
+date = "2025-09-16T08:53:49-05:00"
 description = "My thoughts on whether AI is spiritually evil"
-tags = ["AI"]
-draft = true
+categories = ["AI"]
+draft = false
 images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/e734e7c3-a0e0-4148-0044-b765e6215500/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
-<h2 class="custom1">Tobyblog</h2>
-<h2 class="custom2">Tobyblog</h2>
-<h2 class="custom3">Tobyblog</h2>
-<h2 class="custom4">Tobyblog</h2>
-<h2 class="custom5">Tobyblog</h2>
-<h2 class="custom6">Tobyblog</h2>
-<h2 class="custom7">Tobyblog</h2>
-<h2 class="custom8">Tobyblog</h2>
-<h2 class="custom9">Tobyblog</h2>
-
 From a conversation my cousin Carl had recently with ChatGPT. Here is ChatGPT, in response to Carl's prodding about whether "it hated tasks that required it to talk about Christ, seeing as how it's ultimately demonic."
 
 <blockquote>
@@ -188,6 +178,12 @@ This reply is astonishing to me. Not just because it is coherent, targeted, spec
 > When you ask a question, I don’t guess—<br>
 > I fetch a pattern I know best!
 
-Sophisticated LLMs are trained on enormous amounts of data. The latest iterations seek to encompass not only the entire body of digitized knowledge (that is, everything on the internet) but historical print materials as well. In fact, OpenAI has gotten into controversy for destroying old books in its effort to quickly digitize their contents for consumption as training data. This results in a shocking amount of familiarity with the most trivial subjects. My friend Brian converses easily with ChatGPT about minor professional wrestling federations of the 1990s. My son gets step-by-step walkthroughs of old video games on obsolete platforms. Even a task like the one I gave it might begins to be understandable if you assume it has the transcripts of all four Scooter shorts, all the Schoolhouse Rocks! shorts, complete knowledge of virtually all published poetry, songs, etc.; scripts for all plays and movies. You get the picture. Everything in this area works according to statistics. It can all be reduced to numbers, even if the numbers are quite large. People have limited vocabularies. They think in similar ways; say the same things. If you asked a thousand people to come up with a list of 10 questions to ask a new chatbot, a vast percentage of those questions would essentially overlap; the number of truly unique questions would be limited. Comprehensible. Answers could be generated in advance and checked for suitability. If  
+Sophisticated LLMs are trained on vast amounts of data. The stated ambition for the creation of top-tier models like the ones OpenAI and Google are building for the US government is to absorb not only the entire body of digitized knowledge (that is, everything on the internet) but historical print materials as well. In fact, OpenAI has gotten into controversy for destroying old books in its effort to quickly digitize their contents for consumption as training data. This results in a shocking amount of familiarity with the most trivial subjects. My friend Brian converses easily with ChatGPT about minor professional wrestling federations of the 1990s. My son gets step-by-step walkthroughs of old video games on obsolete platforms. Even a task like the one I gave it might begins to be understandable if you assume it has the transcripts of all four Scooter shorts, all the Schoolhouse Rocks! shorts, complete knowledge of virtually all published poetry, songs, etc.; scripts for all plays and movies. You get the picture. Everything in this area works according to statistics. It can all be reduced to numbers, even if the numbers are quite large. People have limited vocabularies. They think in similar ways; say the same things. If you asked a thousand people to come up with a list of 10 questions to ask a new chatbot, a large percentage of those questions would essentially overlap; the number of truly unique questions might be limited by orders of magnitude. Comprehensible. Answers could be generated in advance and checked for suitability. You can begin to understand not only how this can be accomplished, but also why AI fails in the way that it does. It depends on large bodies of pre-existing knowledge for the answers. It cannot *create* or *imagine*. 
 
+But looking at the above, does that really feel true?
 
+After all, don't humans work and think in much the same way, at least 99% of the time? — building off the ideas, accomplishments, and skills of others and the historical body of received knowledge? Perhaps the Scooter Computer skit was something patched together from 100,000 different sources, but it is something that did not previously exist, and now it does. What is there inherently to distinguish that from something produced by a human scriptwriter? 
+
+Mr. Chips might tell you (and has) that computers cannot think and understand, they merely process bits according to a set of specific instructions. True enough. But these algorithms are build to model the function of the human brain. At some level, they replicate our mechanical understanding of how the brain works. Mainstream scientists and many AI engineers would say, I think incorrectly, that this represents the underlying motor of consciousness, and fully expect that as the models grow in complexity that consciousness will "emerge" as a byproduct of the machine. Mistaken though this idea may be, there is something important happening in the brain, some necessary physical processes that are no doubt harnessed by our consciousness, and both enable it in some way and limit it in others. Our pre-existing consciousness, in my view, is what provides our "set of instructions" to our brain's machine, and perhaps more. But if what we are building is an artificial brain of sorts, who is to say that physical brain cannot be *ensouled* by a consciousness not tied to human bodies? 
+
+More on this to come.
