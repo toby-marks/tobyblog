@@ -13,6 +13,7 @@
   --color-pumpkin-100: oklch(0.265 0.066 51.0);
   --color-pumpkin-200: oklch(0.351 0.087 51.0);
   --color-pumpkin-300: oklch(0.436 0.108 51.0);
+  --color-pumpkin-300t: oklch(0.436 0.108 51.0 / 0.5);
   --color-pumpkin-400: oklch(0.522 0.129 51.0);
   --color-pumpkin-500: oklch(0.607 0.150 51.0);
   --color-pumpkin-600: oklch(0.693 0.172 51.0);
@@ -283,14 +284,21 @@ article img, div#mygallery {
 }
 
 .micropost {
-  @apply bg-warm-parchment;
-  @apply text-muted-auburn;
+  @apply bg-(--color-pumpkin-300t);
   padding: 15px 20px;
   @apply border-l-4 border-solid border-burnt-orange;
   @apply font-body;
   font-style: italic;
   margin: 20px auto;
   border-radius: 6px; 
+}
+
+.micropost > p {
+  @apply text-(--color-warm-gray-900);
+}
+
+.micropost h3 {
+  @apply text-burnt-orange;
 }
 
 .micropost a {
@@ -317,7 +325,7 @@ article img, div#mygallery {
 article.photo {
   /* match post cards */
   background: var(--color-warm-brown);            /* #21130B */
-  @apply border border-solid border-deep-goldenrod rounded-2xl;
+  @apply outline-3 outline-offset-1 outline-solid outline-warm-parchment-haze rounded-2xl;
   overflow: hidden;
   max-width: 780px;
 
