@@ -31,7 +31,7 @@
   --color-warm-gray-700: oklch(0.827 0.020 79.3);
   --color-warm-gray-800: oklch(0.888 0.013 79.3);
   --color-warm-gray-900: oklch(0.950 0.006 79.3);
-  --color-warm-gray-900-disqus: rgb(241, 238, 234)  
+  --color-warm-gray-900-disqus: rgb(241, 238, 234);
   /* warm browns #21130b */
   --color-warm-brown-100: oklch(0.050 0.007 50.4);
   --color-warm-brown-200: oklch(0.119 0.016 50.4);
