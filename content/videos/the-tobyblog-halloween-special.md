@@ -1,10 +1,10 @@
 +++
 title = "The Tobyblog Halloween Special"
 description = "A family tribute to Halloween."
-date = 2014-10-01T15:50:00Z
+#date = 2014-10-01T15:50:00Z
+date = 2025-10-22T15:50:00Z
 externalurl = "https://www.youtube.com/watch?v=ljTFXYLcNCc"
-
-tags = ["halloween"]
+categories = ["Halloween"]
 +++
 
 I love Halloween. You do, too. This video is a tribute to that season, to every memory and every thrill. To cold autumn nights. To the warm glow of jack o' lanterns. To spooky stories and cozy evenings. To every bit of magic and adventure in our lives. 

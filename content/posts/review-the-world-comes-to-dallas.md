@@ -1,7 +1,6 @@
 +++
 title = "Review the World Comes to Dallas"
 date = 2014-11-15T11:43:00Z
-
 tags = ["reviewtheworld"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_review-the-world-comes-to-dallas_IMG_0676.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
