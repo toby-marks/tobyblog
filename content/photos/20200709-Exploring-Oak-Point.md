@@ -5,7 +5,7 @@ description = "![Rowlett Creek Trail](https://imagedelivery.net/zJmFZzaNuqCQ5Caq
 location = "Plano, TX"
 camera = "Sony A7RII & Nikon Coolpix P1000"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200709-Exploring-Oak-Point_50080900672_6ee4b91da3_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200709-Exploring-Oak-Point_50080900672_6ee4b91da3_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![Rowlett Creek Trail](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200709-Exploring-Oak-Point_50080900672_6ee4b91da3_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

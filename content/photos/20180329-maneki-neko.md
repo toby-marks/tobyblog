@@ -6,7 +6,7 @@ location = "San Francisco, California"
 camera = "iPhone 7 Plus"
 categories = ["photography"]
 tags = ["travel"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180329-maneki-neko_40412447885_b376e4f0ec_o.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180329-maneki-neko_40412447885_b376e4f0ec_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![Maneki Neko Signage](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180329-maneki-neko_40412447885_b376e4f0ec_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

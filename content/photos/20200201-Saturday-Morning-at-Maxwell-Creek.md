@@ -5,7 +5,7 @@ description = "![Untitled](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyb
 location = "Dallas, TX"
 camera = "Nikon Coolpix P1000"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200201-Saturday-Morning-at-Maxwell-Creek_49474515931_526cab0087_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200201-Saturday-Morning-at-Maxwell-Creek_49474515931_526cab0087_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![Untitled](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200201-Saturday-Morning-at-Maxwell-Creek_49474515931_526cab0087_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 

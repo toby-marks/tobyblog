@@ -5,7 +5,7 @@ location = "Dallas, TX"
 camera = "my iPhone"
 categories = ["reviews"]
 tags = ["halloween"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140803-yankee-candle-halloween-preview_IMG_1603.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140803-yankee-candle-halloween-preview_IMG_1603.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140803-yankee-candle-halloween-preview_IMG_1603.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 

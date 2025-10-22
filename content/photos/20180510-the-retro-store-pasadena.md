@@ -6,7 +6,7 @@ location = "Pasadena, California"
 camera = "iPhone 7 Plus"
 categories = ["photography"]
 tags = ["travel"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180510-the-retro-store-pasadena_42090262291_a3648e83a8_o.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180510-the-retro-store-pasadena_42090262291_a3648e83a8_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![The Retro Store Storefront](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180510-the-retro-store-pasadena_42090262291_a3648e83a8_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

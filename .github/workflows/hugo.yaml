@@ -82,8 +82,6 @@ jobs:
           path: |
             ${{ runner.temp }}/hugo_cache
           key: ${{ steps.cache-restore.outputs.cache-primary-key }}
-      - name: Run Tailwind CSS
-        run: npx @tailwindcss/cli -i ./static/css/tobyblog.css -o ./static/css/tobyblogtw.css
       - name: Index site with pagefind
         run: npx -y pagefind --site public
       - name: Upload artifact

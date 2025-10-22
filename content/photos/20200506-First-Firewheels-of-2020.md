@@ -5,7 +5,7 @@ description = "![firewheels1](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/to
 location = "Dallas, TX"
 camera = "Nikon Coolpix P1000"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200506-First-Firewheels-of-2020_49864147138_28d83775dd_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200506-First-Firewheels-of-2020_49864147138_28d83775dd_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![firewheels1](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200506-First-Firewheels-of-2020_49864147138_28d83775dd_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

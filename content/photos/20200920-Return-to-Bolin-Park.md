@@ -5,7 +5,7 @@ description = "![ducks at Bolin Park](https://imagedelivery.net/zJmFZzaNuqCQ5Caq
 location = "Plano, TX"
 camera = "Nikon Coolpix P1000"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200920-Return-to-Bolin-Park_50364037488_057f03265b_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200920-Return-to-Bolin-Park_50364037488_057f03265b_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![ducks at Bolin Park](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200920-Return-to-Bolin-Park_50364037488_057f03265b_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

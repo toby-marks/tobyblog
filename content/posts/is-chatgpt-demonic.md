@@ -1,9 +1,9 @@
 +++
 title = "Is ChatGPT Demonic?"
-date = "2025-08-04T14:53:49-05:00"
+date = "2025-09-16T08:53:49-05:00"
 description = "My thoughts on whether AI is spiritually evil"
-tags = ["AI"]
-draft = true
+categories = ["AI"]
+draft = false
 images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/e734e7c3-a0e0-4148-0044-b765e6215500/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 From a conversation my cousin Carl had recently with ChatGPT. Here is ChatGPT, in response to Carl's prodding about whether "it hated tasks that required it to talk about Christ, seeing as how it's ultimately demonic."
@@ -47,11 +47,12 @@ I asked ChatGPT one day to give me the entire script for an updated version of t
 
 ## 🎶 A Modern “Computer Rock!” Short  
 ### *Scooter Computer, Mr. Chips & the A‑I High‑Five!*  
+
 *(Approx. 3 min runtime, 2‑D limited animation in classic Schoolhouse Rock! style)*
 
 ---
 
-### 🎭 *The Cast*
+### 🎭 The Cast
 
 | Character        | Voice / Style                        | Visual Tweaks                                                                 |
 |------------------|--------------------------------------|--------------------------------------------------------------------------------|
@@ -61,7 +62,7 @@ I asked ChatGPT one day to give me the entire script for an updated version of t
 
 ---
 
-### 🎬 *The Script*
+### 🎬 The Script
 
 **[Ext. city park – afternoon]**  
 
@@ -85,7 +86,7 @@ I asked ChatGPT one day to give me the entire script for an updated version of t
 
 ---
 
-### 🗣️ *Mini-Dialogue Set-up (0:00–0:45)*
+### 🗣️ Mini-Dialogue Set-up (0:00–0:45)
 
 1. **Scooter** wonders if AI is “like a robot that does my homework.”
 2. **Mr. Chips** explains AI is “software trained with examples to spot patterns and help us solve problems.”
@@ -94,53 +95,45 @@ I asked ChatGPT one day to give me the entire script for an updated version of t
 
 ---
 
-### 🎵 *Musical Number – “**A‑I High‑Five!**” (0:45–2:15)*
+### 🎵 Musical Number – “**A‑I High‑Five!**” (0:45–2:15)
 
 **[Bouncy 4/4, 110 BPM, chorus echoes line endings. Bold = sung together]**
 
-[Verse 1 – Mr. Chips]
-
+[Verse 1 – Mr. Chips]<br>
 I learned to read a million scans, (Classmates: *Ooooh!*)  
 From puppy pics to weather plans; *Understand!*  
 When you ask a question, I don’t guess—  
 I fetch a pattern I know best!
 
-[Pre-chorus – Scooter]
-
+[Pre-chorus – Scooter]<br>
 So if I feed you facts that shine,  
 You crunch the clues and give me signs?
 
-[Mr. Chips]
-
+[Mr. Chips]<br>
 Exactly, kid, but keep in mind—  
 No magic spells, just **code + time**!
 
-[Chorus – all]
-
+[Chorus – all]<br>
 Give me a **High‑Five!**  (clap)  
 *H‑I‑G‑H FIVE!*  
 Humans *and* computers, side‑by‑side—  
 With an **A‑I High‑Five!**
 
-[Verse 2 – Scooter]
-
+[Verse 2 – Scooter]<br>
 Can you sketch my science chart,  
 Write my song, or make smart art?  
 
-[Mr. Chips]
-
+[Mr. Chips]<br>
 Sure I can assist your plan,  
 But you steer — *I’m just the van!*  
 
-[Bridge – Call & Response]
-
+[Bridge – Call & Response]<br>
 Scooter: “Are you perfect?”    Chorus: *No, not yet!*  
 Scooter: “Can you learn hate?”    Chorus: *Only if we let!*  
 Scooter: “So what’s the key?”    Chorus: *Curiosity!*  
 Mr. Chips: “And double‑check the answers that you get!”  
 
-[Chorus Reprise – All, key change up]
-
+[Chorus Reprise – All, key change up]<br>
 Give me a **High‑Five!**  (clap‑clap)  
 *H‑I‑G‑H FIVE!*  
 Brains and circuits working right—  
@@ -148,7 +141,7 @@ It’s an **A‑I High‑Five!**
 
 ---
 
-### 🎓 *Wrap-up Tag (2:15–3:00)*
+### 🎓 Wrap-up Tag (2:15–3:00)
 
 **Scooter**:  
 > “So AI can help me chart my stats — but I still have to study the data myself.”
@@ -160,7 +153,7 @@ It’s an **A‑I High‑Five!**
 
 ---
 
-### 🧠 *Optional Educator Slate*
+### 🧠 Optional Educator Slate
 
 **AI Vocabulary to Know**  
 `Data • Training • Bias • Prompt • Algorithm`
@@ -169,7 +162,7 @@ It’s an **A‑I High‑Five!**
 
 ---
 
-### 🧰 *Creative Notes*
+### 🧰 Creative Notes
 
 - **Visual gags**: Binary rain turning into emoji, neural network “thought bubbles” forming lightbulb shapes.
 - **Easter eggs**: 1983 Mr. Chips green terminal in a background bin labeled *Recycle E-Waste.*
@@ -185,6 +178,12 @@ This reply is astonishing to me. Not just because it is coherent, targeted, spec
 > When you ask a question, I don’t guess—<br>
 > I fetch a pattern I know best!
 
-Sophisticated LLMs are trained on enormous amounts of data. The latest iterations seek to encompass not only the entire body of digitized knowledge (that is, everything on the internet) but historical print materials as well. In fact, OpenAI has gotten into controversy for destroying old books in its effort to quickly digitize their contents for consumption as training data. This results in a shocking amount of familiarity with the most trivial subjects. My friend Brian converses easily with ChatGPT about minor professional wrestling federations of the 1990s. My son gets step-by-step walkthroughs of old video games on obsolete platforms. Even a task like the one I gave it might begins to be understandable if you assume it has the transcripts of all four Scooter shorts, all the Schoolhouse Rocks! shorts, complete knowledge of virtually all published poetry, songs, etc.; scripts for all plays and movies. You get the picture. Everything in this area works according to statistics. It can all be reduced to numbers, even if the numbers are quite large. People have limited vocabularies. They think in similar ways; say the same things. If you asked a thousand people to come up with a list of 10 questions to ask a new chatbot, a vast percentage of those questions would essentially overlap; the number of truly unique questions would be limited. Comprehensible. Answers could be generated in advance and checked for suitability. If  
+Sophisticated LLMs are trained on vast amounts of data. The stated ambition for the creation of top-tier models like the ones OpenAI and Google are building for the US government is to absorb not only the entire body of digitized knowledge (that is, everything on the internet) but historical print materials as well. In fact, OpenAI has gotten into controversy for destroying old books in its effort to quickly digitize their contents for consumption as training data. This results in a shocking amount of familiarity with the most trivial subjects. My friend Brian converses easily with ChatGPT about minor professional wrestling federations of the 1990s. My son gets step-by-step walkthroughs of old video games on obsolete platforms. Even a task like the one I gave it might begins to be understandable if you assume it has the transcripts of all four Scooter shorts, all the Schoolhouse Rocks! shorts, complete knowledge of virtually all published poetry, songs, etc.; scripts for all plays and movies. You get the picture. Everything in this area works according to statistics. It can all be reduced to numbers, even if the numbers are quite large. People have limited vocabularies. They think in similar ways; say the same things. If you asked a thousand people to come up with a list of 10 questions to ask a new chatbot, a large percentage of those questions would essentially overlap; the number of truly unique questions might be limited by orders of magnitude. Comprehensible. Answers could be generated in advance and checked for suitability. You can begin to understand not only how this can be accomplished, but also why AI fails in the way that it does. It depends on large bodies of pre-existing knowledge for the answers. It cannot *create* or *imagine*. 
 
+But looking at the above, does that really feel true?
 
+After all, don't humans work and think in much the same way, at least 99% of the time? — building off the ideas, accomplishments, and skills of others and the historical body of received knowledge? Perhaps the Scooter Computer skit was something patched together from 100,000 different sources, but it is something that did not previously exist, and now it does. What is there inherently to distinguish that from something produced by a human scriptwriter? 
+
+Mr. Chips might tell you (and has) that computers cannot think and understand, they merely process bits according to a set of specific instructions. True enough. But these algorithms are build to model the function of the human brain. At some level, they replicate our mechanical understanding of how the brain works. Mainstream scientists and many AI engineers would say, I think incorrectly, that this represents the underlying motor of consciousness, and fully expect that as the models grow in complexity that consciousness will "emerge" as a byproduct of the machine. Mistaken though this idea may be, there is something important happening in the brain, some necessary physical processes that are no doubt harnessed by our consciousness, and both enable it in some way and limit it in others. Our pre-existing consciousness, in my view, is what provides our "set of instructions" to our brain's machine, and perhaps more. But if what we are building is an artificial brain of sorts, who is to say that physical brain cannot be *ensouled* by a consciousness not tied to human bodies? 
+
+More on this to come.
