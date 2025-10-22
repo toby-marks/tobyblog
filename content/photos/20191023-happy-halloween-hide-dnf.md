@@ -1,27 +1,28 @@
 +++
 camera = "iPhone XS"
 date = "2019-10-23T14:00:00-05:00"
+description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191023-happy-halloween-hide-dnfScreenShot2019-10-23at1.36.14PM.png/fit=scale-down,..."
 location = "Las Colinas, Texas"
 title = "Happy Halloween Hide DNF"
-categories = ["Hobbies"]
-tags = ["geocaching","Halloween"]
-images = ["https://res.cloudinary.com/tobyblog/image/upload/v1571856012/img/Screen_Shot_2019-10-23_at_1.36.14_PM.png"]
+categories = ["photography"]
+tags = ["geocaching","halloween"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191023-happy-halloween-hide-dnf_Screen_Shot_2019-10-23_at_1.36.14_PM.png"]
 +++
-{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1571856012/img/Screen_Shot_2019-10-23_at_1.36.14_PM.png" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191023-happy-halloween-hide-dnf_Screen_Shot_2019-10-23_at_1.36.14_PM.png/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more--> 
 No luck today, but man did I enjoy getting out in the woods again. It seems like it's been forever since that was a regular thing in my life. It's especially awesome in the fall when the weather cools down and the wind blows through the trees. Not much fall color yet, but it's coming.
 
-{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1571857226/img/lb_houston_trail_geo2.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_cloudinary_abb0d419_lb_houston_trail_geo9.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1571857227/img/lb_houston_trail_geo12.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_cloudinary_abb0d419_lb_houston_trail_geo9.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1571857228/img/lb_houston_trail_geo1.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_cloudinary_abb0d419_lb_houston_trail_geo9.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1571857227/img/lb_houston_trail_geo11.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_cloudinary_abb0d419_lb_houston_trail_geo9.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1571857226/img/lb_houston_trail_geo9.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_cloudinary_abb0d419_lb_houston_trail_geo9.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< picture alt="" src="https://res.cloudinary.com/tobyblog/image/upload/v1571857227/img/lb_houston_trail_geo5.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_cloudinary_abb0d419_lb_houston_trail_geo9.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
 This is about where I think it should be, based on the posted posted coordinates. I checked all around there, for as much time as I had to give. There were so many recently downed trees because of all the storms and flooding in this area over the summer.
 

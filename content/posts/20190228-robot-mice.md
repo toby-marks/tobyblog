@@ -2,12 +2,11 @@
 title = "My Love, She Weeps At Many Things"
 description = "A poem by Ray Bradbury"
 date = "2019-02-28T01:41:02-06:00"
-categories = ["Books"]
-tags = ["Ray Bradbury"]
+
 minipost = "true"
-images = ["https://live.staticflickr.com/7896/46298054945_7fc2b02e2f_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190228-robot-mice_46298054945_7fc2b02e2f_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
-{{< figure class= "wp-caption alignnone" alt="Nightstand" src="https://live.staticflickr.com/7896/46298054945_7fc2b02e2f_k.jpg" >}}
+{{< figure class= "wp-caption alignnone" alt="Nightstand" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190228-robot-mice_46298054945_7fc2b02e2f_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
 My love, she weeps at many things,<br>
 I would not for the world stop up her tears;<br>

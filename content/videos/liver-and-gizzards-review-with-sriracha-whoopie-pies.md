@@ -1,8 +1,8 @@
 +++
 title = "Liver and Gizzards Review, with Sriracha Whoopie Pies"
 date = 2014-08-31T15:16:00Z
-categories = ["Reviews"]
-tags = ["reviews", "fried food", "liver", "in my car", "food", "gizzards"]
+description = "The messiest of front seat food reviews"
+categories = ["reviews"]
 externalurl = "https://www.youtube.com/watch?v=XHGe3D4sJAc"
 +++
 My buddy Brian Hammons over at [Review the World](http://www.reviewtheworld.com/) requested another video food review, so I though I'd introduce him to a down-home treat from my childhood. I hope you're happy with the results. I'm not gonna lie, this one is a bit of a deep dive; a little something for my hardcore devotees. That is, people that like watching me eat stuff in my car. And yes, I manage to add yet another stain to my car seat. For you, people, for you.

@@ -2,8 +2,8 @@
 title = "Elote Ramen May be the King of Fusion Cuisine"
 description = ""
 date = "2020-04-14T08:41:18-05:00"
-categories = ["Food"]
-tags = [""]
+
+tags = ["reviewtheworld"]
 externalurl = "https://www.foodbeast.com/news/elote-instant-ramen/?fbclid=IwAR0amuQ_BW29HigFPbpm4FLw-MdGmrRIlHQYf96DSh-fwZjkQJRniQQUMto"
 +++
 This comes courtesy of good buddy Brian Hammons at [reviewtheworld.com](http://reviewtheworld.com/), now celebrating its 15th year on the internet, I believe. As if I didn't need another reason during this lockdown to get my hands on some Tajin.

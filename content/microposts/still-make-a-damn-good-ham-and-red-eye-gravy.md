@@ -7,4 +7,4 @@ Still make a damn good ham and red eye gravy. This time over leftover cornbread 
 
 Good morning 🌞
 
-{{< picture src="https://res.cloudinary.com/tobyblog/image/upload/v1575131578/img/IMG_5656.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_cloudinary_47f733e3_IMG_5656.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)

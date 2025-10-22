@@ -1,7 +1,8 @@
 +++
 title = "When did people first start mowing lawns?"
 date = "2018-04-08T14:16:37-05:00"
-categories = ["Journal"]
+description = "Today I mowed the back yard for the first time this spring. I am behind. The weather and other duties had kept me off task. The grass was high, and ea..."
+
 minipost = true
 +++
 Today I mowed the back yard for the first time this spring. I am behind. The weather and other duties had kept me off task. The grass was high, and each square foot I tread into submission was like a territory reclaimed for civilization. 

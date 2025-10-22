@@ -1,9 +1,6 @@
 +++
 date = 2019-11-04T17:01:00Z
 title = "Arbor Hills Switchback"
-
 +++
 
-{{< picture 
-        src="https://live.staticflickr.com/65535/49014177622_4ac2290781_6k.jpg" 
-        alt="Arbor Hills in Plano" >}}
+![Arbor Hills in Plano](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/b61c5c16-00e9-4844-5019-fd3c3d0ad800/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)

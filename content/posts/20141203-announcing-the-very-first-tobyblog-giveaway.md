@@ -1,11 +1,11 @@
 +++
 title = "Announcing the Very First Tobyblog Giveaway!"
 date = 2014-12-03T15:42:00Z
-categories = ["Journal"]
-tags = ["Halloween","tobyblog.com"]
-images = ["http://2.bp.blogspot.com/-dES21Y3gXxw/VHjUpreAJVI/AAAAAAAABnY/qgv9Zf_dOYY/s2048/DSC02792.jpg"]
+
+tags = ["halloween"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20141203-announcing-the-very-first-tobyblog-giveaway_DSC02792.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
-{{< figure class= "wp-caption alignnone" alt="" src="http://2.bp.blogspot.com/-dES21Y3gXxw/VHjUpreAJVI/AAAAAAAABnY/qgv9Zf_dOYY/s2048/DSC02792.jpg" >}}
+{{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20141203-announcing-the-very-first-tobyblog-giveaway_DSC02792.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
 Would you like to win this original 8 x 10 photograph that hung in our house this past Halloween? 
 

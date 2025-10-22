@@ -1,0 +1,20 @@
+  <nav>
+    <!--<h1><a href="{{ .Site.Params.Author.socialurl }}">@{{ .Site.Params.Author.handle }}’s</a> <a href="/">{{ .Site.Title }}</a>.</h1>-->
+    <div class="menu">
+      {{ $.Scratch.Add "sections" .Site.Params.rsssections }}
+      <ul>
+        {{ range .Site.Menus.main }}
+            <li>
+              <a href="{{ .URL }}">{{ .Name }}</a>
+              {{ if in ($.Scratch.Get "sections") .Name }}
+                  <a href="{{ .URL }}index.xml"><img src="/img/rss.svg" class="rss-icon" /></a>
+              {{ end }}
+            </li>
+        {{ end }}
+        {{ with .Site.Author.aboutpage }}<li><a href="{{ . }}">About</a></li>{{ end }}
+      </ul>
+    </div>
+    <a href="{{.Site.BaseURL}}">
+      <img id="tb_banner" alt="Welcome to Tobyblog" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/78a8420b-bb80-4891-97e4-e8c407bdc200/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
+    </a>
+  </nav>

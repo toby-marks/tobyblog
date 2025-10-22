@@ -1,8 +1,8 @@
 +++
 title = "Cover Battle — Love Songs"
 date = 2014-08-14
-categories = ["Music"]
-tags = ["pop music"]
+description = "It's time once again for one of my patented YouTube cover battles, and in typical fashion you pick the winner. Tonight's theme is one of my favorite f..."
+categories = ["music"]
 +++
 It's time once again for one of my patented YouTube cover battles, and in typical fashion you pick the winner. Tonight's theme is one of my favorite for YouTube covers — LOVE SONGS. I have my personal favorite, of course, but I won't spoil it for you. Enjoy, and leave a comment to vote for the winner. 
 

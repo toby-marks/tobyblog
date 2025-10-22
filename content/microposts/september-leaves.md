@@ -11,4 +11,4 @@ Too long away from regular posting here.
 
 Hope you are ready and waiting to catch whatever autumn we're granted. It'll be on us quickly now, in a flash. And then gone all too soon. May all the badness of this year go with it, and may we never see its like again.
 
-{{< picture src="https://res.cloudinary.com/tobyblog/image/upload/v1600984814/img/sept-leaves.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_cloudinary_aa00bb77_sept-leaves.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)

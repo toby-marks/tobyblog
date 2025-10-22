@@ -1,0 +1,12 @@
+site: "./public"
+glob: "**/*.html"
+exclude_selectors:
+  - "nav"
+  - ".pagefind-ignore"
+force_language: "en"
+keep_index_url: true
+excerpts: true
+image_selectors:
+  - "img[src]"
+  - "picture img[src]"
+root_selector: "main"

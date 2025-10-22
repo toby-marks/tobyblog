@@ -5,4 +5,4 @@ title = "Grilling Pizzas"
 +++
 I ❤️ grilling
 
-{{< picture src="https://res.cloudinary.com/tobyblog/image/upload/v1575421122/img/A211765B-4924-4081-A558-693733B125AE_u6lvrh.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_cloudinary_6d232dc3_A211765B-4924-4081-A558-693733B125AE_u6lvrh.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)

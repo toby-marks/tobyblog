@@ -1,8 +1,8 @@
 +++
 title = "Cover Battle — The Great Pumpkin Waltz"
 date = 2015-09-08T11:10:00Z
-categories = ["Music"]
-tags = ["Halloween"]
+categories = ["music"]
+tags = ["halloween"]
 +++
 
 We are officially in the "-BER months" now, a time of year that for my generation is indelibly stamped by the melancholy Peanuts cartoon soundtracks of Vince Guiraldi and his trio. Though the nostalgic quality of these tracks reaches fever pitch around Christmastime, we begin our seasonal contemplation with this wistful little tune, quickly supplanted in the Guiraldi lineup, but never quite forgotten. It remains one of my favorites, but I'll only listen to it from the start of September through Halloween.
@@ -35,4 +35,4 @@ Enjoy. Show these guys some support by liking and/or subscribing to their stuff.
 
 {{< youtube 20RkSotA8sg >}}
 
-{{< figure class= "wp-caption alignnone" alt="" src="http://2.bp.blogspot.com/-3PtiI6xegg4/Ve8kc-vbvGI/AAAAAAAACZ0/plak79_-DLk/s2048/Unknown.jpeg" >}}
+{{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150908-cover-battle-the-great-pumpkin-waltz_Unknown.jpeg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}

@@ -1,10 +1,10 @@
 +++
 title = "Review the World Comes to Dallas"
 date = 2014-11-15T11:43:00Z
-categories = ["Journal"]
-tags = ["Brian Hammons","reviewtheworld.com","Augie"]
+
+tags = ["reviewtheworld"]
 +++
-{{< figure class= "wp-caption alignnone" alt="" src="https://2.bp.blogspot.com/-Mrgo_E1r37k/VGLpoDVtcfI/AAAAAAAABkU/2I7G8LsRERY/s2048/IMG_0676.jpg" >}}
+{{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_review-the-world-comes-to-dallas_IMG_0676.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
 Those of you paying [close attention]({{< ref "20140202-the-beginning.md" >}}) will remember that Tobyblog owes its existence to my good buddy Brian Hammons of the nostalgia blog [reviewtheworld.com](http://reviewtheworld.com/). His site is a surprisingly deep personal catalog that is as much a call to action and personal philosophical movement as anything. 
 
@@ -12,11 +12,11 @@ Those of you paying [close attention]({{< ref "20140202-the-beginning.md" >}}) w
 
 Brian has been at this game for far longer than YouTube has been around, and has amassed an unparalleled amount of footage and articles documenting the greater part of his life, from high school hijinks to romances come and gone, to thirty-something introspections with friends. When I think about the kind of legacy he's preparing for his children, it gives me chills. They will have a chance to get to know their father in a way, perhaps, more intimate than most of us ever get to experience; a chance to get a look at the man as a man, as a friend, as a person. To know the thoughts he thought, the things that preoccupied him, the obsessions, the sillinesses, the deep things. To see him grow up.
 
-{{< figure class= "wp-caption alignnone" alt="" src="https://2.bp.blogspot.com/-IhjiboKlCpc/VGLpoOIKMAI/AAAAAAAABkQ/5xmbAs_m5VI/s2048/IMG_0669.jpg" >}}
+{{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_review-the-world-comes-to-dallas_IMG_0669.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
 It was an honor after getting to know Brian through the site and corresponding with him for a while that he chose to visit us here in Dallas. Unfortunately he was only able to stay for a couple of days, so I tried to pack in as much fun as possible during that short time. We both had the idea to film at least <i>something</i> for RtW in Dallas, so I planned the itinerary to provide us with as many opportunities for that as we cared to take advantage of.
 
-{{< figure class= "wp-caption alignnone" alt="" src="https://2.bp.blogspot.com/-6layUbYMFRI/VGLpoYbQWaI/AAAAAAAABkY/ELH6mqBjKds/s2048/IMG_0677.JPG" >}}
+{{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_review-the-world-comes-to-dallas_IMG_0677.JPG/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
 Brian arrived on a Friday morning and after a hearty breakfast at the Old West Cafe in Grapevine, TX, I made a rather ridiculous attempt to demonstrate geocaching to him at Arbor Hills. After three successive DNFs I was beginning to think he'd feel I had made the whole thing up, or at least that I wasn't very good at it. It didn't help that when I decided to show him a cache that I had already found, I couldn't locate that one either. <i>He</i> actually spotted it about 20 feet over from where I had last found it, someone having moved the cache slightly. Good grief.
 
@@ -30,7 +30,7 @@ If you've never seen Brian's [Freestyle Walking series](http://www.reviewtheworl
 
 There's a little hill at the park at the top of which sits an observation tower. I took Brian up to see the view, and what should we happen upon on that Friday morning but a random bongo player practicing his craft! He was an interesting guy. We listened to him do his stuff for a while. He seemed appreciative for the audience. He had a hardcore, almost menacing look but was in fact a very affable guy. He told us he played in a metal band, but was trying to break out into jazz. Apparently the market in Dallas is pretty tough for a jazz drummer, because he was having trouble finding a gig. Who knew?
 
-{{< figure class= "wp-caption alignnone" alt="" src="http://1.bp.blogspot.com/-M_c6-QNq1NA/VGdrw4rzvNI/AAAAAAAABl8/1NOqOezxSlQ/s2048/IMG_0681.JPG" >}}
+{{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_review-the-world-comes-to-dallas_IMG_0681.JPG/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
 It was getting fairly warm by the time we left, and that wasn't the end of our outdoor adventures that day. In retrospect it was a good idea that we stayed away from the house as much as possible, though it didn't spare us the inevitable. Much earlier that morning I had been awakened by my daughter. She felt sick and needed to vomit. I couldn't believe our luck. With company coming from out of state! I knew we had been hit like a meteor out of the blue with one of the dreaded super-contagious stomach bugs so common in this city. There was nothing to it but to take care of her and isolate her as much as possible. By morning she was feeling somewhat better, and we assumed it must have been an odd case of food poisoning or something. 
 
@@ -40,9 +40,9 @@ Fools!
 
 Anyway, by that time we had worked up an appetite. One of the problems I ran into when planning the itinerary was that there was just too much stuff to do and eat; it was impossible to fit in everything I wanted to show this guy in just two days. So the idea I proposed was to try a ["roaming lunch"](http://www.reviewtheworld.com/2014/05/dallas-roaming-lunch.html), and try to hit these three places in Irving that I was enamored with at the time, a little nosh here and little nosh there. Brian and his stomach were up for it, and this is the result. My very own debut on Review the World, and as a superfan of Brian's it was a real treat. Very proud of this one. Not only did I appear onscreen with Brian reviewing some tasty eats from my own neck of the woods, but I also got to be behind the RtW camera, which for some reason I think I enjoyed just as much. 
 
-{{< figure class= "wp-caption alignnone" alt="" src="http://4.bp.blogspot.com/-7cwPDnyN7Lg/VGduW04f97I/AAAAAAAABmQ/M7THXBuJ8UM/s2048/IMG_0685.JPG" >}}
+{{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_review-the-world-comes-to-dallas_IMG_0685.JPG/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
-{{< figure class= "wp-caption alignnone" alt="" src="http://3.bp.blogspot.com/-2TlmD9n26sw/VGduWw7y_gI/AAAAAAAABmU/1YUWm2VO-18/s2048/IMG_0689.JPG" >}}
+{{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_review-the-world-comes-to-dallas_IMG_0689.JPG/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
 That night it was off to Bavarian Grill in Plano, one of our favorite places and probably the nicest restaurant that we go to regularly. It's been rated the best German restaurant in Texas many years running, and it really is a remarkable place. The live music is great and the seating is very cozy, bordering on the cramped, which I find *adds* to the charm, perhaps a bit uncharacteristically for me. We don't normally go on Fridays, though, so we were surprised to find that Friday nights they run a beer lifting competition. Not *chugging*, you see, but *lifting* — which is both classier and manlier. 
 
@@ -54,7 +54,7 @@ I managed to catch the very end on video, when they announced the winner. The po
 
 What are you gonna do?
 
-{{< figure class= "wp-caption alignnone" alt="" src="http://4.bp.blogspot.com/-xYl6l-QMsxE/VGd3XRGkYdI/AAAAAAAABmo/i-fZX58tQU8/s2048/IMG_0707.JPG" >}}
+{{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_review-the-world-comes-to-dallas_IMG_0707.JPG/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
 The next morning after an outstanding South American breakfast at Cafe de Brazil we brunched at [Avocado Sushi](http://www.reviewtheworld.com/2014/07/avocado-california-roll-sushi-garland-tx.html), 'cause, frankly folks, Brian just freaking demanded it. Brian is a sushi hound, and can pack away vast, vast quantities of rice and fish. I had been talking up Avocado for a while in our IMs, and he just couldn't leave Dallas without trying it, even if that meant we had to pull off another, far more loaded wandering lunch.
 
@@ -62,7 +62,7 @@ The next morning after an outstanding South American breakfast at Cafe de Brazil
 
 And what can I say? That place delivers. The sushi menu is huge, and a lot of it obviously caters to more American tastes. It's a great spot to bring someone if you want to introduce them to sushi, because there's more than a little for everyone, including those who are squeamish about raw fish. Their presentation is also top notch — the dishes were just beautiful; no buffet bar rolls there. We were in the moment and the place wasn't too crowded that morning, so we decided to do a full review at table, which is kind of rare thing among RtW restaurant reviews. It was also my son Augie's first recorded appearance on RtW, and I don't mind saying he did me proud, as he always does. Both he and my daughter are also longtime fans of Brian's, though I don't show them absolutely <i>everything</i> on Review the World. It's a PG-13 site, after all!
 
-{{< figure class= "wp-caption alignnone" alt="" src="http://4.bp.blogspot.com/-9lHTMQjOBQU/VGd-poVnD4I/AAAAAAAABm4/_3v5aRitW58/s2048/IMG_0698.JPG" >}}
+{{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_review-the-world-comes-to-dallas_IMG_0698.JPG/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
 Prior to Avocado I took Brian and Augie out to World Market to scout for some potential review material. I had something specific in mind, but while we were there we decided to pick up some additional items, because we were really feeling it that morning. I don't know how we decided on the theme; I guess it just kind of evolved — [three green drinks](http://www.reviewtheworld.com/2014/09/3-green-sodas.html).
 

@@ -1,0 +1,29 @@
+<main class="content">
+
+  <!-- search bar -->
+  <div id="search"></div>
+  <script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+  	  new PagefindUI({ element: "#search", showSubResults: true, excerptLength: 50 });
+    });
+  </script>
+  <!-- search bar -->
+
+  <article class="post-groups">
+    <div class="post-group">
+    {{ range .Data.Pages.GroupByDate "2006" }}
+      <div class="post-group-item">
+        <h3>{{ .Key }}</h3>
+        <ul>
+          {{ range .Pages }}
+            <li>
+                <a rel="full-article" href="{{ .Permalink }}">{{ .Title }}</a>
+                on <time datetime="{{ .Date }}" pubdate="">{{ .Date.Format "January 2" }}</time>
+            </li>
+          {{ end }}
+        </ul>
+      </div>
+    {{ end }}
+    </div>
+  </article>
+</main>

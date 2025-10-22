@@ -1,9 +1,9 @@
 +++
 title = "The Mask of the Red Death"
 date = 2014-10-18T06:56:00Z
-categories = ["Books"]
+
 +++
-{{< figure class= "wp-caption alignnone" alt="" src="http://4.bp.blogspot.com/-LG5tJUTc_xU/VEJuvEURinI/AAAAAAAABis/MisjKk3frhA/s2048/IMG_2405.JPG" >}}
+{{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_the-mask-of-the-red-death_IMG_2405.JPG/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
 > The 'Red Death' had long devastated the country. No pestilence had ever been so fatal, or so hideous. Blood was its Avatar and its seal — the redness and the horror of blood. There were sharp pains, and sudden dizziness, and then profuse bleeding at the pores, with dissolution.
 

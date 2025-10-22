@@ -1,0 +1,464 @@
+@import "tailwindcss";
+@source "hugo_stats.json";
+
+@theme {
+  --font-heading: "Chicle", sans-serif;
+  --font-body: "Nanum Myeongjo", serif;
+  --font-meta: "American Typewriter", serif;
+  --font-table: "Roboto", sans-serif;
+  
+  --tb-content-width: 780px;
+  
+  /* pumpkins #e0701a */
+  --color-pumpkin-100: oklch(0.265 0.066 51.0);
+  --color-pumpkin-200: oklch(0.351 0.087 51.0);
+  --color-pumpkin-300: oklch(0.436 0.108 51.0);
+  --color-pumpkin-300-disqus: rgba(126, 60, 9, 0.5);
+  --color-pumpkin-400: oklch(0.522 0.129 51.0);
+  --color-pumpkin-500: oklch(0.607 0.150 51.0);
+  --color-pumpkin-600: oklch(0.693 0.172 51.0);
+  --color-pumpkin-700: oklch(0.779 0.153 51.0);
+  --color-pumpkin-800: oklch(0.864 0.087 51.0);
+  --color-pumpkin-900: oklch(0.950 0.030 51.0);
+    
+  /* warm grays #d6cfc4 */
+  --color-warm-gray-100: oklch(0.457 0.011 79.3);
+  --color-warm-gray-200: oklch(0.519 0.012 79.3);
+  --color-warm-gray-300: oklch(0.580 0.014 79.3);
+  --color-warm-gray-400: oklch(0.642 0.015 79.3);
+  --color-warm-gray-500: oklch(0.704 0.017 79.3);
+  --color-warm-gray-600: oklch(0.765 0.018 79.3);
+  --color-warm-gray-700: oklch(0.827 0.020 79.3);
+  --color-warm-gray-800: oklch(0.888 0.013 79.3);
+  --color-warm-gray-900: oklch(0.950 0.006 79.3);
+  --color-warm-gray-900-disqus: rgb(241, 238, 234);
+  /* warm browns #21130b */
+  --color-warm-brown-100: oklch(0.050 0.007 50.4);
+  --color-warm-brown-200: oklch(0.119 0.016 50.4);
+  --color-warm-brown-300: oklch(0.188 0.026 50.4);
+  --color-warm-brown-400: oklch(0.258 0.035 50.4);
+  --color-warm-brown-500: oklch(0.327 0.045 50.4);
+  --color-warm-brown-600: oklch(0.396 0.054 50.4);
+  --color-warm-brown-700: oklch(0.465 0.063 50.4);
+  --color-warm-brown-800: oklch(0.534 0.073 50.4);
+  --color-warm-brown-900: oklch(0.603 0.082 50.4);
+  
+  /* deep goldenrods #E2B844 */
+  --color-deep-goldenrod-100: oklch(0.400 0.069 88.5);
+  --color-deep-goldenrod-200: oklch(0.468 0.081 88.5);
+  --color-deep-goldenrod-300: oklch(0.537 0.093 88.5);
+  --color-deep-goldenrod-400: oklch(0.606 0.105 88.5);
+  --color-deep-goldenrod-500: oklch(0.675 0.117 88.5);
+  --color-deep-goldenrod-600: oklch(0.744 0.129 88.5);
+  --color-deep-goldenrod-700: oklch(0.812 0.141 88.5);
+  --color-deep-goldenrod-800: oklch(0.881 0.131 88.5);
+  --color-deep-goldenrod-800-trans: oklch(0.881 0.131 88.5 / 15%);
+  --color-deep-goldenrod-900: oklch(0.950 0.054 88.5);
+
+  --color-warm-gray: var(--color-pumpkin-900); /* for post text */
+  --color-pumpkin: var(--color-pumpkin-600); /* for headings */
+  
+  /*------------------------------------------------------------------------*/
+  /* accomodating bug in disqus caused by oklch colors */
+  /*------------------------------------------------------------------------*/
+  /* --color-warm-brown: var(--color-warm-brown-300);  for post backgrounds */
+  --color-warm-brown: #1d1009; 
+  
+  /* --color-deep-goldenrod: var(--color-deep-goldenrod-700);  for links */
+  --color-deep-goldenrod: #e7bc45; 
+  /*------------------------------------------------------------------------*/
+
+  --color-amber-glow: var(--color-deep-goldenrod-800); /* for hover */
+  --color-dark-amber: var(--color-deep-goldenrod-500); /* for visited links */
+  --color-soft-amber: var(--color-deep-goldenrod-800-trans); /* for borders */ 
+  --color-dark-pumpkin: var(--color-pumpkin-500); /* for borders */
+  --color-muted-auburn: var(--color-warm-gray-500); /* for post meta */
+  --color-copper-brown: #B47C55; /* for captions */
+  --color-warm-parchment: rgba(245, 233, 213, 0.85); /* for micropost backgrounds */
+  --color-warm-parchment-haze: rgba(245, 233, 213, 0.1); /* for quoted text background */
+  --color-subdued-copper: #8B6B4A; /* for micropost meta */
+  --color-burnt-orange: #CF5A2A; /* accent bar */
+  --color-transparent-pumpkin: oklch(0.693 0.172 51.0 / 0.1);
+  
+  /* The Tobyblog Rainbow */
+  --color-custom1: oklch(0.693 0.172 11.0);  /* pink */
+  --color-custom2: oklch(0.693 0.172 51.0);  /* orange */
+  --color-custom3: oklch(0.693 0.172 91.0);  /* yellow */
+  --color-custom4: oklch(0.693 0.172 131.0); /* green */
+  --color-custom5: oklch(0.693 0.172 171.0); /* teal */
+  --color-custom6: oklch(0.693 0.172 211.0); /* blue */
+  --color-custom7: oklch(0.693 0.172 251.0); /* lavender */
+  --color-custom8: oklch(0.693 0.172 291.0); /* purple */
+  --color-custom9: oklch(0.693 0.172 331.0); /* mauve */
+}
+
+/*-- Pagefind Searchbar --*/
+:root {
+  --pagefind-ui-text: var(--color-warm-brown);
+  --pagefind-ui-background: var(--color-warm-parchment);
+  --pagefind-ui-border: var(--color-amber-glow);
+  --pagefind-results-background: var(--color-copper-brown);
+}
+
+body {
+  font-optical-sizing: auto;
+  @apply font-body font-normal;
+  @apply bg-black bg-[url(/images/bg2.jpg)] bg-no-repeat bg-fixed bg-top-left bg-cover;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  @apply text-deep-goldenrod;
+}
+
+:where(h3,h4,h5,h6) {
+  @apply text-xl;
+}
+
+h2 {
+  @apply font-heading font-normal not-italic text-[1.3lh];
+}
+
+h2 > a[href] {
+	@apply text-pumpkin;
+}
+
+h2.custom1 { @apply text-custom1; }
+h2.custom2 { @apply text-custom2; }
+h2.custom3 { @apply text-custom3; }
+h2.custom4 { @apply text-custom4; }
+h2.custom5 { @apply text-custom5; }
+h2.custom6 { @apply text-custom6; }
+h2.custom7 { @apply text-custom7; }
+h2.custom8 { @apply text-custom8; }
+h2.custom9 { @apply text-custom9; }
+
+hr { @apply w-100 h-1 mx-auto my-4 bg-warm-parchment-haze border-0 rounded-sm md:my-10; }
+
+a[href] {
+  @apply text-deep-goldenrod;
+}
+
+a[href]:hover {
+  @apply text-amber-glow;
+}
+
+a[href]:visited {
+  @apply text-dark-amber;
+}
+
+:where(table, ol, ul) {
+  @apply mt-5 mb-5;
+}
+
+table, article > ul > li, article > ol > li, code {
+/*  color: rgb(211,162,8);*/
+}
+
+article > ol > li, article > ul > li {
+  @apply text-warm-gray text-lg/6 m-2;
+}
+
+th, td {
+  @apply font-table text-sm text-warm-gray p-2;
+}
+
+th, td:first-child { @apply font-extrabold bg-subdued-copper; }
+
+code {
+  font-size: smaller;
+}
+
+#tb_banner {
+  @apply mb-5;
+}
+
+.menu > ul {
+  @apply flex justify-center; /* center the sections menu at the top of the page */
+}
+
+.menu > ul li {  @apply font-extrabold after:text-dark-amber after:ml-5 after:content-['|']; }
+.menu > ul li:last-child {  @apply after:content-['']; }
+
+main.content article:first-child {
+  @apply mt-0;
+}
+
+
+article.post, article.micropost, article.photo, article.video, article.post-groups {
+  @apply mt-5 mb-5;
+}
+
+article.post, article.page, article.video, .post-groups {
+  @apply bg-warm-brown;
+}
+
+.post > p, .page > p, .video > p {
+  @apply text-left text-lg/6 text-warm-gray mt-4 mb-4;
+}
+
+/* Caption alignment with site’s copper tone */
+figure {
+	margin: 0 0;
+}
+
+figure figcaption, figure figcaption p {
+  @apply font-meta text-[0.6lh] italic text-copper-brown text-center mt-3 mb-5 ml-auto mr-auto;
+}
+
+article .postmeta, article .continue {
+  @apply text-muted-auburn font-meta text-[0.6lh];
+}
+
+article.post a.continue { @apply text-deep-goldenrod; }
+article.post a.continue:hover { @apply text-amber-glow; }
+article.post a.continue:visited { @apply text-dark-amber; }
+
+
+/* Blockquote — Parchment card */
+article blockquote {
+  @apply relative mt-[1.25rem] mb-[1.25rem] ml-0 mr-0 pt-[1rem] pb-[1rem] pl-[1.25rem] pr-[1.25rem];
+  @apply bg-warm-parchment-haze border border-solid border-soft-amber border-l-6 border-l-dark-pumpkin rounded-xl;
+}
+
+/* Quote text */
+article blockquote,
+article blockquote p {
+  @apply text-warm-parchment font-body italic leading-7;
+}
+article blockquote p {
+  @apply m-2.5;
+}
+
+/* Optional decorative opening quotation */
+article blockquote::before {
+  content: "“";
+  position: absolute;
+  top: -0.6rem;
+  left: 0.4rem;
+  font-size: 3rem;
+  line-height: 1;
+  color: rgba(255, 211, 100, 0.25);         /* soft amber */
+  pointer-events: none;
+}
+
+/* Cite / attribution */
+article blockquote cite {
+  display: block;
+  margin-top: 0.65rem;
+  font-style: normal;
+  font-size: 0.95rem;
+  color: #C8BA9E;                           /* light parchment gray */
+}
+article blockquote cite::before {
+  content: "— ";
+  color: #B47C55;                           /* copper dash */
+}
+
+/* Links inside quotes */
+article blockquote a {
+  color: #E2B844;                           /* goldenrod */
+  text-decoration: underline;
+}
+article blockquote a:hover {
+  color: #FFD364;                           /* brighter amber */
+}
+
+/* Code or pre inside quotes */
+article blockquote code,
+article blockquote pre {
+  color: #F7F3E8;                           /* brighter for contrast */
+  background: rgba(33, 19, 11, 0.35);       /* warm-brown wash */
+  padding: 0.05rem 0.35rem;
+  border-radius: 6px;
+}
+
+article {
+  padding: 20px;
+}
+
+article img, div#mygallery {
+  margin-left: -20px;
+  margin-right: -20px;
+  width: calc(100% + 40px);
+  max-width: calc(100% + 40px);
+}
+
+.micropost {
+  @apply bg-(--color-pumpkin-300-disqus);
+  padding: 15px 20px;
+  @apply border-l-4 border-solid border-burnt-orange;
+  @apply font-body;
+  font-style: italic;
+  margin: 20px auto;
+  border-radius: 6px; 
+}
+
+.micropost > p {
+  @apply text-(--color-warm-gray-900-disqus);
+}
+
+.micropost h3 {
+  @apply text-burnt-orange;
+}
+
+.micropost a {
+  @apply text-burnt-orange;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.micropost a:hover {
+  @apply text-pumpkin;
+  text-decoration: underline;
+}
+
+.micropost time, 
+.micropost .metadata {
+  display: block;
+  margin-top: 8px;
+  font-size: 0.85em;
+  @apply text-subdued-copper;
+  font-style: italic;
+}
+
+/* ========== PHOTO POST CARD ========== */
+article.photo {
+  /* match post cards */
+  background: var(--color-warm-brown);            /* #21130B */
+  @apply outline-3 outline-offset-1 outline-solid outline-warm-parchment-haze rounded-2xl;
+  overflow: hidden;
+  max-width: 780px;
+
+  /* stop forcing a 300px crop */
+  height: auto;                                   /* was 300px */
+}
+
+/* Remove legacy forced crops/offsets */
+article.photo img,
+article.photo img[alt] {
+  margin-top: 0 !important;                       /* nixes per-image offsets */
+}
+
+/* Photo image behavior: cinematic, no rotate */
+article.photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;                           /* consistent feel */
+  object-fit: cover;
+  transition: transform 1.5s ease;
+  transform: scale3d(1,1,1);
+}
+article.photo img:hover {
+  transform: scale3d(1.20, 1.20, 1);              /* subtle zoom, no rotate */
+}
+
+/* Title overlay: parchment + amber/pumpkin text */
+article.photo .title {
+  /* replace light band with warm translucent bar over the image */
+  position: relative;
+  margin-top: -.75rem;                            /* pulls title over lower edge */
+  padding: 0.75rem 1rem;
+  background: linear-gradient(
+    to top,
+    rgba(33,19,11,0.88) 0%,                       /* warm-brown */
+    rgba(33,19,11,0.55) 70%,
+    rgba(33,19,11,0.00) 100%
+  );
+  color: var(--color-deep-goldenrod);             /* #E2B844 */
+  @apply font-heading;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.3lh;
+  line-height: 1.3lh;
+  text-shadow: 0 1px 0 rgba(0,0,0,0.5);
+  border-top: 1px solid rgba(255, 211, 100, 0.15);
+}
+
+/* Link color inside photo cards */
+article.photo a {
+  color: var(--color-pumpkin);                    /* #E0701A */
+  text-decoration: none;
+}
+article.photo a:hover {
+  color: var(--color-amber-glow);                 /* #FFD364 */
+  text-decoration: underline;
+}
+
+article.video {
+  @apply max-w-[var(--tb-content-width)] m-auto;
+}
+
+.container { max-width: var(--tb-content-width); margin-inline: auto; }
+
+.post-group-item:hover {
+  @apply bg-warm-brown;
+}
+
+.pagination, .pagination a {
+  @apply font-heading font-normal not-italic text-[0.75lh] text-pumpkin;
+}
+
+
+div#search {
+  @apply max-w-[var(--tb-content-width)] m-auto;
+}
+
+.pagefind-ui__results-area.svelte-e9gkc3 {
+  @apply bg-[var(--pagefind-results-background)];
+}
+
+
+
+
+
+@media screen
+and (max-width: 780px) {
+
+  nav ul {
+    margin: 10px 0 10px 0;
+    padding: 0;
+    list-style-type: none;
+  }
+
+  nav ul > li {
+    background-color: rgb(0,0,0,0);
+    display: inline;
+    float: none;
+    margin: 0;
+    padding: 10px;
+    border-bottom: none;
+  }
+
+  nav ul:first-child {
+    border-top: none;
+  }
+  
+  .post {
+    margin: 20px auto 20px auto;
+  }
+
+  article img {
+    margin-left: -20px;
+    margin-right: 0;
+    width: 100vw;
+    max-width: 100vw;
+  }
+  
+  article.photo {
+    margin-top: 0;
+  }
+  
+  article.photo img {
+    margin-top: 0;  
+  }
+
+  .micropost img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 100%;
+  }
+  
+}
+

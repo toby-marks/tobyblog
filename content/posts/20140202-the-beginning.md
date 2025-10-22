@@ -1,8 +1,8 @@
 +++
 title = "The Beginning."
 date = 2014-02-02T21:58:00Z
-categories = ["Journal"]
-tags = ["Brian Hammons","reviewtheworld.com"]
+description = "My name is Toby."
+tags = ["reviewtheworld"]
 minipost = "true"
 +++
 My name is Toby. 
@@ -15,4 +15,4 @@ My intent for this site is somewhat different than Brian's for Review the World;
 
 Thank you for reading.  
 
-{{< figure src="http://1.bp.blogspot.com/-NINi6nq-3-4/Uu8zF8xolxI/AAAAAAAAAN0/zGt8pKEQQt0/s2048/photo.jpg" alt="The sun, seen from ground level, dipping toward the horizon on an early spring evening on the American prairie, its rays illuminating a small patch of grass in the foreground, with a line of denuded trees in the background." >}}
+{{< figure src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140202-the-beginning_photo.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" alt="The sun, seen from ground level, dipping toward the horizon on an early spring evening on the American prairie, its rays illuminating a small patch of grass in the foreground, with a line of denuded trees in the background." >}}

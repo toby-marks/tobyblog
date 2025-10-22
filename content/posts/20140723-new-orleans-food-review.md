@@ -1,9 +1,8 @@
 +++
 title = "New Orleans Food Review"
 date = 2014-07-23T07:35:00Z
-categories = ["Reviews"]
-tags = ["food"]
-images = ["https://lh3.googleusercontent.com/-rHaibYXANIw/U8_Hy4ggYiI/AAAAAAAAAio/oW6JSP1QZeQ/s640/blogger-image-1201992581.jpg"]
+categories = ["reviews"]
+images = ["https://lh3.googleusercontent.com/-rHaibYXANIw/U8_Hy4ggYiI/AAAAAAAAAio/oW6JSP1QZeQ/s640"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://lh3.googleusercontent.com/-rHaibYXANIw/U8_Hy4ggYiI/AAAAAAAAAio/oW6JSP1QZeQ/s640/blogger-image-1201992581.jpg" >}}
 

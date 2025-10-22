@@ -11,4 +11,4 @@ This morning I'm rediscovering an old hangout, a local coffee shop, and remember
 
 And the cappuccino is as excellent as always. 
 
-{{< picture src="https://res.cloudinary.com/tobyblog/image/upload/v1566222432/img/ABC02AB3-3C7A-4612-97D4-D7BB8C9E0ADA_orqlct.jpg" >}}
+![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_cloudinary_d5967fa2_ABC02AB3-3C7A-4612-97D4-D7BB8C9E0ADA_orqlct.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)

@@ -1,8 +1,6 @@
 +++
 title = "Problems with Flickr?"
 date = "2019-02-07T11:38:56-06:00"
-categories = ["Admin"]
-tags = []
 +++
 To those who may still occasionally haunt this site, this is a reminder that it's not forgotten, just long neglected. It looks like there may some sort of problem with my Flickr embeds. I will work on repairing those shortly, so stay tuned.
 

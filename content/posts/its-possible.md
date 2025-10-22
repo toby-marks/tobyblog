@@ -3,8 +3,7 @@ title = "Today's Sounds: It's Possible"
 description = ""
 date = "2020-11-04T12:07:29-06:00"
 externalurl = "https://www.youtube.com/watch?v=lDf4DfhUUBw"
-categories = ["Music"]
-tags = ["youtube"]
+categories = ["music"]
 +++
 Forever remind yourself.
  

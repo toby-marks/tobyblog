@@ -1,10 +1,10 @@
 +++
 title = "Spirit Halloween Store Opening Soon"
 date = 2014-08-02T11:06:00Z
-categories = ["Journal"]
-tags = ["Halloween","Augie"]
+
+tags = ["halloween"]
 minipost = "true"
-images = ["https://lh5.googleusercontent.com/-MWHOMxI05LI/U90onQmy-wI/AAAAAAAAAuI/1DAA21qjDXA/s640/blogger-image--108744692.jpg"]
+images = ["https://lh5.googleusercontent.com/-MWHOMxI05LI/U90onQmy-wI/AAAAAAAAAuI/1DAA21qjDXA/s640"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://lh5.googleusercontent.com/-MWHOMxI05LI/U90onQmy-wI/AAAAAAAAAuI/1DAA21qjDXA/s640/blogger-image--108744692.jpg" >}}
 

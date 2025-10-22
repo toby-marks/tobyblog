@@ -1,28 +1,28 @@
 +++
 title = "Bolin Park"
 date = "2019-07-10T16:55:24-05:00"
+description = "![Kassi Spotted a Gecko](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190710-Bolin-Park482146593813c8c618918k.jpg/fit=scale-down,w=..."
 location = "Dallas, TX"
 camera = "Nikon Coolpix P1000"
-categories = ["Journal"]
-tags = ["parks"]
-image = "https://live.staticflickr.com/65535/48214659381_59469a8b9d_k.jpg"
-images = ["https://live.staticflickr.com/65535/48214659381_3c8c618918_k.jpg"]
+categories = ["photography"]
+image = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190710-Bolin-Park_48214659381_59469a8b9d_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190710-Bolin-Park_48214659381_3c8c618918_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
-{{< picture alt="Kassi Spotted a Gecko" src="https://live.staticflickr.com/65535/48214659381_3c8c618918_k.jpg" >}}
+![Kassi Spotted a Gecko](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190710-Bolin-Park_48214659381_3c8c618918_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->
 
-{{< picture alt="Woodear Mushrooms" src="https://live.staticflickr.com/65535/48214711542_0b3d112054_k.jpg" >}}
+![Woodear Mushrooms](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190710-Bolin-Park_48214711542_0b3d112054_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< picture alt="Old Lady Doesn't Want Her Picture Taken" src="https://live.staticflickr.com/65535/48214658866_a17896dae7_k.jpg" >}}
+![Old Lady Doesn](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190710-Bolin-Park_48214658866_a17896dae7_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< picture alt="Dragonfly" src="https://live.staticflickr.com/65535/48214659061_67c9596dc3_k.jpg" >}}
+![Dragonfly](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190710-Bolin-Park_48214659061_67c9596dc3_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< picture alt="Ant On A Mushroom" src="https://live.staticflickr.com/65535/48214659446_2782fae077_k.jpg" >}}
+![Ant On A Mushroom](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190710-Bolin-Park_48214659446_2782fae077_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< picture alt="Atmospheric Bridge" src="https://live.staticflickr.com/65535/48214659176_75ceffe70c_k.jpg" >}}
+![Atmospheric Bridge](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190710-Bolin-Park_48214659176_75ceffe70c_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< picture alt="Firewheels Along The Trail" src="https://live.staticflickr.com/65535/48214710712_3f059e4f54_k.jpg" >}}
+![Firewheels Along The Trail](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190710-Bolin-Park_48214710712_3f059e4f54_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< picture alt="Grasshopper On A Plant" src="https://live.staticflickr.com/65535/48214659286_f8e4e5ed1f_k.jpg" >}}
+![Grasshopper On A Plant](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190710-Bolin-Park_48214659286_f8e4e5ed1f_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-{{< picture alt="Who Are You?" src="https://live.staticflickr.com/65535/48214659591_15ec2b4240_k.jpg" >}}
+![Who Are You?](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190710-Bolin-Park_48214659591_15ec2b4240_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
