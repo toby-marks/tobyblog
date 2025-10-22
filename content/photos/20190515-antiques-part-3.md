@@ -6,7 +6,7 @@ location = "Pasadena, California"
 title = "Antiques, Part 3"
 tags = ["travel"]
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190515-antiques-part-3_40893653383_50c24dbc30_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190515-antiques-part-3_40893653383_50c24dbc30_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![A Striking Bust 01](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190515-antiques-part-3_40893653383_50c24dbc30_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

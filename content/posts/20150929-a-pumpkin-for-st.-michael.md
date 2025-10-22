@@ -3,7 +3,7 @@ title = "A Pumpkin for St. Michael"
 date = 2015-09-29T09:36:00Z
 
 tags = ["halloween"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150929-a-pumpkin-for-st.-michael_IMG_4040.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150929-a-pumpkin-for-st.-michael_IMG_4040.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150929-a-pumpkin-for-st.-michael_IMG_4040.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 

@@ -4,7 +4,7 @@ date = "2019-04-19T19:00:00+00:00"
 description = "A review of three restaurants I visited in Pasadena this week."
 tags = ["travel"]
 title = "Three New Pasadena Restaurants"
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190419-three-new-pasadena-restaurants_1EB7C2A4-80DC-416E-AC6B-3A52C50EA52B.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190419-three-new-pasadena-restaurants_1EB7C2A4-80DC-416E-AC6B-3A52C50EA52B.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 {{< figure src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190419-three-new-pasadena-restaurants_ABB60CD5-A457-4710-A103-8E22A15D25DC.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 

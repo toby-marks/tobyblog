@@ -5,7 +5,7 @@ description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimage
 location = "Richardson, TX"
 camera = "Sony A7RII"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200627-Springtime-at-Ranch-111_50050722438_9663943b5e_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200627-Springtime-at-Ranch-111_50050722438_9663943b5e_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200627-Springtime-at-Ranch-111_50050722438_9663943b5e_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3) 
 <!--more-->

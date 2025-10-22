@@ -4,7 +4,7 @@ date = "2019-07-11T12:01:00-05:00"
 description = ""
 minipost = "true"
 
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190711-a-fire-sign_A7927185-F07D-438E-974C-C68933D42DCD.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190711-a-fire-sign_A7927185-F07D-438E-974C-C68933D42DCD.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190711-a-fire-sign_A7927185-F07D-438E-974C-C68933D42DCD.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 

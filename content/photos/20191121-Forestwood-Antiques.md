@@ -5,7 +5,7 @@ description = "![Blue Butterfly Pillow](https://imagedelivery.net/zJmFZzaNuqCQ5C
 location = "Dallas, TX"
 camera = "iPhone XS"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191121-Forestwood-Antiques_49101789021_46f854edac_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191121-Forestwood-Antiques_49101789021_46f854edac_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![Blue Butterfly Pillow](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191121-Forestwood-Antiques_49101789021_46f854edac_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

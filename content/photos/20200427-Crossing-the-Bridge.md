@@ -5,7 +5,7 @@ description = "![onthebridge](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/to
 location = "Dallas, TX"
 camera = "Nikon Coolpix P1000"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200427-Crossing-the-Bridge_49727174373_b00b43ccbe_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200427-Crossing-the-Bridge_49727174373_b00b43ccbe_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![onthebridge](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200427-Crossing-the-Bridge_49727174373_b00b43ccbe_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->
