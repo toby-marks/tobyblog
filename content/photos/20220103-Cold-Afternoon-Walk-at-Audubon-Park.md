@@ -5,7 +5,7 @@ description = "![A little dog having fun in the park](https://imagedelivery.net/
 location = "Audubon Park"
 camera = "Sony RX-100 V"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20220103-Cold-Afternoon-Walk-at-Audubon-Park_51798246235_8158143a5d_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20220103-Cold-Afternoon-Walk-at-Audubon-Park_51798246235_8158143a5d_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![A little dog having fun in the park](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20220103-Cold-Afternoon-Walk-at-Audubon-Park_51798246235_8158143a5d_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

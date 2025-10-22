@@ -6,7 +6,7 @@ location = "McKinney, TX"
 camera = "Sony A7RII"
 lens = "Sony Vario-Tessar T* FE 16-35mm F4 ZA OSS"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190404-veneration-of-the-cross-2019_40572622873_5f8d1a9906_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190404-veneration-of-the-cross-2019_40572622873_5f8d1a9906_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![Veneration of the Cross 01](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190404-veneration-of-the-cross-2019_40572622873_5f8d1a9906_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

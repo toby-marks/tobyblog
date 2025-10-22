@@ -3,7 +3,7 @@ location = "Dallas, Texas"
 title = "A Halloween Run to Toys R Us"
 date = "2017-09-08"
 camera = "iPhone 7 Plus"
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170908-toys-r-us-run_36452690190_92897263fe_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170908-toys-r-us-run_36452690190_92897263fe_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 
 +++
 {{< figure class= "wp-caption alignnone" alt="Labyrinth Movie" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170908-toys-r-us-run_36452690190_92897263fe_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}

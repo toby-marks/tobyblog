@@ -6,7 +6,7 @@ location = "Redwood Shores, California"
 camera = "iPhone 7 plus"
 categories = ["photography"]
 tags = ["travel"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180328-oracle-headquarters_41303205281_72cc97ce7b_o.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180328-oracle-headquarters_41303205281_72cc97ce7b_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![Oracle Headquarters](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20180328-oracle-headquarters_41303205281_72cc97ce7b_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

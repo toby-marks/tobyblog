@@ -2,7 +2,7 @@
 date = "2019-06-25T12:00:00-05:00"
 title = "Where O’Conner Ends"
 tags = ["geocaching"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190625-where-o-conner-ends_A5486969-3166-43AF-A464-FCD27CA17EEA.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190625-where-o-conner-ends_A5486969-3166-43AF-A464-FCD27CA17EEA.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 The geocache hidden in this location is no longer listed. I wonder why.
 

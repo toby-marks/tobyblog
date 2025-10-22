@@ -7,7 +7,7 @@ camera = "Sony a7rII"
 series = ["2019 Summer Vacation"]
 categories = ["photography"]
 tags = ["travel"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191126-Arches-National-Park_49129310703_5ce7adc236_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191126-Arches-National-Park_49129310703_5ce7adc236_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191126-Arches-National-Park_49129310703_5ce7adc236_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

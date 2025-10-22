@@ -5,7 +5,7 @@ description = "![stnicholas](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tob
 location = "McKinney, TX"
 camera = "Sony A7RII, Sigma Art 85mm F1.4 lens"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200427-New-Church-Icons_49727174413_9fd2faf8bb_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200427-New-Church-Icons_49727174413_9fd2faf8bb_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![stnicholas](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200427-New-Church-Icons_49727174413_9fd2faf8bb_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

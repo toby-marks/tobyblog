@@ -4,7 +4,7 @@ description = "![Lemax Camper, Illuminated](https://imagedelivery.net/zJmFZzaNuq
 location = "Dallas, Texas"
 title = "New Lemax Village Pieces for 2017"
 camera = "iPhone 7 Plus"
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170930-lemax-village-additions_36040426213_01a4c263e9_o.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170930-lemax-village-additions_36040426213_01a4c263e9_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 categories = ["photography"]
 tags = ["halloween"]
 +++

@@ -5,7 +5,7 @@ description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimage
 location = "Coppell, TX"
 title = "Andrew Brown Park, Coppell"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200225-andrew-brown-park-coppell_FCB0FE25-7AD4-42C3-B774-3BB8EA5A9D34_wwxbnk.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200225-andrew-brown-park-coppell_FCB0FE25-7AD4-42C3-B774-3BB8EA5A9D34_wwxbnk.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200225-andrew-brown-park-coppell_FCB0FE25-7AD4-42C3-B774-3BB8EA5A9D34_wwxbnk.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

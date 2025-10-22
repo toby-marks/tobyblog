@@ -5,7 +5,7 @@ description = "![DowntownFever](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/
 location = "Plano, Texas"
 camera = "Sony A7RII, Nikon P1000"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191012-Downtown-Fever-on-Stage-at-the-Plano-Balloon-Festival_48882337922_0afd8987b9_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191012-Downtown-Fever-on-Stage-at-the-Plano-Balloon-Festival_48882337922_0afd8987b9_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![DowntownFever](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191012-Downtown-Fever-on-Stage-at-the-Plano-Balloon-Festival_48882337922_0afd8987b9_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

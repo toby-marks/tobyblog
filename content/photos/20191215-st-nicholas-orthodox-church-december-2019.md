@@ -5,7 +5,7 @@ description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimage
 location = "McKinney, TX"
 title = "St. Nicholas Orthodox Church, December 2019"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191215-st-nicholas-orthodox-church-december-2019_D03D8F4B-9330-4AA9-955F-927E6FC0F595_vacerd.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191215-st-nicholas-orthodox-church-december-2019_D03D8F4B-9330-4AA9-955F-927E6FC0F595_vacerd.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191215-st-nicholas-orthodox-church-december-2019_D03D8F4B-9330-4AA9-955F-927E6FC0F595_vacerd.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

@@ -5,7 +5,7 @@ description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimage
 location = "Dallas, TX"
 title = "Date Night at Northpark"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191120-date-night-at-northpark_6AC112A2-B3F7-4EBD-8DE6-CF26B2352331_clq09o.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191120-date-night-at-northpark_6AC112A2-B3F7-4EBD-8DE6-CF26B2352331_clq09o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191120-date-night-at-northpark_6AC112A2-B3F7-4EBD-8DE6-CF26B2352331_clq09o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)  
 <!--more-->

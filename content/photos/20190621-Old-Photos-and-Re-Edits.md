@@ -5,7 +5,7 @@ description = "![Runway Model](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/t
 location = "Dallas, TX"
 camera = "Sony DSC RX100"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190621-Old-Photos-and-Re-Edits_48103978738_96c98d6b70_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190621-Old-Photos-and-Re-Edits_48103978738_96c98d6b70_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![Runway Model](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190621-Old-Photos-and-Re-Edits_48103978738_96c98d6b70_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

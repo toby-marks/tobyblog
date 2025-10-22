@@ -5,7 +5,7 @@ description = "![Arbor Hills Firewheels Frame 9](https://imagedelivery.net/zJmFZ
 location = "Plano, Texas"
 camera = "Sony a7rII, Sony FE 16–35mm f/4 ZA OSS Lens"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190612-firewheels-at-arbor-hills_48053723017_bafcc55d15_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190612-firewheels-at-arbor-hills_48053723017_bafcc55d15_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![Arbor Hills Firewheels Frame 9](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190612-firewheels-at-arbor-hills_48053723017_bafcc55d15_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

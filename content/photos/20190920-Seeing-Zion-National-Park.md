@@ -7,7 +7,7 @@ camera = "Sony A7RII, Nikon Coolpix P1000"
 series = ["2019 Summer Vacation"]
 categories = ["photography"]
 tags = ["travel"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190920-Seeing-Zion-National-Park_48760860313_9cda9414be_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190920-Seeing-Zion-National-Park_48760860313_9cda9414be_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190920-Seeing-Zion-National-Park_48760860313_9cda9414be_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

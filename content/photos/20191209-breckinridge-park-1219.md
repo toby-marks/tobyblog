@@ -5,7 +5,7 @@ description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimage
 location = "Dallas, TX"
 title = "Breckinridge Park 1219"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191209-breckinridge-park-1219_A602D7D7-4278-45C9-8CE3-9F9A6ABAA662_zqk7ec.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191209-breckinridge-park-1219_A602D7D7-4278-45C9-8CE3-9F9A6ABAA662_zqk7ec.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191209-breckinridge-park-1219_A602D7D7-4278-45C9-8CE3-9F9A6ABAA662_zqk7ec.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3) 
 <!--more-->
