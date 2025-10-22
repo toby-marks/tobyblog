@@ -6,7 +6,7 @@ location = "Los Angeles, California"
 camera = "iPhone Xs"
 tags = ["travel"]
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190727-Flight-to-LA-with-Kassi_48359898937_9d2457233b_b.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190727-Flight-to-LA-with-Kassi_48359898937_9d2457233b_b.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190727-Flight-to-LA-with-Kassi_48359898937_9d2457233b_b.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

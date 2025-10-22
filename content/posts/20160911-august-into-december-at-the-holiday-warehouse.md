@@ -3,7 +3,7 @@ title = "August into December at the Holiday Warehouse"
 date = 2016-09-11T13:36:00Z
 categories = ["reviews"]
 tags = ["halloween"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20160911-august-into-december-at-the-holiday-warehouse_29188949732_55bd1cfc2f_o.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20160911-august-into-december-at-the-holiday-warehouse_29188949732_55bd1cfc2f_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 {{< figure class= "wp-caption alignnone" alt="Mr. Pumpkin" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20160911-august-into-december-at-the-holiday-warehouse_29188949732_55bd1cfc2f_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 

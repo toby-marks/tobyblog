@@ -5,7 +5,7 @@ description = "![Backlit Flower](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ
 location = "McKinney, TX"
 camera = "my Sony a7rII"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190323-february-morning-walk_46728345454_058e49101b_o.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190323-february-morning-walk_46728345454_058e49101b_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![Backlit Flower](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190323-february-morning-walk_46728345454_058e49101b_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

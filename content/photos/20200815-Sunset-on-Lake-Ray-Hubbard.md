@@ -5,7 +5,7 @@ description = "![sunset on Lake Ray Hubbard](https://imagedelivery.net/zJmFZzaNu
 location = "Rockwall, TX"
 camera = "iPhone, Nikon Coolpix P1000"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200815-Sunset-on-Lake-Ray-Hubbard_50182509593_e2d91c1b41_o.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200815-Sunset-on-Lake-Ray-Hubbard_50182509593_e2d91c1b41_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![sunset on Lake Ray Hubbard](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200815-Sunset-on-Lake-Ray-Hubbard_50182509593_e2d91c1b41_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

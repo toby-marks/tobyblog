@@ -6,7 +6,7 @@ location = "Plano, TX"
 camera = "my Sony DSC-RX100"
 categories = ["photography"]
 tags = ["halloween"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150727-aisles-of-halloween-at-at-home_IMG_0001.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150727-aisles-of-halloween-at-at-home_IMG_0001.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150727-aisles-of-halloween-at-at-home_IMG_0001.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 

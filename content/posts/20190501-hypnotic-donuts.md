@@ -3,7 +3,7 @@ categories = ["reviews"]
 date = "2019-05-01T18:01:00+00:00"
 description = "The kids and I visit Hypnotic Donuts on a rainy Saturday morning."
 title = "Got the Munchies? Try Hypnotic Donuts."
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190501-hypnotic-donuts_36C549F3-4677-426F-8ECB-3E7C87F986F1.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190501-hypnotic-donuts_36C549F3-4677-426F-8ECB-3E7C87F986F1.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 {{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190501-hypnotic-donuts_36C549F3-4677-426F-8ECB-3E7C87F986F1.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 

@@ -3,7 +3,7 @@ title = "Sfanthor! House of Wax"
 date = 2016-04-15T16:12:00Z
 categories = ["reviews"]
 tags = ["halloween"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20160415-sfanthor-house-of-wax_25950434656_93b18a4748_o.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20160415-sfanthor-house-of-wax_25950434656_93b18a4748_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 {{< figure class= "wp-caption alignnone" alt="Tobyblog and creep" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20160415-sfanthor-house-of-wax_25950434656_93b18a4748_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 

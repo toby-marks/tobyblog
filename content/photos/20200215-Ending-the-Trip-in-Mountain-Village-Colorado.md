@@ -7,7 +7,7 @@ camera = "Sony A7RII, Nikon Coolpix P1000"
 categories = ["photography"]
 tags = ["travel"]
 series = ["2019 Summer Vacation"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200215-Ending-the-Trip-in-Mountain-Village-Colorado_49540098997_d49ce445d6_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200215-Ending-the-Trip-in-Mountain-Village-Colorado_49540098997_d49ce445d6_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200215-Ending-the-Trip-in-Mountain-Village-Colorado_49540098997_d49ce445d6_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

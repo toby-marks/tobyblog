@@ -5,7 +5,7 @@ description = "![A Bird Conversation](https://imagedelivery.net/zJmFZzaNuqCQ5Caq
 location = "Plano, TX"
 camera = "Nikon Coolpix P1000"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200802-Sights-Along-the-Cottonwood-Trail_50163681251_210fc68972_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200802-Sights-Along-the-Cottonwood-Trail_50163681251_210fc68972_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![A Bird Conversation](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200802-Sights-Along-the-Cottonwood-Trail_50163681251_210fc68972_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

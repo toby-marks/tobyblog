@@ -5,7 +5,7 @@ description = "![Lizard 02](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/toby
 location = "Dallas, TX"
 camera = "Nikon Coolpix P1000"
 categories = ["photography"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200528-A-Lizard-out-my-Window_49946842082_c642973c05_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200528-A-Lizard-out-my-Window_49946842082_c642973c05_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![Lizard 02](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200528-A-Lizard-out-my-Window_49946842082_c642973c05_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

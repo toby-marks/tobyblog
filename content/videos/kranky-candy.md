@@ -1,5 +1,5 @@
 +++
-title = "Kranky Coffee"
+title = "Kranky Candy"
 date = 2015-04-27T22:21:00Z
 description = "Brian and I review some wild and tasty chocolate flakes"
 categories = ["reviews"]

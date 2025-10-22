@@ -4,7 +4,7 @@ date = "2020-03-26T23:53:23-05:00"
 description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200326-A-Brief-Respite-from-the-Rain497026545039c0a62cb86k.jpg/fit=scale-down,w=78..."
 location = "Dallas, TX"
 camera = "Nikon Coolpix P1000"
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200326-A-Brief-Respite-from-the-Rain_49702654503_9c0a62cb86_k.jpg"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200326-A-Brief-Respite-from-the-Rain_49702654503_9c0a62cb86_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 categories = ["photography"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200326-A-Brief-Respite-from-the-Rain_49702654503_9c0a62cb86_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
