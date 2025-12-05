@@ -1,7 +1,6 @@
 +++
 title = "The Tobyblog Thanksgiving Special"
-#date = 2015-11-29T14:03:00Z
-date = 2025-11-02T14:03:00Z
+date = 2015-11-29T14:03:00Z
 description = "Golden November, the way we know it and celebrate it."
 tags = ["geocaching"]
 externalurl = "https://www.youtube.com/watch?v=Bbt8Bt_3K-Y"
