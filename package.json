@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@tailwindcss/cli": "^4.1.18",
-    "@thulite/seo": "^2.4.1",
+    "@thulite/seo": "^2.4.3",
     "prettier": "^3.8.1",
     "prettier-plugin-tailwindcss": "^0.7.2",
     "tailwindcss": "^4.1.18",
