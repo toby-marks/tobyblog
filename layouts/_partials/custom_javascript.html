@@ -2,14 +2,48 @@
 <script src="/js/lightbox-plus-jquery.min.js"></script>
 <script src="/js/jquery.swipebox.min.js"></script>
 <script src="/js/jquery.justifiedGallery.min.js"></script>
+<script src="/js/tb-masonry.js"></script>
 
 <script language="javascript">
-  $("#mygallery").justifiedGallery({
-    rowHeight : 150,
-    lastRow : 'justify',
-    rel : "gallery1",
-    margins : 10  
-  }).on('jg.complete', function () {
-    $('.swipebox').swipebox();
-  });
+  (function () {
+    function initTbJustified($el) {
+      if (!$el || !$el.length) return;
+      if ($el.data("tbGalleryInit")) return;
+      $el.data("tbGalleryInit", true);
+
+      var rowHeight = parseInt($el.data("rowHeight") || "150", 10);
+      var margins = parseInt($el.data("margins") || "10", 10);
+      var rel = $el.data("rel") || "gallery1";
+
+      $el.justifiedGallery({
+        rowHeight: rowHeight,
+        lastRow: "justify",
+        rel: rel,
+        margins: margins,
+      }).on("jg.complete", function () {
+        $el.find("a.swipebox").swipebox();
+      });
+    }
+
+    function initTbMasonry(el) {
+      if (!el) return;
+
+      if (window.TB_Masonry && typeof window.TB_Masonry.init === "function") {
+        window.TB_Masonry.init(el);
+      }
+
+      // swipebox is a jQuery plugin; bind for just this gallery
+      $(el).find("a.swipebox").swipebox();
+    }
+
+    // Back-compat: older photo posts use id="mygallery".
+    $("#mygallery").each(function () {
+      initTbJustified($(this));
+    });
+
+    // New galleries use masonry.
+    document.querySelectorAll(".tb-masonry").forEach(function (el) {
+      initTbMasonry(el);
+    });
+  })();
 </script>

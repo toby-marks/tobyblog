@@ -1,0 +1,61 @@
+{{/*
+Shortcode: gallery
+Renders a Behance-like masonry grid (CSS grid + JS sizing) that opens in a swipebox lightbox.
+
+Usage:
+  {{< gallery >}}
+
+Frontmatter expects an array param (default key: "gallery"):
+  [[gallery]]
+  src = "https://..."      # full-size (Cloudflare URL)
+  thumb = "https://..."    # thumbnail (optional)
+  caption = "..."          # optional
+  alt = "..."              # optional
+
+If thumb is omitted and the URL contains a Cloudflare width parameter (w=...), a thumbnail is derived
+by swapping width.
+
+Optional shortcode params:
+  key: param name (default: "gallery")
+*/}}
+
+{{ $key := "gallery" }}
+{{ with .Get "key" }}{{ $key = . }}{{ end }}
+
+{{ $images := index .Page.Params $key }}
+{{ if not $images }}
+  <p>No images found for gallery param <code>{{ $key }}</code>.</p>
+{{ else }}
+  {{ $rel := printf "gallery-%s" .Page.File.ContentBaseName }}
+
+  <div class="tb-masonry" data-rel="{{ $rel }}">
+    {{ range $images }}
+      {{ $src := or .src .url }}
+      {{ if $src }}
+        {{ $caption := or .caption "" }}
+        {{ $alt := or .alt .caption "" }}
+
+        {{/* Prefer explicit thumb, otherwise derive from Cloudflare width. */}}
+        {{ $thumb := or .thumb "" }}
+        {{ if and (not $thumb) (findRE "w=[0-9]+" $src) }}
+          {{ $thumb = replaceRE "w=[0-9]+" "w=900" $src }}
+        {{ end }}
+        {{ if not $thumb }}
+          {{ $thumb = $src }}
+        {{ end }}
+
+        {{/* Prefer a larger lightbox image if this is a Cloudflare width URL. */}}
+        {{ $full := $src }}
+        {{ if findRE "w=[0-9]+" $full }}
+          {{ $full = replaceRE "w=[0-9]+" "w=2200" $full }}
+        {{ end }}
+
+        <a class="tb-masonry__item swipebox" href="{{ $full }}" rel="{{ $rel }}" title="{{ $caption }}" data-caption="{{ $caption }}">
+          <div class="tb-masonry__content">
+            <img src="{{ $thumb }}" alt="{{ $alt }}" loading="lazy" decoding="async" />
+          </div>
+        </a>
+      {{ end }}
+    {{ end }}
+  </div>
+{{ end }}

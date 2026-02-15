@@ -1,0 +1,24 @@
+{{ partialCached "site_header.html" . }}
+{{ partialCached "page_header.html" . }}
+
+<main class="content">
+  <article class="gallery-post">
+    <header class="gallery-header">
+      <h2><a rel="full-article" href="{{ .Permalink }}">{{ .Title }}</a></h2>
+
+      <div class="postmeta">
+        <span>Gallery posted on </span>
+        <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate="">{{ .Date.Format "January 2, 2006" }}</time>
+      </div>
+
+      {{ with .Params.description }}
+        <p class="gallery-description">{{ . }}</p>
+      {{ end }}
+    </header>
+
+    {{ .Content }}
+  </article>
+</main>
+
+{{ partialCached "page_footer.html" . }}
+{{ partialCached "site_footer.html" . }}

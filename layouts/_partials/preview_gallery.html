@@ -1,0 +1,21 @@
+<article class="post gallery-preview">
+  <h2><a rel="full-article" href="{{ .Permalink }}">{{ .Title }}</a></h2>
+
+  <div class="postmeta">
+    Gallery posted on <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate="">{{ .Date.Format "January 2, 2006" }}</time>
+  </div>
+
+  {{ with .Params.images }}
+    {{ with index . 0 }}
+      <a class="gallery-preview__cover" href="{{ $.Permalink }}">
+        <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" decoding="async" />
+      </a>
+    {{ end }}
+  {{ end }}
+
+  {{ with .Params.description }}
+    <p>{{ . }}</p>
+  {{ end }}
+
+  <a class="continue" rel="full-article" href="{{ .Permalink }}">View Gallery »</a>
+</article>

@@ -19,6 +19,10 @@
 		
 		{{ if or (eq .Type "posts") (eq .Type "post") }}
 			{{ partial "preview_post.html" . }}
+		{{ end }}
+
+		{{ if or (eq .Type "galleries") (eq .Type "gallery") }}
+			{{ partial "preview_gallery.html" . }}
 		{{ end }}	
 
 		{{ if or (eq .Type "videos") (eq .Type "video") }}
@@ -40,6 +44,10 @@
 	
 		{{ if or (eq .Type "posts") (eq .Type "post") }}
 			{{ partial "preview_post.html" . }}
+		{{ end }}
+
+		{{ if or (eq .Type "galleries") (eq .Type "gallery") }}
+			{{ partial "preview_gallery.html" . }}
 		{{ end }}
 
 		{{ if or (eq .Type "videos") (eq .Type "video") }}

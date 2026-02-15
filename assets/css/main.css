@@ -276,11 +276,150 @@ article {
   padding: 20px;
 }
 
-article img, div#mygallery {
+article img, div#mygallery, div.tb-gallery, div.tb-masonry {
   margin-left: -20px;
   margin-right: -20px;
   width: calc(100% + 40px);
   max-width: calc(100% + 40px);
+}
+
+/* ====== GALLERIES (new content type) ====== */
+article.gallery-post {
+  /* deliberately a different vibe than normal posts */
+  @apply mt-5 mb-5;
+  @apply bg-black/60 backdrop-blur-sm;
+  @apply outline-3 outline-offset-1 outline-solid outline-warm-parchment-haze rounded-2xl;
+  overflow: hidden;
+  max-width: 1100px;
+  margin-inline: auto;
+  padding: 20px;
+}
+
+article.gallery-post .gallery-header {
+  @apply text-center;
+}
+
+article.gallery-post .gallery-description {
+  @apply text-warm-gray text-lg/6 mt-4 mb-6;
+}
+
+/* ====== Behance-like masonry grid (new) ====== */
+.tb-masonry {
+  margin-top: 14px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  grid-auto-rows: 10px; /* masonry sizing unit; JS computes spans */
+  gap: 10px;
+}
+
+.tb-masonry__item {
+  display: block;
+  position: relative;
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+/* Undo the global full-bleed image rule for masonry thumbs */
+.tb-masonry img {
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.tb-masonry__content {
+  /* gives us a stable element to measure for row-span */
+  display: block;
+}
+
+.tb-masonry__item img {
+  transition: transform 220ms ease, filter 220ms ease;
+  transform: scale(1);
+  filter: saturate(1) contrast(1.02);
+}
+
+.tb-masonry__item:hover img {
+  transform: scale(1.03);
+  filter: saturate(1.06) contrast(1.06);
+}
+
+/* Caption overlay (desktop hover; uses data-caption) */
+.tb-masonry__item::after {
+  content: attr(data-caption);
+  position: absolute;
+  inset: auto 0 0 0;
+  padding: 10px 12px;
+  font-family: var(--font-meta);
+  font-size: 0.75rem;
+  line-height: 1.1;
+  color: rgba(245, 233, 213, 0.95);
+  background: linear-gradient(to top, rgba(0,0,0,0.85), rgba(0,0,0,0));
+  opacity: 0;
+  transition: opacity 180ms ease;
+  pointer-events: none;
+}
+
+.tb-masonry__item:hover::after {
+  opacity: 1;
+}
+
+/* ====== Justified gallery (legacy/back-compat) ====== */
+.tb-gallery {
+  margin-top: 12px;
+}
+
+.tb-gallery img {
+  margin-left: 0;
+  margin-right: 0;
+  width: auto;
+  max-width: none;
+  border-radius: 14px;
+}
+
+.tb-gallery a {
+  position: relative;
+  overflow: hidden;
+  border-radius: 14px;
+}
+
+.tb-gallery a img {
+  transition: transform 220ms ease, filter 220ms ease;
+  transform: scale(1);
+  filter: saturate(1) contrast(1.02);
+}
+
+.tb-gallery a:hover img {
+  transform: scale(1.03);
+  filter: saturate(1.05) contrast(1.05);
+}
+
+.tb-gallery a::after {
+  content: attr(data-caption);
+  position: absolute;
+  inset: auto 0 0 0;
+  padding: 10px 12px;
+  font-family: var(--font-meta);
+  font-size: 0.75rem;
+  line-height: 1.1;
+  color: rgba(245, 233, 213, 0.95);
+  background: linear-gradient(to top, rgba(0,0,0,0.85), rgba(0,0,0,0));
+  opacity: 0;
+  transition: opacity 180ms ease;
+  pointer-events: none;
+}
+
+.tb-gallery a:hover::after {
+  opacity: 1;
+}
+
+.gallery-preview__cover img {
+  margin-left: -20px;
+  margin-right: -20px;
+  width: calc(100% + 40px);
+  max-width: calc(100% + 40px);
+  border-radius: 0;
 }
 
 .micropost {
@@ -414,6 +553,17 @@ div#search {
 
 @media screen
 and (max-width: 780px) {
+
+  /* Galleries: single-column portfolio layout on mobile */
+  .tb-masonry {
+    grid-template-columns: 1fr;
+    gap: 18px;
+  }
+
+  /* Captions only in lightbox on mobile */
+  .tb-masonry__item::after {
+    content: none;
+  }
 
   nav ul {
     margin: 10px 0 10px 0;
