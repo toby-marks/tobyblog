@@ -4,6 +4,7 @@ description = "A curated collection of some of my favorite photos from 2025."
 date = "2026-01-14T16:04:08-06:00"
 aliases = ["/posts/the-year-in-pictures-2025/"]
 categories = ["photography"]
+draft = true
 
 # Used for preview cards / social sharing
 images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/a238408d-bb77-4964-2b3f-fb91f3bc5a00/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
