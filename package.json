@@ -14,7 +14,7 @@
     "clean:install": "shx rm -rf node_modules package-lock.json yarn.lock pnpm-lock.yaml && npm install"
   },
   "dependencies": {
-    "@tailwindcss/cli": "^4.1.18",
+    "@tailwindcss/cli": "^4.2.1",
     "@thulite/seo": "^2.4.3",
     "prettier": "^3.8.1",
     "prettier-plugin-tailwindcss": "^0.7.2",
