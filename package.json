@@ -19,7 +19,7 @@
     "prettier": "^3.8.1",
     "prettier-plugin-tailwindcss": "^0.7.2",
     "tailwindcss": "^4.2.1",
-    "thulite": "^2.6.4"
+    "thulite": "^2.6.5"
   },
   "devDependencies": {
     "prettier": "^3.8.1",
