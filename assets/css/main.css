@@ -52,7 +52,7 @@
   --color-deep-goldenrod-600: oklch(0.744 0.129 88.5);
   --color-deep-goldenrod-700: oklch(0.812 0.141 88.5);
   --color-deep-goldenrod-800: oklch(0.881 0.131 88.5);
-  --color-deep-goldenrod-800-trans: oklch(0.881 0.131 88.5 / 15%);
+  --color-deep-goldenrod-800-trans: rgba(232, 190, 73, 0.15);
   --color-deep-goldenrod-900: oklch(0.950 0.054 88.5);
 
   --color-warm-gray: var(--color-pumpkin-900); /* for post text */
@@ -78,7 +78,7 @@
   --color-warm-parchment-haze: rgba(245, 233, 213, 0.1); /* for quoted text background */
   --color-subdued-copper: #8B6B4A; /* for micropost meta */
   --color-burnt-orange: #CF5A2A; /* accent bar */
-  --color-transparent-pumpkin: oklch(0.693 0.172 51.0 / 0.1);
+  --color-transparent-pumpkin: rgba(224, 112, 26, 0.1);
   
   /* The Tobyblog Rainbow */
   --color-custom1: oklch(0.693 0.172 11.0);  /* pink */
@@ -423,7 +423,7 @@ article.gallery-post .gallery-description {
 }
 
 .micropost {
-  @apply bg-(--color-pumpkin-300-disqus);
+  background: var(--color-pumpkin-300-disqus);
   padding: 15px 20px;
   @apply border-l-4 border-solid border-burnt-orange;
   @apply font-body;
@@ -433,7 +433,7 @@ article.gallery-post .gallery-description {
 }
 
 .micropost > p {
-  @apply text-(--color-warm-gray-900-disqus);
+  color: var(--color-warm-gray-900-disqus);
 }
 
 .micropost h3 {
