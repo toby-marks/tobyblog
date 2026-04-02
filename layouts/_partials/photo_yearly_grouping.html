@@ -11,7 +11,16 @@
 
   <article class="post-groups">
     <div class="post-group">
-    {{ range .Pages.GroupByDate "2006" }}
+    {{ $galleries := where .Site.RegularPages "Section" "galleries" }}
+    {{ $combined := slice }}
+    {{ range .Pages }}
+      {{ $combined = $combined | append . }}
+    {{ end }}
+    {{ range $galleries }}
+      {{ $combined = $combined | append . }}
+    {{ end }}
+    {{ $sorted := sort $combined "Date" "desc" }}
+    {{ range $sorted.GroupByDate "2006" }}
       <div class="post-group-item">
         <h3>{{ .Key }}</h3>
         <ul>

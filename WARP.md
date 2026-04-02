@@ -57,13 +57,16 @@ python3 check_broken_images.py
 ## Architecture & Key Concepts
 
 ### Content Organization
-The site has four main content types, each with distinct layouts and presentation:
+The site has five main content types, each with distinct layouts and presentation:
 - **posts/**: Long-form blog posts with categories and tags
 - **microposts/**: Short-form content (Twitter-like)
 - **photos/**: Photo blog entries with location/camera metadata
+- **galleries/**: Multi-photo gallery posts with thumbnail grids
 - **videos/**: Video content
 
 Each content type has a corresponding archetype in `archetypes/` that defines its frontmatter template.
+
+**Important:** The "Photos" navigation link shows BOTH photos and galleries content together. This is achieved via a custom partial `layouts/_partials/photo_yearly_grouping.html` that combines both sections and groups them by year. If you need to modify what appears on the Photos page, edit this partial, not the section list template.
 
 ### Frontmatter Patterns
 **Posts** use TOML frontmatter (`+++` delimiters):
@@ -90,6 +93,19 @@ images = ["url-to-featured-image"]
 ```toml
 title = "Title"
 date = "2024-01-01T00:00:00-05:00"
+```
+
+**Galleries** use TOML with `[[gallery]]` arrays:
+```toml
+title = "Gallery Title"
+date = "2024-01-01"
+categories = ["photography"]
+images = ["featured-image-url"]
+
+[[gallery]]
+src = "full-size-image-url"
+thumb = "thumbnail-url"
+caption = "Photo caption"
 ```
 
 ### Theme Architecture
@@ -158,6 +174,17 @@ This activates a virtualenv at `~/Projects/blog-photos/.venv` and runs `upload_p
 - Custom partials go in `layouts/_partials/`
 - Section-specific templates go in `layouts/section/`
 - The site uses `home.html` for the homepage layout
+
+#### Template Rendering Notes
+- **Photos section** uses a special yearly grouping layout via `photo_yearly_grouping.html` partial
+- This partial combines both `photos/` and `galleries/` content sections
+- The homepage uses `preview_list.html` to render different content types with their respective preview partials:
+  - `preview_photo_post.html` for photos
+  - `preview_gallery.html` for galleries
+  - `preview_post.html` for posts
+  - `preview_micropost.html` for microposts
+  - `preview_video.html` for videos
+- When debugging section pages, find which partial is actually being called by checking the section's list.html or the default list template
 
 ### When Working with Styles
 - Edit `assets/css/main.css` for Tailwind customizations

@@ -7,9 +7,9 @@
 
   {{ with .Params.images }}
     {{ with index . 0 }}
-      <a class="gallery-preview__cover" href="{{ $.Permalink }}">
+      <p><a class="gallery-preview__cover" href="{{ $.Permalink }}">
         <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" decoding="async" />
-      </a>
+      </a></p>
     {{ end }}
   {{ end }}
 
