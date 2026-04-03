@@ -2,6 +2,7 @@ title = "~ The Tobyblog 📝"
 baseurl = "https://tobyblog.com/"
 relativeUrls = false
 canonifyUrls = false
+uglyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
 # disableKinds = ["taxonomy", "term"]

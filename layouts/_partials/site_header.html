@@ -10,7 +10,14 @@
     {{ $siteTitle := .Site.Title }} {{ $title := $siteTitle }}{{ if .IsPage }}{{ $title = .Page.Title }}{{ end }}
     {{ hugo.Generator }}
     {{ $.Store.Add "title" .Site.Title }}
-    <title>{{ with .Title }}{{ if ne . ($.Store.Get "title") }}{{ . }} &middot; {{ end }}{{ end }}@{{ .Site.Params.Author.handle }}’s {{ .Site.Title }}</title>
+    <title>{{ with .Title }}{{ if ne . ($.Store.Get "title") }}{{ . }} &middot; {{ end }}{{ end }}@{{ .Site.Params.Author.handle }}'s {{ .Site.Title }}</title>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="{{ relURL "/favicon.ico" }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ relURL "/favicon-32x32.png" }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ relURL "/favicon-16x16.png" }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ relURL "/apple-touch-icon.png" }}">
+    <link rel="manifest" href="{{ relURL "/site.webmanifest" }}">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
