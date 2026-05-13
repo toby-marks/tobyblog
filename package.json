@@ -14,16 +14,16 @@
     "clean:install": "shx rm -rf node_modules package-lock.json yarn.lock pnpm-lock.yaml && npm install"
   },
   "dependencies": {
-    "@tailwindcss/cli": "^4.2.3",
+    "@tailwindcss/cli": "^4.3.0",
     "@thulite/seo": "^2.4.3",
     "prettier": "^3.8.3",
-    "prettier-plugin-tailwindcss": "^0.7.2",
+    "prettier-plugin-tailwindcss": "^0.8.0",
     "tailwindcss": "^4.2.3",
     "thulite": "^2.6.5"
   },
   "devDependencies": {
     "prettier": "^3.8.1",
-    "vite": "^8.0.9"
+    "vite": "^8.0.12"
   },
   "engines": {
     "node": ">=20.11.0"
