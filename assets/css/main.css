@@ -3,7 +3,7 @@
 
 @theme {
   --font-heading: "Chicle", sans-serif;
-  --font-body: "Nanum Myeongjo", serif;
+  --font-body: "Lora", serif;
   --font-meta: "American Typewriter", serif;
   --font-table: "Roboto", sans-serif;
   
@@ -55,7 +55,7 @@
   --color-deep-goldenrod-800-trans: oklch(0.881 0.131 88.5 / 15%);
   --color-deep-goldenrod-900: oklch(0.950 0.054 88.5);
 
-  --color-warm-gray: var(--color-pumpkin-900); /* for post text */
+  --color-warm-gray: var(--color-warm-gray-800); /* for post text */
   --color-pumpkin: var(--color-pumpkin-600); /* for headings */
   
   /*------------------------------------------------------------------------*/
@@ -184,16 +184,25 @@ main.content article:first-child {
 }
 
 
-article.post, article.micropost, article.photo, article.video, article.post-groups {
+article.post, article.micropost, article.photo, article.video, article.gallery-post, article.post-groups {
   @apply mt-5 mb-5;
 }
 
-article.post, article.page, article.video, .post-groups {
+article.post, article.page, article.video, article.gallery-post, .post-groups {
   @apply bg-warm-brown;
 }
 
-.post > p, .page > p, .video > p {
+.post > p, .page > p, .video > p, .gallery-post > p {
   @apply text-left text-lg/6 text-warm-gray mt-4 mb-4;
+}
+
+.gallery-post > p {
+  max-width: 60ch;
+  @apply ml-auto mr-auto;
+}
+.gallery-description {
+  max-width: 60ch;
+  @apply italic ml-auto mr-auto;
 }
 
 /* Caption alignment with site’s copper tone */
@@ -585,7 +594,7 @@ and (max-width: 780px) {
     border-top: none;
   }
   
-  .post {
+  .post, .gallery-post {
     margin: 20px auto 20px auto;
   }
 
