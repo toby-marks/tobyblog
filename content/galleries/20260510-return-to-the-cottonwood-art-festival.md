@@ -308,7 +308,7 @@ And to be honest I almost strictly mean _browse_, as we are by no means what you
 
 Who knows? Maybe this year will be the year.
 
-And that's another thing I find really cool about this festival — many of the artists are very happy to converse with you about their work and lives. You meet many interesting and talented folks. Some of whom are quite well known and exhibited widely, like (Marlene Rose)[https://marlenerose.com/].
+And that's another thing I find really cool about this festival — many of the artists are very happy to converse with you about their work and lives. You meet many interesting and talented folks. Some of whom are quite well known and exhibited widely, like [Marlene Rose](https://marlenerose.com/).
 
 {{< figure 
         alt = "" 
@@ -333,7 +333,7 @@ When I say you meet some interesting characters at the festival he would be a st
 
 {{< figure 
         alt = "" 
-        caption = "Augie's still got the knack for cubing"
+        caption = "Still got it"
         src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/26-05-02493/fit=scale-down,w=1600,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
 And if that wasn't a great enough way to end things, on the way out we stumbled on the booth of of [Brandon O'Neill](https://www.instagram.com/puzzle_palette/), a local artist who specializes in what I'd describe as 2D pixel art sculpture made entirely of out puzzle cubes. He had a few cubes on display of various dimension, so I told him that my son used to solve these things as a hobby when he was younger. Augie asked if he could have a go at the 5x5, and the guy told him encouraged him to. He had never seen a rando solve one in the wild before, so it was a real treat for him. He had to step in at one point, Augie having forgotten the old solving algorithms from years back, but together they were able to make the solve. I think we made each other's day. 
