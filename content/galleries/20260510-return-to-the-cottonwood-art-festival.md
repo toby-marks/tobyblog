@@ -290,7 +290,7 @@ caption = "Photo 56"
 +++
 {{< figure 
         alt = "" 
-        caption = "Entering the Festival"
+        caption = "Alla Tsank art"
         src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/26-05-02476/fit=scale-down,w=1600,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
 It's been seven years [since I last blogged]({{< ref "posts/cottonwood-art-fest-2019.md" >}}) about the [Cottonwood Art Festival](https://cottonwoodartfestival.com/). We've been back several times since then, sometimes with the kids (now much older) and sometimes just Kassi and I, and sometimes, like this year, just me and one of the older kids. But I never bothered writing any more about it, not being much of a consistent blogger and all. And to be honest, some years at the festival have been better than others. The event is put on twice a year in spring and autumn, with several artists being regular attendees, so you can tend to see a lot of the same stuff, but for the most part they keep up a very lively and healthy roster. You have to qualify before a panel of judges to be allowed to exhibit, so the standard of quality is higher than average. Kassi tells me we've never actually been to the fall show, though I don't know how in all these years we've never managed it. 
