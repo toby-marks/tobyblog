@@ -1,43 +1,19 @@
 +++
-title = "America 250 Project: Presidential Library Shops"
-description = "A working field guide to the presidential libraries, their websites, and their online museum stores."
-date = "2026-05-08T17:10:22-05:00"
-categories = ["history"]
-tags = ["america-250", "history", "shopping", "travel"]
+title = "Tobyblog 🇺🇸 250: Presidential Library Online Merch"
+description = "Wherein I rate and rank all of the Presidential Library online merch stores"
+date = "2026-06-02T17:10:22-05:00"
+categories = ["History"]
 draft = true
 +++
 
-I'm starting a little America 250 side project: a tour through the Presidential Library system, with a special eye toward the online gift shops. This is not the ranking yet. It is the scouting report — one place to keep the official library links, the store links, a few first impressions, and a map for each stop.
+Twelve score and half a score ago, our forefathers founded this great nation of ours as a land of liberty, justice, freedom, and the American Way. Their descendants, also our forefathers, would go on to make this nation great. At some point, they say, we lost that greatness. But thankfully, we've found it again and the times could not be happier or more confident. 
 
-I wanted a post that would let me size up the whole field before I start handing out praise, penalties, and imaginary medals.
+So much so, in fact, that it might be reasonable to commemorate this momentous year with the purchase of some swag from the Presidential Library gift shop of the man (sorry, Hillary) you most credit for America's return to greatness. Shockingly, more than one of them have attempted to take credit.
 <!--more-->
 
-A few caveats before the shopping begins:
+Here, in this Tobyblog exclusive, are my rankings and ratings of the Presidential Library online merch stores.
 
-- The National Archives currently administers 16 presidential libraries, from Herbert Hoover through Joseph R. Biden Jr.
-- Not every entry looks like the old-fashioned library-and-museum campus anymore. The Obama library is digital, and the Obama Presidential Center shop is a separate operation. The Trump and Biden libraries have official NARA sites, but I have not found public museum stores tied to them yet.
-- Gerald Ford remains the odd split-site case: the library is in Ann Arbor, while the museum most people visit is in Grand Rapids.
-
-## Master list
-
-1. Herbert Hoover Presidential Library and Museum — [library](https://hoover.archives.gov/) / [store](https://estore.archives.gov/hoover/)
-2. Franklin D. Roosevelt Presidential Library and Museum — [library](https://www.fdrlibrary.org/) / [store](https://estore.archives.gov/roosevelt/)
-3. Harry S. Truman Presidential Library and Museum — [library](https://www.trumanlibrary.gov/) / [store](https://estore.archives.gov/truman/)
-4. Dwight D. Eisenhower Presidential Library and Museum — [library](https://www.eisenhowerlibrary.gov/) / [store](https://estore.archives.gov/eisenhower/)
-5. John F. Kennedy Presidential Library and Museum — [library](https://www.jfklibrary.org/) / [store](https://store.jfklibrary.org/)
-6. Lyndon B. Johnson Presidential Library and Museum — [library](https://www.lbjlibrary.org/) / [store](https://www.lbjstore.com/home/home/)
-7. Richard Nixon Presidential Library and Museum — [library](https://www.nixonlibrary.gov/) / [store](https://nixon.myshopify.com/)
-8. Gerald R. Ford Library and Museum — [library](https://www.fordlibrarymuseum.gov/) / [store](https://estore.archives.gov/ford/)
-9. Jimmy Carter Presidential Library and Museum — [library](https://www.jimmycarterlibrary.gov/) / [store](https://estore.archives.gov/carter/)
-10. Ronald Reagan Presidential Library and Museum — [library](https://www.reaganlibrary.gov/) / [store](https://www.reaganfoundation.org/store/)
-11. George H. W. Bush Presidential Library and Museum — [library](https://www.bush41.org/) / [store](https://museumstore.com/)
-12. William J. Clinton Presidential Library and Museum — [library](https://www.clintonlibrary.gov/) / [store](https://www.clintonmuseumstore.org/custom/home-)
-13. George W. Bush Presidential Library — [library](https://www.georgewbushlibrary.gov/) / [store](https://shop.bushcenter.org/)
-14. Barack Obama Presidential Library — [library](https://www.obamalibrary.gov/) / [related shop](https://shop.obama.org/collections/shop-all)
-15. Donald J. Trump Presidential Library — [library](https://www.trumplibrary.gov/) / no public museum store found
-16. Joseph R. Biden Jr. Presidential Library — [library](https://www.bidenlibrary.gov/) / no public museum store found
-
-## Herbert Hoover Presidential Library and Museum
+### Herbert Hoover Presidential Library and Museum
 
 - **Library:** [hoover.archives.gov](https://hoover.archives.gov/)
 - **Store:** [Herbert Hoover Presidential Library and Museum store](https://estore.archives.gov/hoover/)
