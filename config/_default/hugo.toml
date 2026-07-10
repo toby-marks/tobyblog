@@ -48,10 +48,16 @@ copyRight = "Copyright (c) 2013-2025 Toby Marks"
 [imaging]
   anchor = "Center"
   bgColor = "#ffffff"
-  hint = "photo"
-  quality = 85
 #   resampleFilter = "Lanczos"
   resampleFilter = "MitchellNetravali"
+  [imaging.avif]
+    hint = "photo"
+    quality = 85
+  [imaging.jpeg]
+    quality = 85
+  [imaging.webp]
+    hint = "photo"
+    quality = 85
 
 [pagination]
 pagerSize = 5
