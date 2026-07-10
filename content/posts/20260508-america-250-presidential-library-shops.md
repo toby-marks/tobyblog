@@ -6,14 +6,17 @@ categories = ["History"]
 draft = true
 +++
 
-Twelve score and half a score ago, our forefathers founded this great nation of ours as a land of liberty, justice, freedom, and the American Way. Their descendants, also our forefathers, would go on to make this nation great. At some point, they say, we lost that greatness. But thankfully, we've found it again and the times could not be happier or more confident. 
+Twelve score and half a score ago, our forefathers founded this great nation of ours as a land of liberty, justice, freedom, and the American Way. Their descendants, also our forefathers, would go on to make this nation great. At some point, they say, we lost that greatness. But thankfully, we've found it again and the times could not be happier or more confident.
 
 So much so, in fact, that it might be reasonable to commemorate this momentous year with the purchase of some swag from the Presidential Library gift shop of the man (sorry, Hillary) you most credit for America's return to greatness. Shockingly, more than one of them have attempted to take credit.
 <!--more-->
 
 Here, in this Tobyblog exclusive, are my rankings and ratings of the Presidential Library online merch stores.
+Each entry below includes the official library site, the best store or shop link I could identify, a representative library image, a representative merch image, and a map for anyone tempted to make the pilgrimage.
 
-### Herbert Hoover Presidential Library and Museum
+For Obama, Trump, and Biden, the comparison gets a little messier because the current official library situation does not always line up with a traditional public museum store. I have noted those cases where they arise.
+
+## Herbert Hoover Presidential Library and Museum
 
 - **Library:** [hoover.archives.gov](https://hoover.archives.gov/)
 - **Store:** [Herbert Hoover Presidential Library and Museum store](https://estore.archives.gov/hoover/)
