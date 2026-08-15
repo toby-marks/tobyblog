@@ -3,7 +3,7 @@ title = "🇺🇸 Presidential Library Online Merch Shops"
 description = "Wherein I rate and rank all of the Presidential Library online merch stores"
 date = "2026-08-15T00:00:00-05:00"
 categories = ["History"]
-draft = false
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20260508-america-250-presidential-library-shops_19-clinton-library.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 
 As a special bonus treat from the blog for America's 250th, allow me to rank and rate for you all of the presidential library online merch shops.
