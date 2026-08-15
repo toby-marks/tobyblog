@@ -1,17 +1,14 @@
 +++
 title = "🇺🇸 Presidential Library Online Merch Shops"
 description = "Wherein I rate and rank all of the Presidential Library online merch stores"
-date = "2026-07-12T00:00:00-05:00"
+date = "2026-08-15T00:00:00-05:00"
 categories = ["History"]
-draft = true
+draft = false
 +++
 
 As a special bonus treat from the blog for America's 250th, allow me to rank and rate for you all of the presidential library online merch shops.
-<!--more-->
 
-Here they are, ranked lowest to highest. (Trump's and Biden's stores are not yet online.)
-
-<hr>
+Here they are, in order of term of office, starting with Mr. Self-Reliance.
 
 ### [Herbert Hoover Presidential Library and Museum](https://hoover.archives.gov/)
 
@@ -19,9 +16,9 @@ Here they are, ranked lowest to highest. (Trump's and Biden's stores are not yet
 > 
 > — Archie Bunker
 
-![Interior shot of the Hoover Presidential Library](https://images.squarespace-cdn.com/content/v1/5c622e1bfb18207f43895b9a/8d2e57d3-3740-40c1-8582-28deb29574e8/IMG_0929.jpeg)
+![Interior shot of the Hoover Presidential Library](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20260508-america-250-presidential-library-shops_01-hoover-library.webp/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-**Where is it?**
+**Where it's at:**
 
 <iframe width="100%" height="320" style="border:0;" loading="lazy" allowfullscreen src="https://maps.google.com/maps?q=210+Parkside+Drive,+West+Branch,+IA+52358&output=embed"></iframe>
 
@@ -31,17 +28,18 @@ Here they are, ranked lowest to highest. (Trump's and Biden's stores are not yet
 
 **Best merch:** I feel like I'm probably old enough now to get away with wearing this [pork pie straw hat](https://estore.archives.gov/hoover/product/hat-straw-braided-pork-pie).
 
-[![Hat- Straw Braided Pork Pie](https://estore.archives.gov/hoover/images/products/apparel/H3111%20Pork%20Pie%20Hat%20.jpg)](https://estore.archives.gov/hoover/product/hat-straw-braided-pork-pie)
+[![Hat- Straw Braided Pork Pie](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20260508-america-250-presidential-library-shops_02-hoover-pork-pie-hat.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)](https://estore.archives.gov/hoover/product/hat-straw-braided-pork-pie)
 
 **Final Impression and rating:**  Bland as white bread, but earns points for authenticity and unashamed regional appeal. Fishing gear for sale. — **C+**
+<!--more-->
 
 <hr>
 
 ### [Franklin D. Roosevelt Presidential Library and Museum](https://www.fdrlibrary.org/)
 
-![The FDR Library Museum](https://static01.nyt.com/images/2023/08/03/multimedia/01FDR-museum1-gbfc/01FDR-museum1-gbfc-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+![The FDR Library Museum](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20260508-america-250-presidential-library-shops_03-fdr-museum.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-**Where is it?**
+**Where it's at:**
 
 <iframe width="100%" height="320" style="border:0;" loading="lazy" allowfullscreen src="https://maps.google.com/maps?q=4079+Albany+Post+Road,+Hyde+Park,+NY+12538&output=embed"></iframe>
 
@@ -51,7 +49,7 @@ Here they are, ranked lowest to highest. (Trump's and Biden's stores are not yet
 
 **Best merch:** Why not go home with a [bust of Eleanor Roosevelt](https://estore.archives.gov/roosevelt/product/eleanor-roosevelt-8-bust), won't you?
 
-[![A Bust of Eleanor Roosevelt](https://estore.archives.gov/roosevelt/images/products/Sculpture/L.FDR02005b.jpg)](https://estore.archives.gov/roosevelt/product/eleanor-roosevelt-8-bust)
+[![A Bust of Eleanor Roosevelt](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20260508-america-250-presidential-library-shops_04-fdr-eleanor-bust.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)](https://estore.archives.gov/roosevelt/product/eleanor-roosevelt-8-bust)
 
 **Final Impression and Rating**: Quite a lot to see, but almost more of a "life and times of FDR" experience than about the man himself, who was America's longest serving president, after all. — **C-** 
 
@@ -61,11 +59,11 @@ Here they are, ranked lowest to highest. (Trump's and Biden's stores are not yet
 
 Your bucks stop here! 
 
-That's not the actual slogan, I just thought of that. Just now.
+That's not the actual slogan of the gift shop, but it should be. I thought of that, just now.
 
-{{< figure alt="The Harry Truman Library Museum" src="https://i0.wp.com/diningduster.com/wp-content/uploads/2025/01/exterior-wide.jpg" caption="I'm sorry, why does that Truman statue look like a grandpa who just told you to pull his finger?" >}}
+{{< figure alt="The Harry Truman Library Museum" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20260508-america-250-presidential-library-shops_05-truman-library.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" caption="I'm sorry, why does that Truman statue look like a grandpa who just told you to pull his finger?" >}}
 
-**Where is it?**
+**Where it's at:**
 
 <iframe width="100%" height="320" style="border:0;" loading="lazy" allowfullscreen src="https://maps.google.com/maps?q=500+W.+U.S.+Hwy+24,+Independence,+MO+64050&output=embed"></iframe>
 
@@ -75,7 +73,7 @@ That's not the actual slogan, I just thought of that. Just now.
 
 **Best merch:** I mean, there's other stuff there, but what the hell else are you gonna walk away with other than this official replica of the [famous little sign](https://estore.archives.gov/truman/product/the-buck-stops-here-desk-sign-w-gift-box) Truman kept on his desk.
 
-[![Presidential Signature Scarf](https://estore.archives.gov/truman/images/products/L_T04080.jpg)](https://estore.archives.gov/truman/product/the-buck-stops-here-desk-sign-w-gift-box)
+[![Presidential Signature Scarf](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20260508-america-250-presidential-library-shops_06-truman-product.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)](https://estore.archives.gov/truman/product/the-buck-stops-here-desk-sign-w-gift-box)
 
 **Final Impression and Rating**: Boring, but trying. C+
 
@@ -95,9 +93,9 @@ America's forgotten Republican president.
 
 **First Impression:** I gotta say, you'd really think there'd be more to it. Not really a lot to see here.
 
-**Most Eisenhower-y merch:** This [golf ball](https://estore.archives.gov/eisenhower/product/eisenhower-golf-ball) seems to sum up a storied era of golden age Americana.
+**Best merch:** This [golf ball](https://estore.archives.gov/eisenhower/product/eisenhower-golf-ball) seems to sum up a storied era of golden age Americana.
 
-![Eisenhower golf ball](https://estore.archives.gov/eisenhower/images/products/E9098_largeA.jpg)
+![Eisenhower golf ball](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20260508-america-250-presidential-library-shops_07-eisenhower-golf-ball.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
 **Final Impression and Rating**: Underwhelming. D
 
@@ -115,9 +113,9 @@ America's forgotten Republican president.
 
 **First Impression:** The first really modern presidential library merch shop with a huge assortment of stuff you'd actually walk away with. Stylish as hell, or at least trying to be.
 
-**Most JFK-y merch:** You will be pulling all the Marilyns wearing these absolutely sick [Saratoga sunglasses](https://store.jfklibrary.org/products/jfk-saratoga-sunglasses-polarized).
+**Best merch:** You will be pulling all the Marilyns wearing these absolutely sick [Saratoga sunglasses](https://store.jfklibrary.org/products/jfk-saratoga-sunglasses-polarized).
 
-![JFK polarized Saratoga sunglasses](https://store.jfklibrary.org/cdn/shop/files/SUNGLASSES-1_8987f8c4-91f1-4d2a-8c0a-ae9d2df4e8c2.jpg)
+![JFK polarized Saratoga sunglasses](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20260508-america-250-presidential-library-shops_08-jfk-sunglasses.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
 **Final Impression and Rating**: Deep shop with character and appeal. JFK one of the most popular American presidents of all time, and this shop knows it. **A**
 
@@ -127,7 +125,7 @@ America's forgotten Republican president.
 
 I know we're not here to review presidential library architecture, but long before Obama's Tower of Darkness there was this monstrosity in the heart of the Texas hill country.
 
-![Lyndon B. Johnson Presidential Library and Museum exterior](https://lbj-new-assets.s3.amazonaws.com/styles/feature_block_image/s3/heroes/2024-04/lbj-library-center-carousel.jpg)
+![Lyndon B. Johnson Presidential Library and Museum exterior](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20260508-america-250-presidential-library-shops_09-lbj-library.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
 **Library:** [lbjlibrary.org](https://www.lbjlibrary.org/)
 
@@ -139,9 +137,9 @@ I know we're not here to review presidential library architecture, but long befo
 
 **First Impressions:** Shot glasses are the first thing you see. 
 
-**Most Johnson-y merch:** If they knew what they were doing they could have sold so many pairs of [Docker slacks](https://www.youtube.com/watch?v=nR_myjOr0OU), but that would have sadly overshadowed this t-shirt commemorating the greatest First Lady initiative of all time, Ladybird Johson's [promotion of wildflowers](https://www.lbjstore.com/where-flowers-bloom-tshirt.html).
+**Best merch:** If they knew what they were doing they could have sold so many pairs of [Docker slacks](https://www.youtube.com/watch?v=nR_myjOr0OU), but that would have sadly overshadowed this t-shirt commemorating the greatest First Lady initiative of all time, Ladybird Johson's [promotion of wildflowers](https://www.lbjstore.com/where-flowers-bloom-tshirt.html).
 
-![Ladybird Johnson wildflower t-shirt](https://cdn.shoplightspeed.com/shops/640947/files/74397007/1024x1024x2/lady-bird-johnson-where-flowers-bloom-tshirt.jpg)
+![Ladybird Johnson wildflower t-shirt](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20260508-america-250-presidential-library-shops_10-lbj-wildflower-tshirt.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
 **Final Impression and Rating**: Quite a wide selection of stuff, from vinyl records to ball point pens to memorabilia from other campaigns. You can actually buy John McCain merchandise from the LBJ store. Weird. **B**
 
@@ -159,11 +157,11 @@ I know we're not here to review presidential library architecture, but long befo
 
 - **First Impressions:** Shockingly modern and well-designed website. The store has actual nice looking clothes and worthwhile memorabilia. You want a "Pretty girls for Nixon" [totebag](https://store.nixonfoundation.org/products/pretty-girls-for-nixon-tote)? How about an Elvis meets Nixon [Christmas tree ornament](https://store.nixonfoundation.org/collections/featured/products/nixon-elvis-ornament)? Not for you? Well then I bet [this book](https://store.nixonfoundation.org/collections/featured/products/the-nixon-conspiracy) all about how Watergate was a sham and deep state conspiracy to overthrow an elected president might interest you. (*\*Yeah, this is now an established fact.*)
 
-- **Most Nixon-y merch:** This really [sick can of mints](https://store.nixonfoundation.org/products/library-seal-mints?pr_prod_strat=e5_desc&pr_rec_id=c5eafeb5e&pr_rec_pid=8682249289960&pr_ref_pid=8346369982696&pr_seq=uniform) with the golden accents looks like it might have been ripped off of Trump's desk.
+- **Best merch:** This really [sick can of mints](https://store.nixonfoundation.org/products/library-seal-mints?pr_prod_strat=e5_desc&pr_rec_id=c5eafeb5e&pr_rec_pid=8682249289960&pr_ref_pid=8346369982696&pr_seq=uniform) with the golden accents looks like it might have been ripped off of Trump's desk.
 
-![a can of mints from the Nixon Presidential Library](https://store.nixonfoundation.org/cdn/shop/files/OnlineStoreImages_25_d09877ed-f82b-4647-9019-73aa5b163d48.png?v=1731974949&width=1200)
+![a can of mints from the Nixon Presidential Library](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20260508-america-250-presidential-library-shops_11-nixon-mints.png/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-**Final Impression and Rating**: Top-tier online store with a small but modern and nicely balanced set of merchandise that cuts out all the miscellaneous crap (porcelain dishware?) featured by lesser stores and, like Nixon himself, focuses on what the people want. A+
+**Final Impression and Rating**: Top-tier online store with a small but modern and nicely balanced set of merchandise that cuts out all the miscellaneous crap (porcelain dishware?) featured by lesser stores and, like Nixon himself, focuses on what the people want. **A+**
 
 <hr>
 
@@ -180,117 +178,229 @@ I know we're not here to review presidential library architecture, but long befo
 
 - **First Impressions:** After Kennedy and Nixon's heavily specialized and modernized online stores, here we fall back back to the same old default presidential merch shop design, except the offerings here seem to have completely lost the plot. Random jigsaw puzzles? [Globe pencil sharpeners](https://estore.archives.gov/ford/product/pencil-sharpener-globe-3)?  You need any of this stuff? Probably not, but if you did, Ford's library has you covered. On the other hand, this might be the only place you can buy a [Taft bobble head](https://estore.archives.gov/ford/product/william-taft-bobblehead).
 
-- **Most Ford-y merch:** President Ford was well-known for being a college football player, which is I suppose why you can buy this [Ford baseball](https://estore.archives.gov/ford/product/gerald-ford-presidential-baseball) with his very 70s-looking face on it.
+- **Best merch:** President Ford was well-known for being a college football player, which is I suppose why you can buy this [Ford baseball](https://estore.archives.gov/ford/product/gerald-ford-presidential-baseball) with his very 70s-looking face on it.
 
-![Ford baseball](https://estore.archives.gov/ford/images/products/Jerry%20Baseball%20Trimmed.jpg)
+![Ford baseball](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20260508-america-250-presidential-library-shops_12-ford-baseball.png/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-**Final Impression and Rating**: The store impresses me as a lazy effort that carries way too much dead weight of crap merch, but that was after being dazzled by the online presences of his more illustrious predecessors. But it's Ford, after all, I mean what do you want? D+
+**Final Impression and Rating**: The store impresses me as a lazy effort that carries way too much dead weight of crap merch, but that was after being dazzled by the online presences of his more illustrious predecessors. But it's Ford, after all, I mean what do you want? **D+**
 
 <hr> 
 
-## Jimmy Carter Presidential Library and Museum
+### [Jimmy Carter Presidential Library and Museum](https://jimmycarterlibrary.gov/)
 
-- **Library:** [jimmycarterlibrary.gov](https://www.jimmycarterlibrary.gov/)
-- **Store:** [Jimmy Carter Presidential Library and Museum store](https://estore.archives.gov/carter/)
-- **Location:** 441 John Lewis Freedom Parkway, Atlanta, Georgia 30307
-- **Preliminary thought:** A gentler, more modest shop on first inspection, but not without charm. The Carter store seems to blend biography, commemoratives, and some unexpectedly sweet Southern-museum details.
-- **Merch spotted:** Jimmy Carter 100th Celebration cap, Carter A250 coin, Rosalynn ornaments, monarch butterfly jewelry, Air Force One playsets, and Carter books.
-- **Representative images:** Exterior and merch sample.  
-  ![Jimmy Carter Presidential Library and Museum exterior](https://upload.wikimedia.org/wikipedia/commons/b/bd/Jimmy_Carter_Presidential_Library_and_Museum.jpg)
-  ![Jimmy Carter museum-store commemorative item](https://estore.archives.gov/carter/images/products/C2383A%20small.jpg)
+![Exterior of the Jimmy Carter Presidential 
+Library](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20260508-america-250-presidential-library-shops_13-carter-library.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-<iframe width="100%" height="320" style="border:0;" loading="lazy" allowfullscreen src="https://maps.google.com/maps?q=441+John+Lewis+Freedom+Parkway,+Atlanta,+GA+30307&output=embed"></iframe>
+**Where it's at:**
 
-## Ronald Reagan Presidential Library and Museum
+<iframe width="100%" height="320" style="border:0;" loading="lazy" allowfullscreen 
+src="https://maps.google.com/maps?q=441+John+Lewis+Freedom+Parkway,+Atlanta,+GA+30307&output=embed"></iframe>
 
-- **Library:** [reaganlibrary.gov](https://www.reaganlibrary.gov/)
-- **Store:** [Ronald Reagan Presidential Foundation & Institute store](https://www.reaganfoundation.org/store/)
-- **Location:** 40 Presidential Drive, Simi Valley, California 93065
-- **Preliminary thought:** A confident contender. The Reagan store appears fully aware that people will buy baseballs, jelly bean lore, and signature merch with minimal resistance.
-- **Merch spotted:** red-white-and-blue caps and shirts, Reagan signature baseballs, baseball bats, jelly bean items, china, desk accessories, and holiday pieces.
-- **Representative images:** Exterior and merch sample.  
-  ![Ronald Reagan Presidential Library and Museum exterior](https://www.reaganlibrary.gov/sites/default/files/styles/max_1600/public/2020-05/Ronald-Reagan-Library-4_0_0.jpg?itok=udFTI2bw)
-  ![Reagan Foundation store presidential seal cap](https://cdn.shopify.com/s/files/1/0879/8879/7727/files/ronald-reagan-presidential-library-seal-cap.jpg?v=1748463214)
+**Visit the store 🛍️:** [Jimmy Carter Presidential Library and Museum store](https://estore.archives.gov/carter/)
 
-<iframe width="100%" height="320" style="border:0;" loading="lazy" allowfullscreen src="https://maps.google.com/maps?q=40+Presidential+Drive,+Simi+Valley,+CA+93065&output=embed"></iframe>
+**First impressions:**  
+A sparse selection of swag. A more decent collection of Jimmy Carter's books, and books about Jimmy Carter.
 
-## George H. W. Bush Presidential Library and Museum
+**Best merch:**  
+This was a tough choice simply because there is not a whole lot interesting to choose from here. The Carter library is definitely about the man, not the merch. Perhaps the most authentic human being ever to hold office, that fact unfortunately doesn't help him much in this ranking. This [silver pen](https://estore.archives.gov/carter/product/custom-pen-on-crystal-globe) is pretty cool, though, and I can definitely picture myself signing important documents with it, like the Camp David Accords, perhaps.
 
-- **Library:** [bush41.org](https://www.bush41.org/)
-- **Store:** [George Bush Museum Store](https://museumstore.com/)
-- **Location:** 1000 George Bush Drive West, College Station, Texas 77845
-- **Preliminary thought:** The Bush 41 store reads polished and foundation-driven, more crisp museum retail than novelty bunker.
-- **Merch spotted:** seal-and-signature polos, performance tees, patriotic pouches, and a mix of books and giftable accessories.
-- **Representative images:** Exterior and merch sample.  
-  ![George H. W. Bush Presidential Library and Museum exterior](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/George_Bush_Presidential_Library.jpg/3840px-George_Bush_Presidential_Library.jpg)
-  ![George Bush Museum Store gift image](https://www.museumstore.com/ccms/default/assets/Image/New%20Mini%20Banners/Books%20and%20Gifts%20item.png)
+[![This sweet silver pen mounted on a crystal globe](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20260508-america-250-presidential-library-shops_14-carter-pen.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)](https://estore.archives.gov/carter/product/custom-pen-on-crystal-globe)
 
-<iframe width="100%" height="320" style="border:0;" loading="lazy" allowfullscreen src="https://maps.google.com/maps?q=1000+George+Bush+Drive+West,+College+Station,+TX+77845&output=embed"></iframe>
+**Final Impression and Rating:**  
+Come for the knowledge and period nostalgia, not for the gift shop. Sadly, the merch store is merely an afterthought. **F**
 
-## William J. Clinton Presidential Library and Museum
+<hr>
 
-- **Library:** [clintonlibrary.gov](https://www.clintonlibrary.gov/)
-- **Store:** [Clinton Museum Store](https://www.clintonmuseumstore.org/custom/home-)
-- **Location:** 1200 President Clinton Avenue, Little Rock, Arkansas 72201
-- **Preliminary thought:** Deep bench here. The Clinton store already looks rich in campaign leftovers, anniversary ornaments, Air Force One toys, and Clinton-era memorabilia.
-- **Merch spotted:** Clinton-Gore hats, saxophone caps, inaugural medallions, signed remarks, bridge ornaments, and a surprising amount of Air Force One merchandise.
-- **Representative images:** Exterior and merch sample.  
-  ![William J. Clinton Presidential Library and Museum exterior](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Clinton_Presidential_Center%2C_Airport%2C_and_School_of_Public_Service%2C_aerial.jpg/3840px-Clinton_Presidential_Center%2C_Airport%2C_and_School_of_Public_Service%2C_aerial.jpg)
-  ![Clinton Museum Store product image](https://www.clintonmuseumstore.org/prodimages/3673-default-L.jpg)
+### [Ronald Reagan Presidential Library and Museum](https://reaganlibrary.gov/)
 
-<iframe width="100%" height="320" style="border:0;" loading="lazy" allowfullscreen src="https://maps.google.com/maps?q=1200+President+Clinton+Avenue,+Little+Rock,+AR+72201&output=embed"></iframe>
+![Exterior of the Ronald Reagan Presidential 
+Library](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20260508-america-250-presidential-library-shops_15-reagan-library.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-## George W. Bush Presidential Library
+**Where it's at:**
 
-- **Library:** [georgewbushlibrary.gov](https://www.georgewbushlibrary.gov/)
-- **Store:** [George W. Bush Presidential Center Museum Store](https://shop.bushcenter.org/)
-- **Location:** 2943 SMU Boulevard, Dallas, Texas 75205
-- **Preliminary thought:** This may be the early favorite on sheer scale. The Bush Center store looks broad, polished, and aggressively merchandised, with everything from pencils and mugs to higher-end White House-style pieces.
-- **Merch spotted:** 43rd seal china, pens and Sharpies, Crawford collection goods, books, ornaments, campaign buttons, and dedicated America 250 items.
-- **Representative images:** Exterior and merch sample.  
-  ![George W. Bush Presidential Library exterior](https://www.georgewbushlibrary.gov/sites/default/files/2020-07/M1Hi_j0135_2-East-View.JPG)
-  ![George W. Bush Presidential Center Museum Store product image](https://shop.bushcenter.org/cdn/shop/products/400001025772_bcb59655-c506-4f66-b887-a3d0dfff1df6.jpg?v=1770415380)
+<iframe width="100%" height="320" style="border:0;" loading="lazy" allowfullscreen 
+src="https://maps.google.com/maps?q=40+Presidential+Drive,+Simi+Valley,+CA+93065&output=embed"></iframe>
 
-<iframe width="100%" height="320" style="border:0;" loading="lazy" allowfullscreen src="https://maps.google.com/maps?q=2943+SMU+Boulevard,+Dallas,+TX+75205&output=embed"></iframe>
+**Visit the store 🛍️:** [Ronald Reagan Presidential Foundation & Institute store](https://www.reaganfoundation.org/store/)
 
-## Barack Obama Presidential Library
+**First impressions:**  
+The first thing you see is a celebration of America's 250th right on the front page, with advertised weekly specials. This is another bespoke shop that does not use the standard presidential library merch store template. Plenty of Reagan-esque merch from this very quotable president who happened to rule America during the majority of its most nostalgia-focused decade ever, so you can expect a 
 
-- **Library:** [obamalibrary.gov](https://www.obamalibrary.gov/)
-- **Related shop:** [Obama Presidential Center Shop](https://shop.obama.org/collections/shop-all)
-- **Library location:** 2500 W. Golf Road, Hoffman Estates, Illinois 60169
-- **Public note:** The NARA-run Obama library is digital and the Hoffman Estates facility is not open to the public. The shop appears to be tied to the Obama Presidential Center rather than a traditional NARA museum store.
-- **Preliminary thought:** The merch looks more like contemporary civic lifestyle branding than standard presidential-library souvenir ware, which could make it hard to compare directly with the others but also hard to ignore.
-- **Merch spotted:** Hope caps, center logo tees, sweatshirts, trinket dishes, and books with a broader democracy-and-culture emphasis.
-- **Representative images:** Center image and related-shop merch sample.  
-  ![Barack Obama Presidential Center image](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Barack_Obama_Presidential_Center_April_2026_01.jpg/3840px-Barack_Obama_Presidential_Center_April_2026_01.jpg)
-  ![Obama Presidential Center Shop Hope cap](https://shop.obama.org/cdn/shop/files/ACA-Cap-Hope-OPC_01.jpg?v=1777486026&width=3840)
+**Best merch:**  
+Let's just get this out of the way: YES you can buy [jelly beans](https://www.reaganfoundation.org/store/products/ronald-reagan-jelly-belly-jar-with-gift-box). YES you can buy a "Trust but verify" [coffee mug](https://www.reaganfoundation.org/store/products/trust-but-verify-mug). YES you can buy a [replica fragment of the Berlin Wall](https://www.reaganfoundation.org/store/products/replica-of-the-berlin-wall-at-the-reagan-library). But these Ronald Reagan [cowboy boots](https://www.reaganfoundation.org/store/products/reagan-library-presidential-seal-boots-wide-width) by Texas's own Tony Lama, complete with Presidential Seal, take the prize for most outlandish drip. And yeah, you can get the perhaps more recognizable Reagan [cowboy hat](https://www.reaganfoundation.org/store/products/reagan-library-stetson-hat) to go with.
 
-<iframe width="100%" height="320" style="border:0;" loading="lazy" allowfullscreen src="https://maps.google.com/maps?q=2500+W.+Golf+Road,+Hoffman+Estates,+IL+60169&output=embed"></iframe>
+[![Reagan Foundation store presidential seal 
+cap](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20260508-america-250-presidential-library-shops_16-reagan-boots.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)](https://www.reaganfoundation.org/store/products/reagan-library-presidential-seal-boots-wide-width)
 
-## Donald J. Trump Presidential Library
+**Final Impression and Rating:**  
+Reagan's store lands hard with the branding and comes with a deep and zany catalog. Not to mention a whole separate line of America 250 merch. A more than solid shop. **A**
 
-- **Library:** [trumplibrary.gov](https://www.trumplibrary.gov/)
-- **Store:** No public museum store found from the official library site
-- **Library location:** 8601 Adelphi Road, Room 1900, College Park, Maryland 20740
-- **Public note:** The official NARA library site is up and running, but I have not found a public-facing museum shop connected to it. The site points readers to the Office of Donald J. Trump for any future Presidential Center or museum plans.
-- **Preliminary thought:** This entry may end up being more about absence than abundance unless a formal center and store appear later.
-- **Representative images:** Official library-site image and a fallback merch sample from the National Archives Store.  
-  ![Donald J. Trump Presidential Library site image](https://www.trumplibrary.gov/sites/default/files/2021-01/President-Trump-Travels-to-NC.jpg)
-  ![Trump-related mug from the National Archives Store](https://www.nationalarchivesstore.org/cdn/shop/products/SKU-108324-Mug-Trump-Presidential-Couple-14-OZ-1.jpg?v=1762458176&width=1920)
+<hr>
 
-<iframe width="100%" height="320" style="border:0;" loading="lazy" allowfullscreen src="https://maps.google.com/maps?q=8601+Adelphi+Road,+Room+1900,+College+Park,+MD+20740&output=embed"></iframe>
+### [George H.W. Bush Presidential Library and Museum](https://bush41.org/)
 
-## Joseph R. Biden Jr. Presidential Library
+A lot of people don't know this, but he was one of our most [notorious presidents](https://youtu.be/3JFTshvUiWA?si=rIYK9XmTGGSwrohi). The rabbit hole on the Bush family goes deep.
 
-- **Library:** [bidenlibrary.gov](https://www.bidenlibrary.gov/)
-- **Store:** No public museum store found from the official library site
-- **Library location:** 8601 Adelphi Road, Room 1510, College Park, Maryland 20740
-- **Public note:** The Biden library is now the sixteenth library in the NARA system, but the official site notes that President Biden has not yet announced plans for a public Presidential Library campus.
-- **Preliminary thought:** Another entry defined, for now, by archival reality rather than museum-store spectacle.
-- **Representative images:** Official library-site image and a fallback merch sample from the White House Gift Shop.  
-  ![Joseph R. Biden Jr. Presidential Library site image](https://www.bidenlibrary.gov/sites/default/files/2024-12/53573782313_31141218e6_o.jpg)
-  ![Biden-related ornament from the White House Gift Shop](https://cdn4.volusion.store/mwceg-gjtbh/v/vspfiles/photos/2021-BidenOrnament-1.png?v-cache=1699020757)
+![Exterior of the George H. W. Bush Presidential 
+Library](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20260508-america-250-presidential-library-shops_17-ghwb-library.png/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 
-<iframe width="100%" height="320" style="border:0;" loading="lazy" allowfullscreen src="https://maps.google.com/maps?q=8601+Adelphi+Road,+Room+1510,+College+Park,+MD+20740&output=embed"></iframe>
+**Where it's at:**
 
-At some point I want to come back and rank these on a few unofficially official criteria: best apparel, best oddball souvenir, best books-and-paper-goods section, most unexpectedly regional, most likely to separate me from twenty dollars, and overall presidential gift-shop majesty.
+<iframe width="100%" height="320" style="border:0;" loading="lazy" allowfullscreen 
+src="https://maps.google.com/maps?q=1000+George+Bush+Drive+West,+College+Station,+TX+77845&output=embed"></iframe>
+
+**Visit the store 🛍️:** [George Bush Museum Store](https://museumstore.com/)
+
+**First impressions:**  
+Looks promising at first, but lacks the depth of the top-ranked contenders in this category.
+
+**Best merch:**  
+I believe this is the [Easton Press autographed printing](https://www.museumstore.com/cproduct/5854/red-leather-bound-all-the-best,-signed) of Bush's autobiography. Certainly one of the higher end items in the shop. Might seem a little pricey, but then again I once saw Mitt Romney's autobiography for sale at a Half Price Books for $500, so go figure.
+
+[![George Bush Museum Store gift 
+image](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20260508-america-250-presidential-library-shops_18-ghwb-book.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)](https://www.museumstore.com/cproduct/5854/red-leather-bound-all-the-best,-signed)
+
+**Final Impression and Rating:**  
+It seems like there should be more here that I would want. Back in the day I was a College Republican during this era. Got to see Clinton and Bob Dole during the 96 campaign. True story. **B-**
+
+<hr>
+
+### [William J. Clinton Presidential Library and Museum](https://clintonlibrary.gov/)
+
+![Exterior of the William J. Clinton Presidential 
+Library](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20260508-america-250-presidential-library-shops_19-clinton-library.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
+
+**Where it's at:**
+
+<iframe width="100%" height="320" style="border:0;" loading="lazy" allowfullscreen 
+src="https://maps.google.com/maps?q=1200+President+Clinton+Avenue,+Little+Rock,+AR+72201&output=embed"></iframe>
+
+**Visit the store 🛍️:** [Clinton Museum Store](https://www.clintonmuseumstore.org/custom/home-)
+
+**First impressions:**  
+Boasting a plain white background and very little website branding, this is a store that underpromises. But boy does it over-deliver. Easily one of the best pure merch selections of any store. *What other shop sells a [tri-corner hat](https://www.clintonmuseumstore.org/cproduct/14289/colonial-hat), FCOL?*
+
+**Best merch:**  
+I'm still blown away by the hat, but this Declaration of Independence [beer glass](https://www.clintonmuseumstore.org/cproduct/14286/declaration-pint-glass) is a thing of beauty. Joe Biden in his public image famously loved his beer, so I'm expecting like a full flight set if he wants to top this. I tip my tri-corner hat to thee, Slick Willy. Well done.
+
+![Declaration of Independence pint glass](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20260508-america-250-presidential-library-shops_20-clinton-pint-glass.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
+
+**Final Impression and Rating:**  
+Fans of Hillary Clinton will find plenty of Hillary-centric merch here, too. Given the really outstanding architecture of the building I find myself having to admit that this is probably a place I'd actually visit, and most definitely walk away with some goodies. **A+**
+  
+<hr>
+
+### [George W. Bush Presidential Library](https://georgewbushlibrary.gov/)
+
+![Exterior of the George W. Bush Presidential 
+Center](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20260508-america-250-presidential-library-shops_21-gwb-library.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
+
+**Where it's at:**
+
+<iframe width="100%" height="320" style="border:0;" loading="lazy" allowfullscreen 
+src="https://maps.google.com/maps?q=2943+SMU+Boulevard,+Dallas,+TX+75205&output=embed"></iframe>
+
+**Visit the store 🛍️:** [George W. Bush Presidential Center Museum Store](https://shop.bushcenter.org/)
+
+**First impressions:**  
+Maybe the largest selection of merch I've seen so far, they sell everything from flower seeds to formal pewter dinnerware and heirloom china. Not only that, but a there is a very large selection of books, which I think that has something to do with Laura's push for childhood literacy. The also boast a "New Arrivals" section and the ability to buy items **in bulk**.
+
+**Best merch:**  
+You know I'd never pass up an opportunity to buy a [jar of honey](https://shop.bushcenter.org/products/laura-w-bush-native-texas-park-honey) from hives on the grounds. Proceeds go to support wounded veterans. Jarred in Dallas.
+
+![Laura Bush library honey](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20260508-america-250-presidential-library-shops_22-gwb-honey.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
+
+**Final Impression and Rating:**  
+A store that takes itself seriously as a store. On point with the presidential branding. Celebrating America 250. The First Lady's presence is felt throughout, but as a compliment without being a distraction. The only thing I could hold against it is that I can't buy a George W. Bush bomber jacket with "Mission Accomplished" on the back, or one of those small pewter World Trade Center memorials. **A**
+
+<hr>
+
+### [Barack Hussein Obama Presidential Library](https://obamalibrary.gov/)
+
+![Exterior of the Barack Obama Presidential 
+Center](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20260508-america-250-presidential-library-shops_23-obama-center.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
+
+**Where it's at:**
+
+<iframe width="100%" height="320" style="border:0;" loading="lazy" allowfullscreen 
+src="https://maps.google.com/maps?q=2500+W.+Golf+Road,+Hoffman+Estates,+IL+60169&output=embed"></iframe>
+
+**Visit the store 🛍️:** [Obama Presidential Center Shop](https://shop.obama.org/collections/shop-all)
+
+**First impressions:**  
+Less of a presidential merch shop than a whole department store and lifestyle brand. They got stuff stuff for kids, stuff for pets, they got Chicago merch, they got a whole line of basketball merch for crying out loud. Not sure if this is all online, or if they have several floors reserved in that massive dark alien monolith they call a presidential library.
+
+**Best merch:**  
+I have to say, it takes real nuts to so prominently feature Saul Alinsky's [Rules for Radicals](https://shop.obama.org/products/rules-for-radicals-a-practical-primer-for-realistic-radicals?_pos=1&_psq=rules&_psid=1b9e86c57&_ss=e) up front and center in the presidential book store. I remember when conspiracy theorists and proto-MAGA types were tearing their hair out over his association with Alinsky and this book, which supposedly guided his every Machiavellian move from the early days of his career. 
+
+And oh yeah, did you know it's dedicated to Lucifer?
+
+[![Rules for Radicals book](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20260508-america-250-presidential-library-shops_24-obama-rules-for-radicals.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)](https://shop.obama.org/products/rules-for-radicals-a-practical-primer-for-realistic-radicals?_pos=1&_psq=rules&_psid=1b9e86c57&_ss=e)
+
+**Final Impression and Rating:**  
+If they sold Chicago hot dogs or deep dish pizza you could probably get everything you need to live from the Obama store. **A+**
+
+<hr>
+
+### [Donald J. Trump Presidential Library](https://trumplibrary.gov/)
+
+![Trump Presidential Library concept art](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20260508-america-250-presidential-library-shops_25-trump-library-concept.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
+
+**Where it's at:**
+
+<iframe width="100%" height="320" style="border:0;" loading="lazy" allowfullscreen 
+src="https://maps.google.com/maps?q=8601+Adelphi+Road,+Room+1900,+College+Park,+MD+20740&output=embed"></iframe>
+
+**Visit the store 🛍️:** *None yet* (no public museum shop found)
+
+**First impressions:**  
+Not an actual thing at the moment, it only exists as some very Trumpian, neo-fascist concept art. Of course, very cool looking and I'd anticipate ultimately being able to buy real gold coin, steaks, real estate, and crypto.
+
+**Best merch:**  
+What merch?
+
+**Final Impression and Rating:**  
+Nothing to rate, as of yet only exists in the fantasies of a madman.
+
+<hr>
+
+### [Joseph R. Biden Jr. Presidential Library](https://bidenlibrary.gov/)
+
+![Biden Presidential Library concept art](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20260508-america-250-presidential-library-shops_26-biden-library-concept.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
+
+**Where it's at:**
+
+<iframe width="100%" height="320" style="border:0;" loading="lazy" allowfullscreen 
+src="https://maps.google.com/maps?q=8601+Adelphi+Road,+Room+1510,+College+Park,+MD+20740&output=embed"></iframe>
+
+**Visit the store 🛍️:** *None yet* (no public museum shop found)
+
+**First impressions:**  
+Another one that only exists as an idea, probably in this case already forgotten.
+
+**Best merch:**  
+N/A
+
+**Final Impression and Rating:**  
+Don't know what I would expect out of this one other than ice cream and hormone injections. 
+
+<hr>
+
+So, here we go. My official ranking, [Book of Lists](https://www.amazon.com/Book-Lists-Original-Compendium-Information/dp/1838858067)-style, from "best" to "worst", indicating the likelihood of me buying something from the gift shop.
+
+1 - Richard Nixon<br>
+2 - Bill Clinton<br>
+3 - JFK<br>
+4 - George W. Bush<br>
+5 - Ronald Reagan<br>
+6 - Barack Obama<br>
+7 - Lyndon Johnson<br>
+8 - George H. W. Bush<br>
+9 - Harry Truman<br>
+10 - Herbert Hoover<br>
+11 - Franklin Roosevelt<br>
+12 - Dwight Eisenhower<br>
+13 - Jimmy Carter<br>
+14 - Gerald Ford
+
+Have a great and patriotic remainder of the year!
