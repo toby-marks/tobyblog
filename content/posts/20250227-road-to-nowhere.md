@@ -11,7 +11,7 @@ Enjoy.
 <!--more-->
 I've included embeds here for the mother playlist on Spotify, which is usually the first to get updated, as well as the mirror over on Apple Music. The only thing is that the embeds only preview the songs, you can't listen to the whole thing. But feel free to like/favorite/add if you dig the sonic vibes. The links to do so are in the embeds.
 
-{{< spotify type="playlist" id="6nEibYRpS9SHNeSyhqSN0X?si=6d21c10107484ed8" >}}
+{{< spotify type="playlist" id="PLFmY2cL2XsF1WXXQSeKXTzIpfU1C0hxPx" >}}
 
 The Dad Wagon playlists have evolved over the years, and by now you're getting (for the most part) some pretty deep cuts. 
 

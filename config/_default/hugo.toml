@@ -98,6 +98,8 @@ ignoreLogs = ["warning-goldmark-raw-html"]
     shortname = 'tobyblog-com'
 
 [security]
+  [security.exec]
+    allow = ['^(dart-)?sass$', '^go$', '^git$', '^node$', '^postcss$', '^tailwindcss$']
   [security.http]
     methods = ["(?i)GET|POST"]
     urls = [".*"]
