@@ -3,7 +3,7 @@ title       = "Dad Wagon: Road to Nowhere"
 date        = "2025-02-27T17:20:47-06:00"
 categories  = ["music"]
 +++
-{{< youtubepl id="PLFmY2cL2XsF0PE60aJ06BQbJJyg_1mQGM" label="Road to Nowhere" >}}
+{{< youtubepl id="PLFmY2cL2XsF1WXXQSeKXTzIpfU1C0hxPx" title="The Road to Nowhere Playlist on YouTube" >}}
 
 Currently serving as my official on-the-go and anytime music playlist, the fourth entry in my Dad Wagon series serves up the usual chill sounds with an iconoclastic and occasionally discordant flare. **Beware.** This is not your ordinary boomer playlist. Expect to be surprised, delighted, and sometimes disappointed when my curated selections strain the limits of what can popularly be considered acceptable listening. 
 
@@ -11,7 +11,7 @@ Enjoy.
 <!--more-->
 I've included embeds here for the mother playlist on Spotify, which is usually the first to get updated, as well as the mirror over on Apple Music. The only thing is that the embeds only preview the songs, you can't listen to the whole thing. But feel free to like/favorite/add if you dig the sonic vibes. The links to do so are in the embeds.
 
-{{< spotify type="playlist" id="PLFmY2cL2XsF1WXXQSeKXTzIpfU1C0hxPx" >}}
+{{< spotify type="playlist" id="6nEibYRpS9SHNeSyhqSN0X" >}}
 
 The Dad Wagon playlists have evolved over the years, and by now you're getting (for the most part) some pretty deep cuts. 
 
