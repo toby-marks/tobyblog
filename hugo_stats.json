@@ -82,7 +82,8 @@
       "title",
       "twitter-tweet",
       "video",
-      "wp-caption"
+      "wp-caption",
+      "youtube-playlist-embed"
     ],
     "ids": [
       "--site-update-adjusting-photo-orientation-",

@@ -3,7 +3,7 @@ title       = "Dad Wagon: Road to Nowhere"
 date        = "2025-02-27T17:20:47-06:00"
 categories  = ["music"]
 +++
-{{< youtubepl PLFmY2cL2XsF0PE60aJ06BQbJJyg_1mQGM >}}
+{{< youtubepl id="PLFmY2cL2XsF0PE60aJ06BQbJJyg_1mQGM" label="Road to Nowhere" >}}
 
 Currently serving as my official on-the-go and anytime music playlist, the fourth entry in my Dad Wagon series serves up the usual chill sounds with an iconoclastic and occasionally discordant flare. **Beware.** This is not your ordinary boomer playlist. Expect to be surprised, delighted, and sometimes disappointed when my curated selections strain the limits of what can popularly be considered acceptable listening. 
 
