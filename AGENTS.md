@@ -44,8 +44,11 @@ npm run preview
 # Format all files with Prettier (includes Tailwind plugin)
 npm run format
 
-# Check for broken image links in content
+# Check for broken local image paths in content
 python3 check_broken_images.py
+
+# Check external links (images, embeds, article links) in content
+python3 check_broken_links.py            # add --limit 200 for a quick sample
 
 # Extract all tags from content
 ./show_tags.sh

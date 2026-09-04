@@ -1,0 +1,637 @@
+python3 check_broken_links.py
+Checking 5708 unique URLs (5708 found, 0 skipped by domain)...
+
+  ...500/5708
+  ...1000/5708
+  ...1500/5708
+  ...2000/5708
+  ...2500/5708
+  ...3000/5708
+  ...3500/5708
+  ...4000/5708
+  ...4500/5708
+  ...5000/5708
+  ...5500/5708
+
+============================================================
+GONE (32 URLs)
+============================================================
+
+  http://halloweenandhaunt.com/extracurricular-activities/
+    -> HTTP 404
+    posts/20180422-halloween-hauntfest.md:165
+
+  http://halloweenandhaunt.com/halloween-hauntfest-announces-first-36-classes-2018/
+    -> HTTP 404
+    posts/20180422-halloween-hauntfest.md:164
+
+  http://lakewoodbrewing.com/legendary/
+    -> HTTP 404
+    posts/review-the-world-comes-to-dallas.md:84
+
+  http://www.holidaywarehouse.com/halloween/
+    -> HTTP 404
+    posts/20160911-august-into-december-at-the-holiday-warehouse.md:126
+
+  http://www.movie-locations.com/movies/p/Phantasm.html#.VW6KbWAurjI
+    -> HTTP 404
+    posts/20150610-screening-phantasm-with-the-tall-man.md:112
+
+  http://www.parishbeer.com/parish-beer
+    -> HTTP 404
+    posts/parish-brewing-louisiana-beer.md:8
+
+  http://www.reviewtheworld.com/2014/02/rtw-cameo-19-crimes-wine.html
+    -> HTTP 404
+    posts/20150101-top-10-review-the-world-episodes-of-2014.md:25
+
+  http://www.treesdallas.com/event/1867561-bird-bee-dallas/
+    -> HTTP 404
+    posts/20190621-bird-and-the-bee-at-trees.md:5
+
+  https://c2.staticflickr.com/8/7772/28945117825_c1e594dd86_z.jpg
+    -> HTTP 410
+    posts/george-the-magician.md:12
+
+  https://c2.staticflickr.com/9/8369/28945120745_1343f0df41_z.jpg
+    -> HTTP 410
+    posts/george-the-magician.md:12
+
+  https://c3.staticflickr.com/9/8655/28659792850_48e4604b09_z.jpg
+    -> HTTP 410
+    posts/george-the-magician.md:12
+
+  https://c3.staticflickr.com/9/8829/28659797370_3bfe4cf7ea_z.jpg
+    -> HTTP 410
+    posts/george-the-magician.md:12
+
+  https://c5.staticflickr.com/9/8481/28659796540_0619c3e04d_z.jpg
+    -> HTTP 410
+    posts/george-the-magician.md:12
+
+  https://c5.staticflickr.com/9/8644/28659793100_6504326faa_z.jpg
+    -> HTTP 410
+    posts/george-the-magician.md:12
+
+  https://c6.staticflickr.com/9/8575/28868910541_90d44196db_z.jpg
+    -> HTTP 410
+    posts/george-the-magician.md:12
+
+  https://c6.staticflickr.com/9/8834/28868910821_f6f8d52f25_z.jpg
+    -> HTTP 410
+    posts/george-the-magician.md:12
+
+  https://c8.staticflickr.com/9/8320/28868910311_ff028184c8_z.jpg
+    -> HTTP 410
+    posts/george-the-magician.md:12
+
+  https://en.wikipedia.org/wiki/Bat_Boy_(character
+    -> HTTP 404
+    posts/20160502-super-meganerd-fun-pack.md:51
+
+  https://medium.com/@Chef_BoyarDEJI/the-most-clever-life-hack-ive-ever-learned-4648e5631b51
+    -> HTTP 410
+    posts/clever-life-hack.md:5
+
+  https://store.nixonfoundation.org/collections/featured/products/the-nixon-conspiracy
+    -> HTTP 404
+    posts/20260508-america-250-presidential-library-shops.md:158
+
+  https://store.zappa.com/products/halloween-77-costume-box-set
+    -> HTTP 404
+    posts/20180425-zappa-halloween-77-costume.md:13
+
+  https://upload.wikimedia.org/wikipedia/commons/d/da
+    -> HTTP 404
+    posts/20181024-the-whore-of-babylon.md:6
+
+  https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/636842547&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true
+    -> HTTP 404
+    posts/20190614-lax-sound-tour.md:23
+
+  https://www.cottonwoodartfestival.com/project/alla-tsank/
+    -> HTTP 404
+    posts/cottonwood-art-fest-2019.md:71
+
+  https://www.cottonwoodartfestival.com/project/kevin-liang/
+    -> HTTP 404
+    posts/cottonwood-art-fest-2019.md:33
+
+  https://www.cottonwoodartfestival.com/project/lori-betz/
+    -> HTTP 404
+    posts/cottonwood-art-fest-2019.md:41
+
+  https://www.cottonwoodartfestival.com/project/mary-distefano-jarowitz/
+    -> HTTP 404
+    posts/cottonwood-art-fest-2019.md:29
+
+  https://www.dollarshaveclub.com/content/story/a-not-quite-complete-history-of-the-puffy-toilet-seat
+    -> HTTP 404
+    posts/20190815-puffy-toilet-seats.md:5
+
+  https://www.littleelm.org/1110/Autumn-Fest
+    -> HTTP 404
+    posts/20191105-k2-little-elm-fallfest-2019.md:8
+
+  https://www.metv.com/lists/here-are-a-dozen-rap-songs-that-referenced-andy-griffith
+    -> HTTP 404
+    microposts/20180424-rap-songs-mention-andy-griffith.md:18
+
+  https://www.tribecafilm.com/stories/31-days-of-horror-philip-decker-david-cronenberg-nightbreed
+    -> HTTP 404
+    posts/20180422-halloween-hauntfest.md:174
+
+  https://www.youtube.com/user/AudioAlpha/videos
+    -> HTTP 404
+    posts/20150101-top-10-review-the-world-episodes-of-2014.md:27
+
+============================================================
+DEAD (13 URLs)
+============================================================
+
+  http://cache51.com/
+    -> [Errno 8] nodename nor servname provided, or not known
+    posts/journal-for-june-24-2019.md:29
+
+  http://drinkswamppop.com/
+    -> [Errno 8] nodename nor servname provided, or not known
+    posts/review-the-world-comes-to-dallas.md:74
+
+  http://retropalooza.net/
+    -> [Errno 8] nodename nor servname provided, or not known
+    posts/20140921-retropalooza.md:12
+
+  http://reviewtheworld.com/
+    -> [Errno 8] nodename nor servname provided, or not known
+    posts/20150921-the-dark-hour-best-haunt-ever.md:40
+    posts/20151230-the-year-in-pictures-2015.md:16
+    posts/20220109-top10-ak1000-videos-of-2021.md:10
+    posts/elote-ramen.md:9
+    posts/review-the-world-comes-to-dallas.md:8
+    ...and 2 more
+
+  http://veggiemacabre.com/
+    -> [Errno 8] nodename nor servname provided, or not known
+    posts/20150101-top-10-review-the-world-episodes-of-2014.md:21
+    posts/20150101-top-10-review-the-world-episodes-of-2014.md:45
+    posts/20150101-top-10-review-the-world-episodes-of-2014.md:69
+    posts/review-the-world-comes-to-dallas.md:106
+
+  http://www.bookoflifemovie.com/
+    -> [Errno 8] nodename nor servname provided, or not known
+    posts/20140927-los-dias-de-los-muertos-at-world-market.md:12
+
+  http://www.collectors-crypt.com/#!about/cazn
+    -> [Errno 8] nodename nor servname provided, or not known
+    posts/20150619-texas-frightmare-weekend.md:22
+
+  https://cottonwoodartfestival.com/
+    -> [Errno 8] nodename nor servname provided, or not known
+    galleries/20260510-return-to-the-cottonwood-art-festival.md:296
+
+  https://madlymadecreations.com/
+    -> [Errno 8] nodename nor servname provided, or not known
+    posts/20180422-halloween-hauntfest.md:176
+
+  https://museumstore.com/
+    -> [Errno 8] nodename nor servname provided, or not known
+    posts/20260508-america-250-presidential-library-shops.md:252
+
+  https://ww
+    -> [Errno 8] nodename nor servname provided, or not known
+    posts/20190304-infexxion.md:4
+
+  https://www.cottonwoodartfestival.com
+    -> [Errno 8] nodename nor servname provided, or not known
+    posts/cottonwood-art-fest-2019.md:10
+
+  https://www.stoneykins.com/
+    -> [Errno 8] nodename nor servname provided, or not known
+    posts/20191029-nine-useless-jack-o-lantern-templates.md:11
+
+============================================================
+TIMEOUT (2 URLs)
+============================================================
+
+  https://img.texasmonthly.com/2020/11/martin-house-beer-2.jpg?auto=compress&crop=faces&fit=fit&fm=jpg&h=0&ixlib=php-1.2.1&q=45&w=1850
+    -> 
+    posts/20171124-pumpkin-latte-ace-pumpkin-cider.md:19
+
+  https://lh4.googleusercontent.com/-HycIXMseI5Q/U-KffE0JPYI/AAAAAAAAAxk/ArPCNCPmuqM/s1024/blogger-image--338218531.jpg
+    -> 
+    posts/20140807-halloween-at-big-lots.md:32
+
+============================================================
+TLS (2 URLs)
+============================================================
+
+  http://xroads.virginia.edu/~Hyper/POE/masque.html
+    -> [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1082)
+    posts/the-mask-of-the-red-death.md:20
+
+  https://dementeddesignstudios.com/
+    -> [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'dementeddesignstudios.com'. (_ssl.c:1082)
+    posts/20180422-halloween-hauntfest.md:167
+
+============================================================
+ERROR (71 URLs)
+============================================================
+
+  http://www.facebook.com/teamsandnuttv
+    -> HTTP 400
+    videos/bahama-bucks.md:8
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/fc4c1b1e-3b46-468e-1987-ed4277744900/fit=scale-down,w=780,sh
+    -> HTTP 400
+    posts/20250418-happy-birthday.md:2
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20140906-opening-the-dino-drac-funpack-sep-2014DSC01899.jpg/fit=scale-down,w=780,sha
+    -> HTTP 400
+    photos/20140906-opening-the-dino-drac-funpack-sep-2014.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20140930-the-iconography-of-halloween-skeletonstumblrinlinencqn
+    -> HTTP 400
+    photos/20140930-the-iconography-of-halloween-skeletons.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20150727-aisles-of-halloween-at-at-homeIMG0001.jpg/fit=scale-down,w=780,sharpen=1,f=
+    -> HTTP 400
+    photos/20150727-aisles-of-halloween-at-at-home.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20170902-skull-eggs-for-breakfast367102896813977b3ed93o.jpg/fit=
+    -> HTTP 400
+    photos/20170902-skull-eggs-for-breakfast.md:3
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20170902-total-solar-eclipse360400515637197146eack.jpg/fit=
+    -> HTTP 400
+    photos/20170902-total-solar-eclipse.md:5
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20170930-lemax-village-additions36014831924f010c30b7co.jpg/
+    -> HTTP 400
+    photos/20170930-lemax-village-additions.md:3
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20180510-the-retro-store-pasadena42090262291a3648e83a8o.jp
+    -> HTTP 400
+    photos/20180510-the-retro-store-pasadena.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20180520-pasadena-eats42234806081d2a2b1cd1fo.jpg/fit=
+    -> HTTP 400
+    photos/20180520-pasadena-eats.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190225-lovebirds333355525586dde9c5661h.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q
+    -> HTTP 400
+    photos/20190225-lovebirds.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190226-lax-international-terminal46497439394d9ebaf5919o.j
+    -> HTTP 400
+    photos/20190226-lax-international-terminal.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190310-back-in-l-a46869C5E-ED6E-4566-BD92-BFECFC0D8526.jpg/fit=scale-down,w=780,sh
+    -> HTTP 400
+    photos/20190310-back-in-l-a.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190313-antiquesBFFE4B29-1323-4BB4-949B-868D7B414857.jpg/fit=scale-down,w=780,sharp
+    -> HTTP 400
+    photos/20190313-antiques.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190315-a-half-price-books7F654D75-901B-4DAA-A5BB-BDBAA3935BC1.jpg/fit=scale-down,w
+    -> HTTP 400
+    photos/20190315-a-half-price-books.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190325-old-woman-lost-in-thoughtE4296D93-6F33-4673-87D3-DA61534BE81E.jpg/
+    -> HTTP 400
+    photos/20190325-old-woman-lost-in-thought.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190404-veneration-of-the-cross-2019405726228735f8d1a9906
+    -> HTTP 400
+    photos/20190404-veneration-of-the-cross-2019.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190408-sweet-times-with-kassiblogIMG1565.jpg/fit=scale-down,w=780,sharpe
+    -> HTTP 400
+    photos/20190408-sweet-times-with-kassiblog.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190412-lunchtime-stroll-around-lake-carolyn09A7CF26-16EB-4E1A-B1F5-1A0789E874E0.jp
+    -> HTTP 400
+    photos/20190412-lunchtime-stroll-around-lake-carolyn.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190517-more-pasadena-eatsE9B65ABF-BCBE-4A07-BC70-38DA032212F8.jpg/fit=scale-down,w
+    -> HTTP 400
+    photos/20190517-more-pasadena-eats.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190612-firewheels-at-arbor-hills48053723017bafcc55d1
+    -> HTTP 400
+    photos/20190612-firewheels-at-arbor-hills.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190615-p1000-moon-shots480685651516635c327cfk.jpg/fit=scale-down,w=780,sha
+    -> HTTP 400
+    photos/20190615-p1000-moon-shots.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190615-rcp-walk480685649866f264b693fk.jpg/fit=scale-down,w=780,sharpen=1,f
+    -> HTTP 400
+    photos/20190615-rcp-walk.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190621-Things-to-See-on-a-Lunchtime-Walk48105199446ecf161b9bbk.jpg/fit=
+    -> HTTP 400
+    photos/20190621-Things-to-See-on-a-Lunchtime-Walk.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190710-Bolin-Park482146593813c8c618918k.jpg/fit=scale-down,w=
+    -> HTTP 400
+    photos/20190710-Bolin-Park.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190718-farewell-pasadena9BB85DBB-962B-418A-A3F9-6956D7B716E5.jpg/fit=scale-down,w=
+    -> HTTP 400
+    photos/20190718-farewell-pasadena.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190727-Flight-to-LA-with-Kassi483598989379d2457233bb.jpg/fit=scale-down,w=780,shar
+    -> HTTP 400
+    photos/20190727-Flight-to-LA-with-Kassi.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190813-frank-ripkassi.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connect
+    -> HTTP 400
+    photos/20190813-frank-rip.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190817-Red-Rock-State-Park48559877497543373f46dk.jpg/fit=scale-down,w=780,sharpen=
+    -> HTTP 400
+    photos/20190817-Red-Rock-State-Park.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190920-Seeing-Zion-National-Park487608603139cda9414bek.jpg/fit=scale-down,w=780,sh
+    -> HTTP 400
+    photos/20190920-Seeing-Zion-National-Park.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191012-Downtown-Fever-on-Stage-at-the-Plano-Balloon-Festival488823379
+    -> HTTP 400
+    photos/20191012-Downtown-Fever-on-Stage-at-the-Plano-Balloon-Festival.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191019-Pumpkin-Hollow-201948924284687101bae46e7k.jpg/fit=
+    -> HTTP 400
+    photos/20191019-Pumpkin-Hollow-2019.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191112-a-walk-around-northpark-mall33AB1556-F0BC-4D69-9EFA-672FDF4C9544rbmnzj.jpg/
+    -> HTTP 400
+    photos/20191112-a-walk-around-northpark-mall.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191126-Arches-National-Park491293107035ce7adc236k.jpg/fit=scale-down,w=780,sharpen
+    -> HTTP 400
+    photos/20191126-Arches-National-Park.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191215-st-nicholas-orthodox-church-december-2019D03D8F4B-9330-4AA9-955F-927E6FC0F5
+    -> HTTP 400
+    photos/20191215-st-nicholas-orthodox-church-december-2019.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200215-Ending-the-Trip-in-Mountain-Village-Colorado49540098997d49ce445d6k.jpg/fit=
+    -> HTTP 400
+    photos/20200215-Ending-the-Trip-in-Mountain-Village-Colorado.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200227-circumnavigating-lake-carolynC302ACD4-4B4A-46C1-864C-3F86887F3F04csttru.jpg
+    -> HTTP 400
+    photos/20200227-circumnavigating-lake-carolyn.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200316-St.-Patrick
+    -> HTTP 400
+    photos/20200316-St.-Patrick's-Day-Clover.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200427-Last-Train-to-Ponyville49815657587f526ccaa88k.jpg/fit=scale-down,w=780,shar
+    -> HTTP 400
+    photos/20200427-Last-Train-to-Ponyville.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200427-New-Church-Icons497271744139fd2faf8bbk.jpg/fit=scale-down,w=780,s
+    -> HTTP 400
+    photos/20200427-New-Church-Icons.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200505-A-Curious-Butterfly498600375881108c
+    -> HTTP 400
+    photos/20200505-A-Curious-Butterfly.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200525-A-Late-Spring-Walk-in-Search-of-Firewheels499314078662e8529af3ak
+    -> HTTP 400
+    photos/20200525-A-Late-Spring-Walk-in-Search-of-Firewheels.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200528-A-Lizard-out-my-Window49946842082c642973c05k.jpg/fit=scale-down,w=
+    -> HTTP 400
+    photos/20200528-A-Lizard-out-my-Window.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200621-Natalia
+    -> HTTP 400
+    photos/20200621-Natalia's-Shoot.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200627-Springtime-at-Ranch-111500507224389663943b5ek.jpg/fit=scale-down,w=780,shar
+    -> HTTP 400
+    photos/20200627-Springtime-at-Ranch-111.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200802-Sights-Along-the-Cottonwood-Trail50163681251210fc68972k
+    -> HTTP 400
+    photos/20200802-Sights-Along-the-Cottonwood-Trail.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200815-Sunset-on-Lake-Ray-Hubbard50182509593e2d91c1b41o
+    -> HTTP 400
+    photos/20200815-Sunset-on-Lake-Ray-Hubbard.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200904-Devil
+    -> HTTP 400
+    photos/20200904-Devil's-Den-State-Park.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20220103-Cold-Afternoon-Walk-at-Audubon-Park51798
+    -> HTTP 400
+    photos/20220103-Cold-Afternoon-Walk-at-Audubon-Park.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimagesremoteblogspot07d3a3ceIMG1735.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-c
+    -> HTTP 400
+    photos/20140906-opening-the-dino-drac-funpack-aug-2014.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimagesremoteblogspot46aa9915DSC04341.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-
+    -> HTTP 400
+    photos/20150619-diana-levins-pocket-watch.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimagesremotecloudinaryfe90b2f7IMG6123.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow
+    -> HTTP 400
+    photos/20200201-breakfast-lunch.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ
+    -> HTTP 400
+    posts/20140202-top10-reviewtheworld-episodes-of-2013.md:7
+
+  https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/89b46d08-2369-4453-8e48-3d3f020af300
+    -> HTTP 400
+    posts/20190222-sonic-movie.md:7
+
+  https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/a22efed1-4d2c-4d0d-78eb-3f9a26f87a00
+    -> HTTP 400
+    posts/2019-02-18-everything-ends.md:5
+
+  https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/a5aa5f95-a6af-44d7-07e9-b9bb31948700
+    -> HTTP 400
+    posts/20171231-the-year-in-pictures-2017.md:7
+
+  https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140219-suncreek-park-more-than-meets-the-eye_Screen+Shot+2014-02-19+at+10.16.29+PM.png
+    -> HTTP 400
+    posts/20140219-suncreek-park-more-than-meets-the-eye.md:7
+
+  https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140226-taco-naan-review_Screen+Shot+2014-02-27+at+12.45.36+AM.png
+    -> HTTP 400
+    posts/20140226-taco-naan-review.md:6
+
+  https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140309-found-objects-a-photolog_clown_face.png
+    -> HTTP 400
+    posts/20140309-found-objects-a-photolog.md:6
+
+  https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150101-top-10-review-the-world-episodes-of-2014_bloglogo.png
+    -> HTTP 400
+    posts/20150101-top-10-review-the-world-episodes-of-2014.md:8
+
+  https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170904-yankee-candle-halloween_36040105263_7a07a431c3_o.jpg
+    -> HTTP 400
+    posts/20170904-yankee-candle-halloween.md:7
+
+  https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191023-happy-halloween-hide-dnf_Screen_Shot_2019-10-23_at_1.36.14_PM.png
+    -> HTTP 400
+    photos/20191023-happy-halloween-hide-dnf.md:9
+
+  https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191029-nine-useless-jack-o-lantern-templates_Screen_Shot_2019-10-29_at_5.47.10_PM.png
+    -> HTTP 400
+    posts/20191029-nine-useless-jack-o-lantern-templates.md:7
+
+  https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191113-the-fight-for-baby-tinslee_2C1366D7-67E3-4A28-996C-A7B2474B672D_kalzqo.jpg
+    -> HTTP 400
+    posts/the-fight-for-baby-tinslee.md:4
+
+  https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200316-St.-Patrick
+    -> HTTP 400
+    photos/20200316-St.-Patrick's-Day-Clover.md:8
+    photos/20200316-St.-Patrick's-Day-Clover.md:10
+    photos/20200316-St.-Patrick's-Day-Clover.md:22
+    photos/20200316-St.-Patrick's-Day-Clover.md:24
+    photos/20200316-St.-Patrick's-Day-Clover.md:26
+    ...and 8 more
+
+  https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200904-Devil
+    -> HTTP 400
+    photos/20200904-Devil's-Den-State-Park.md:9
+    photos/20200904-Devil's-Den-State-Park.md:11
+    photos/20200904-Devil's-Den-State-Park.md:18
+    photos/20200904-Devil's-Den-State-Park.md:19
+    photos/20200904-Devil's-Den-State-Park.md:20
+    ...and 57 more
+
+  https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_index_51800482455_e3e94eb67a_k.jpg
+    -> HTTP 400
+    posts/20220111-the-year-in-pictures-2021/index.md:6
+
+  https://www.facebook.com/CollectorsCrypt/
+    -> HTTP 400
+    posts/20150410-a-visit-to-collectors-crypt.md:155
+
+  https://www.facebook.com/GrandCanyonChocolateFactory/
+    -> HTTP 400
+    posts/20250919-2025-road-trip-day-3.md:82
+
+  https://www.facebook.com/In-Search-Of-Brains-Creature-Design-173638956402672/
+    -> HTTP 400
+    posts/20180422-halloween-hauntfest.md:171
+
+  https://www.facebook.com/MissingFingerProductions/
+    -> HTTP 400
+    posts/20180422-halloween-hauntfest.md:177
+
+============================================================
+BLOCKED (74 URLs, manual check recommended)
+============================================================
+  HTTP 403  http://martinhousebrewing.com/the-beer/acheron/  (1 ref(s))
+  HTTP 403  http://martinhousebrewing.com/the-beer/pretzel-stout/  (1 ref(s))
+  HTTP 403  http://martinhousebrewing.com/the-beer/river-house/  (1 ref(s))
+  HTTP 403  http://www.ebay.com/itm/Universal-Monsters-CREATURE-OF-THE-BLACK-LAGOON-STRING-LIGHT-SET-New-Gillman-/191028087158?pt=LH_DefaultDomain_0&amp;hash=item2c7a294976  (1 ref(s))
+  HTTP 403  http://www.l5r.com/  (1 ref(s))
+  HTTP 403  http://www.realclearpolitics.com/video/2014/12/27/mclaughlin_group_2014_awards_show_winners__losers_best__worst_of_the_year.html  (1 ref(s))
+  HTTP 403  http://www.realclearpolitics.com/video/2014/12/27/mclaughlingroup2014awardsshowwinnerslosersbestworst  (1 ref(s))
+  HTTP 403  http://www.texasfrightmareweekend.com/  (3 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/3042011d-2e8b-4209-4373-9c64c9f01b00/fit=scale-down,w=780,sharpen=1,f=au  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20170819-chisholm-trail-watercolors3626080410054d2659690k.jpg/fit=scale  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20170907-geocaching-maxwell-creek368489105451b7b05070dk.jpg/fit=scale-  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20180328-oracle-headquarters4130320528172cc97ce7bo.jpg/fit=scale-  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20180329-maneki-neko40412447885b376e4f0eco.jpg/fit=scale-down,w=7  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190307-forestwood-antique-mall-artifactsCE8CD332-4542-497F-8C28-C4EA7C7216CD.jpg/f  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190309-plano-trade-days3092C5EB-BFB7-4C74-9522-63A923D64E83.jpg/fit=scale-down,w=7  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190314-antiques-part-29FB984CE-8F6E-4EE8-B4A8-FBE3FBBBE5C3.jpg/fit=scale-down,w=78  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190315-pasadena-streets187B3422-B271-4BD5-8111-4B0E281F7EDB.jpg/fit=scale-down,w=7  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190316-contrail-rainbowB581B6FC-132F-4021-A7E0-9E136B5E74BC.jpg/fit=scale-down,w=7  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190318-bee1EF86701-66F3-417B-8A5A-54388E5795E2.jpg/fit=scale-down,w=780,sharpen=1  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190323-february-morning-walk46728345454058e49101bo.jpg/fit=scale-dow  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190324-shadows-in-the-forest33581029088476802189dk.jpg/fit=scale-  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190515-antiques-part-34089365338350c24dbc30k.jpg/fit=scale-down  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190524-bee-on-firewheel-at-the-libraryA731EFAA-1843-4280-A7E4-FCECDEEFDE3B.jpg/fit  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190529-an-evening-walk-march-2019479620022366cb812e0cak.jpg/fit=scale-down  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190621-Old-Photos-and-Re-Edits4810397873896c98d6b70k.jpg/fit=scale-dow  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190710-4th-of-July-201948214822416dcfcc71899k.jpg/fit=scale-d  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190728-Visiting-Sequoia-National-Park483530862964e2e8b1b5bk.jpg/fit=scale-down,w=7  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190731-Pasadena-Tour48426390296fa22e073bbk.jpg/fit=scale-down,w=780,sharpen=1,f=au  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20190909-Grand-Canyon-2019487091669478e9a957266k.jpg/fit=scale-down,w=780,sharpen=1  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191015-a-day-in-october50068482-648F-4B67-A050-24F92CF5254Clzimja.jpg/fit=scale-do  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191023-happy-halloween-hide-dnfScreenShot2019-10-23at1.36.14PM.png/fit=scale-down  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191107-pho-in-the-rainB57CF219-8A8F-4807-A66D-0AB485141947m8s2eg.jpg/fit=scale-dow  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191118-old-tree-off-rowlett-creekoldtree.jpg/fit=scale-down,w=780,sharpen=1,f=auto  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191120-date-night-at-northpark6AC112A2-B3F7-4EBD-8DE6-CF26B2352331clq09o.jpg/fit=s  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191120-it-s-christmas-timeCB11E232-C7B8-4188-B122-43B53F52CBEDvysxav.jpg/fit=scale  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191121-Forestwood-Antiques4910178902146f854edack.jpg/fit=scal  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191122-tis-the-season-of-big-treesFBF5EBC1-03FA-4453-A3BF-9A93E5DA9FBDpugfgp.jpg/f  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191201-last-day-in-november4A0FCF8F-BDD1-4BDE-98CA-101C3247DE2Bkh9ew2.jpg/fit=scal  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191206-astrophil-stella377073AC-8423-4FF3-97C4-1C83594ADDC2d2vjdt.jpg/fit=scale-do  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191209-breckinridge-park-1219A602D7D7-4278-45C9-8CE3-9F9A6ABAA662zqk7ec.jpg/fit=sc  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191216-playing-kitchen-and-barEE8280FF-167F-4251-9662-02411246D5C7jqdtjk.jpg/fit=s  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191223-Santa-at-North-Park4926572642798e2c19c6dk.jpg/fit=scal  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200101-Birds493127909567a51b35115k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200104-The-Wild-Part-of-Breckinridge-Park493295399325fd41fae62k.jpg/fit=scale-down  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200111-Sunset-on-Oahu49370652847ad1de7953fk.jpg/fit=scale-down,w=780,sharpen=1,f=a  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200201-Saturday-Morning-at-Maxwell-Creek49474515931526cab0087k.jpg/fit=sca  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200209-Sunset-in-McKinney49512803808998327d0bek.jpg/fit=scale-dow  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200225-andrew-brown-park-coppellFCB0FE25-7AD4-42C3-B774-3BB8EA5A9D34wwxbnk.jpg/fit  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200304-Andrew-Brown-Park-Menagerie49619064592ed2afa7419k.jpg/fit=scale-down,w=780  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200314-Little-Things-in-the-Back-Yard4965731549134ace8faeak.jpg/fit=scale-down,w=7  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200326-A-Brief-Respite-from-the-Rain497026545039c0a62cb86k.jpg/fit=scale-down,w=78  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200415-gun-range-trailBCD5D474-0652-4356-9F06-8B3CD4378A2Enxnkm3.jpg/fit=scale-dow  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200427-Crossing-the-Bridge49727174373b00b43ccbek.jpg/fit=scale-down,w=7  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200430-Supermoon-2020498360854464e3ab3ae4bk.jpg/fit=scale-down,w=780,sharpen=1,f=a  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200504-Egg-Decorating-and-Birthday-Cake49856196366f7775e8797k.jpg/fit=s  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200506-First-Firewheels-of-20204986414713828d83775ddk.jpg/fit=scale-dow  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200526-mushrooms-in-the-hoodIMG7183.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200618-Sunflowers-and-Solar-Flares50014805316167dfd7948k.jpg/fit=scale-down,w=780  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200709-Exploring-Oak-Point500809006726ee4b91da3k.jpg/fit=scale-  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200815-Visiting-the-Bees50181938278ca6ac22b7dk.jpg/fit=scale-down,w=780,sharpen=1  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200920-Return-to-Bolin-Park50364037488057f03265bk.jpg/fit=scale  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20250220-sunday-evening-walk5433998448616da1f608fo.jpg/fit=scale-down,w=780  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimagesremotecloudinary06f57acb015B9C56-7A29-4D3C-86D1-F5FA1EB41DFDj1r9ib.jpg/fit=scale-dow  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimagesremotecloudinary4259f85e461E69A7-8660-433A-8938-D64C51FC300F.jpg/fit=scale-down,w=78  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimagesremotecloudinary81c1e520DB43AC67-39AA-4FD9-9C90-2B861549B6D4.jpg/fit=scale-down,w=78  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimagesremotecloudinaryea9885a52C248740-BC32-4495-A471-DD1401DBC4D6c03nnu.jpg/fit=scale-dow  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimagesthe-iconography-of-halloween-the-moon152250981490b4155ddd6z.jpg/fit=scale-down,w=780  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zjmfzzanuqc_q5caqyu8nq/dsc1355/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3  (1 ref(s))
+  HTTP 403  https://imagedelivery.net/zjmfzzanuqc_q5caqyu8nq/dsc1355/fit=scale-down,w=400,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3  (1 ref(s))
+  HTTP 403  https://untappd.com/b/martin-house-brewing-company-pretzel-stout/177437  (1 ref(s))
+  HTTP 403  https://www.al.com/news/huntsville/2019/07/police-flushing-drugs-could-create-alabama-meth-gators.html  (1 ref(s))
+  HTTP 403  https://www.etsy.com/shop/GhoulishBunnyStudios  (1 ref(s))
+  HTTP 403  https://www.forbes.com/sites/thomasbrewster/2019/07/17/faceapp-is-the-russian-face-aging-app-a-danger-to-your-privacy/#6a7f29122755  (1 ref(s))
+  HTTP 403  https://www.nytimes.com/2012/06/07/books/ray-bradbury-popularizer-of-science-fiction-dies-at-91.html  (1 ref(s))
+
+============================================================
+SERVER (9 URLs, manual check recommended)
+============================================================
+  HTTP 503  http://articles.chicagotribune.com/1995-12-06/features/9512060169_1_lucy-ricardo-ted-baxter-tv-characters  (1 ref(s))
+  HTTP 503  https://www.audible.com/pd/Encounters-Audiobook/B0BVKNVXV4?ref_pageloadid=not_applicable&pf_rd_p=80765e81-b10a-4f33-b1d3-ffb87793d047&pf_rd_r=6HWE76C77K7A5PQ3JRRP&plink=Zi39lwBOsWfWguEH&pageLoadId=58B5kSXldQWLBdaF&creativeId=4ee810cf-ac8e-4eeb-8b79-40e176d0a225&ref=a_library_t_c5_libItem_B0BVKNVXV4_8  (2 ref(s))
+  HTTP 503  https://www.audible.com/pd/Labyrinths-Audiobook/B0814KTR8F?eac_link=OgyJccb6ETas&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B0814KTR8F&qid=UkuoRi5l69&eac_id=141-6651615-4362314_UkuoRi5l69&sr=1-1  (2 ref(s))
+  HTTP 503  https://www.audible.com/pd/The-Mind-Parasites-Audiobook/B00V7AZ7TQ?eac_link=uSjTJ6Tczbef&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B00V7AZ7TQ&qid=FtJhOZFLTN&eac_id=141-6651615-4362314_FtJhOZFLTN&sr=1-1  (2 ref(s))
+  HTTP 503  https://www.audible.com/pd/The-Name-of-the-Rose-Audiobook/B00HCQCGJ8?eac_link=B4Fjp1iun98n&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B00HCQCGJ8&qid=5ZoiYXVVFQ&eac_id=141-6651615-4362314_5ZoiYXVVFQ&sr=1-1  (1 ref(s))
+  HTTP 503  https://www.audible.com/pd/The-Third-Reich-Audiobook/B0063487MK?ref_pageloadid=not_applicable&pf_rd_p=80765e81-b10a-4f33-b1d3-ffb87793d047&pf_rd_r=6HWE76C77K7A5PQ3JRRP&plink=Zi39lwBOsWfWguEH&pageLoadId=58B5kSXldQWLBdaF&creativeId=4ee810cf-ac8e-4eeb-8b79-40e176d0a225&ref=a_library_t_c5_libItem_B0063487MK_4  (2 ref(s))
+  HTTP 503  https://www.audible.com/pd/We-Have-Always-Lived-in-the-Castle-Audiobook/B003D90H0S?eac_link=emEQ6AmDz6v4&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B003D90H0S&qid=sOhER8pik1&eac_id=141-6651615-4362314_sOhER8pik1&sr=1-1  (2 ref(s))
+  HTTP 503  https://www.audible.com/pd/Weird-Scenes-Inside-the-Canyon-Audiobook/B074WD8V1G?eac_link=L2uZa2fqsR6X&ref=web_search_eac_asin_1&eac_selected_type=asin&eac_selected=B074WD8V1G&qid=rCKTyp3cql&eac_id=141-6651615-4362314_rCKTyp3cql&sr=1-1  (2 ref(s))
+  HTTP 503  https://www.audible.com/pd/Weird-Scenes-Inside-the-Canyon-Audiobook/B074WD8V1G?source_code=ASSGB149080119000H&share_location=pdp  (1 ref(s))
+
+============================================================
+SUMMARY
+============================================================
+  ok        5505  (96.4%)
+  gone        32  (0.6%)
+  dead        13  (0.2%)
+  timeout      2  (0.0%)
+  tls          2  (0.0%)
+  blocked     74  (1.3%)
+  server       9  (0.2%)
+  error       71  (1.2%)
+
+45 broken link(s) need attention.
