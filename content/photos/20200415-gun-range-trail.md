@@ -1,7 +1,7 @@
 +++
 camera = "iPhone 📱"
 date = 2020-04-15T21:59:00Z
-description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20200415-gun-range-trailBCD5D474-0652-4356-9F06-8B3CD4378A2Enxnkm3.jpg/fit=scale-dow..."
+description = "![]("
 location = "Dallas, TX"
 title = "Gun Range Trail"
 categories = ["photography"]

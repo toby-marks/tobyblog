@@ -48,7 +48,7 @@ Included were a host of little monster and Halloween related keychain toys that 
 
 {{< figure class= "wp-caption alignnone" alt="Bat Boy" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20160502-super-meganerd-fun-pack_26293083160_1ad0d00d26_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
-This freaky little finger puppet reminded me of [Bat Boy](https://en.wikipedia.org/wiki/Bat_Boy_(character)) of The Weekly World News fame.
+This freaky little finger puppet reminded me of Bat Boy) of The Weekly World News fame.
 
 {{< figure class= "wp-caption alignnone" alt="Glowing Eyeball" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20160502-super-meganerd-fun-pack_26539953506_caa57cafe0_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 

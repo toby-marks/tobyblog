@@ -14,7 +14,7 @@ Been a bit of a rough afternoon workwise, so I'm set to unwind by taking the lit
 
 {{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190624-journal_geo-gang.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
-This year they're taking a different tack and assigning clues to specific geocaches in your area — you won't decide which caches to hit based on type; they'll decide which caches you need to hit for clues. I kind of like that switch-up. Maybe it'll force me to work outside my local areas and take in some new scenery. The kids are all onboard, too. We picked up 5 yesterday! Not bad numbers for having been out of the game for the better part of a year. 
+This year they're taking a different tack and assigning clues to specific geocaches in your area — you won't decide which caches to hit based on type; they'll decide which caches you need to hit for clues. I kind of like that switch-up. Maybe it'll force me to work outside my local areas and take in some new scenery. The kids are all onboard, too. We picked up 5 yesterday! Not bad numbers for having been out of the game for the better part of a year.
 
 {{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190624-journal_vw.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
@@ -26,6 +26,6 @@ Just got word today that the wagon should be out of the shop by Wednesday, with 
 
 {{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20190624-journal_impact.png/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
-Last but not least in the news of the last few days is the soon-to-come blogging debut of my cousin and creative collaborator, Carl Burleigh. I could not be more excited about this. I've been helping him get his site up and running on the same stack of apps and platforms I use for this very site. Be watching for him to update his blog any minute now over on [cache51.com](http://cache51.com/). 
+Last but not least in the news of the last few days is the soon-to-come blogging debut of my cousin and creative collaborator, Carl Burleigh. I could not be more excited about this. I've been helping him get his site up and running on the same stack of apps and platforms I use for this very site. Be watching for him to update his blog any minute now over on cache51.com.
 
 I sense great things coming, people. Stay tuned.

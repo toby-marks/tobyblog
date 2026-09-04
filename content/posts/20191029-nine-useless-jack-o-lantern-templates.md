@@ -4,18 +4,18 @@ date = "2019-10-29T23:00:00-05:00"
 description = ""
 tags = ["halloween"]
 title = "Nine Useless Jack O' Lantern Templates"
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191029-nine-useless-jack-o-lantern-templates_Screen_Shot_2019-10-29_at_5.47.10_PM.png"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191029-nine-useless-jack-o-lantern-templates_Screen_Shot_2019-10-29_at_5.47.10_PM.png/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 {{< youtube LWJYaep-0sg >}}
 
-Most of these were taken from the huge catalog of templates over at [Stoneykins.com](https://www.stoneykins.com/), the vast majority of which are pretty cool and definitely not useless. 
+Most of these were taken from the huge catalog of templates over at Stoneykins.com, the vast majority of which are pretty cool and definitely not useless.
 <!--more-->
 
 ### #9. Joker Joaquin Phoenix
 
 {{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191029-nine-useless-jack-o-lantern-templates_Screen_Shot_2019-10-29_at_5.52.23_PM.png/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
-Not a bad idea, but it already looks like you messed it up. 
+Not a bad idea, but it already looks like you messed it up.
 
 ### #8. Boo-Tay
 
@@ -63,4 +63,4 @@ When you like #4, and you really want your house covered in toilet paper.
 
 {{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20191029-nine-useless-jack-o-lantern-templates_Screen_Shot_2019-10-29_at_5.43.39_PM.png/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
-Just don't. Surely this has to be at the intersectional nexus of every single category of bad idea. Your Halloween and your Catholicism are now forever lamer. 
+Just don't. Surely this has to be at the intersectional nexus of every single category of bad idea. Your Halloween and your Catholicism are now forever lamer.

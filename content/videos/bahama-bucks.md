@@ -5,7 +5,7 @@ description = "The kids and I review sno-cones from Bahama Bucks"
 categories = ["reviews"]
 externalurl = "https://www.youtube.com/watch?v=44-LJWFX0io"
 +++
-Katie and the gang over at [Cheap Thrills](http://www.facebook.com/teamsandnuttv) invited me and the kids to do a co-review highlighting some of our favorite summer treats. You can check out their submission, Culver's Frozen Custard, below.
+Katie and the gang over at Cheap Thrills invited me and the kids to do a co-review highlighting some of our favorite summer treats. You can check out their submission, Culver's Frozen Custard, below.
 
 {{< youtube HdJp5gbp-8g >}}
 

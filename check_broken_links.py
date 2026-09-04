@@ -39,9 +39,13 @@ UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
 URL_RE = re.compile(r'https?://[^\s\)"\'\]<>}]+')
 TRAILING = '.,;!\'">'
 QUOTE_SAFE = ":/?#[]@!$&'()*+,;=%"
+MARKDOWN_URL_RE = re.compile(r'!?\[[^\]]*\]\((https?://[^\s]+?)(?:\s+["\'][^"\']*["\'])?\)')
+HTML_URL_RE = re.compile(r'(?:href|src)=["\'](https?://[^"\']+)["\']', re.I)
+BARE_URL_RE = re.compile(r'https?://[^\s\)"\'\]<>}]+')
 
 GONE = (404, 405, 410)
 BLOCKED = (401, 402, 403, 407, 429)
+BOT_BLOCKED = ('facebook.com', 'fb.com')
 
 
 def extract_refs(root):
@@ -55,7 +59,15 @@ def extract_refs(root):
             continue
         text = re.sub(r'<!--.*?-->', '', text, flags=re.S)
         for lineno, line in enumerate(text.splitlines(), 1):
-            for m in URL_RE.finditer(line):
+            spans = []
+            for regex in (MARKDOWN_URL_RE, HTML_URL_RE):
+                for m in regex.finditer(line):
+                    url = m.group(1).rstrip(TRAILING)
+                    refs[url].append((rel, lineno))
+                    spans.append(m.span(1))
+            for m in BARE_URL_RE.finditer(line):
+                if any(start <= m.start() < end for start, end in spans):
+                    continue
                 refs[m.group(0).rstrip(TRAILING)].append((rel, lineno))
     return refs
 
@@ -82,9 +94,10 @@ def check(url, timeout):
             return 'ok', resp.status, ''
     except urllib.error.HTTPError as e:
         code = e.code
+        host = urllib.parse.urlparse(url).netloc.lower()
         if code in GONE:
             return 'gone', code, e.reason or ''
-        if code in BLOCKED:
+        if code in BLOCKED or (code == 400 and any(host.endswith(d) for d in BOT_BLOCKED)):
             return 'blocked', code, e.reason or ''
         if 500 <= code < 600:
             return 'server', code, e.reason or ''

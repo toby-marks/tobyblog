@@ -6,7 +6,7 @@ date = "2020-04-14T08:41:18-05:00"
 tags = ["reviewtheworld"]
 externalurl = "https://www.foodbeast.com/news/elote-instant-ramen/?fbclid=IwAR0amuQ_BW29HigFPbpm4FLw-MdGmrRIlHQYf96DSh-fwZjkQJRniQQUMto"
 +++
-This comes courtesy of good buddy Brian Hammons at [reviewtheworld.com](http://reviewtheworld.com/), now celebrating its 15th year on the internet, I believe. As if I didn't need another reason during this lockdown to get my hands on some Tajin.
+This comes courtesy of good buddy Brian Hammons at reviewtheworld.com, now celebrating its 15th year on the internet, I believe. As if I didn't need another reason during this lockdown to get my hands on some Tajin.
 
 I tell you, fans, I could not be *more* ready to reintroduce cheese into my diet.
 

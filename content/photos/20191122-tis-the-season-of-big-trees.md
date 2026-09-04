@@ -1,7 +1,7 @@
 +++
 camera = "iPhone XS"
 date = 2019-11-22T19:00:00Z
-description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimages20191122-tis-the-season-of-big-treesFBF5EBC1-03FA-4453-A3BF-9A93E5DA9FBDpugfgp.jpg/f..."
+description = "![]("
 location = "Dallas, TX"
 title = "‘Tis the Season of Big Trees"
 categories = ["photography"]

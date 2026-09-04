@@ -57,7 +57,7 @@ Never goes out of style, I guess. Except when I was a kid if you wanted to make 
 
 {{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140801-a-visit-to-the-toy-store_IMG_1197.JPG/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
-A lot of you might find it odd that I have never seen an episode of Game of Thrones. Also never seen Walking Dead, or Breaking Bad, or True Blood, or Lost, for that matter. But I do really love card games, whether of the collectible variety or not. I am familiar with the basic storyline and some of the characters from Game of Thrones, and it strikes me that the show would translate well as a card game, perhaps something similar to [Legend of the Five Rings](http://www.l5r.com/).
+A lot of you might find it odd that I have never seen an episode of Game of Thrones. Also never seen Walking Dead, or Breaking Bad, or True Blood, or Lost, for that matter. But I do really love card games, whether of the collectible variety or not. I am familiar with the basic storyline and some of the characters from Game of Thrones, and it strikes me that the show would translate well as a card game, perhaps something similar to Legend of the Five Rings.
 
 ## Vibrating Football Game
 

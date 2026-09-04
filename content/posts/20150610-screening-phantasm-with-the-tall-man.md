@@ -13,7 +13,7 @@ From a respectful write-up on Texas Frightmare Weekend by [Dread Central](http:/
 
 <!--more-->
 
-I met that guy! Twice. Sat right next to him at the special 35mm screening of Phantasm at the Alamo Draft House in Richardson. Cool guy. He was in fact, the first person that I met as well on my little [Texas Frightmare Weekend](http://www.texasfrightmareweekend.com/) adventure.
+I met that guy! Twice. Sat right next to him at the special 35mm screening of Phantasm at the Alamo Draft House in Richardson. Cool guy. He was in fact, the first person that I met as well on my little Texas Frightmare Weekend adventure.
 
 {{< figure src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150610-screening-phantasm-with-the-tall-man_IMG_2733.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
@@ -109,7 +109,7 @@ Coscarelli tended to steer the commentary. He'd usually give some background inf
 
 {{< figure src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150610-screening-phantasm-with-the-tall-man_Phantasm22.png/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
-I found the [filming locations](http://www.movie-locations.com/movies/p/Phantasm.html#.VW6KbWAurjI) particularly interesting. Mike and Jody's house in Phantasm was really Coscarelli's mother's house. The cemetery scenes were shot at a public park. The fortuneteller's house was a nearby abandoned home that was only recently was torn down. And the outside of the funeral home was an old historic building that is open to the public today.
+I found the filming locations particularly interesting. Mike and Jody's house in Phantasm was really Coscarelli's mother's house. The cemetery scenes were shot at a public park. The fortuneteller's house was a nearby abandoned home that was only recently was torn down. And the outside of the funeral home was an old historic building that is open to the public today.
 
 {{< figure src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150610-screening-phantasm-with-the-tall-man_PHANTASM20MIKE20THE20SPY.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 

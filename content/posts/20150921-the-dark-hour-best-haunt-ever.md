@@ -37,7 +37,7 @@ To give you an example from a recent show, at the Summer Spirits event TheVCubeS
 
 {{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150921-the-dark-hour-best-haunt-ever_DH18.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
-I discovered Dark Hour almost by chance, while Googling for something interesting to do while my friend Brian from [reviewtheworld.com](http://reviewtheworld.com/) was in town from Ohio. When I found out there was a haunted house open that weekend it seemed like a no-brainer. Little did I expect, though, a haunt on the scale of Dark Hour.
+I discovered Dark Hour almost by chance, while Googling for something interesting to do while my friend Brian from reviewtheworld.com was in town from Ohio. When I found out there was a haunted house open that weekend it seemed like a no-brainer. Little did I expect, though, a haunt on the scale of Dark Hour.
 
 {{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150921-the-dark-hour-best-haunt-ever_DH41.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 

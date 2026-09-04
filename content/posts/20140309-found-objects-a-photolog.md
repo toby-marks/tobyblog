@@ -3,7 +3,7 @@ title = "Found Objects: Evil Zombie Clown"
 date = 2014-03-09T19:00:00Z
 description = "I found a really weird little toy in a geocache."
 tags = ["geocaching"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140309-found-objects-a-photolog_clown_face.png"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140309-found-objects-a-photolog_clown_face.png/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 {{< figure src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140309-found-objects-a-photolog_clown_face.png/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 

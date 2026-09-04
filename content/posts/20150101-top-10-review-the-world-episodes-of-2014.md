@@ -1,14 +1,14 @@
 +++
 title = "Top 10 Review the World Episodes of 2014"
 date = 2015-01-01T23:03:00Z
-description = "One thing I love is [end of year retrospectives](http://www.realclearpolitics.com/video/2014/12/27/mclaughlingroup2014awardsshowwinnerslosersbestworst..."
+description = "One thing I love is [end of year retrospectives]("
 updated = 2015-01-01T23:05:39Z
 categories = ["reviews"]
 tags = ["reviewtheworld"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150101-top-10-review-the-world-episodes-of-2014_bloglogo.png"]
+images = [""]
 +++
 
-One thing I love is [end of year retrospectives](http://www.realclearpolitics.com/video/2014/12/27/mclaughlin_group_2014_awards_show_winners__losers_best__worst_of_the_year.html). And in the grand tradition I [started last year]({{< ref "20140202-top10-reviewtheworld-episodes-of-2013.md" >}}), I offer to you the top ten [Review the World](http://www.reviewtheworld.com/) episodes of 2014. So clear your personal calendars, grab a bag of Rap Snacks, and settle in the for the show. These are all episodes I love, and I encourage you to watch every one in its entirety.
+One thing I love is end of year retrospectives. And in the grand tradition I [started last year]({{< ref "20140202-top10-reviewtheworld-episodes-of-2013.md" >}}), I offer to you the top ten [Review the World](http://www.reviewtheworld.com/) episodes of 2014. So clear your personal calendars, grab a bag of Rap Snacks, and settle in the for the show. These are all episodes I love, and I encourage you to watch every one in its entirety.
 
 ### [#10: Childhood Neighborhood Tour](http://www.reviewtheworld.com/2014/12/childhood-neighborhood-tour.html)
 
@@ -18,13 +18,13 @@ We begin with Brian's most recent entry, one that was intended to cap all of his
 
 ### [#9: Shamrock Shake](http://www.reviewtheworld.com/2014/02/shamrock-shake.html)
 
-This is Brian's segment for a joint review project early in the year with friend Bill Webster of [veggiemacabre.com](http://veggiemacabre.com/), taking a look at McDonalds' verdant St. Patrick's Day offering, the Shamrock Shake. Filmed solo in the middle of a snowy Ohio February, this is a fun watch filmed with admirable gusto. Brian somehow managed to bring a little bit of spring magic into what seemed like, from Texas, a grim nightmare world of never-ending cold and snow. Maybe not quite that bad, but still.
+This is Brian's segment for a joint review project early in the year with friend Bill Webster of veggiemacabre.com, taking a look at McDonalds' verdant St. Patrick's Day offering, the Shamrock Shake. Filmed solo in the middle of a snowy Ohio February, this is a fun watch filmed with admirable gusto. Brian somehow managed to bring a little bit of spring magic into what seemed like, from Texas, a grim nightmare world of never-ending cold and snow. Maybe not quite that bad, but still.
 
 {{< youtube u1ZZwgMv_r8 >}}
 
-### [#8: RtW Cameo: 19 Crimes Wine](http://www.reviewtheworld.com/2014/02/rtw-cameo-19-crimes-wine.html)
+### #8: RtW Cameo: 19 Crimes Wine
 
-Is this a Review the World spot, or an Audio-Alpha spot? I only remember seeing it on RtW, so to Brian goes the credit. I suppose this was to be a coming out party of sorts for Brian's friend Chris, but Audio-Alpha has had sort of a spotty internet presence since that time. Chris can still be found [doing his thing online](https://www.youtube.com/user/AudioAlpha/videos), rapping shirtless for his many fans. Filmed in the somewhat imposing basement of Chris's grandparents house, Brian nervously laughs his way through what turned out to be an entertaining romp of a wine review, probably filmed for the express purpose of impressing Chris's (now) fiancée, the sultry blogesse Molly of [SwaggerMomTales](http://swaggermomtales.blogspot.com/). The only crime here is that we didn't get to see acclaimed Audio-Alpha henchman and Grandma-house resident Wayman chime in with his considered opinions.
+Is this a Review the World spot, or an Audio-Alpha spot? I only remember seeing it on RtW, so to Brian goes the credit. I suppose this was to be a coming out party of sorts for Brian's friend Chris, but Audio-Alpha has had sort of a spotty internet presence since that time. Chris can still be found doing his thing online, rapping shirtless for his many fans. Filmed in the somewhat imposing basement of Chris's grandparents house, Brian nervously laughs his way through what turned out to be an entertaining romp of a wine review, probably filmed for the express purpose of impressing Chris's (now) fiancée, the sultry blogesse Molly of [SwaggerMomTales](http://swaggermomtales.blogspot.com/). The only crime here is that we didn't get to see acclaimed Audio-Alpha henchman and Grandma-house resident Wayman chime in with his considered opinions.
 
 {{< youtube wjqiW5K2ooA >}}
 
@@ -42,7 +42,7 @@ I am delighted to say I had a hand in this one, as with a couple of others on th
 
 ### [#5: RtW Cameo: Beers With Movie Sauce](http://www.reviewtheworld.com/2014/07/rtw-cameo-beers-with-movie-sauce.html)
 
-No doubt one of his most popular entries of the year, Brian travels to North Carolina to the home of good friend Bill Webster of [veggiemacabre.com](http://veggiemacabre.com/) to film an episode of Bill's new series "Beers with Movie Sauce". The conceipt is something like a hosted movie segment that you might have seen on a Saturday night on the USA network back in the 90's or early 2000's, where Bill comments on a favorite horror movie, and throws in a beer and hot sauce review as lagniappe. Bill's vids famously have great production values, and Brian knows movies like nobody else, so the team-up was sure to be a killer. Brian's selection, C.H.U.D. 2, made for some fun and funny discussion. Although the conversation started to drift a bit at the end, I was told this was only the first of a two-part review, the second part of which was unfortunately never forthcoming. A real bummer for us fans. Maybe one of these days!
+No doubt one of his most popular entries of the year, Brian travels to North Carolina to the home of good friend Bill Webster of veggiemacabre.com to film an episode of Bill's new series "Beers with Movie Sauce". The conceipt is something like a hosted movie segment that you might have seen on a Saturday night on the USA network back in the 90's or early 2000's, where Bill comments on a favorite horror movie, and throws in a beer and hot sauce review as lagniappe. Bill's vids famously have great production values, and Brian knows movies like nobody else, so the team-up was sure to be a killer. Brian's selection, C.H.U.D. 2, made for some fun and funny discussion. Although the conversation started to drift a bit at the end, I was told this was only the first of a two-part review, the second part of which was unfortunately never forthcoming. A real bummer for us fans. Maybe one of these days!
 
 {{< vimeo 100430338 >}}
 
@@ -66,7 +66,7 @@ I don't know, it just seems like Brian really brings it whenever he's challenged
 
 ### [#1: My Zen Spot: Crawford Woods](http://www.reviewtheworld.com/2014/03/my-zen-spot-crawford-woods.html)
 
-The number one spot goes to another solo project, sort of a companion to the year-ending Neighborhood Tour video at number ten on my list. I might as well say that I don't prefer Brian's solo vids per se, just that there happened to be some really good ones this year. Also, this was Brian's contribution to what was to be a joint video project with buddy Bill of [veggiemacabre.com](http://veggiemacabre.com/), another theme that keeps popping up in this list. Crawford Woods is a spot well known to anyone familiar with Brian's work, the site of numerous short films and reviews. Here Brian goes from using it as backdrop to making it the star of the show, attempting to explain and even capture some of that magic that keeps drawing him back to this place. Along the way we get to hear him reminisce about days gone by and get a sense of the changes that life inevitably brings to people and places. The whole thing could be described in its way as a poignant tribute, but one that ends with the acknowledgement that is as yet unfinished, which is true, because I doubt we've seen the last of it.
+The number one spot goes to another solo project, sort of a companion to the year-ending Neighborhood Tour video at number ten on my list. I might as well say that I don't prefer Brian's solo vids per se, just that there happened to be some really good ones this year. Also, this was Brian's contribution to what was to be a joint video project with buddy Bill of veggiemacabre.com, another theme that keeps popping up in this list. Crawford Woods is a spot well known to anyone familiar with Brian's work, the site of numerous short films and reviews. Here Brian goes from using it as backdrop to making it the star of the show, attempting to explain and even capture some of that magic that keeps drawing him back to this place. Along the way we get to hear him reminisce about days gone by and get a sense of the changes that life inevitably brings to people and places. The whole thing could be described in its way as a poignant tribute, but one that ends with the acknowledgement that is as yet unfinished, which is true, because I doubt we've seen the last of it.
 
 {{< youtube I11enS0p5sQ >}}
 

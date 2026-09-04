@@ -108,7 +108,7 @@ I've noticed that the Bride of Frankenstein seems to be enjoying something of a 
 
 {{< figure class= "wp-caption alignnone" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150410-a-visit-to-collectors-crypt_FullSizeRender.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" caption="The Creature" >}}
 
-...much like the long neglected Creature From the Black Lagoon, whose line of merchandise now includes such oddities as [Halloween string lights](http://www.ebay.com/itm/Universal-Monsters-CREATURE-OF-THE-BLACK-LAGOON-STRING-LIGHT-SET-New-Gillman-/191028087158?pt=LH_DefaultDomain_0&amp;hash=item2c7a294976). Somebody there must be a real fan, because he gets a whole shelf dedicated exclusively to him.
+...much like the long neglected Creature From the Black Lagoon, whose line of merchandise now includes such oddities as Halloween string lights. Somebody there must be a real fan, because he gets a whole shelf dedicated exclusively to him.
 
 {{< figure class= "wp-caption alignnone" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150410-a-visit-to-collectors-crypt_FullSizeRender_2B31.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" caption="There's plenty of sci-fi memorabilia, too" >}}
 
@@ -152,6 +152,6 @@ Collector's Crypt is a spectacular place. There is nothing else even remotely li
 
 **CRAWL!**
 
-[{{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150410-a-visit-to-collectors-crypt_Screen_2BShot_2B2015-03-29_2Bat_2B12.14.36_2BAM.png/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}](https://www.facebook.com/CollectorsCrypt/)
+{{< figure class= "wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150410-a-visit-to-collectors-crypt_Screen_2BShot_2B2015-03-29_2Bat_2B12.14.36_2BAM.png/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
 ***LIKE!***

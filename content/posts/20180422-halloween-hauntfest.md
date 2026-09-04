@@ -161,18 +161,12 @@ Check it out!
 
 [hh]: http://halloweenandhaunt.com/ "The Halloween & Hauntfest Show"
 [dd]: http://www.dinosaurdracula.com/
-[ws]: http://halloweenandhaunt.com/halloween-hauntfest-announces-first-36-classes-2018/ "Halloween & Hauntfest 2018 Workshops"
-[ex]: http://halloweenandhaunt.com/extracurricular-activities/
 [tfw]: {{< ref "20150619-texas-frightmare-weekend.md" >}} "Texas Frightmare Weekend"
 [dds]: https://dementeddesignstudios.com/
 [kc]: https://www.youtube.com/watch?v=SzLHU6S4oic
 [rm]: http://www.reindeermanor.com/
 [ha]: http://thehauntedarmory.weebly.com/
-[isb]: https://www.facebook.com/In-Search-Of-Brains-Creature-Design-173638956402672/
 [tds]: https://www.imdb.com/title/tt2561546/
 [jv]: https://www.geeksofdoom.com/2015/02/13/13-things-didnt-know-friday-the-13th/jason-voorhees-burlap-sack-friday-the-13th
-[nb]: https://www.tribecafilm.com/stories/31-days-of-horror-philip-decker-david-cronenberg-nightbreed
 [sp]: http://theskullpumpkin.blogspot.com/
-[mm]: https://madlymadecreations.com/
-[mf]: https://www.facebook.com/MissingFingerProductions/
 [zs]: http://www.zombiesafari.net/

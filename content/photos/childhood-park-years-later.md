@@ -7,21 +7,21 @@ images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/dsc1354/fit=scale-do
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/dsc1354/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->
-I chose to revisit this place on an overcast Saturday morning at the end of July. Despite the initial lack of sun it was hot and muggy. Kassi and I are in training for a planned November hike. 
+I chose to revisit this place on an overcast Saturday morning at the end of July. Despite the initial lack of sun it was hot and muggy. Kassi and I are in training for a planned November hike.
 
-We hadn't visited this park in years. It was one we used to frequent quite often when the kids were little. Ever since my oldest was in diapers. Not having them with us, it felt weird. Oddly empty and quiet. 
+We hadn't visited this park in years. It was one we used to frequent quite often when the kids were little. Ever since my oldest was in diapers. Not having them with us, it felt weird. Oddly empty and quiet.
 
-At a few points along the path there are these concrete structures that span the banks of the creek. I'm not sure what the purpose of these are. Maybe they were supports for bridges that have since washed away. When the kids were younger we'd walk across them to the other side of the creek. It wasn't long before they blocked them off, though, for safety reasons. It was like that for probably 15 years or more. 
+At a few points along the path there are these concrete structures that span the banks of the creek. I'm not sure what the purpose of these are. Maybe they were supports for bridges that have since washed away. When the kids were younger we'd walk across them to the other side of the creek. It wasn't long before they blocked them off, though, for safety reasons. It was like that for probably 15 years or more.
 
 I noticed this time that the wagonwheel-like barrier they'd put up had been torn down and tossed into the creek. I can only imagine this was done recently, because I didn't see any graffiti covering the barrier on the opposite side of the creek, which was a sort of permanent feature before they blocked it off.
 
-We noticed a family with young kids walking barefoot in the shallow creekbed, as we did once. 
+We noticed a family with young kids walking barefoot in the shallow creekbed, as we did once.
 
 There has been a lot of construction in this area. New apartments. They're building a train line extension in the area that will run out to the airport. We found a section of the old trail that is now bypassed that looks like it might be the site of a homeless camp, or a place where teens gather to drink.
 
 <div id="mygallery">
-	<a class="swipebox" href="https://imagedelivery.net/zjmfzzanuqc_q5caqyu8nq/dsc1355/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-		<img src="https://imagedelivery.net/zjmfzzanuqc_q5caqyu8nq/dsc1355/fit=scale-down,w=400,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
+
+
 	<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/dsc1369/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
 		<img src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/dsc1369/fit=scale-down,w=400,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
 	<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/dsc1368/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">

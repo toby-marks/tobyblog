@@ -19,9 +19,9 @@ And oh, by the way, I met that guy in the picture above. Father Evil. He's from 
 
 {{< figure class="wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150619-texas-frightmare-weekend_IMG_2780.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
-The line on the right was for Elvira. It's really incredible the crowds she draws. And I am told by my friends at [Collector's Crypt](http://www.collectors-crypt.com/#!about/cazn) that she is a genuinely nice person. I didn't meet her, though.
+The line on the right was for Elvira. It's really incredible the crowds she draws. And I am told by my friends at Collector's Crypt that she is a genuinely nice person. I didn't meet her, though.
 
-Incidentally — I have no celeb pictures. The costs were pretty outrageous and I didn't want to stand in line that long. There were plenty of big names there and almost all were in attendance by Friday evening. It's said to be bad etiquette to snap sneaky pics of celebs at their tables, so I didn't. 
+Incidentally — I have no celeb pictures. The costs were pretty outrageous and I didn't want to stand in line that long. There were plenty of big names there and almost all were in attendance by Friday evening. It's said to be bad etiquette to snap sneaky pics of celebs at their tables, so I didn't.
 
 Instead, enjoy some of those curious folks who like to dress up in costume and attend horror conventions.
 
@@ -41,7 +41,7 @@ The convention floor was packed, but still spacious enough that you had room to 
 
 {{< figure class="wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150619-texas-frightmare-weekend_IMG_2782.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
-This magnificent piece, among many others, was from the folks at Collector's Crypt. [Take a look at my recent blog]({{< ref "20150410-a-visit-to-collectors-crypt.md" >}}) about their store. Such a wonderful place. 
+This magnificent piece, among many others, was from the folks at Collector's Crypt. [Take a look at my recent blog]({{< ref "20150410-a-visit-to-collectors-crypt.md" >}}) about their store. Such a wonderful place.
 
 {{< figure class="wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150619-texas-frightmare-weekend_IMG_2784.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
@@ -63,7 +63,7 @@ From a curious book called "South Texas Legends" that I should have bought as a 
 
 {{< figure class="wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150619-texas-frightmare-weekend_IMG_2835.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
-Although I had all evening to look around and play, unbelievably I ran out of time before getting a chance to explore the dark art exhibit. TFW is a huge show. The picture above is from an art dealer's booth on the main floor. 
+Although I had all evening to look around and play, unbelievably I ran out of time before getting a chance to explore the dark art exhibit. TFW is a huge show. The picture above is from an art dealer's booth on the main floor.
 
 {{< figure class="wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150619-texas-frightmare-weekend_IMG_2825.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
@@ -117,9 +117,9 @@ There were *lots* of bats.
 
 *[The Texas Triffid Ranch](http://www.txtriffidranch.com/)*
 
-Another one of my most anticipated dealer booths was the weird and wonderful Texas Triffid Ranch. The store specializes in all manner of exotic carnivorous plants, and also gives lectures for the curious. The proprietor was very enthusiastic about his work. An extremely knowledgeable and interesting guy. 
+Another one of my most anticipated dealer booths was the weird and wonderful Texas Triffid Ranch. The store specializes in all manner of exotic carnivorous plants, and also gives lectures for the curious. The proprietor was very enthusiastic about his work. An extremely knowledgeable and interesting guy.
 
-But was he high? 
+But was he high?
 
 My buddy seemed to think so, but I didn't get that to be honest.
 
@@ -149,5 +149,4 @@ Later that night it was time for the "Phantasm Ball" that I wrote about in my [P
 
 {{< figure class="wp-caption alignnone" alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20150619-texas-frightmare-weekend_IMG_2848.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
-Here's to [Texas Frightmare Weekend!](http://www.texasfrightmareweekend.com/) It'll be interesting to see what 2016 is like, as I heard it's set to take place the week after Wrestlemania. 
-
+Here's to Texas Frightmare Weekend! It'll be interesting to see what 2016 is like, as I heard it's set to take place the week after Wrestlemania.

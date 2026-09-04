@@ -155,7 +155,7 @@ I know we're not here to review presidential library architecture, but long befo
 
 - **Store:** [Nixon Library Museum Store](https://nixon.myshopify.com/)
 
-- **First Impressions:** Shockingly modern and well-designed website. The store has actual nice looking clothes and worthwhile memorabilia. You want a "Pretty girls for Nixon" [totebag](https://store.nixonfoundation.org/products/pretty-girls-for-nixon-tote)? How about an Elvis meets Nixon [Christmas tree ornament](https://store.nixonfoundation.org/collections/featured/products/nixon-elvis-ornament)? Not for you? Well then I bet [this book](https://store.nixonfoundation.org/collections/featured/products/the-nixon-conspiracy) all about how Watergate was a sham and deep state conspiracy to overthrow an elected president might interest you. (*\*Yeah, this is now an established fact.*)
+- **First Impressions:** Shockingly modern and well-designed website. The store has actual nice looking clothes and worthwhile memorabilia. You want a "Pretty girls for Nixon" [totebag](https://store.nixonfoundation.org/products/pretty-girls-for-nixon-tote)? How about an Elvis meets Nixon [Christmas tree ornament](https://store.nixonfoundation.org/collections/featured/products/nixon-elvis-ornament)? Not for you? Well then I bet this book all about how Watergate was a sham and deep state conspiracy to overthrow an elected president might interest you. (*\*Yeah, this is now an established fact.*)
 
 - **Best merch:** This really [sick can of mints](https://store.nixonfoundation.org/products/library-seal-mints?pr_prod_strat=e5_desc&pr_rec_id=c5eafeb5e&pr_rec_pid=8682249289960&pr_ref_pid=8346369982696&pr_seq=uniform) with the golden accents looks like it might have been ripped off of Trump's desk.
 
@@ -249,7 +249,7 @@ Library](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_202605
 <iframe width="100%" height="320" style="border:0;" loading="lazy" allowfullscreen 
 src="https://maps.google.com/maps?q=1000+George+Bush+Drive+West,+College+Station,+TX+77845&output=embed"></iframe>
 
-**Visit the store 🛍️:** [George Bush Museum Store](https://museumstore.com/)
+**Visit the store 🛍️:** George Bush Museum Store
 
 **First impressions:**  
 Looks promising at first, but lacks the depth of the top-ranked contenders in this category.

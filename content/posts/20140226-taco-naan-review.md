@@ -3,7 +3,7 @@ title = "Taco Naan Review"
 date = 2014-02-26T22:55:00Z
 description = "I hit a crazy new Indian/Mexican fusion restaurant"
 categories = ["reviews"]
-images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140226-taco-naan-review_Screen+Shot+2014-02-27+at+12.45.36+AM.png"]
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140226-taco-naan-review_Screen+Shot+2014-02-27+at+12.45.36+AM.png/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 {{< figure src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140226-taco-naan-review_Screen+Shot+2014-02-27+at+12.45.36+AM.png/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 

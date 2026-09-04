@@ -123,4 +123,4 @@ Little baby Jesus seemed the weakest part of the set, unfortunately. His head wa
 
 A different set, with a strikingly beautiful representation of the Blessed Virgin. The cradle on that day was vacant, filled only with decorative shrubbery. Too bad. Would have liked to have seen more of this set.
 
-Goodbye for now! Hope reading through all this has given you a little taste of holiday spirit, courtesy of the Holiday Warehouse. Like what you've seen? Here's a link [to the online store" src="http://www.holidaywarehouse.com/halloween/). More to come.
+Goodbye for now! Hope reading through all this has given you a little taste of holiday spirit, courtesy of the Holiday Warehouse. Like what you've seen? Here's a link to the online store. More to come.

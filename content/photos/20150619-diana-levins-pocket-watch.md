@@ -1,7 +1,7 @@
 +++
 title = "Diana Levin's Pocket Watch"
 date = 2015-06-19T21:27:00Z
-description = "![](https://imagedelivery.net/zJmFZzaNuqCQ5Caqyu8nQ/tobyblogimagesremoteblogspot46aa9915DSC04341.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-..."
+description = "![]("
 location = "Dallas, TX"
 camera = "my trusty Sony DSC-RX100"
 categories = ["photography"]
@@ -11,7 +11,7 @@ tags = ["halloween","conventions"]
 
 <!--more-->
 
-While in attendance at [Texas Frightmare Weekend]({{< ref "20150619-texas-frightmare-weekend.md" >}}) I picked up a small pocket watch as a souvenir for my daughter from the booth of Diana Levin. [Check out her gallery](https://www.ghoulishbunnystudios.com/) on her website. Or better yet, if you like what you see you can buy something from [her Etsy store.](https://www.etsy.com/shop/GhoulishBunnyStudios)
+While in attendance at [Texas Frightmare Weekend]({{< ref "20150619-texas-frightmare-weekend.md" >}}) I picked up a small pocket watch as a souvenir for my daughter from the booth of Diana Levin. [Check out her gallery](https://www.ghoulishbunnystudios.com/) on her website. Or better yet, if you like what you see you can buy something from her Etsy store.
 
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_ac6b1d0b_DSC04343.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 

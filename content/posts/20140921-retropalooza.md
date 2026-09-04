@@ -9,7 +9,7 @@ images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_2014
 +++
 {{< figure src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140921-retropalooza_IMG_2087.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3" >}}
 
-Yesterday I took the kids to the amazing [Retropalooza](http://retropalooza.net/) convention in Arlington, Texas, and boy did we have a blast! There were loads and loads of dealer tables with some very cool nostalgia items on display, classic and rare games galore, cosplayers, and even a few YouTube celebrities. Take a look at some of the fun things we discovered.
+Yesterday I took the kids to the amazing Retropalooza convention in Arlington, Texas, and boy did we have a blast! There were loads and loads of dealer tables with some very cool nostalgia items on display, classic and rare games galore, cosplayers, and even a few YouTube celebrities. Take a look at some of the fun things we discovered.
 
 <!--more-->
 
