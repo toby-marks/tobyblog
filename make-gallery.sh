@@ -43,11 +43,12 @@ echo ""
 echo "Step 1: Uploading photos to Cloudflare..."
 source ~/Projects/blog-photos/.venv/bin/activate
 TEMP_OUTPUT=$(mktemp)
-python ~/Projects/blog-photos/upload_photos_to_blog.py "$PHOTO_DIR" > "$TEMP_OUTPUT" 2>&1
+python ~/Projects/blog-photos/upload_photos_to_blog.py "$PHOTO_DIR" --no-post > "$TEMP_OUTPUT" 2>&1
 
-# Extract Cloudflare IDs from the output
-# Looking for lines like: "Uploaded: filename.jpg -> cloudflare-id"
-PHOTO_IDS=($(grep -oE '26-[0-9]{2}-[0-9]{5}' "$TEMP_OUTPUT" | sort -u))
+# Extract Cloudflare IDs from the output. Matches both:
+#   "Uploaded successfully. Cloudflare ID: <id>"
+#   "Image already exists in Cloudflare, using existing ID: <id>"
+PHOTO_IDS=($(grep -oE '(Cloudflare ID|using existing ID): [^[:space:]]+' "$TEMP_OUTPUT" | awk '{print $NF}' | sort -u))
 
 if [ ${#PHOTO_IDS[@]} -eq 0 ]; then
     echo "Error: No photos were uploaded. Upload output:"
