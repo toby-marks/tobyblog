@@ -1,0 +1,234 @@
+<!--
+Jukebox: renders the full track list from data/jukebox.json (produced by
+fetch_spotify_playlist.py) with a Spotify iFrame API player.
+
+Features:
+    - Click a track to load and play it immediately (user-gesture autoplay;
+      anonymous listeners get Spotify's 30s previews, logged-in Spotify
+      users get full tracks).
+    - Previous / next / shuffle controls.
+    - Continuous play: auto-advances when a track ends, honoring shuffle.
+
+Parameters:
+    playlist - (Optional) Spotify playlist ID, used only for the fallback
+               embed when data/jukebox.json is missing.
+    height   - (Optional) tracklist max height in px (default 480).
+
+Falls back to the native Spotify playlist embed when no data file exists, so
+pages using this shortcode never break.
+-->
+
+{{ $data := site.Data.jukebox }}
+{{ $playlistID := .Get "playlist" | default "2Sm7xsMO0FooUoxbNnYzpg" }}
+{{ $listHeight := .Get "height" | default 480 }}
+
+{{ if and $data $data.tracks }}
+{{ $uid := printf "jukebox-%d" .Ordinal }}
+{{ $trackURIs := slice }}
+{{ range $data.tracks }}{{ $trackURIs = $trackURIs | append (printf "spotify:track:%s" .id) }}{{ end }}
+<div id="{{ $uid }}" class="my-6 rounded-lg border border-soft-amber bg-warm-brown p-4 not-prose">
+  <div class="mb-3 flex flex-wrap items-baseline gap-x-3">
+    <span class="font-heading text-pumpkin text-xl">{{ $data.name }}</span>
+    <span class="font-meta text-muted-auburn text-sm">{{ $data.track_count }} tracks</span>
+    {{ with $data.url }}
+    <a href="{{ . }}" class="ml-auto text-sm" target="_blank" rel="noopener">Open in Spotify</a>
+    {{ end }}
+  </div>
+  <div class="jukebox-stage">
+    {{ with $data.image }}
+    <img data-jukebox-art src="{{ . }}" alt="{{ $data.name }} cover art" width="300" height="300" class="jukebox-art" />
+    {{ end }}
+    <div class="jukebox-stage-player">
+      <div class="overflow-hidden rounded-md">
+    <div data-jukebox-player></div>
+    <div class="jukebox-controls flex items-center justify-center gap-6 px-3 py-2">
+      <button type="button" data-jukebox-prev title="Previous track" aria-label="Previous track" class="jukebox-btn">
+        <svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20" aria-hidden="true"><path d="M5 4h2v16H5V4z"/><path d="M19 4l-10 8 10 8V4z"/></svg>
+      </button>
+      <button type="button" data-jukebox-shuffle title="Shuffle" aria-label="Shuffle" aria-pressed="false" class="jukebox-btn">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" width="20" height="20" aria-hidden="true"><path d="M2 18h1.4c1.3 0 2.5-.6 3.3-1.7l6.1-8.6c.8-1.1 2-1.7 3.3-1.7H22"/><path d="m18 2 4 4-4 4"/><path d="M2 6h1.9c1.5 0 2.9.9 3.6 2.2"/><path d="M22 18h-5.9c-1.3 0-2.6-.7-3.3-1.8l-.5-.8"/><path d="m18 14 4 4-4 4"/></svg>
+      </button>
+      <button type="button" data-jukebox-next title="Next track" aria-label="Next track" class="jukebox-btn">
+        <svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20" aria-hidden="true"><path d="M5 4l10 8-10 8V4z"/><path d="M17 4h2v16h-2V4z"/></svg>
+      </button>
+    </div>
+      </div>
+    </div>
+  </div>
+  <ul class="mt-3 max-h-[{{ $listHeight }}px] list-none overflow-y-auto p-0">
+    {{ range $i, $t := $data.tracks }}
+    {{ $secs := div $t.duration_ms 1000 | int }}
+    <li class="m-0 p-0">
+      <button type="button" data-track-id="{{ $t.id }}"
+          {{ if eq $i 0 }}aria-current="true"{{ end }}
+          class="jukebox-track flex w-full cursor-pointer items-center gap-3 rounded-md p-2 text-left {{ if eq $i 0 }}bg-transparent-pumpkin{{ end }} hover:bg-transparent-pumpkin">
+        <span class="w-7 shrink-0 text-right font-meta text-sm text-subdued-copper">{{ $t.number }}.</span>
+        <span class="min-w-0">
+          <span class="block truncate text-warm-gray">{{ $t.name }}</span>
+          <span class="block truncate text-sm text-muted-auburn">{{ delimit $t.artists ", " }}</span>
+        </span>
+        <span class="ml-auto shrink-0 pl-2 font-meta text-sm text-muted-auburn">{{ div $secs 60 | int }}:{{ printf "%02d" (mod $secs 60) }}</span>
+      </button>
+    </li>
+    {{ end }}
+  </ul>
+</div>
+<script>
+(function () {
+  var root = document.getElementById({{ $uid | jsonify | safeJS }});
+  if (!root) return;
+
+  var tracks = {{ $trackURIs | jsonify | safeJS }};
+  var rows = root.querySelectorAll("[data-track-id]");
+  var playOrder = tracks.map(function (_, i) { return i; });
+  var cursor = 0;
+  var shuffle = false;
+  var controller = null;
+  var hasPlayed = false;
+  var pendingPlayUri = null;
+  var ignoreEndUntil = 0;
+
+  function currentRow() { return rows[playOrder[cursor]]; }
+
+  function highlight(scroll) {
+    rows.forEach(function (t) {
+      t.classList.remove("bg-transparent-pumpkin");
+      t.removeAttribute("aria-current");
+    });
+    var el = currentRow();
+    el.classList.add("bg-transparent-pumpkin");
+    el.setAttribute("aria-current", "true");
+    if (scroll) el.scrollIntoView({ block: "nearest" });
+  }
+
+  function trackUrl(i) {
+    return "https://open.spotify.com/track/" + tracks[i].split(":")[2] + "?theme=0";
+  }
+
+  function playCurrent(scroll) {
+    hasPlayed = false;
+    pendingPlayUri = tracks[playOrder[cursor]];
+    ignoreEndUntil = Date.now() + 2000;
+    highlight(scroll);
+    if (!controller) return;
+    controller.loadEntity(trackUrl(playOrder[cursor]));
+    /* Immediate play works when the track is already loaded; otherwise the
+       playback_update handler below starts it once the load lands. */
+    controller.play();
+  }
+
+  function next() {
+    cursor = (cursor + 1) % playOrder.length;
+    playCurrent(true);
+  }
+
+  function prev() {
+    cursor = (cursor - 1 + playOrder.length) % playOrder.length;
+    playCurrent(true);
+  }
+
+  function toggleShuffle(btn) {
+    shuffle = !shuffle;
+    btn.setAttribute("aria-pressed", shuffle ? "true" : "false");
+    btn.classList.toggle("jukebox-shuffle-on", shuffle);  /* Spotify green when on */
+    var currentTrack = playOrder[cursor];
+    if (shuffle) {
+      var rest = tracks.map(function (_, i) { return i; })
+        .filter(function (i) { return i !== currentTrack; });
+      for (var i = rest.length - 1; i > 0; i--) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var tmp = rest[i]; rest[i] = rest[j]; rest[j] = tmp;
+      }
+      playOrder = [currentTrack].concat(rest);
+      cursor = 0;
+    } else {
+      playOrder = tracks.map(function (_, i) { return i; });
+      cursor = currentTrack;
+    }
+  }
+
+  function onUpdate(e) {
+    if (!e || !e.data) return;
+    var d = e.data;
+    if (!d.isPaused) hasPlayed = true;
+    /* Autoplay: the requested track has loaded (paused) -- start it now,
+       while the click's transient user activation is still valid. */
+    if (pendingPlayUri && d.playingURI === pendingPlayUri && d.isPaused && !d.isBuffering) {
+      pendingPlayUri = null;
+      controller.play();
+      return;
+    }
+    /* Continuous play: advance when the current track ends. */
+    if (Date.now() < ignoreEndUntil) return;
+    if (hasPlayed && d.isPaused && d.duration > 0 && d.position >= d.duration - 1000) {
+      ignoreEndUntil = Date.now() + 2000;
+      next();
+    }
+  }
+
+  function init(IFrameAPI) {
+    var el = root.querySelector("[data-jukebox-player]");
+    IFrameAPI.createController(el, {
+      url: trackUrl(playOrder[cursor]),
+      width: "100%",
+      height: 152
+    }, function (c) {
+      controller = c;
+      /* Chrome requires allow="autoplay" on the iframe for gesture-driven
+         programmatic playback; the API-created iframe may lack it. */
+      var iframe = el.querySelector("iframe");
+      if (iframe) {
+        iframe.setAttribute("allow", "autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture");
+      }
+      controller.addListener("playback_update", onUpdate);
+      controller.addListener("ready", function () {
+        if (pendingPlayUri) controller.play();
+      });
+    });
+  }
+
+  rows.forEach(function (el, i) {
+    el.addEventListener("click", function () {
+      cursor = playOrder.indexOf(i);
+      playCurrent(false);  /* clicked row is already visible; don't scroll */
+    });
+  });
+  root.querySelector("[data-jukebox-prev]").addEventListener("click", prev);
+  root.querySelector("[data-jukebox-next]").addEventListener("click", next);
+  var shuffleBtn = root.querySelector("[data-jukebox-shuffle]");
+  shuffleBtn.addEventListener("click", function () { toggleShuffle(shuffleBtn); });
+
+  /* Register with the Spotify iFrame API, tolerating multiple jukebox
+     instances and any load ordering. */
+  window.__jukeboxQueue = window.__jukeboxQueue || [];
+  if (window.__spotifyIframeAPI) {
+    init(window.__spotifyIframeAPI);
+    return;
+  }
+  window.__jukeboxQueue.push(init);
+  var prevReady = window.onSpotifyIframeApiReady;
+  window.onSpotifyIframeApiReady = function (IFrameAPI) {
+    if (prevReady) prevReady(IFrameAPI);
+    window.__spotifyIframeAPI = IFrameAPI;
+    window.__jukeboxQueue.forEach(function (fn) { fn(IFrameAPI); });
+    window.__jukeboxQueue = [];
+  };
+
+  /* Load the iFrame API once per page. Done client-side because shortcode
+     content is evaluated for multiple render passes (HTML, RSS, etc.), so a
+     server-side once-per-page guard is unreliable. */
+  if (!document.querySelector("script[data-spotify-iframe-api]")) {
+    var s = document.createElement("script");
+    s.src = "https://open.spotify.com/embed/iframe-api/v1";
+    s.setAttribute("data-spotify-iframe-api", "");
+    document.head.appendChild(s);
+  }
+})();
+</script>
+{{ else }}
+{{/* Fallback: native playlist embed until data/jukebox.json exists. */}}
+<iframe src="https://open.spotify.com/embed/playlist/{{ $playlistID }}?utm_source=generator"
+    width="100%" height="480" frameborder="0"
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+    loading="lazy"></iframe>
+{{ end }}

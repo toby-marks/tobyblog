@@ -65,6 +65,11 @@ jobs:
           restore-keys: hugo-
       - name: Configure Git
         run: git config core.quotepath false
+      - name: Refresh Spotify jukebox data
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+        run: python3 fetch_spotify_playlist.py
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache

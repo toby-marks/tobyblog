@@ -1,0 +1,32 @@
+<!--
+imgc: centered image at natural size (no full-bleed stretch).
+For images smaller than the content column that should sit centered
+instead of stretched edge-to-edge like photographs.
+
+Parameters (named):
+    src     - (Required) image URL
+    alt     - (Optional) alt text
+    caption - (Optional) caption below the image
+    width   - (Optional) width attribute
+    height  - (Optional) height attribute
+
+Parameters (positional): src, alt, caption
+
+Example:
+    imgc src="https://example.com/small.png" alt="A small icon"
+    imgc src="…" alt="…" caption="Not much to look at, honestly."
+-->
+
+{{ if .IsNamedParams }}
+<figure class="img-center">
+  <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" loading="lazy"
+      {{ with .Get "width" }}width="{{ . }}"{{ end }}
+      {{ with .Get "height" }}height="{{ . }}"{{ end }} />
+  {{ with .Get "caption" }}<figcaption>{{ . }}</figcaption>{{ end }}
+</figure>
+{{ else }}
+<figure class="img-center">
+  <img src="{{ .Get 0 }}" alt="{{ .Get 1 }}" loading="lazy" />
+  {{ with .Get 2 }}<figcaption>{{ . }}</figcaption>{{ end }}
+</figure>
+{{ end }}

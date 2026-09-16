@@ -1,7 +1,6 @@
 +++
 title = "Crypt of the Voodoo Queen (Part 1)"
-date = 2015-02-20T05:31:00Z
-updated = 2015-02-20T05:31:20Z
+date = 2026-09-08T00:31:00Z
 draft = true
 blogimport = true 
 [author]
