@@ -3,9 +3,9 @@ title = 'Welcome…?'
 description = 'In which I suggest you leave a comment'
 tags = []
 date = '2026-09-16T15:35:03.829725Z'
-draft = true
+draft = false
 categories = []
-lastmod = '2026-09-16T15:41:28.308330Z'
+lastmod = '2026-09-16T15:49:40.438563Z'
 
 +++
 
