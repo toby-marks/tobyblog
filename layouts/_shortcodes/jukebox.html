@@ -8,6 +8,13 @@ Features:
       users get full tracks).
     - Previous / next / shuffle controls.
     - Continuous play: auto-advances when a track ends, honoring shuffle.
+      End of track is detected several ways (the embed's behavior varies):
+      playback_started re-firing for the same entity, position reaching the
+      duration, position wrapping to ~0 (silent loop), a paused update at/after
+      the end, and a watchdog timer in case the event stream goes silent at
+      the end (observed in Chrome). Events for anything but the current track
+      are ignored to prevent premature double-advances. Set DEBUG below to
+      trace events to the console.
 
 Parameters:
     playlist - (Optional) Spotify playlist ID, used only for the fallback
@@ -85,8 +92,45 @@ pages using this shortcode never break.
   var shuffle = false;
   var controller = null;
   var hasPlayed = false;
-  var pendingPlayUri = null;
-  var ignoreEndUntil = 0;
+  var pendingPlayKey = null;
+  var pendingPlaySetAt = 0;
+  var startedKey = null;
+  var startedAt = 0;
+  /* End-of-track tracking: the embed may loop the track (position wraps to
+     ~0 while playing), stop paused at the end, or stop with position reset.
+     sawNearEnd remembers that we observed playback within END_WINDOW_MS of
+     the duration so any of those endings can be recognized. */
+  var lastPos = 0;
+  var sawNearEnd = false;
+  /* Watchdog: the embed can go completely silent at end-of-track (observed:
+     final update is playing at position == duration, then nothing -- no
+     paused event, no wrap, no playback_started). When playback is seen near
+     the end, arm a timer so we advance even if no further event arrives. */
+  var endWatchdog = null;
+  /* A completed track can surface more than one way; the lock stops us
+     advancing twice for a single ending. */
+  var advanceLockUntil = 0;
+  var DEBUG = false;  /* true = trace playback events to the console */
+  var advanceCount = 0;
+  var lastAdvance = "";
+  var debugEl = root.querySelector("[data-jukebox-debug]");
+  function dbg(msg) {
+    if (!DEBUG) return;
+    var suffix = "  |  cursor=#" + (cursor + 1) + "  adv=" + advanceCount +
+      (lastAdvance ? "  last=" + lastAdvance : "");
+    if (debugEl) debugEl.textContent = msg + suffix;
+    console.log("[jukebox]", msg + suffix);
+  }
+  /* playback_update fires roughly once per second, so the end window has to
+     be wider than one tick or it gets stepped over entirely. */
+  var END_WINDOW_MS = 2500;
+  /* Ignore playback_started repeats this soon after a start (load churn). */
+  var RESTART_GRACE_MS = 5000;
+  var ADVANCE_LOCK_MS = 2000;
+  /* Max age of a pending autoplay request before it is abandoned. */
+  var PENDING_PLAY_TTL_MS = 15000;
+  /* Extra time past the expected end before the watchdog takes over. */
+  var WATCHDOG_GRACE_MS = 3000;
 
   function currentRow() { return rows[playOrder[cursor]]; }
 
@@ -105,10 +149,27 @@ pages using this shortcode never break.
     return "https://open.spotify.com/track/" + tracks[i].split(":")[2] + "?theme=0";
   }
 
+  /* Events may report the entity as either a spotify: URI or an
+     open.spotify.com URL, so compare on the trailing track ID only. */
+  function trackKey(uri) {
+    if (!uri) return "";
+    var parts = String(uri).split("?")[0].split(/[:/]/);
+    return parts[parts.length - 1];
+  }
+
   function playCurrent(scroll) {
     hasPlayed = false;
-    pendingPlayUri = tracks[playOrder[cursor]];
-    ignoreEndUntil = Date.now() + 2000;
+    lastPos = 0;
+    sawNearEnd = false;
+    clearTimeout(endWatchdog);
+    pendingPlayKey = trackKey(tracks[playOrder[cursor]]);
+    pendingPlaySetAt = Date.now();
+    /* Pre-seed the started key so a later playback_started for this same
+       track reads as a completion, even if the initial start event never
+       reaches us (autoplay blocked, event dropped, etc.). */
+    startedKey = pendingPlayKey;
+    startedAt = Date.now();
+    advanceLockUntil = Date.now() + ADVANCE_LOCK_MS;
     highlight(scroll);
     if (!controller) return;
     controller.loadEntity(trackUrl(playOrder[cursor]));
@@ -147,22 +208,118 @@ pages using this shortcode never break.
     }
   }
 
+  /* Fires when the event stream went silent past the expected end time. */
+  function onEndWatchdog() {
+    if (!sawNearEnd) return;  /* paused or changed tracks since arming */
+    sawNearEnd = false;
+    advance("watchdog-end");
+  }
+
+  function advance(reason) {
+    if (Date.now() < advanceLockUntil) return;
+    advanceLockUntil = Date.now() + ADVANCE_LOCK_MS;
+    advanceCount++;
+    lastAdvance = reason + "@#" + (cursor + 1);
+    dbg("ADVANCE (" + reason + ")");
+    next();
+  }
+
+  /* Primary end-of-track signal. The embed loops a single track once it
+     finishes, and per the iFrame API docs playback_started "also fires if the
+     playback was restarted after it was completed" -- so seeing the entity we
+     already started come back around means the song ended. */
+  function onStarted(e) {
+    if (!e || !e.data) return;
+    var key = trackKey(e.data.playingURI);
+    if (!key) return;
+    /* Ignore stale starts for anything but the current track (the embed can
+       emit late events for the previous track while the next one loads). */
+    if (key !== trackKey(tracks[playOrder[cursor]])) return;
+    dbg("started " + key);
+    hasPlayed = true;
+    if (key === pendingPlayKey) pendingPlayKey = null;  /* playback began */
+    if (key !== startedKey) {
+      startedKey = key;
+      startedAt = Date.now();
+      return;
+    }
+    /* Too soon after the start: duplicate event from load churn, not a loop. */
+    if (Date.now() - startedAt < RESTART_GRACE_MS) return;
+    advance("restarted-after-completion");
+  }
+
   function onUpdate(e) {
     if (!e || !e.data) return;
     var d = e.data;
-    if (!d.isPaused) hasPlayed = true;
-    /* Autoplay: the requested track has loaded (paused) -- start it now,
-       while the click's transient user activation is still valid. */
-    if (pendingPlayUri && d.playingURI === pendingPlayUri && d.isPaused && !d.isBuffering) {
-      pendingPlayUri = null;
-      controller.play();
+    dbg("update " + (d.isPaused ? "paused" : "playing") + " pos=" +
+        Math.round(d.position / 1000) + "/" + Math.round(d.duration / 1000) +
+        "s uri=" + trackKey(d.playingURI) + (d.isBuffering ? " buf" : ""));
+
+    /* Autoplay handshake: when the requested track has loaded (paused),
+       start it while the click's transient user activation is still valid.
+       CRITICAL: clear the flag as soon as the track is actually playing (or
+       the request goes stale) -- otherwise the first genuine pause later on
+       (e.g. the end of the track) gets swallowed here and replayed instead
+       of being treated as a track ending. */
+    if (pendingPlayKey && trackKey(d.playingURI) === pendingPlayKey) {
+      if (!d.isPaused) {
+        pendingPlayKey = null;
+      } else if (!d.isBuffering) {
+        pendingPlayKey = null;
+        controller.play();
+        return;
+      }
+    }
+    if (pendingPlayKey && Date.now() - pendingPlaySetAt > PENDING_PLAY_TTL_MS) pendingPlayKey = null;
+
+    /* Ignore stale updates for anything but the current track. Without this,
+       a late "position == duration" update for the track we just advanced
+       AWAY from immediately triggers another (premature) advance. */
+    if (trackKey(d.playingURI) !== trackKey(tracks[playOrder[cursor]])) return;
+
+    if (!d.isPaused) {
+      hasPlayed = true;
+      if (d.duration > 0 && d.position >= d.duration) {
+        /* Position hit/passed the duration while still "playing": over. */
+        sawNearEnd = false;
+        clearTimeout(endWatchdog);
+        advance("reached-end");
+        return;
+      }
+      if (d.duration > 0 && d.position >= d.duration - END_WINDOW_MS) {
+        sawNearEnd = true;
+        clearTimeout(endWatchdog);
+        endWatchdog = setTimeout(onEndWatchdog, (d.duration - d.position) + WATCHDOG_GRACE_MS);
+      }
+      /* Loop restart: position wrapped back toward the start while playing.
+         (Also fires if the user manually seeks back right at the end -- an
+         acceptable tradeoff, since music embeds have no seek UI.) */
+      if (sawNearEnd && d.position + 2000 < lastPos) {
+        sawNearEnd = false;
+        clearTimeout(endWatchdog);
+        advance("position-wrapped");
+        return;
+      }
+      lastPos = d.position;
       return;
     }
-    /* Continuous play: advance when the current track ends. */
-    if (Date.now() < ignoreEndUntil) return;
-    if (hasPlayed && d.isPaused && d.duration > 0 && d.position >= d.duration - 1000) {
-      ignoreEndUntil = Date.now() + 2000;
-      next();
+
+    /* Paused by the user or by the embed: silence the watchdog either way. */
+    clearTimeout(endWatchdog);
+    /* If we had reached the end while playing, this pause is the embed
+     stopping after completion (position may reset to 0 or sit at the end,
+     so don't re-check it here). Note this also fires on a manual pause
+     within the last END_WINDOW_MS of a track -- acceptable, since the
+     song was effectively over. */
+    if (hasPlayed && sawNearEnd) {
+      sawNearEnd = false;
+      advance("stopped-after-end");
+      return;
+    }
+    /* Fallback: halted right at the end without a prior near-end sample. */
+    if (hasPlayed && !d.isBuffering && d.duration > 0 &&
+        d.position >= d.duration - END_WINDOW_MS) {
+      advance("paused-at-end");
     }
   }
 
@@ -181,8 +338,9 @@ pages using this shortcode never break.
         iframe.setAttribute("allow", "autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture");
       }
       controller.addListener("playback_update", onUpdate);
+      controller.addListener("playback_started", onStarted);
       controller.addListener("ready", function () {
-        if (pendingPlayUri) controller.play();
+        if (pendingPlayKey) controller.play();
       });
     });
   }
