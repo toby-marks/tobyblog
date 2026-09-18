@@ -15,7 +15,9 @@ Improvements over the stock template:
   // discussions from 'localhost:1313' on the Disqus account.
   if (window.location.hostname == "localhost") return;
 
-  var shortname = {{ . | jsonify }};
+  {{/* safeJS is required: without it, html/template re-quotes jsonify's
+      already-quoted output and the embed URL ends up with literal quotes. */}}
+  var shortname = {{ . | jsonify | safeJS }};
   var loaded = false;
 
   function loadDisqus() {
@@ -26,6 +28,12 @@ Improvements over the stock template:
     s.async = true;
     s.src = "https://" + shortname + ".disqus.com/embed.js";
     s.setAttribute("data-timestamp", +new Date());
+    // If the embed can't load (network error, ad-blocker), release the
+    // reserved space so it doesn't sit as a permanent blank box.
+    s.onerror = function () {
+      var t = document.getElementById("disqus_thread");
+      if (t) t.style.minHeight = "0";
+    };
     (document.head || document.body).appendChild(s);
   }
 
