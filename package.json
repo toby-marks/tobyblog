@@ -5,9 +5,12 @@
   "main": "index.js",
   "scripts": {
     "create": "hugo new",
+    "predev": "python3 update_imagedims.py",
     "dev": "hugo server --noHTTPCache --templateMetrics --templateMetricsHints",
+    "predev:drafts": "python3 update_imagedims.py",
     "dev:drafts": "hugo server --disableFastRender --noHTTPCache --buildDrafts",
     "format": "prettier **/** -w -c",
+    "prebuild": "python3 update_imagedims.py",
     "build": "hugo --minify --gc --templateMetrics --templateMetricsHints",
     "preview": "vite preview --outDir public",
     "clean:build": "shx rm -rf public resources .hugo_build.lock",

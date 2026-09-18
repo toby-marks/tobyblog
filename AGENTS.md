@@ -50,6 +50,12 @@ python3 check_broken_images.py
 # Check external links (images, embeds, article links) in content
 python3 check_broken_links.py            # add --limit 200 for a quick sample
 
+# Update data/imagedims.json (width/height for every imagedelivery.net URL in
+# content; used by the render-image hook and gallery shortcode to emit
+# width/height attrs for CLS). Runs automatically via npm predev/prebuild
+# hooks; run by hand after bulk-importing content outside the npm workflow.
+python3 update_imagedims.py
+
 # Extract all tags from content
 ./show_tags.sh
 

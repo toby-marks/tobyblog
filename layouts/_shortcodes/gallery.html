@@ -11,6 +11,8 @@ Frontmatter expects an array param (default key: "gallery"):
   thumb = "https://..."    # thumbnail (optional)
   caption = "..."          # optional
   alt = "..."              # optional
+  width = 1600             # optional; intrinsic image width
+  height = 900             # optional; intrinsic image height
 
 If thumb is omitted and the URL contains a Cloudflare width parameter (w=...), a thumbnail is derived
 by swapping width.
@@ -50,9 +52,40 @@ Optional shortcode params:
           {{ $full = replaceRE "w=[0-9]+" "w=2200" $full }}
         {{ end }}
 
+        {{/* Tile dimensions, first match wins: explicit frontmatter width/height;
+            data/imagedims.json (by thumb URL, else full-size URL -- same aspect);
+            a cached GetRemote probe. The attrs let the browser reserve each
+            tile's box before load, so tb-masonry's relayouts stop shifting. */}}
+        {{ $w := 0 }}
+        {{ $h := 0 }}
+        {{ if and .width .height }}
+          {{ $w = .width }}
+          {{ $h = .height }}
+        {{ else }}
+          {{ with or (index hugo.Data.imagedims $thumb) (index hugo.Data.imagedims $src) }}
+            {{ $w = index . 0 }}
+            {{ $h = index . 1 }}
+          {{ else }}
+            {{ $r := try (resources.GetRemote $thumb) }}
+            {{ if $r.Err }}
+              {{ warnidf $thumb "gallery: fetch failed for %s: %s" $thumb $r.Err }}
+            {{ else }}
+              {{ with $r.Value }}
+                {{ $dims := try (slice .Width .Height) }}
+                {{ if $dims.Err }}
+                  {{ warnidf $thumb "gallery: unreadable dimensions for %s (run update_imagedims.py): %s" $thumb $dims.Err }}
+                {{ else }}
+                  {{ $w = index $dims.Value 0 }}
+                  {{ $h = index $dims.Value 1 }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+
         <a class="tb-masonry__item swipebox" href="{{ $full }}" rel="{{ $rel }}" title="{{ $caption }}" data-caption="{{ $caption }}">
           <div class="tb-masonry__content">
-            <img src="{{ $thumb }}" alt="{{ $alt }}" loading="lazy" decoding="async" />
+            <img src="{{ $thumb }}" alt="{{ $alt }}"{{ if gt $w 0 }} width="{{ $w }}" height="{{ $h }}"{{ end }} loading="lazy" decoding="async" />
           </div>
         </a>
       {{ end }}

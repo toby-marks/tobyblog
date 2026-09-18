@@ -1,0 +1,40 @@
+{{- /*
+Render hook for Markdown images (![alt](src "title")).
+
+CLS fix: images rendered from Cloudflare Image Delivery URLs get explicit
+width/height attributes so the browser reserves the correct box before the
+image arrives. Dimensions come from data/imagedims.json (built by
+update_imagedims.py), because many of the source JPEGs use subsampling that
+Go's decoder cannot read. URLs missing from the registry (e.g. brand-new
+content before the script has run) fall back to a cached resources.GetRemote
+probe; failures render without dimensions, exactly as before.
+*/ -}}
+{{- $src := .Destination -}}
+{{- $alt := .Text | plainify -}}
+{{- $w := 0 -}}
+{{- $h := 0 -}}
+{{- if hasPrefix $src "https://imagedelivery.net/" -}}
+  {{- with index hugo.Data.imagedims $src -}}
+    {{- $w = index . 0 -}}
+    {{- $h = index . 1 -}}
+  {{- else -}}
+    {{- $r := try (resources.GetRemote $src) -}}
+    {{- if $r.Err -}}
+      {{- warnidf $src "render-image: fetch failed for %s: %s" $src $r.Err -}}
+    {{- else -}}
+      {{- with $r.Value -}}
+        {{- $dims := try (slice .Width .Height) -}}
+        {{- if $dims.Err -}}
+          {{- warnidf $src "render-image: unreadable dimensions for %s (run update_imagedims.py): %s" $src $dims.Err -}}
+        {{- else -}}
+          {{- $w = index $dims.Value 0 -}}
+          {{- $h = index $dims.Value 1 -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+<img src="{{ $src | safeURL }}" alt="{{ $alt }}"
+  {{- with .Title }} title="{{ . }}"{{ end -}}
+  {{- if gt $w 0 }} width="{{ $w }}" height="{{ $h }}"{{ end }}
+  loading="lazy" decoding="async" />

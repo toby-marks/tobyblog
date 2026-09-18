@@ -1,0 +1,50 @@
+{{/*
+Override of Hugo's internal Disqus template (a file at
+layouts/_partials/disqus.html takes precedence over _internal/disqus.html).
+Improvements over the stock template:
+  1. Reserves vertical space (min-height) so the late-loading embed doesn't
+     shove the footer down when it renders (CLS).
+  2. Lazy-loads embed.js via IntersectionObserver, so Disqus only loads when
+     the thread approaches the viewport instead of on every page load.
+*/}}
+{{ with site.Config.Services.Disqus.Shortname }}
+<div id="disqus_thread" style="min-height: 320px"></div>
+<script>
+(function () {
+  // Don't inject Disqus on localhost -- it creates unwanted
+  // discussions from 'localhost:1313' on the Disqus account.
+  if (window.location.hostname == "localhost") return;
+
+  var shortname = {{ . | jsonify }};
+  var loaded = false;
+
+  function loadDisqus() {
+    if (loaded) return;
+    loaded = true;
+    var s = document.createElement("script");
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = "https://" + shortname + ".disqus.com/embed.js";
+    s.setAttribute("data-timestamp", +new Date());
+    (document.head || document.body).appendChild(s);
+  }
+
+  var thread = document.getElementById("disqus_thread");
+  if (thread && "IntersectionObserver" in window) {
+    var io = new IntersectionObserver(function (entries) {
+      for (var i = 0; i < entries.length; i++) {
+        if (entries[i].isIntersecting) {
+          io.disconnect();
+          loadDisqus();
+          break;
+        }
+      }
+    }, { rootMargin: "600px" });
+    io.observe(thread);
+  } else {
+    loadDisqus();
+  }
+})();
+</script>
+<noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
+{{ end }}
