@@ -20,8 +20,6 @@ We noticed a family with young kids walking barefoot in the shallow creekbed, as
 There has been a lot of construction in this area. New apartments. They're building a train line extension in the area that will run out to the airport. We found a section of the old trail that is now bypassed that looks like it might be the site of a homeless camp, or a place where teens gather to drink.
 
 <div id="mygallery">
-
-
 	<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/dsc1369/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
 		<img src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/dsc1369/fit=scale-down,w=400,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
 	<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/dsc1368/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
