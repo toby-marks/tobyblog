@@ -130,6 +130,7 @@ h6 {
 }
 
 h2 {
+  font-size: 2rem; /* fallback for Safari < 16.4 (no lh unit support) */
   @apply font-heading text-[1.3lh] font-normal not-italic;
 }
 
@@ -272,11 +273,13 @@ figure {
 
 figure figcaption,
 figure figcaption p {
+  font-size: 0.9rem; /* fallback for Safari < 16.4 (no lh unit support) */
   @apply font-meta text-copper-brown mt-3 mr-auto mb-5 ml-auto text-center text-[0.6lh] italic;
 }
 
 article .postmeta,
 article .continue {
+  font-size: 0.9rem; /* fallback for Safari < 16.4 (no lh unit support) */
   @apply text-muted-auburn font-meta text-[0.6lh];
 }
 
@@ -646,7 +649,9 @@ article.photo .title {
   @apply font-heading;
   font-weight: 400;
   font-style: normal;
+  font-size: 2rem; /* fallback for Safari < 16.4 (no lh unit support) */
   font-size: 1.3lh;
+  line-height: 1;
   line-height: 1.3lh;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5);
   border-top: 1px solid rgba(255, 211, 100, 0.15);
@@ -677,6 +682,7 @@ article.video {
 
 .pagination,
 .pagination a {
+  font-size: 1.125rem; /* fallback for Safari < 16.4 (no lh unit support) */
   @apply font-heading text-pumpkin text-[0.75lh] font-normal not-italic;
 }
 
