@@ -21,7 +21,7 @@
     "@thulite/seo": "^2.4.4",
     "prettier": "^3.9.10",
     "prettier-plugin-tailwindcss": "^0.8.1",
-    "tailwindcss": "^4.3.2",
+    "tailwindcss": "^4.3.5",
     "thulite": "^3.0.3"
   },
   "devDependencies": {
