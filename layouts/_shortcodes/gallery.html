@@ -1,6 +1,9 @@
 {{/*
 Shortcode: gallery
-Renders a Behance-like masonry grid (CSS grid + JS sizing) that opens in a swipebox lightbox.
+Renders a justified photo wall (justified-gallery v4) that opens in a swipebox lightbox.
+
+The wall is laid out client-side: layouts/_partials/custom_javascript.html imports the
+library and initialises every `.tb-jg` container.
 
 Usage:
   {{< gallery >}}
@@ -14,8 +17,8 @@ Frontmatter expects an array param (default key: "gallery"):
   width = 1600             # optional; intrinsic image width
   height = 900             # optional; intrinsic image height
 
-If thumb is omitted and the URL contains a Cloudflare width parameter (w=...), a thumbnail is derived
-by swapping width.
+If thumb is omitted and the URL contains a Cloudflare width parameter (w=...), a
+thumbnail is derived by swapping width.
 
 Optional shortcode params:
   key: param name (default: "gallery")
@@ -30,15 +33,30 @@ Optional shortcode params:
 {{ else }}
   {{ $rel := printf "gallery-%s" .Page.File.ContentBaseName }}
 
-  <div class="tb-masonry" data-rel="{{ $rel }}">
-    {{ range $images }}
-      {{ $src := or .src .url }}
+  {{/* Row height sets the wall's rhythm and bounds every tile's width, which is
+     what the srcset `sizes` estimate below is derived from. Keep it in sync with
+     the rowHeight in layouts/_partials/custom_javascript.html. */}}
+  {{ $rowHeight := 280 }}
+
+  {{/* srcset rungs, produced by swapping the w= parameter of the Cloudflare URL. */}}
+  {{ $rungs := slice 480 768 1080 1440 }}
+
+  <div class="tb-jg justified-gallery">
+    {{ range $i, $e := $images }}
+      {{ $src := or $e.src $e.url }}
       {{ if $src }}
-        {{ $caption := or .caption "" }}
-        {{ $alt := or .alt .caption "" }}
+        {{/* Placeholder captions ("Photo 1", "Photo 2", ...) carry no information,
+           so they are dropped outright: no hover overlay, no lightbox title, and
+           no alt text announcing "Photo 12". */}}
+        {{ $caption := or $e.caption "" }}
+        {{ $isPlaceholder := or (eq $caption "") (gt (len (findRE "^Photo [0-9]+$" $caption)) 0) }}
+        {{ $caption = "" }}
+        {{ if not $isPlaceholder }}{{ $caption = or $e.caption "" }}{{ end }}
+        {{ $alt := "" }}
+        {{ if $caption }}{{ $alt = or $e.alt $caption }}{{ end }}
 
         {{/* Prefer explicit thumb, otherwise derive from Cloudflare width. */}}
-        {{ $thumb := or .thumb "" }}
+        {{ $thumb := or $e.thumb "" }}
         {{ if and (not $thumb) (findRE "w=[0-9]+" $src) }}
           {{ $thumb = replaceRE "w=[0-9]+" "w=900" $src }}
         {{ end }}
@@ -54,13 +72,15 @@ Optional shortcode params:
 
         {{/* Tile dimensions, first match wins: explicit frontmatter width/height;
             data/imagedims.json (by thumb URL, else full-size URL -- same aspect);
-            a cached GetRemote probe. The attrs let the browser reserve each
-            tile's box before load, so tb-masonry's relayouts stop shifting. */}}
+            a cached GetRemote probe. These attributes are what let the browser
+            reserve each tile's box, and what justified-gallery reads (via
+            waitThumbnailsLoad: false) to lay the wall out without waiting for a
+            single thumbnail to download. */}}
         {{ $w := 0 }}
         {{ $h := 0 }}
-        {{ if and .width .height }}
-          {{ $w = .width }}
-          {{ $h = .height }}
+        {{ if and $e.width $e.height }}
+          {{ $w = $e.width }}
+          {{ $h = $e.height }}
         {{ else }}
           {{ with or (index hugo.Data.imagedims $thumb) (index hugo.Data.imagedims $src) }}
             {{ $w = index . 0 }}
@@ -83,10 +103,37 @@ Optional shortcode params:
           {{ end }}
         {{ end }}
 
-        <a class="tb-masonry__item swipebox" href="{{ $full }}" rel="{{ $rel }}" title="{{ $caption }}" data-caption="{{ $caption }}">
-          <div class="tb-masonry__content">
-            <img src="{{ $thumb }}" alt="{{ $alt }}"{{ if gt $w 0 }} width="{{ $w }}" height="{{ $h }}"{{ end }} loading="lazy" decoding="async" />
-          </div>
+        {{/* Responsive candidates. Only possible when the URL carries a w= we can
+           swap; without one the plain src is used as before.
+
+           `sizes` errs deliberately high. A justified row is never taller than
+           rowHeight, so aspect * rowHeight is an upper bound on a tile's rendered
+           width, and on phones a tile can be at most the full viewport. The exact
+           per-tile width is written back once the wall has laid out, so this only
+           has to be good enough for the first pick. */}}
+        {{ $srcset := "" }}
+        {{ $sizes := "" }}
+        {{ if findRE "w=[0-9]+" $thumb }}
+          {{ $candidates := slice }}
+          {{ range $rungs }}
+            {{ $candidates = $candidates | append (printf "%s %dw" (replaceRE "w=[0-9]+" (printf "w=%d" .) $thumb) .) }}
+          {{ end }}
+          {{ $srcset = delimit $candidates ", " }}
+          {{ if gt $w 0 }}
+            {{ $sizes = printf "(max-width: 639px) 100vw, %dpx" (int (math.Round (mul $rowHeight (div (float $w) (float $h))))) }}
+          {{ else }}
+            {{ $sizes = "(max-width: 639px) 100vw, 33vw" }}
+          {{ end }}
+        {{ end }}
+
+        <a class="swipebox" href="{{ $full }}"
+          {{- with $caption }} title="{{ . }}" data-caption="{{ . }}"{{ end }}>
+          <img src="{{ $thumb }}"
+            {{- with $srcset }} srcset="{{ . }}" sizes="{{ $sizes }}"{{ end }}
+            alt="{{ $alt }}"
+            {{- if gt $w 0 }} width="{{ $w }}" height="{{ $h }}"{{ end }}
+            {{- if eq $i 0 }} loading="eager" fetchpriority="high"{{ else }} loading="lazy"{{ end }}
+            decoding="async" />
         </a>
       {{ end }}
     {{ end }}

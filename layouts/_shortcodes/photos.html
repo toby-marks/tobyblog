@@ -1,0 +1,102 @@
+{{/*
+Shortcode: photos
+Renders the post's photographs as block-level images in the document flow, so prose
+and pictures alternate down one column the way a photo essay does. Nothing is
+gridded, cropped or justified: each photograph keeps its own aspect ratio and is a
+little wider than the text measure (see .photo-post in assets/css/main.css).
+
+Because the images live in the flow, this shortcode can be called more than once in
+a post to place photographs between paragraphs rather than in a single block.
+
+Usage:
+  {{< photos >}}                 # uses the frontmatter array "photos"
+  {{< photos key="shots" >}}     # or another array name
+
+Frontmatter:
+  [[photos]]
+  src = "https://imagedelivery.net/..."   # Cloudflare Image Delivery URL
+  alt = "..."                             # optional
+  caption = "..."                         # optional
+
+Everything else is derived from src by swapping its Cloudflare w= parameter, so a
+single URL per photograph is enough.
+*/}}
+
+{{ $key := "photos" }}
+{{ with .Get "key" }}{{ $key = . }}{{ end }}
+
+{{ $items := index .Page.Params $key }}
+{{ if not $items }}
+  <p>No photos found for gallery param <code>{{ $key }}</code>.</p>
+{{ else }}
+  {{/* Ladder for a slot that is 840px wide on desktop and the full viewport on a
+     phone. 840 covers DPR 1 exactly and 1680 covers DPR 2 exactly; 1200 catches a
+     DPR 3 phone. Keep in sync with .photo-post in assets/css/main.css. */}}
+  {{ $rungs := slice 480 840 1200 1680 }}
+
+  <div class="photo-stack">
+    {{ range $i, $e := $items }}
+      {{ $src := or $e.src $e.url }}
+      {{ if $src }}
+        {{ $caption := or $e.caption "" }}
+        {{ $alt := or $e.alt $caption "" }}
+
+        {{/* The inline image is a mid rung; the lightbox gets a large one. */}}
+        {{ $thumb := $src }}
+        {{ $full := $src }}
+        {{ if findRE "w=[0-9]+" $src }}
+          {{ $thumb = replaceRE "w=[0-9]+" "w=840" $src }}
+          {{ $full = replaceRE "w=[0-9]+" "w=2200" $src }}
+        {{ end }}
+
+        {{/* Intrinsic dimensions, for reserving the box before load. Same lookup
+           order as the gallery shortcode: registry first, cached probe second. */}}
+        {{ $w := 0 }}
+        {{ $h := 0 }}
+        {{ if and $e.width $e.height }}
+          {{ $w = $e.width }}
+          {{ $h = $e.height }}
+        {{ else }}
+          {{ with index hugo.Data.imagedims $src }}
+            {{ $w = index . 0 }}
+            {{ $h = index . 1 }}
+          {{ else }}
+            {{ $r := try (resources.GetRemote $src) }}
+            {{ if $r.Err }}
+              {{ warnidf $src "photos: fetch failed for %s: %s" $src $r.Err }}
+            {{ else }}
+              {{ with $r.Value }}
+                {{ $dims := try (slice .Width .Height) }}
+                {{ if $dims.Err }}
+                  {{ warnidf $src "photos: unreadable dimensions for %s (run update_imagedims.py): %s" $src $dims.Err }}
+                {{ else }}
+                  {{ $w = index $dims.Value 0 }}
+                  {{ $h = index $dims.Value 1 }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+
+        {{ $srcset := "" }}
+        {{ if findRE "w=[0-9]+" $src }}
+          {{ $candidates := slice }}
+          {{ range $rungs }}
+            {{ $candidates = $candidates | append (printf "%s %dw" (replaceRE "w=[0-9]+" (printf "w=%d" .) $src) .) }}
+          {{ end }}
+          {{ $srcset = delimit $candidates ", " }}
+        {{ end }}
+
+        <a class="swipebox" href="{{ $full }}"
+          {{- with $caption }} title="{{ . }}"{{ end }}>
+          <img src="{{ $thumb }}"
+            {{- with $srcset }} srcset="{{ . }}" sizes="(max-width: 780px) 100vw, 840px"{{ end }}
+            alt="{{ $alt }}"
+            {{- if gt $w 0 }} width="{{ $w }}" height="{{ $h }}"{{ end }}
+            {{- if eq $i 0 }} loading="eager" fetchpriority="high"{{ else }} loading="lazy"{{ end }}
+            decoding="async" />
+        </a>
+      {{ end }}
+    {{ end }}
+  </div>
+{{ end }}

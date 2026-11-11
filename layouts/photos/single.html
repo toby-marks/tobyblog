@@ -5,7 +5,7 @@
 </header>
 
   <main class="content photo">
-    <article class="post">
+    <article class="post photo-post">
       <!-- Hidden H1 for Pagefind search results -->
       <h1 data-pagefind-meta="title" style="position: absolute; left: -10000px; top: auto; width: 1px; height: 1px; overflow: hidden;">{{ .Title }}</h1>
       
@@ -17,9 +17,7 @@
         {{ with .Params.camera }} with {{ . }}{{ end }}
       </div>
 
-      <p>
-        {{ .Content }}
-      </p>
+      {{ .Content }}
 
       {{ partial "disqus.html" . }}
 

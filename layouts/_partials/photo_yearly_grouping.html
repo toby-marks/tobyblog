@@ -9,8 +9,7 @@
   </script>
   <!-- search bar -->
 
-  <article class="post-groups">
-    <div class="post-group">
+  <article class="post-groups photo-index">
     {{ $galleries := where .Site.RegularPages "Section" "galleries" }}
     {{ $combined := slice }}
     {{ range .Pages }}
@@ -20,19 +19,48 @@
       {{ $combined = $combined | append . }}
     {{ end }}
     {{ $sorted := sort $combined "Date" "desc" }}
+
+    {{/* A contact sheet: uniform 3:2 covers grouped by year. An index wants order
+       and scannability rather than per-photo fidelity, so covers are cropped to a
+       single shape while the gallery pages themselves never crop. */}}
+    {{ $coverRungs := slice 480 780 1024 1560 }}
+
     {{ range $sorted.GroupByDate "2006" }}
-      <div class="post-group-item">
+      <section class="tb-cover-year">
         <h3>{{ .Key }}</h3>
-        <ul>
+        <div class="tb-cover-grid">
           {{ range .Pages }}
-            <li>
-                <a rel="full-article" href="{{ .Permalink }}">{{ .Title }}</a>
-                on <time datetime="{{ .Date }}" pubdate="">{{ .Date.Format "January 2" }}</time>
-            </li>
+            {{ $page := . }}
+            {{ $cover := "" }}
+            {{ with $page.Params.images }}{{ $cover = index . 0 }}{{ end }}
+
+            {{/* Same Cloudflare w= swap as the gallery wall. */}}
+            {{ $srcset := "" }}
+            {{ if and $cover (findRE "w=[0-9]+" $cover) }}
+              {{ $candidates := slice }}
+              {{ range $coverRungs }}
+                {{ $candidates = $candidates | append (printf "%s %dw" (replaceRE "w=[0-9]+" (printf "w=%d" .) $cover) .) }}
+              {{ end }}
+              {{ $srcset = delimit $candidates ", " }}
+            {{ end }}
+
+            <a class="tb-cover" rel="full-article" href="{{ $page.Permalink }}">
+              {{ with $cover }}
+                <span class="tb-cover__frame">
+                  <img src="{{ . }}"
+                    {{- with $srcset }} srcset="{{ . }}" sizes="(max-width: 639px) calc(50vw - 18px), (max-width: 1023px) calc(33.33vw - 20px), 260px"{{ end }}
+                    alt="" loading="lazy" decoding="async" />
+                </span>
+              {{ end }}
+              <span class="tb-cover__title">{{ $page.Title }}</span>
+              <span class="tb-cover__meta">
+                <time datetime='{{ $page.Date.Format "2006-01-02" }}' pubdate="">{{ $page.Date.Format "January 2" }}</time>
+                {{- with $page.Params.location }} · {{ . }}{{ end }}
+              </span>
+            </a>
           {{ end }}
-        </ul>
-      </div>
+        </div>
+      </section>
     {{ end }}
-    </div>
   </article>
 </main>

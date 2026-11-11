@@ -2,6 +2,7 @@
 title = "A Hike to This Year's Plano Balloon Fest"
 description = "Our long distance parking space assures we don't have to deal with traffic."
 date = "2026-09-24T13:51:09-05:00"
+location = "Plano, TX"
 categories = ["photography"]
 draft = false
 

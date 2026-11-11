@@ -3,12 +3,13 @@
 
 <main class="content">
   <article class="gallery-post">
-    <header class="gallery-header">
-      <h2><a rel="full-article" href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    <header class="gallery-masthead">
+      <h2>{{ .Title }}</h2>
 
-      <div class="postmeta">
-        <span>Gallery posted on </span>
+      <div class="gallery-meta">
         <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate="">{{ .Date.Format "January 2, 2006" }}</time>
+        {{- with .Params.location }}<span class="gallery-meta__sep">·</span>{{ . }}{{ end }}
+        {{- with .Params.gallery }}<span class="gallery-meta__sep">·</span>{{ len . }}{{ if eq (len .) 1 }} photo{{ else }} photos{{ end }}{{ end }}
       </div>
 
       {{ with .Params.description }}
@@ -16,9 +17,13 @@
       {{ end }}
     </header>
 
-    {{ .Content }}
+    <div class="gallery-stage">
+      {{ .Content }}
+    </div>
 
-    {{ partial "disqus.html" . }}
+    <div class="gallery-outro">
+      {{ partial "disqus.html" . }}
+    </div>
   </article>
 </main>
 

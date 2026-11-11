@@ -3,49 +3,131 @@
 {{ end }}
 <script src="/js/lightbox-plus-jquery.min.js"></script>
 <script src="/js/jquery.swipebox.min.js"></script>
-<script src="/js/jquery.justifiedGallery.min.js"></script>
-<script src="/js/tb-masonry.js"></script>
+
+{{/* justified-gallery v4 ships as an ES module with no jQuery plugin and no global,
+     so it is imported by the module below instead of loaded as a classic script. */}}
+<script type="module">
+  import { JustifiedGallery } from "{{ "js/justified-gallery.js" | relURL }}";
+
+  var $ = window.jQuery;
+
+  // Our images are Cloudflare transform URLs ending in "...q=0.9,
+  // slow-connection-quality=0.3". The library's default sizeRangeSuffixes would
+  // read that trailing ".3" as a file extension and rewrite every src to "_b",
+  // "_z" and so on, so pin the map to one empty suffix: always use the URL that
+  // is in the markup.
+  var NO_SUFFIXES = { 0: "" };
+
+  // Lightbox. swipebox reads only the anchor's href and preloads neighbours from
+  // it. removeBarsOnMobile keeps the title bar, which carries our counter, on iOS
+  // where swipebox otherwise deletes it.
+  function bindLightbox(container) {
+    var links = Array.prototype.slice.call(container.querySelectorAll("a.swipebox"));
+    if (!links.length || !$) return;
+
+    $(links).swipebox({
+      removeBarsOnMobile: false,
+      afterMedia: function (index) {
+        // afterMedia also fires for preloaded neighbours, so only the current
+        // slide is allowed to drive the title bar.
+        if (!$("#swipebox-slider .slide").eq(index).hasClass("current")) return;
+
+        var caption = links[index] ? links[index].getAttribute("data-caption") || "" : "";
+        var $title = $("#swipebox-title").empty();
+        if (caption) $title.append(document.createTextNode(caption + " "));
+        $title.append($('<span class="tb-lb-counter"></span>').text((index + 1) + " / " + links.length));
+        $("#swipebox-top-bar").show();
+      },
+    });
+  }
+
+  // Scroll reveal. Transform-only, applied to the tile, so it never competes with
+  // the library's own opacity fade. Tiles already on screen are marked done up
+  // front so nothing moves under the reader's eye.
+  function startReveal(el) {
+    if (el.dataset.tbJgReveal || !("IntersectionObserver" in window)) return;
+    if (window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+
+    el.dataset.tbJgReveal = "1";
+    el.classList.add("tb-jg-reveal");
+
+    var observer = new IntersectionObserver(function (records) {
+      records.forEach(function (record) {
+        if (!record.isIntersecting) return;
+        record.target.classList.add("tb-jg-in");
+        observer.unobserve(record.target);
+      });
+    }, { rootMargin: "0px 0px -5% 0px" });
+
+    el.querySelectorAll("a").forEach(function (tile) {
+      var box = tile.getBoundingClientRect();
+      if (box.top < window.innerHeight && box.bottom > 0) {
+        tile.classList.add("tb-jg-in");
+      } else {
+        observer.observe(tile);
+      }
+    });
+  }
+
+  // Gallery pages: a justified photo wall. Every tile carries width/height from
+  // data/imagedims.json, so the wall lays out immediately instead of waiting for
+  // thumbnails, which is what keeps loading="lazy" useful on a 60-photo gallery.
+  document.querySelectorAll(".tb-jg").forEach(function (el) {
+    var gallery = new JustifiedGallery(el, {
+      rowHeight: 280,
+      margins: 8,
+      lastRow: "nojustify",
+      captions: false,
+      waitThumbnailsLoad: false,
+      sizeRangeSuffixes: NO_SUFFIXES,
+      triggerEvent: function (name) {
+        var event = String(name);
+        if (event !== "jg.complete" && event !== "jg.resize") return;
+
+        // Each tile now has a measured width, so replace the build-time `sizes`
+        // estimate with the real one. Images that have not loaded yet pick their
+        // rung from this; ones already in flight are unaffected.
+        el.querySelectorAll("a").forEach(function (tile) {
+          var img = tile.querySelector("img");
+          var width = tile.dataset.jgJwidth;
+          if (img && width) img.setAttribute("sizes", width + "px");
+        });
+
+        if (event === "jg.complete") {
+          el.dataset.tbJgReady = "1";
+          startReveal(el);
+        }
+      },
+    });
+
+    gallery.init();
+
+    // The failsafe below only needs to know whether this module ever ran, so mark
+    // that as soon as init() has returned. Clear its class in case it fired while
+    // this module was still downloading.
+    el.dataset.tbJgStarted = "1";
+    el.classList.remove("tb-jg-fallback");
+
+    bindLightbox(el);
+  });
+
+  // Photo posts: the photographs sit in the prose flow, so there is no layout to
+  // compute here -- only the lightbox to bind. This is the last consumer of the
+  // old #mygallery markup, which the gallery shortcode has replaced.
+  document.querySelectorAll(".photo-stack").forEach(bindLightbox);
+</script>
 
 <script language="javascript">
   (function () {
-    function initTbJustified($el) {
-      if (!$el || !$el.length) return;
-      if ($el.data("tbGalleryInit")) return;
-      $el.data("tbGalleryInit", true);
-
-      var rowHeight = parseInt($el.data("rowHeight") || "150", 10);
-      var margins = parseInt($el.data("margins") || "10", 10);
-      var rel = $el.data("rel") || "gallery1";
-
-      $el.justifiedGallery({
-        rowHeight: rowHeight,
-        lastRow: "justify",
-        rel: rel,
-        margins: margins,
-      }).on("jg.complete", function () {
-        $el.find("a.swipebox").swipebox();
+    // Failsafe. The .justified-gallery stylesheet keeps tiles hidden until the
+    // library has positioned them, so if the module above never runs (modules
+    // blocked, load error, thrown error) the wall would stay invisible. Reveal it
+    // instead. Keyed on "did the module start", not "did it finish", so a slow
+    // layout on a large gallery is never mistaken for a failure.
+    window.setTimeout(function () {
+      document.querySelectorAll(".tb-jg").forEach(function (el) {
+        if (!el.dataset.tbJgStarted) el.classList.add("tb-jg-fallback");
       });
-    }
-
-    function initTbMasonry(el) {
-      if (!el) return;
-
-      if (window.TB_Masonry && typeof window.TB_Masonry.init === "function") {
-        window.TB_Masonry.init(el);
-      }
-
-      // swipebox is a jQuery plugin; bind for just this gallery
-      $(el).find("a.swipebox").swipebox();
-    }
-
-    // Back-compat: older photo posts use id="mygallery".
-    $("#mygallery").each(function () {
-      initTbJustified($(this));
-    });
-
-    // New galleries use masonry.
-    document.querySelectorAll(".tb-masonry").forEach(function (el) {
-      initTbMasonry(el);
-    });
+    }, 3000);
   })();
 </script>

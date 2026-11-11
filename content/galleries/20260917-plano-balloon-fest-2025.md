@@ -2,6 +2,7 @@
 title = "Plano Balloon Fest 2025"
 description = "More from last year's Plano Balloon Festival, with shots of the actual balloons."
 date = "2026-09-17T16:37:20-05:00"
+location = "Plano, TX"
 categories = ["photography"]
 draft = false
 

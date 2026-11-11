@@ -2,6 +2,7 @@
 title = "The 2026 Plano Balloon Festival"
 description = "This year featured a new balloon and festival mascot — the Sasquatch."
 date = "2026-09-24T14:14:12-05:00"
+location = "Plano, TX"
 categories = ["photography"]
 draft = false
 

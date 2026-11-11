@@ -3,4 +3,23 @@
 {{ end }}
 <link rel="stylesheet" href="/css/lightbox.min.css" />
 <link rel="stylesheet" href="/css/swipebox.min.css" />
-<link rel="stylesheet" href="/css/justifiedGallery.min.css" />
+<link rel="stylesheet" href="/css/justified-gallery.css" />
+<noscript><style>
+  /* justified-gallery hides its entries until JS positions them. With scripting
+     off there is no layout pass at all, so show the tiles as a plain grid. */
+  .justified-gallery > a {
+    position: static !important;
+    opacity: 1 !important;
+    display: inline-block;
+    width: 48%;
+    margin: 0 1% 1% 0;
+    vertical-align: top;
+  }
+  .justified-gallery > a > img {
+    position: static !important;
+    opacity: 1 !important;
+    width: 100% !important;
+    height: auto !important;
+    margin: 0 !important;
+  }
+</style></noscript>

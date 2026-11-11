@@ -253,11 +253,11 @@ article.gallery-post,
 .post > p,
 .page > p,
 .video > p,
-.gallery-post > p {
+.gallery-stage > p {
   @apply text-warm-gray mt-4 mb-4 text-left text-lg/6;
 }
 
-.gallery-post > p {
+.gallery-stage > p {
   max-width: 60ch;
   @apply mr-auto ml-auto;
 }
@@ -356,9 +356,7 @@ article {
 }
 
 article img,
-div#mygallery,
-div.tb-gallery,
-div.tb-masonry {
+div.tb-gallery {
   margin-left: -20px;
   margin-right: -20px;
   width: calc(100% + 40px);
@@ -414,88 +412,147 @@ div.tb-masonry {
 }
 
 /* ====== GALLERIES (new content type) ====== */
+/* Portfolio treatment. Galleries deliberately break the blog's card layout: a
+   full-bleed stage on a solid warm-brown ground, so the photos carry the page
+   instead of a translucent card competing with them. Regular posts keep the
+   card. */
 article.gallery-post {
-  /* deliberately a different vibe than normal posts */
   @apply mt-5 mb-5;
-  background: rgba(0, 0, 0, 0.6);
-  @apply backdrop-blur-sm;
-  @apply outline-warm-parchment-haze rounded-2xl outline-3 outline-offset-1 outline-solid;
+  background: var(--color-warm-brown);
+  max-width: none;
+  margin-inline: 0;
+  padding: 0;
+  border-radius: 0;
   overflow: hidden;
-  max-width: 1100px;
-  margin-inline: auto;
-  padding: 20px;
 }
 
-article.gallery-post .gallery-header {
+.gallery-masthead {
+  max-width: 720px;
+  margin-inline: auto;
+  padding: 32px 20px 4px;
   @apply text-center;
 }
 
+.gallery-meta {
+  @apply font-meta text-copper-brown;
+  font-size: 0.85rem;
+  margin-top: 4px;
+}
+
+.gallery-meta__sep {
+  padding: 0 0.5em;
+  opacity: 0.6;
+}
+
 article.gallery-post .gallery-description {
-  @apply text-warm-gray mt-4 mb-6 text-lg/6;
+  @apply text-warm-gray mt-4 mb-2 text-lg/6;
 }
 
-/* ====== Behance-like masonry grid (new) ====== */
-.tb-masonry {
+/* The stage spans the body width (body width, not 100vw, so there is no scrollbar
+   overflow). Tile gutters come from the library's own border/margins, so the wall
+   reads flush without the tiles touching the screen edge. */
+.gallery-stage {
+  padding: 0;
+}
+
+.gallery-outro {
+  max-width: 720px;
+  margin-inline: auto;
+  padding: 8px 20px 24px;
+}
+
+/* ====== Justified photo wall (justified-gallery) ====== */
+.tb-jg {
   margin-top: 14px;
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-  grid-auto-rows: 10px; /* masonry sizing unit; JS computes spans */
-  gap: 10px;
 }
 
-.tb-masonry__item {
-  display: block;
-  position: relative;
-  border-radius: 16px;
-  overflow: hidden;
-}
-
-/* Undo the global full-bleed image rule for masonry thumbs */
-.tb-masonry img {
+/* Cancel the global full-bleed image rule. The library sizes and centres each
+   tile's image itself (inline width/height and negative margins), and figures
+   dropped into a gallery must not overflow a stage that has no padding. */
+.gallery-stage img {
   margin-left: 0;
   margin-right: 0;
-  width: 100%;
   max-width: 100%;
-  height: auto;
-  display: block;
 }
 
-.tb-masonry__content {
-  /* gives us a stable element to measure for row-span */
-  display: block;
+.tb-jg > a {
+  border-radius: 4px;
 }
 
-.tb-masonry__item img {
-  transition:
-    transform 220ms ease,
-    filter 220ms ease;
-  transform: scale(1);
-  filter: saturate(1) contrast(1.02);
+/* Caption overlay and hover zoom: pointer devices only, and only for photos that
+   actually carry a caption (placeholders are stripped at build time). */
+@media (hover: hover) {
+  .tb-jg > a > img {
+    transition:
+      transform 220ms ease,
+      filter 220ms ease;
+    filter: saturate(1) contrast(1.02);
+  }
+
+  .tb-jg > a:hover > img {
+    transform: scale(1.03);
+    filter: saturate(1.06) contrast(1.06);
+  }
+
+  .tb-jg > a[data-caption]::after {
+    content: attr(data-caption);
+    position: absolute;
+    inset: auto 0 0 0;
+    padding: 10px 12px;
+    font-family: var(--font-meta);
+    font-size: 0.75rem;
+    line-height: 1.1;
+    color: rgba(245, 233, 213, 0.95);
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0));
+    opacity: 0;
+    transition: opacity 180ms ease;
+    pointer-events: none;
+  }
+
+  .tb-jg > a[data-caption]:hover::after {
+    opacity: 1;
+  }
 }
 
-.tb-masonry__item:hover img {
-  transform: scale(1.03);
-  filter: saturate(1.06) contrast(1.06);
+/* Scroll reveal: transform-only, on the tile, so it never competes with the
+   library's own opacity fade. The class is added by JS, so if the script never
+   runs the tiles are never offset in the first place. */
+@media (prefers-reduced-motion: no-preference) {
+  .tb-jg-reveal > a {
+    transform: translateY(8px);
+    transition: transform 700ms cubic-bezier(0.2, 0.7, 0.2, 1);
+  }
+
+  .tb-jg-reveal > a.tb-jg-in {
+    transform: none;
+  }
 }
 
-/* Caption overlay (desktop hover; uses data-caption) */
-.tb-masonry__item::after {
-  content: attr(data-caption);
-  position: absolute;
-  inset: auto 0 0 0;
-  padding: 10px 12px;
-  font-family: var(--font-meta);
-  font-size: 0.75rem;
-  line-height: 1.1;
-  color: rgba(245, 233, 213, 0.95);
-  background: linear-gradient(to top, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0));
-  opacity: 0;
-  transition: opacity 180ms ease;
-  pointer-events: none;
+/* Failsafe: the library's stylesheet keeps tiles hidden until it has positioned
+   them, so reveal them as a plain grid if the module never ran. Mirrors the
+   <noscript> block in custom_stylesheets.html. */
+.tb-jg-fallback > a {
+  position: static !important;
+  opacity: 1 !important;
+  display: inline-block;
+  width: 30%;
+  margin: 0 8px 8px 0;
+  vertical-align: top;
 }
 
-.tb-masonry__item:hover::after {
-  opacity: 1;
+.tb-jg-fallback > a > img {
+  position: static !important;
+  opacity: 1 !important;
+  width: 100% !important;
+  height: auto !important;
+  margin: 0 !important;
+}
+
+/* Lightbox counter */
+.tb-lb-counter {
+  @apply font-meta;
+  font-size: 0.8rem;
+  opacity: 0.7;
 }
 
 /* ====== Justified gallery (legacy/back-compat) ====== */
@@ -633,6 +690,79 @@ article.photo img:hover {
   transform: scale3d(1.2, 1.2, 1); /* subtle zoom, no rotate */
 }
 
+/* ====== PHOTO POSTS: prose and photographs alternating in one column ====== */
+/* Modelled on the c-heads.com article layout. The prose keeps a comfortable
+   measure; each photograph is 20% wider and centered on it, so the pictures
+   overhang the text on both sides without ever being cropped or gridded. The
+   overhang needs 880px of card to fit, so below that the pictures and the prose
+   simply come out the same width instead of forcing a horizontal scroll. */
+.photo-post {
+  --tb-photo-measure: 700px; /* the text column */
+  --tb-photo-bleed: 0px; /* (1.2 - 1) / 2 * measure: how far pictures overhang */
+  max-width: calc(var(--tb-photo-measure) + 2 * var(--tb-photo-bleed) + 40px);
+}
+
+@media (min-width: 881px) {
+  .photo-post {
+    --tb-photo-bleed: 70px;
+  }
+}
+
+/* Prose, headings and metadata hold the measure, centered in the wider card. */
+.photo-post > p,
+.photo-post > h2,
+.photo-post > .postmeta,
+.photo-post > ul,
+.photo-post > ol,
+.photo-post > blockquote,
+.photo-post > figure {
+  max-width: var(--tb-photo-measure);
+  margin-inline: auto;
+}
+
+/* Inside a photo post every picture is measured against the column, not the
+   viewport, so the global full-bleed rule (article img) must not reach them. */
+.photo-post img {
+  margin-left: 0;
+  margin-right: 0;
+  max-width: 100%;
+}
+
+/* A photograph on a line of its own (the lead image, say) overhangs the measure
+   exactly like the photo stack does, so the two line up. */
+.photo-post p > img:only-child {
+  width: calc(100% + 2 * var(--tb-photo-bleed));
+  max-width: none;
+  margin-left: calc(-1 * var(--tb-photo-bleed));
+}
+
+/* Photographs fill the card's content box, which is 120% of the measure. */
+.photo-stack {
+  max-width: calc(var(--tb-photo-measure) + 2 * var(--tb-photo-bleed));
+  margin-inline: auto;
+}
+
+.photo-stack a {
+  display: block;
+  text-decoration: none;
+}
+
+.photo-stack img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin: 0;
+  /* Keep the native aspect ratio: unlike the card thumbnails, photographs in a
+     post are never cropped to a fixed shape. */
+  aspect-ratio: auto;
+  object-fit: fill;
+}
+
+.photo-stack a + a {
+  margin-top: clamp(20px, 3vw, 40px);
+}
+
 /* Title overlay: parchment + amber/pumpkin text */
 article.photo .title {
   /* replace light band with warm translucent bar over the image */
@@ -751,15 +881,10 @@ div#search {
 }
 
 @media screen and (max-width: 780px) {
-  /* Galleries: single-column portfolio layout on mobile */
-  .tb-masonry {
-    grid-template-columns: 1fr;
-    gap: 18px;
-  }
-
-  /* Captions only in lightbox on mobile */
-  .tb-masonry__item::after {
-    content: none;
+  /* The menu is a flex row (see .menu > ul), which cannot wrap by default, so a
+     menu wider than the screen used to push the whole page sideways. */
+  .menu > ul {
+    flex-wrap: wrap;
   }
 
   nav ul {
@@ -781,8 +906,7 @@ div#search {
     border-top: none;
   }
 
-  .post,
-  .gallery-post {
+  .post {
     margin: 20px auto 20px auto;
   }
 
@@ -807,4 +931,79 @@ div#search {
     width: 100%;
     max-width: 100%;
   }
+}
+
+/* ====== PHOTOS INDEX: contact sheet of collections ====== */
+.photo-index {
+  max-width: 1100px;
+  margin-inline: auto;
+}
+
+.tb-cover-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+@media (min-width: 640px) {
+  .tb-cover-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1024px) {
+  .tb-cover-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+.tb-cover {
+  display: block;
+  text-decoration: none;
+}
+
+.tb-cover__frame {
+  display: block;
+  aspect-ratio: 3 / 2;
+  overflow: hidden;
+  border-radius: 6px;
+  background: rgba(0, 0, 0, 0.35);
+}
+
+.tb-cover__frame img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: 100%;
+  margin: 0;
+  object-fit: cover;
+}
+
+.tb-cover__title {
+  display: block;
+  margin-top: 6px;
+  font-family: var(--font-heading);
+  font-weight: 400;
+  font-size: 1.05rem;
+  line-height: 1.15;
+  color: var(--color-deep-goldenrod);
+}
+
+.tb-cover:hover .tb-cover__title {
+  color: var(--color-amber-glow);
+}
+
+.tb-cover__meta {
+  display: block;
+  font-family: var(--font-meta);
+  font-size: 0.75rem;
+  color: var(--color-copper-brown);
+}
+
+.tb-cover-year {
+  margin-bottom: 28px;
+}
+
+.tb-cover-year h3 {
+  margin-bottom: 12px;
 }

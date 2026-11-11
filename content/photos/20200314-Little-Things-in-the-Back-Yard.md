@@ -6,6 +6,87 @@ location = "Dallas, TX"
 camera = "Sony A7RII, Sony Vario-Tessar T* FE 16-35mm f/4 ZA OSS Lens with Reversing Ring"
 categories = ["photography"]
 images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657315491_34ace8faea_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
+
+[[photos]]
+src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656769313_7618f7234f_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
+
+[[photos]]
+src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656776338_3b85ebd51b_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
+
+[[photos]]
+src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657587682_cfb22d57fa_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
+
+[[photos]]
+src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657593032_7b2a06bb16_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
+
+[[photos]]
+src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657315491_34ace8faea_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
+
+[[photos]]
+src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657586977_77fd8bac0c_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
+
+[[photos]]
+src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656762528_7eda15366d_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
+
+[[photos]]
+src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656764328_10799fb09e_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
+
+[[photos]]
+src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657307016_8cae4a9c6a_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
+
+[[photos]]
+src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657312711_06143cb666_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
+
+[[photos]]
+src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657308181_139f054817_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
+
+[[photos]]
+src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656768638_94904ffbc0_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
+
+[[photos]]
+src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657314931_c0e206ba7b_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
+
+[[photos]]
+src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657591657_85fbea8813_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
+
+[[photos]]
+src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657592332_4439dcc8dc_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
+
+[[photos]]
+src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656768948_c535db98a9_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
+
+[[photos]]
+src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656765273_cc92899493_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
+
+[[photos]]
+src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657305136_0a4c31b802_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
+
+[[photos]]
+src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656776853_5fb30a3f53_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
+
+[[photos]]
+src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657304106_263e6fc689_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
+
+[[photos]]
+src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656764873_4021a06766_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
+
+[[photos]]
+src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657584847_d354dcb157_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
+
+[[photos]]
+src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657583047_fb74ab07e1_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
+
+[[photos]]
+src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657314101_21c56499dc_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
+
+[[photos]]
+src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656763388_a118c43aa6_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
+
+[[photos]]
+src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657313216_f9d1ded2b2_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
+
+[[photos]]
+src = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657308626_767feda9e2_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657315491_34ace8faea_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->
@@ -19,59 +100,4 @@ In the meantime slowing down somewhat and staying home can be a very good thing.
 
 Happy spring, and stay well.
 
-<div id="mygallery">
-		<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656769313_7618f7234f_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-			    <img alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656769313_7618f7234f_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
-		<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656776338_3b85ebd51b_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-			    <img alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656776338_3b85ebd51b_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
-		<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657587682_cfb22d57fa_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-			    <img alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657587682_cfb22d57fa_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
-		<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657593032_7b2a06bb16_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-			    <img alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657593032_7b2a06bb16_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
-		<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657315491_34ace8faea_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-			    <img alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657315491_34ace8faea_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
-		<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657586977_77fd8bac0c_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-			    <img alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657586977_77fd8bac0c_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
-		<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656762528_7eda15366d_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-			    <img alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656762528_7eda15366d_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
-		<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656764328_10799fb09e_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-			    <img alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656764328_10799fb09e_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
-		<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657307016_8cae4a9c6a_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-			    <img alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657307016_8cae4a9c6a_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
-		<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657312711_06143cb666_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-			    <img alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657312711_06143cb666_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
-		<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657308181_139f054817_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-			    <img alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657308181_139f054817_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
-		<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656768638_94904ffbc0_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-			    <img alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656768638_94904ffbc0_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
-		<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657314931_c0e206ba7b_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-			    <img alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657314931_c0e206ba7b_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
-		<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657591657_85fbea8813_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-			    <img alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657591657_85fbea8813_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
-		<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657592332_4439dcc8dc_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-			    <img alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657592332_4439dcc8dc_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
-		<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656768948_c535db98a9_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-			    <img alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656768948_c535db98a9_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
-		<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656765273_cc92899493_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-			    <img alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656765273_cc92899493_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
-		<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657305136_0a4c31b802_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-			    <img alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657305136_0a4c31b802_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
-		<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656776853_5fb30a3f53_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-			    <img alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656776853_5fb30a3f53_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
-		<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657304106_263e6fc689_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-			    <img alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657304106_263e6fc689_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
-		<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656764873_4021a06766_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-			    <img alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656764873_4021a06766_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
-		<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657584847_d354dcb157_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-			    <img alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657584847_d354dcb157_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
-		<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657583047_fb74ab07e1_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-			    <img alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657583047_fb74ab07e1_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
-		<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657314101_21c56499dc_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-			    <img alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657314101_21c56499dc_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
-		<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656763388_a118c43aa6_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-			    <img alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49656763388_a118c43aa6_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
-		<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657313216_f9d1ded2b2_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-			    <img alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657313216_f9d1ded2b2_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
-		<a class="swipebox" href="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657308626_767feda9e2_k.jpg/fit=scale-down,w=1024,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-			    <img alt="" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20200314-Little-Things-in-the-Back-Yard_49657308626_767feda9e2_k.jpg/fit=scale-down,w=365,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"></a>
-</div>
+{{< photos >}}

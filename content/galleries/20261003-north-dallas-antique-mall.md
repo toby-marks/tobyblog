@@ -2,6 +2,7 @@
 title = "North Dallas Antique Mall"
 description = "Easily the most visually interesting antique mall I've found in DFW so far."
 date = "2026-10-03T14:10:56-05:00"
+location = "Dallas, TX"
 categories = ["photography"]
 draft = false
 

@@ -2,6 +2,7 @@
 title = "Return to the Cottonwood Art Festival"
 description = "Augie and I are back at the Richardson Cottonwood Art Festival in May 2026 for surprising fun, good conversations, fairly decent eats, and highbrow art appreciation."
 date = "2026-05-13T10:37:47-05:00"
+location = "Richardson, TX"
 categories = ["photography"]
 draft = false
 

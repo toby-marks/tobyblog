@@ -2,6 +2,7 @@
 title = "Midtown 10 at the 2025 Plano Balloon Fest"
 description = "It's hard to believe it's already been a year since the last one. I couldn't sit on these photos any longer — I'll be back taking another set this weekend."
 date = "2026-09-16T18:23:29-05:00"
+location = "Plano, TX"
 categories = ["photography"]
 draft = false
 

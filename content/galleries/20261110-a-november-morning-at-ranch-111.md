@@ -2,6 +2,7 @@
 title = "A November Morning at Ranch 111"
 description = "I paid another visit to this lonely, storied little park in Garland to see how fall was coming along."
 date = "2026-11-07T13:21:31-06:00"
+location = "Garland, TX"
 categories = ["photography"]
 draft = false
 
