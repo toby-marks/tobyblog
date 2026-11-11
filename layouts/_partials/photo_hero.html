@@ -1,0 +1,46 @@
+{{/*
+Photo hero: the post's cover photograph, full-bleed, with the title and metadata laid
+over it -- the c-heads.com page header. The image drifts slower than the page (see the
+.photo-hero block in custom_javascript.html).
+
+The cover comes from the frontmatter images[0], which every published photo post now
+carries (update_imagedims.py keeps the dimensions, migrate scripts keep the key). A
+post without one falls back to a plain band carrying just the text.
+*/}}
+{{ $cover := "" }}
+{{ with .Params.images }}{{ $cover = index . 0 }}{{ end }}
+
+{{/* Ladder for a full-bleed frame: 100vw at DPR 2 on a desktop display is ~2880px,
+   which Cloudflare caps at the original size, so the top rung is deliberately
+   generous. */}}
+{{ $rungs := slice 780 1200 1800 2400 }}
+{{ $src := $cover }}
+{{ $srcset := "" }}
+{{ if and $cover (findRE "w=[0-9]+" $cover) }}
+  {{ $src = replaceRE "w=[0-9]+" "w=1800" $cover }}
+  {{ $candidates := slice }}
+  {{ range $rungs }}
+    {{ $candidates = $candidates | append (printf "%s %dw" (replaceRE "w=[0-9]+" (printf "w=%d" .) $cover) .) }}
+  {{ end }}
+  {{ $srcset = delimit $candidates ", " }}
+{{ end }}
+
+<section class="photo-hero{{ if not $cover }} photo-hero--plain{{ end }}">
+  {{ with $cover }}
+    <div class="photo-hero__media">
+      <img src="{{ $src }}"
+        {{- with $srcset }} srcset="{{ . }}" sizes="100vw"{{ end }}
+        alt="" loading="eager" fetchpriority="high" decoding="async" />
+    </div>
+  {{ end }}
+
+  <div class="photo-hero__overlay">
+    <h2 class="photo-hero__title">{{ .Title }}</h2>
+
+    <p class="photo-hero__meta">
+      {{ with .Params.location }}Photos taken in {{ . }} on {{ end }}
+      <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate="">{{ .Date.Format "January 2, 2006" }}</time>
+      {{ with .Params.camera }} with {{ . }}{{ end }}
+    </p>
+  </div>
+</section>

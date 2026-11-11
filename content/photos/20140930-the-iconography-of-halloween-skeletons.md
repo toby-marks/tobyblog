@@ -5,6 +5,8 @@ description = "![spooky scary skeleton]("
 location = "a white wine sauce"
 camera = "shallots, garlic, and mushrooms."
 tags = ["halloween"]
+
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140930-the-iconography-of-halloween-skeletons_tumblr_inline_ncqnlhYHgi1rzwpy9.gif/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![spooky scary skeleton](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20140930-the-iconography-of-halloween-skeletons_tumblr_inline_ncqnlhYHgi1rzwpy9.gif/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

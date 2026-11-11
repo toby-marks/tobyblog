@@ -2,18 +2,30 @@
 Override of Hugo's internal Disqus template (a file at
 layouts/_partials/disqus.html takes precedence over _internal/disqus.html).
 Improvements over the stock template:
-  1. Reserves vertical space (min-height) so the late-loading embed doesn't
-     shove the footer down when it renders (CLS).
+  1. Reserves vertical space for the thread (min-height, set in main.css) so the
+     late-loading embed doesn't shove the footer down when it renders (CLS). The
+     reservation is released when the embed is not going to load at all.
   2. Lazy-loads embed.js via IntersectionObserver, so Disqus only loads when
      the thread approaches the viewport instead of on every page load.
 */}}
 {{ with site.Config.Services.Disqus.Shortname }}
-<div id="disqus_thread" style="min-height: 320px"></div>
+<div id="disqus_thread"></div>
 <script>
 (function () {
+  // The thread's box is reserved in CSS (#disqus_thread in main.css) so the
+  // late-loading embed cannot shove the footer down. When the embed is not going to
+  // load at all, let the stylesheet collapse the reservation instead of leaving a
+  // blank block behind.
+  function releaseReservedSpace() {
+    document.documentElement.classList.add("disqus-skipped");
+  }
+
   // Don't inject Disqus on localhost -- it creates unwanted
   // discussions from 'localhost:1313' on the Disqus account.
-  if (window.location.hostname == "localhost") return;
+  if (window.location.hostname == "localhost") {
+    releaseReservedSpace();
+    return;
+  }
 
   {{/* safeJS is required: without it, html/template re-quotes jsonify's
       already-quoted output and the embed URL ends up with literal quotes. */}}
@@ -30,10 +42,7 @@ Improvements over the stock template:
     s.setAttribute("data-timestamp", +new Date());
     // If the embed can't load (network error, ad-blocker), release the
     // reserved space so it doesn't sit as a permanent blank box.
-    s.onerror = function () {
-      var t = document.getElementById("disqus_thread");
-      if (t) t.style.minHeight = "0";
-    };
+    s.onerror = releaseReservedSpace;
     (document.head || document.body).appendChild(s);
   }
 

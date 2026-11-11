@@ -6,6 +6,8 @@ location = "Pasadena, CA"
 title = "Pokémon Go In Pasadena "
 
 tags = ["travel"]
+
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_cloudinary_81c1e520_DB43AC67-39AA-4FD9-9C90-2B861549B6D4.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_cloudinary_81c1e520_DB43AC67-39AA-4FD9-9C90-2B861549B6D4.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

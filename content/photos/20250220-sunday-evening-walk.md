@@ -5,6 +5,8 @@ description = "![250216.12]("
 location = "Dallas, TX"
 camera = "Sony A7RII, Sigma Art 80mm lens"
 categories = ["photography"]
+
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20250220-sunday-evening-walk_54339984486_16da1f608f_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![250216.12](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20250220-sunday-evening-walk_54339984486_16da1f608f_o.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

@@ -4,8 +4,10 @@ description = "![Chisholm tree]("
 title = "Chisholm Trail in Watercolor"
 location = "Dallas, TX"
 camera = "my Sony DSC-RX100"
-image = "https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170819-chisholm-trail-watercolors_36260804100_54d2659690_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"
+
 categories = ["photography"]
+
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170819-chisholm-trail-watercolors_36260804100_54d2659690_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![Chisholm tree](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_20170819-chisholm-trail-watercolors_36260804100_54d2659690_k.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 <!--more-->

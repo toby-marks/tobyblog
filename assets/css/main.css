@@ -462,8 +462,21 @@ article.gallery-post .gallery-description {
 }
 
 /* ====== Justified photo wall (justified-gallery) ====== */
+/* The row height is what decides how many photographs land in a row, so it is set
+   per device class rather than fixed. A 280px row on a 1024px tablet came out as
+   two tiles of 500px -- wider than a desktop's -- while 220px gives the same tablet
+   a three-up wall of ~330px tiles and takes a third off the scrolling. Phones keep
+   280px, which lands one full-bleed tile per row. The module in
+   custom_javascript.html reads this value and re-lays the wall when it changes. */
 .tb-jg {
+  --tb-jg-row-height: 280px;
   margin-top: 14px;
+}
+
+@media (min-width: 640px) and (max-width: 1199px) {
+  .tb-jg {
+    --tb-jg-row-height: 220px;
+  }
 }
 
 /* Cancel the global full-bleed image rule. The library sizes and centres each
@@ -690,22 +703,83 @@ article.photo img:hover {
   transform: scale3d(1.2, 1.2, 1); /* subtle zoom, no rotate */
 }
 
-/* ====== PHOTO POSTS: prose and photographs alternating in one column ====== */
-/* Modelled on the c-heads.com article layout. The prose keeps a comfortable
-   measure; each photograph is 20% wider and centered on it, so the pictures
-   overhang the text on both sides without ever being cropped or gridded. The
-   overhang needs 880px of card to fit, so below that the pictures and the prose
-   simply come out the same width instead of forcing a horizontal scroll. */
-.photo-post {
-  --tb-photo-measure: 700px; /* the text column */
-  --tb-photo-bleed: 0px; /* (1.2 - 1) / 2 * measure: how far pictures overhang */
-  max-width: calc(var(--tb-photo-measure) + 2 * var(--tb-photo-bleed) + 40px);
+/* ====== PHOTO HERO ====== */
+/* The post's cover photograph, full-bleed, with the title and metadata laid over it
+   -- the c-heads.com page header. The image is deliberately taller than its frame so
+   the parallax drift in custom_javascript.html can move it without exposing an edge.
+   A post without a cover falls back to a plain band carrying just the text. */
+.photo-hero {
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  overflow: hidden;
+  height: clamp(320px, 62vh, 680px);
+  background: var(--color-warm-brown);
 }
 
-@media (min-width: 881px) {
-  .photo-post {
-    --tb-photo-bleed: 70px;
-  }
+.photo-hero--plain {
+  height: auto;
+  min-height: 0;
+}
+
+.photo-hero__media {
+  position: absolute;
+  inset: 0;
+}
+
+.photo-hero__media img {
+  position: absolute;
+  left: 0;
+  top: -12%;
+  width: 100%;
+  max-width: none;
+  height: 124%;
+  margin: 0;
+  object-fit: cover;
+  will-change: transform;
+}
+
+/* Scrim, so the title stays legible over any photograph. */
+.photo-hero__overlay {
+  position: relative;
+  width: 100%;
+  max-width: 880px;
+  margin-inline: auto;
+  padding: 48px 20px 28px;
+  background: linear-gradient(
+    to top,
+    rgba(29, 16, 9, 0.9),
+    rgba(29, 16, 9, 0.55) 45%,
+    rgba(29, 16, 9, 0)
+  );
+}
+
+.photo-hero__title {
+  margin: 0;
+  color: #f5e9d5;
+  font-size: clamp(1.9rem, 4.5vw, 3rem);
+  line-height: 1.05;
+  text-shadow: 0 2px 14px rgba(0, 0, 0, 0.65);
+}
+
+.photo-hero__meta {
+  margin: 10px 0 0;
+  font-family: var(--font-meta);
+  font-size: 0.9rem;
+  color: rgba(245, 233, 213, 0.92);
+  text-shadow: 0 1px 8px rgba(0, 0, 0, 0.75);
+}
+
+/* ====== PHOTO POSTS: prose and photographs alternating in one column ====== */
+/* Modelled on the c-heads.com article layout: one column at every screen size,
+   where each photograph is 20% wider than the text measure and centered on it, so
+   the pictures overhang the prose on both sides. Nothing is cropped or gridded.
+   The measure is derived from the available width rather than fixed, so the
+   overhang always fits instead of forcing a horizontal scroll. */
+.photo-post {
+  --tb-photo-ratio: 1.2; /* picture width / prose width */
+  --tb-photo-measure: 700px; /* the prose measure, once there is room for it */
+  max-width: calc(var(--tb-photo-measure) * var(--tb-photo-ratio) + 40px);
 }
 
 /* Prose, headings and metadata hold the measure, centered in the wider card. */
@@ -716,7 +790,7 @@ article.photo img:hover {
 .photo-post > ol,
 .photo-post > blockquote,
 .photo-post > figure {
-  max-width: var(--tb-photo-measure);
+  max-width: min(var(--tb-photo-measure), calc(100% / var(--tb-photo-ratio)));
   margin-inline: auto;
 }
 
@@ -731,15 +805,40 @@ article.photo img:hover {
 /* A photograph on a line of its own (the lead image, say) overhangs the measure
    exactly like the photo stack does, so the two line up. */
 .photo-post p > img:only-child {
-  width: calc(100% + 2 * var(--tb-photo-bleed));
+  width: calc(var(--tb-photo-ratio) * 100%);
   max-width: none;
-  margin-left: calc(-1 * var(--tb-photo-bleed));
+  margin-left: calc((1 - var(--tb-photo-ratio)) / 2 * 100%);
 }
 
-/* Photographs fill the card's content box, which is 120% of the measure. */
+/* Photographs take the card's whole content box, which is 120% of the measure.
+   The top margin balances the prose against the top of the card: the card's 20px
+   padding plus the prose's own 16px margin puts 36px above the opening paragraph,
+   so the photographs start 36px below it rather than 16px. It collapses with the
+   prose's margin, so the gap is 36px, not 52px. */
 .photo-stack {
-  max-width: calc(var(--tb-photo-measure) + 2 * var(--tb-photo-bleed));
+  max-width: 100%;
+  margin-top: 36px;
   margin-inline: auto;
+}
+
+/* On a phone there is no room for the overhang, so the pictures and the prose come
+   out the same width. 767px is the exact breakpoint c-heads.com uses, so an iPad in
+   portrait (768px) still gets the overhang. */
+@media screen and (max-width: 767px) {
+  .photo-post > p,
+  .photo-post > h2,
+  .photo-post > .postmeta,
+  .photo-post > ul,
+  .photo-post > ol,
+  .photo-post > blockquote,
+  .photo-post > figure {
+    max-width: 100%;
+  }
+
+  .photo-post p > img:only-child {
+    width: 100%;
+    margin-left: 0;
+  }
 }
 
 .photo-stack a {
@@ -882,9 +981,15 @@ div#search {
 
 @media screen and (max-width: 780px) {
   /* The menu is a flex row (see .menu > ul), which cannot wrap by default, so a
-     menu wider than the screen used to push the whole page sideways. */
+     menu wider than the screen used to push the whole page sideways. Once it wraps,
+     though, a separator is left dangling at the end of each line, so drop them and
+     let the item padding do the separating. */
   .menu > ul {
     flex-wrap: wrap;
+  }
+
+  .menu > ul li::after {
+    content: none;
   }
 
   nav ul {
@@ -1006,4 +1111,19 @@ div#search {
 
 .tb-cover-year h3 {
   margin-bottom: 12px;
+}
+
+/* ====== COMMENTS (Disqus) ====== */
+/* The thread is loaded lazily, so its box is reserved up front to keep the embed
+   from shoving the footer down when it arrives (see layouts/_partials/disqus.html). */
+#disqus_thread {
+  min-height: 320px;
+}
+
+/* The dev server deliberately never loads Disqus (localhost discussions would land
+   on the real account), so nothing would ever fill that reservation. The partial
+   marks the document in that case and the space collapses instead of sitting empty
+   under every article. */
+html.disqus-skipped #disqus_thread {
+  min-height: 0;
 }

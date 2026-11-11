@@ -8,33 +8,49 @@ update_imagedims.py), because many of the source JPEGs use subsampling that
 Go's decoder cannot read. URLs missing from the registry (e.g. brand-new
 content before the script has run) fall back to a cached resources.GetRemote
 probe; failures render without dimensions, exactly as before.
+
+Hero exclusion: a photo post renders its cover (frontmatter images[0]) as a
+full-bleed hero at the top of the page (layouts/_partials/photo_hero.html), and
+the cover is by construction the same photograph as the post's lead image. The
+hero already shows it, so rendering it here too would show the same picture
+twice. Keep the Section check in step with wherever the hero is used.
 */ -}}
 {{- $src := .Destination -}}
 {{- $alt := .Text | plainify -}}
-{{- $w := 0 -}}
-{{- $h := 0 -}}
-{{- if hasPrefix $src "https://imagedelivery.net/" -}}
-  {{- with index hugo.Data.imagedims $src -}}
-    {{- $w = index . 0 -}}
-    {{- $h = index . 1 -}}
-  {{- else -}}
-    {{- $r := try (resources.GetRemote $src) -}}
-    {{- if $r.Err -}}
-      {{- warnidf $src "render-image: fetch failed for %s: %s" $src $r.Err -}}
+{{- $assetPattern := "^https://imagedelivery\\.net/[^/]+/([^/]+)/.*$" -}}
+{{- $heroAsset := "" -}}
+{{- if eq .Page.Section "photos" -}}
+  {{- with .Page.Params.images -}}
+    {{- $heroAsset = replaceRE $assetPattern "$1" (index . 0) -}}
+  {{- end -}}
+{{- end -}}
+{{- $isHero := and $heroAsset (eq $heroAsset (replaceRE $assetPattern "$1" $src)) -}}
+{{- if not $isHero -}}
+  {{- $w := 0 -}}
+  {{- $h := 0 -}}
+  {{- if hasPrefix $src "https://imagedelivery.net/" -}}
+    {{- with index hugo.Data.imagedims $src -}}
+      {{- $w = index . 0 -}}
+      {{- $h = index . 1 -}}
     {{- else -}}
-      {{- with $r.Value -}}
-        {{- $dims := try (slice .Width .Height) -}}
-        {{- if $dims.Err -}}
-          {{- warnidf $src "render-image: unreadable dimensions for %s (run update_imagedims.py): %s" $src $dims.Err -}}
-        {{- else -}}
-          {{- $w = index $dims.Value 0 -}}
-          {{- $h = index $dims.Value 1 -}}
+      {{- $r := try (resources.GetRemote $src) -}}
+      {{- if $r.Err -}}
+        {{- warnidf $src "render-image: fetch failed for %s: %s" $src $r.Err -}}
+      {{- else -}}
+        {{- with $r.Value -}}
+          {{- $dims := try (slice .Width .Height) -}}
+          {{- if $dims.Err -}}
+            {{- warnidf $src "render-image: unreadable dimensions for %s (run update_imagedims.py): %s" $src $dims.Err -}}
+          {{- else -}}
+            {{- $w = index $dims.Value 0 -}}
+            {{- $h = index $dims.Value 1 -}}
+          {{- end -}}
         {{- end -}}
       {{- end -}}
     {{- end -}}
   {{- end -}}
-{{- end -}}
 <img src="{{ $src | safeURL }}" alt="{{ $alt }}"
   {{- with .Title }} title="{{ . }}"{{ end -}}
   {{- if gt $w 0 }} width="{{ $w }}" height="{{ $h }}"{{ end }}
   loading="lazy" decoding="async" />
+{{- end -}}

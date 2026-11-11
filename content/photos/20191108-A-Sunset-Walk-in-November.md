@@ -6,7 +6,7 @@ location = "Dallas, TX"
 title = "A Sunset Walk in November"
 categories = ["photography"]
 tags = ["halloween"]
-images = [""]
+
 draft = "true"
 +++
 ![](/images/20191108-A-Sunset-Walk-in-November/49034887928_3bf5172108_o.jpg)

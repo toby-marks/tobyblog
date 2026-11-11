@@ -5,7 +5,7 @@ description = ""
 location = "Dallas, TX"
 camera = "Nikon Coolpix P1000"
 categories = ["photography"]
-images = ["/images/20190619-p1000-at-the-library"]
+
 draft = "true"
 +++
 ![](/images/20190619-p1000-at-the-library/48088771232_f126384254_k.jpg)

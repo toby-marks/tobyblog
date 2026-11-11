@@ -6,6 +6,8 @@ location = "Dallas, TX"
 camera = "my trusty Sony DSC-RX100"
 categories = ["photography"]
 tags = ["halloween","conventions"]
+
+images = ["https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_46aa9915_DSC04341.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3"]
 +++
 ![](https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/tobyblog_images_remote_blogspot_46aa9915_DSC04341.jpg/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3)
 

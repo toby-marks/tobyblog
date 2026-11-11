@@ -14,7 +14,6 @@
         {{ with .Site.Params.Author.aboutpage }}<li><a href="{{ . }}">About</a></li>{{ end }}
       </ul>
     </div>
-    <a href="{{.Site.BaseURL}}">
-      <img id="tb_banner" alt="Welcome to Tobyblog" width="780" height="395" fetchpriority="high" src="https://imagedelivery.net/zJmFZzaNuqC_Q5Caqyu8nQ/78a8420b-bb80-4891-97e4-e8c407bdc200/fit=scale-down,w=780,sharpen=1,f=auto,q=0.9,slow-connection-quality=0.3">
-    </a>
+    {{/* No site banner here: a photo post carries its own full-bleed hero below this
+       menu, and stacking the two reads as two headers. */}}
   </nav>

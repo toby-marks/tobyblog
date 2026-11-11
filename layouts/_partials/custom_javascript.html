@@ -69,44 +69,83 @@
     });
   }
 
+  // How many photographs land in a row is decided by the row height, which the
+  // stylesheet sets per device class (--tb-jg-row-height on .tb-jg).
+  function wallRowHeight(el) {
+    var px = parseInt(getComputedStyle(el).getPropertyValue("--tb-jg-row-height"), 10);
+    return Number.isFinite(px) ? px : 280;
+  }
+
   // Gallery pages: a justified photo wall. Every tile carries width/height from
   // data/imagedims.json, so the wall lays out immediately instead of waiting for
   // thumbnails, which is what keeps loading="lazy" useful on a 60-photo gallery.
   document.querySelectorAll(".tb-jg").forEach(function (el) {
-    var gallery = new JustifiedGallery(el, {
-      rowHeight: 280,
-      margins: 8,
-      lastRow: "nojustify",
-      captions: false,
-      waitThumbnailsLoad: false,
-      sizeRangeSuffixes: NO_SUFFIXES,
-      triggerEvent: function (name) {
-        var event = String(name);
-        if (event !== "jg.complete" && event !== "jg.resize") return;
+    var gallery = null;
+    var activeRowHeight = null;
 
-        // Each tile now has a measured width, so replace the build-time `sizes`
-        // estimate with the real one. Images that have not loaded yet pick their
-        // rung from this; ones already in flight are unaffected.
-        el.querySelectorAll("a").forEach(function (tile) {
-          var img = tile.querySelector("img");
-          var width = tile.dataset.jgJwidth;
-          if (img && width) img.setAttribute("sizes", width + "px");
-        });
+    function build() {
+      if (gallery) gallery.destroy();
 
-        if (event === "jg.complete") {
-          el.dataset.tbJgReady = "1";
-          startReveal(el);
-        }
-      },
-    });
+      // Replay the reveal from scratch, so a rebuild can never leave a tile sitting
+      // in its pre-reveal offset.
+      delete el.dataset.tbJgReveal;
+      el.classList.remove("tb-jg-reveal");
+      el.querySelectorAll("a").forEach(function (tile) {
+        tile.classList.remove("tb-jg-in");
+      });
 
-    gallery.init();
+      activeRowHeight = wallRowHeight(el);
+      gallery = new JustifiedGallery(el, {
+        rowHeight: activeRowHeight,
+        margins: 8,
+        lastRow: "nojustify",
+        captions: false,
+        waitThumbnailsLoad: false,
+        sizeRangeSuffixes: NO_SUFFIXES,
+        triggerEvent: function (name) {
+          var event = String(name);
+          if (event !== "jg.complete" && event !== "jg.resize") return;
+
+          // Each tile now has a measured width, so replace the build-time `sizes`
+          // estimate with the real one. Images that have not loaded yet pick their
+          // rung from this; ones already in flight are unaffected.
+          el.querySelectorAll("a").forEach(function (tile) {
+            var img = tile.querySelector("img");
+            var width = tile.dataset.jgJwidth;
+            if (img && width) img.setAttribute("sizes", width + "px");
+          });
+
+          if (event === "jg.complete") {
+            el.dataset.tbJgReady = "1";
+            startReveal(el);
+          }
+        },
+      });
+
+      gallery.init();
+    }
+
+    build();
 
     // The failsafe below only needs to know whether this module ever ran, so mark
     // that as soon as init() has returned. Clear its class in case it fired while
     // this module was still downloading.
     el.dataset.tbJgStarted = "1";
     el.classList.remove("tb-jg-fallback");
+
+    // The library re-lays out on width changes but keeps the settings it was built
+    // with, so a row height that differs per breakpoint needs a fresh instance.
+    var resizeTimer = null;
+    window.addEventListener(
+      "resize",
+      function () {
+        window.clearTimeout(resizeTimer);
+        resizeTimer = window.setTimeout(function () {
+          if (wallRowHeight(el) !== activeRowHeight) build();
+        }, 250);
+      },
+      { passive: true },
+    );
 
     bindLightbox(el);
   });
@@ -115,6 +154,45 @@
   // compute here -- only the lightbox to bind. This is the last consumer of the
   // old #mygallery markup, which the gallery shortcode has replaced.
   document.querySelectorAll(".photo-stack").forEach(bindLightbox);
+
+  // Photo hero: drift the cover photograph slower than the page, the way
+  // c-heads.com does. The image is 24% taller than its frame (see .photo-hero in
+  // main.css), so it can move by +/-12% of the frame height without exposing an
+  // edge. Skipped when the reader prefers reduced motion.
+  document.querySelectorAll(".photo-hero").forEach(function (hero) {
+    var img = hero.querySelector(".photo-hero__media img");
+    if (!img) return;
+    if (window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+
+    var range = 0;
+    var queued = false;
+
+    function draw() {
+      queued = false;
+      var box = hero.getBoundingClientRect();
+      var span = window.innerHeight + box.height;
+      if (span <= 0) return;
+      // 0 as the hero enters the viewport, 1 as it leaves the top of it.
+      var progress = (window.innerHeight - box.top) / span;
+      progress = progress < 0 ? 0 : progress > 1 ? 1 : progress;
+      img.style.transform = "translate3d(0, " + ((progress - 0.5) * 2 * range).toFixed(2) + "px, 0)";
+    }
+
+    function queue() {
+      if (queued) return;
+      queued = true;
+      window.requestAnimationFrame(draw);
+    }
+
+    function measure() {
+      range = hero.offsetHeight * 0.12;
+      queue();
+    }
+
+    measure();
+    window.addEventListener("scroll", queue, { passive: true });
+    window.addEventListener("resize", measure, { passive: true });
+  });
 </script>
 
 <script language="javascript">

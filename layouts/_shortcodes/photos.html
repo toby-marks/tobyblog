@@ -34,10 +34,19 @@ single URL per photograph is enough.
      DPR 3 phone. Keep in sync with .photo-post in assets/css/main.css. */}}
   {{ $rungs := slice 480 840 1200 1680 }}
 
+  {{/* The cover is already the hero at the top of the page, so it is left out of the
+     stack rather than shown a second time. The same test is applied to Markdown
+     images in layouts/_default/_markup/render-image.html. */}}
+  {{ $assetPattern := "^https://imagedelivery\\.net/[^/]+/([^/]+)/.*$" }}
+  {{ $heroAsset := "" }}
+  {{ with .Page.Params.images }}
+    {{ $heroAsset = replaceRE $assetPattern "$1" (index . 0) }}
+  {{ end }}
+
   <div class="photo-stack">
     {{ range $i, $e := $items }}
       {{ $src := or $e.src $e.url }}
-      {{ if $src }}
+      {{ if and $src (ne (replaceRE $assetPattern "$1" $src) $heroAsset) }}
         {{ $caption := or $e.caption "" }}
         {{ $alt := or $e.alt $caption "" }}
 
