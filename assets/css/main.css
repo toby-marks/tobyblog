@@ -778,12 +778,6 @@ article.photo img:hover {
    the pictures overhang the prose on both sides. Nothing is cropped or gridded.
    The measure is derived from the available width rather than fixed, so the
    overhang always fits instead of forcing a horizontal scroll. */
-/* The hero above runs straight into this card: its scrim ends on the card's own
-   colour, so any gap between them reads as a stray stripe of page background. */
-article.photo-post {
-  margin-top: 0;
-}
-
 .photo-post {
   --tb-photo-ratio: 1.2; /* picture width / prose width */
   --tb-photo-measure: 700px; /* the prose measure, once there is room for it */
