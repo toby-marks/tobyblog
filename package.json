@@ -19,13 +19,13 @@
   "dependencies": {
     "@tailwindcss/cli": "^4.3.5",
     "@thulite/seo": "^2.4.4",
-    "prettier": "^3.9.10",
+    "prettier": "^3.10.1",
     "prettier-plugin-tailwindcss": "^0.8.1",
     "tailwindcss": "^4.3.5",
     "thulite": "^3.0.3"
   },
   "devDependencies": {
-    "prettier": "^3.9.10",
+    "prettier": "^3.10.1",
     "vite": "^8.3.6"
   },
   "engines": {
